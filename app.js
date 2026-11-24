@@ -95,14 +95,14 @@ async function playYT(x,t0){P.mode="yt";ytT0=t0;aud.pause();aud.removeAttribute(
  const id=x.id,ok=await loadYT();if(P.cur!==id||P.mode!=="yt")return;
  if(!ok||!window.YT||!YT.Player){P.playing=false;ui();toast("הנגן של YouTube לא נטען. בדקו את החיבור לאינטרנט.");return}
  if(!YTP){YTP=new YT.Player("yFrame",{host:"https://www.youtube-nocookie.com",width:"100%",height:"100%",videoId:x.v,
-   playerVars:{start:Math.floor(t0),playsinline:1,rel:0,autoplay:1},
+   playerVars:{start:Math.floor(t0),playsinline:1,rel:0,autoplay:1,origin:location.origin,widget_referrer:location.href},
    events:{onReady:e=>{try{e.target.setPlaybackRate(P.rate)}catch(_){}if(P.playing&&P.mode==="yt")e.target.playVideo()},onStateChange:ytState,onError:ytErr}})}
  else{YTP.loadVideoById({videoId:x.v,startSeconds:Math.floor(t0)});try{YTP.setPlaybackRate(P.rate)}catch(e){}}
  clearInterval(ytTimer);ytTimer=setInterval(()=>{const c=curX();if(c&&P.mode==="yt"&&ytOk()){const t=YTP.getCurrentTime();if(t>0)P.pos[K(c)]=t;tick()}},1000);
  setTimeout(()=>{if(P.cur===id&&P.mode==="yt"&&P.playing&&ytOk()&&![1,3].includes(YTP.getPlayerState())){P.playing=false;ui();toast("הדפדפן חסם הפעלה אוטומטית. הקישו על ▶ בחלון הווידאו.")}},4000)}
 function ytState(e){if(P.mode!=="yt")return;const s=e.data;if(s===0){ended();return}
  if(s===1&&!P.playing){P.playing=true;ui()}else if(s===2&&P.playing){P.playing=false;ui()}}
-function ytErr(){const x=curX();toast("הסרטון הזה לא זמין לצפייה באתר. ממשיכים לשיעור הבא.");setTimeout(()=>{if(curX()===x)step(1)},2500)}
+function ytErr(e){const x=curX();document.body.dataset.yterr=e&&e.data;toast(`הסרטון הזה לא זמין לצפייה באתר (קוד ${e&&e.data}). ממשיכים לשיעור הבא.`);setTimeout(()=>{if(curX()===x)step(1)},2500)}
 function toggle(){if(P.cur==null){if(P.q.length)play(P.q[0],{fromQueue:true});return}
  P.playing=!P.playing;
  if(P.mode==="yt"){if(ytOk())P.playing?YTP.playVideo():YTP.pauseVideo()}else{P.playing?aud.play().catch(()=>{}):aud.pause()}
