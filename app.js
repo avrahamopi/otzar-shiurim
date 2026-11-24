@@ -14,7 +14,7 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",
 const hesder=y=>"https://hesder.org.il/institute/"+encodeURIComponent(y.h);
 const ytUrl=r=>r.startsWith("UC")?`https://www.youtube.com/channel/${r}`:`https://www.youtube.com/${r}`;
 const short=n=>n.replace(/\s*–.*$/,"");
-const st={q:"",topic:"",ys:[],rg:[],r:"",len:[],sort:"new"};
+const st={q:"",topic:"",ys:[],rg:[],r:"",len:[],ao:false,sort:"new"};
 try{Object.assign(st,JSON.parse(localStorage.getItem("osh-f2")||"{}"))}catch(e){}
 const save=()=>{try{localStorage.setItem("osh-f2",JSON.stringify(st))}catch(e){}};
 const heb=dt=>{try{return new Intl.DateTimeFormat("he-u-ca-hebrew",{day:"numeric",month:"long"}).format(new Date(dt))}catch(e){return dt}};
@@ -29,6 +29,7 @@ const match=(x,skip)=>{
  if(skip!=="y"&&st.ys.length&&!st.ys.includes(x.y))return false;
  if(skip!=="r"&&st.r&&x.r!==st.r)return false;
  if(skip!=="len"&&st.len.length&&!L.some(l=>st.len.includes(l[0])&&x.d&&l[2](x.d)))return false;
+ if(skip!=="ao"&&st.ao&&!x.a)return false;
  return true};
 const cnt=(skip,f)=>S.filter(x=>match(x,skip)&&f(x)).length;
 const box=(name,val,label,n,on,dot)=>`<label class="opt"><input type="checkbox" name="${name}" value="${esc(val)}" ${on?"checked":""}>${dot?`<span class="dot" style="background:${dot}"></span>`:""}<span>${esc(label)}</span><span class="n">${n}</span></label>`;
@@ -48,48 +49,71 @@ function renderFilters(){
  if(st.r&&!rs.includes(st.r))rs.unshift(st.r);
  $("fr").innerHTML=`<option value="">כל הרבנים</option>`+rs.map(r=>`<option ${r===st.r?"selected":""}>${esc(r)}</option>`).join("");
  $("fl").innerHTML=L.map(l=>box("len",l[0],l[1],cnt("len",x=>x.d&&l[2](x.d)),st.len.includes(l[0]))).join("");
+ $("fa").innerHTML=`<label class="opt"><input type="checkbox" name="ao" ${st.ao?"checked":""}><span>רק שיעורים עם קובץ שמע</span><span class="n">${cnt("ao",x=>x.a)}</span></label><p class="hint">מתנגנים גם כשהמסך כבוי, מתאים לנסיעה.</p>`;
  $("sort").value=st.sort;}
 
-/* ---------- audio player ----------
-   Real playback through <audio> when a shiur has an audio file (x.a).
-   Where the page may not load remote media (this preview) or no file exists yet,
-   a simulated clock runs instead, so the whole flow can still be tried. */
+/* ---------- player ----------
+   A shiur with an audio file (x.a) plays through <audio>, also in the background.
+   A shiur that exists only on YouTube plays in a small, visible YouTube player docked
+   above the bar (YouTube's terms don't allow taking the sound alone), driven by the
+   same buttons, queue, speed and car controls. No fake clock: if nothing can play,
+   the listener is told and the queue moves on. */
 const aud=$("aud");
-const P={q:[],cur:null,playing:false,rate:1,sim:{t:0,timer:null},pos:{}};
+const P={q:[],cur:null,playing:false,rate:1,mode:null,pos:{}};
 try{Object.assign(P.pos,JSON.parse(localStorage.getItem("osh-pos")||"{}"));const k=JSON.parse(localStorage.getItem("osh-q")||"null");if(k){P.q=(k.q||[]).filter(i=>S[i]);P.rate=k.rate||1}}catch(e){}
 const RATES=[1,1.25,1.5,1.75,2,0.75];
 const fmt=t=>{t=Math.max(0,Math.floor(t||0));const h=Math.floor(t/3600),m=Math.floor(t%3600/60),s2=String(t%60).padStart(2,"0");return h?`${h}:${String(m).padStart(2,"0")}:${s2}`:`${m}:${s2}`};
 const K=x=>x.v||x.a;
 const curX=()=>P.cur==null?null:S[P.cur];
-const useSim=()=>{const x=curX();return !x||!x.a||P.simForced};
-const durOf=x=>{if(!x)return 0;if(x.id===P.cur&&!useSim()&&isFinite(aud.duration)&&aud.duration>0)return aud.duration;return (x.d||45)*60};
+let YTP=null,ytReady=null,ytTimer=null,ytT0=0;
+const ytOk=()=>YTP&&typeof YTP.getCurrentTime==="function";
+const durOf=x=>{if(!x)return 0;if(x.id===P.cur){if(P.mode==="a"&&isFinite(aud.duration)&&aud.duration>0)return aud.duration;if(P.mode==="yt"&&ytOk()){const d=YTP.getDuration();if(d>0)return d}}return (x.d||45)*60};
 const resumeLabel=x=>{const t=P.pos[K(x)];return t&&t>30&&t<durOf(x)-30?`<span class="res nw">ממשיכים מ-${fmt(t)}</span>`:""};
 const persist=()=>{try{localStorage.setItem("osh-pos",JSON.stringify(P.pos));localStorage.setItem("osh-q",JSON.stringify({q:P.q,rate:P.rate}))}catch(e){}};
-const now=()=>useSim()?P.sim.t:aud.currentTime;
-function setT(t){const x=curX();if(!x)return;t=Math.max(0,Math.min(durOf(x)-1,t));if(useSim())P.sim.t=t;else aud.currentTime=t;P.pos[K(x)]=t;tick()}
-function startSim(){clearInterval(P.sim.timer);P.sim.timer=setInterval(()=>{P.sim.t+=P.rate;const x=curX();if(x&&P.sim.t>=durOf(x)){ended();return}if(x)P.pos[K(x)]=P.sim.t;tick()},1000)}
+const now=()=>P.mode==="yt"?(ytOk()?YTP.getCurrentTime():ytT0):aud.currentTime;
+function setT(t){const x=curX();if(!x)return;t=Math.max(0,Math.min(durOf(x)-1,t));if(P.mode==="yt"){if(ytOk())YTP.seekTo(t,true)}else aud.currentTime=t;P.pos[K(x)]=t;tick()}
+let toastT;function toast(m){const el=$("toast");el.textContent=m;el.hidden=false;clearTimeout(toastT);toastT=setTimeout(()=>el.hidden=true,5000)}
+function loadYT(){if(ytReady)return ytReady;ytReady=new Promise(res=>{window.onYouTubeIframeAPIReady=()=>res(true);const sc=document.createElement("script");sc.src="https://www.youtube.com/iframe_api";sc.onerror=()=>{ytReady=null;res(false)};document.head.appendChild(sc)});return ytReady}
+function showDock(x){$("yDockT").textContent=x.t;$("yDock").hidden=false;document.body.classList.add("hasdock")}
+function hideDock(){$("yDock").hidden=true;document.body.classList.remove("hasdock");try{ytOk()&&YTP.stopVideo()}catch(e){}clearInterval(ytTimer)}
+function stopAll(){aud.pause();try{ytOk()&&YTP.pauseVideo()}catch(e){}clearInterval(ytTimer)}
 function play(id,{fromQueue}={}){
  const x=S[id];if(!x)return;
  if(P.cur===id){toggle();return}
  if(!fromQueue&&!P.q.includes(id))P.q.unshift(id);
- clearInterval(P.sim.timer);
- P.cur=id;P.simForced=false;P.sim.t=P.pos[K(x)]||0;P.playing=true;
- if(x.a){aud.src=x.a;aud.playbackRate=P.rate;try{aud.currentTime=P.sim.t}catch(e){}
-  aud.play().then(()=>{P.playing=true;ui()}).catch(()=>{P.simForced=true;if(P.cur===id&&P.playing)startSim();ui()})}
- else{aud.removeAttribute("src");startSim()}
+ stopAll();P.cur=id;P.playing=true;const t0=P.pos[K(x)]||0;
+ if(x.a)playAudio(x,t0);else playYT(x,t0);
  meta();ui();persist();
  $("pbar").classList.add("on");document.body.style.paddingBottom="100px";}
+function playAudio(x,t0){P.mode="a";hideDock();aud.src=x.a;aud.playbackRate=P.rate;
+ if(t0)aud.addEventListener("loadedmetadata",()=>{try{aud.currentTime=t0}catch(e){}},{once:true});
+ aud.play().catch(e=>{if(P.cur!==x.id||P.mode!=="a")return;if(e&&e.name==="NotAllowedError"){P.playing=false;ui()}})}
+aud.addEventListener("error",()=>{const x=curX();if(!x||P.mode!=="a"||!aud.getAttribute("src"))return;
+ if(x.v){toast("קובץ השמע לא נטען, עוברים לנגן של YouTube.");playYT(x,P.pos[K(x)]||0)}
+ else{P.playing=false;ui();toast("קובץ השמע של השיעור הזה לא זמין כרגע. ממשיכים לשיעור הבא.");setTimeout(()=>{if(curX()===x)step(1)},2500)}});
+async function playYT(x,t0){P.mode="yt";ytT0=t0;aud.pause();aud.removeAttribute("src");showDock(x);
+ const id=x.id,ok=await loadYT();if(P.cur!==id||P.mode!=="yt")return;
+ if(!ok||!window.YT||!YT.Player){P.playing=false;ui();toast("הנגן של YouTube לא נטען. בדקו את החיבור לאינטרנט.");return}
+ if(!YTP){YTP=new YT.Player("yFrame",{host:"https://www.youtube-nocookie.com",width:"100%",height:"100%",videoId:x.v,
+   playerVars:{start:Math.floor(t0),playsinline:1,rel:0,autoplay:1},
+   events:{onReady:e=>{try{e.target.setPlaybackRate(P.rate)}catch(_){}if(P.playing&&P.mode==="yt")e.target.playVideo()},onStateChange:ytState,onError:ytErr}})}
+ else{YTP.loadVideoById({videoId:x.v,startSeconds:Math.floor(t0)});try{YTP.setPlaybackRate(P.rate)}catch(e){}}
+ clearInterval(ytTimer);ytTimer=setInterval(()=>{const c=curX();if(c&&P.mode==="yt"&&ytOk()){const t=YTP.getCurrentTime();if(t>0)P.pos[K(c)]=t;tick()}},1000);
+ setTimeout(()=>{if(P.cur===id&&P.mode==="yt"&&P.playing&&ytOk()&&![1,3].includes(YTP.getPlayerState())){P.playing=false;ui();toast("הדפדפן חסם הפעלה אוטומטית. הקישו על ▶ בחלון הווידאו.")}},4000)}
+function ytState(e){if(P.mode!=="yt")return;const s=e.data;if(s===0){ended();return}
+ if(s===1&&!P.playing){P.playing=true;ui()}else if(s===2&&P.playing){P.playing=false;ui()}}
+function ytErr(){const x=curX();toast("הסרטון הזה לא זמין לצפייה באתר. ממשיכים לשיעור הבא.");setTimeout(()=>{if(curX()===x)step(1)},2500)}
 function toggle(){if(P.cur==null){if(P.q.length)play(P.q[0],{fromQueue:true});return}
  P.playing=!P.playing;
- if(useSim()){if(P.playing)startSim();else clearInterval(P.sim.timer)}else{P.playing?aud.play():aud.pause()}
+ if(P.mode==="yt"){if(ytOk())P.playing?YTP.playVideo():YTP.pauseVideo()}else{P.playing?aud.play().catch(()=>{}):aud.pause()}
  ui();persist()}
 function step(d){if(P.cur==null)return;let i=P.q.indexOf(P.cur);if(i<0){P.q.unshift(P.cur);i=0}
  if(d<0&&now()>10){setT(0);return}
- const n=P.q[i+d];if(n==null){if(d>0){P.playing=false;clearInterval(P.sim.timer);aud.pause();ui()}return}
+ const n=P.q[i+d];if(n==null){if(d>0){P.playing=false;stopAll();ui()}return}
  P.cur=null;play(n,{fromQueue:true})}
-function ended(){const x=curX();if(x)delete P.pos[K(x)];clearInterval(P.sim.timer);step(1)}
+function ended(){const x=curX();if(x)delete P.pos[K(x)];step(1)}
 aud.addEventListener("ended",ended);
-aud.addEventListener("timeupdate",()=>{const x=curX();if(x&&!useSim())P.pos[K(x)]=aud.currentTime;tick()});
+aud.addEventListener("timeupdate",()=>{const x=curX();if(x&&P.mode==="a")P.pos[K(x)]=aud.currentTime;tick()});
 function meta(){const x=curX();if(!x||!("mediaSession" in navigator))return;
  try{navigator.mediaSession.metadata=new MediaMetadata({title:x.t,artist:x.r,album:"ישיבת "+short(Y[x.y].n)});
   const ms=navigator.mediaSession,h=(a,f)=>{try{ms.setActionHandler(a,f)}catch(e){}};
@@ -110,7 +134,7 @@ function ui(){const x=curX();
  $("dPlay").innerHTML=ico+`<span>${lbl}</span>`;$("dPlay").setAttribute("aria-label",lbl);
  $("pSpeed").textContent=P.rate+"×";$("dSpeed").textContent=`מהירות ${P.rate}×`;
  $("qN").textContent=P.q.length;
- if(x){$("pT").textContent=x.t;$("pS").textContent=`${x.r}, ישיבת ${short(Y[x.y].n)}${useSim()?" (הדגמה)":""}`;
+ if(x){$("pT").textContent=x.t;$("pS").textContent=`${x.r}, ישיבת ${short(Y[x.y].n)}${P.mode==="yt"?", בווידאו":""}`;
   $("dT").textContent=x.t;$("dS").textContent=`${x.r}, ${short(Y[x.y].n)}`;}
  try{navigator.mediaSession&&(navigator.mediaSession.playbackState=P.playing?"playing":"paused")}catch(e){}
  tick();renderQueue();
@@ -120,12 +144,13 @@ function ui(){const x=curX();
  document.querySelectorAll("#list [data-q]").forEach(b=>{const on=P.q.includes(+b.dataset.q);b.setAttribute("aria-pressed",on);b.innerHTML=on?QON:QADD;b.setAttribute("aria-label",on?"הסרה מהתור":"הוספה לתור")});
  renderOnair();}
 function renderQueue(){$("qList").innerHTML=P.q.length?P.q.map(id=>{const x=S[id];return `<li class="${id===P.cur?"cur":""}"><div><b>${esc(x.t)}</b><div class="count">${esc(x.r)}${x.d?`, ${x.d} דק'`:""}</div></div><button class="ghost" data-qp="${id}" aria-label="השמעה">${id===P.cur&&P.playing?PAUSE:PLAY}</button><button class="ghost" data-qr="${id}" aria-label="הסרה מהתור">✕</button></li>`}).join(""):`<li><div>התור ריק. הוסיפו שיעור לתור, או לחצו "השמעת הכל".</div></li>`}
+$("yClose").addEventListener("click",()=>{P.playing=false;hideDock();ui()});
 $("pPlay").addEventListener("click",toggle);$("dPlay").addEventListener("click",toggle);
 $("pBack").addEventListener("click",()=>setT(now()-15));$("dBack").addEventListener("click",()=>setT(now()-15));
 $("pFwd").addEventListener("click",()=>setT(now()+30));$("dFwd").addEventListener("click",()=>setT(now()+30));
 $("pPrev").addEventListener("click",()=>step(-1));$("dPrev").addEventListener("click",()=>step(-1));
 $("pNext").addEventListener("click",()=>step(1));$("dNext").addEventListener("click",()=>step(1));$("dQueueNext").addEventListener("click",()=>step(1));
-const speed=()=>{P.rate=RATES[(RATES.indexOf(P.rate)+1)%RATES.length];aud.playbackRate=P.rate;ui();persist()};
+const speed=()=>{P.rate=RATES[(RATES.indexOf(P.rate)+1)%RATES.length];aud.playbackRate=P.rate;try{P.mode==="yt"&&ytOk()&&YTP.setPlaybackRate(P.rate)}catch(e){}ui();persist()};
 $("pSpeed").addEventListener("click",speed);$("dSpeed").addEventListener("click",speed);
 $("pSeek").addEventListener("input",e=>{const x=curX();if(x)setT(e.target.value/1000*durOf(x))});
 $("pQueue").addEventListener("click",()=>{$("qSheet").hidden=!$("qSheet").hidden;if(!$("qSheet").hidden)$("qClose").focus()});
@@ -143,7 +168,7 @@ async function drive(on){$("drive").hidden=!on;document.body.style.overflow=on?"
 $("pDrive").addEventListener("click",()=>drive(true));$("dExit").addEventListener("click",()=>drive(false));
 
 /* video: YouTube embed in a modal; pauses the audio and starts where you stopped */
-function openVideo(id){const x=S[id];if(P.playing)toggle();
+function openVideo(id){const x=S[id];if(P.playing)toggle();hideDock();
  $("vFrame").innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${x.v}?autoplay=1&start=${Math.floor(P.pos[K(x)]||0)}" title="${esc(x.t)}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
  $("vT").textContent=x.t;$("vYt").href=`https://www.youtube.com/watch?v=${x.v}`;$("vModal").hidden=false;$("vClose").focus()}
 function closeVideo(){$("vModal").hidden=true;$("vFrame").innerHTML=""}
@@ -188,7 +213,7 @@ function renderList(){
  $("list").innerHTML=r.length?r.slice(0,shown).map(x=>{const y=Y[x.y],on=P.cur===x.id,inq=P.q.includes(x.id);return `<li class="shiur${on?" on":""}" data-id="${x.id}">
   <button class="pbig" data-play="${x.id}" aria-pressed="${on}" aria-label="${on&&P.playing?"השהיה":"האזנה"}: ${esc(x.t)}">${on&&P.playing?PAUSE:PLAY}</button>
   <div><h3>${esc(x.t)}</h3>
-   <div class="meta"><b>${esc(x.r)}</b><span>ישיבת ${esc(short(y.n))}</span><span class="tag">${esc(x.c)}</span><span class="nw">${esc(when(x))}</span>${resumeLabel(x)}</div></div>
+   <div class="meta"><b>${esc(x.r)}</b><span>ישיבת ${esc(short(y.n))}</span><span class="tag">${esc(x.c)}</span><span class="kind ${x.a?"ka":"kv"}">${x.a?"שמע":"וידאו בלבד"}</span><span class="nw">${esc(when(x))}</span>${resumeLabel(x)}</div></div>
   <div class="side">${x.d?`<span class="dur">${x.d}<small>דקות</small></span>`:""}
    <button class="ico" data-q="${x.id}" aria-pressed="${inq}" aria-label="${inq?"הסרה מהתור":"הוספה לתור"}">${inq?QON:QADD}</button>
    ${x.v?`<button class="ico" data-video="${x.id}" aria-label="צפייה בווידאו: ${esc(x.t)}">${VID}</button>`:""}</div></li>`}).join("")
@@ -201,23 +226,25 @@ function renderList(){
  st.ys.forEach(k=>PL.push(["ys",k,short(Y[k].n)]));
  if(st.r)PL.push(["r","",st.r]);
  st.len.forEach(k=>PL.push(["len",k,L.find(l=>l[0]===k)[1]]));
+ if(st.ao)PL.push(["ao","","רק שמע"]);
  $("pills").innerHTML=PL.map(p=>`<button class="pill" data-k="${p[0]}" data-v="${esc(p[1])}" aria-label="הסרת הסינון ${esc(p[2])}">${esc(p[2])}<span aria-hidden="true">×</span></button>`).join("")+(PL.length>1?`<button class="link" data-clear>ניקוי הכל</button>`:"");
  const n=st.ys.length+st.rg.length+st.len.length+(st.r?1:0);
  $("fcount").textContent=n?`(${n})`:"";}
 const all=()=>{shown=25;renderFilters();renderList();save()};
-function clearAll(){Object.assign(st,{q:"",topic:"",ys:[],rg:[],r:"",len:[]});$("q").value="";all()}
+function clearAll(){Object.assign(st,{q:"",topic:"",ys:[],rg:[],r:"",len:[],ao:false});$("q").value="";all()}
 $("q").value=st.q;
 let qt;$("q").addEventListener("input",e=>{clearTimeout(qt);qt=setTimeout(()=>{st.q=e.target.value.trim();all()},150)});
 $("sform").addEventListener("submit",e=>{e.preventDefault();$("results").scrollIntoView({behavior:"smooth"});$("results").focus({preventScroll:true})});
 $("chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;st.topic=b.dataset.t;all()});
 $("filters").addEventListener("change",e=>{const t=e.target;
  if(t.id==="fr")st.r=t.value;
+ else if(t.name==="ao")st.ao=t.checked;
  else{const k={y:"ys",rg:"rg",len:"len"}[t.name];if(!k)return;st[k]=t.checked?[...st[k],t.value]:st[k].filter(v=>v!==t.value)}
  all();const el=t.id==="fr"?$("fr"):document.querySelector(`#filters input[name="${t.name}"][value="${CSS.escape(t.value)}"]`);el&&el.focus()});
 $("sort").addEventListener("change",e=>{st.sort=e.target.value;renderList();save()});
 $("pills").addEventListener("click",e=>{const b=e.target.closest("[data-k],[data-clear]");if(!b)return;
  if(b.dataset.clear!==undefined)return clearAll();
- const k=b.dataset.k,v=b.dataset.v;if(Array.isArray(st[k]))st[k]=st[k].filter(x=>x!==v);else st[k]="";
+ const k=b.dataset.k,v=b.dataset.v;if(Array.isArray(st[k]))st[k]=st[k].filter(x=>x!==v);else if(k==="ao")st.ao=false;else st[k]="";
  if(k==="q")$("q").value="";all()});
 $("list").addEventListener("click",e=>{if(e.target.closest("[data-clear]"))return clearAll();if(e.target.closest("[data-more]")){shown+=25;renderList();return}
  const p=e.target.closest("[data-play]"),q=e.target.closest("[data-q]"),v=e.target.closest("[data-video]");

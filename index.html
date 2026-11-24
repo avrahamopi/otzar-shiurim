@@ -273,6 +273,22 @@ aside.filters.open{transform:none}
 @media(orientation:landscape) and (max-height:520px){.dtitle b{font-size:24px;-webkit-line-clamp:2}.dctl button{min-height:84px}.dspeed button{min-height:52px}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 :root.still *{transition:none!important}
+
+/* video-only shiurim: visible docked YouTube player */
+.ydock{position:fixed;z-index:85;inset-inline-end:16px;bottom:112px;width:min(400px,calc(100vw - 32px));background:#05081a;border-radius:14px;overflow:hidden;box-shadow:0 18px 40px -12px #05081a99;border:1px solid #ffffff22}
+.yhead{display:flex;align-items:center;gap:10px;padding:8px 10px 8px 14px;color:#dde6ff;font-size:.85rem}
+.yhead span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.yx{background:none;border:0;color:#fff;font-size:1.1rem;width:40px;height:40px;border-radius:50%;cursor:pointer}
+.yx:hover,.yx:focus-visible{background:#ffffff1f}
+.yframe{aspect-ratio:16/9;min-height:200px;background:#000}
+.yframe iframe,#yFrame{width:100%;height:100%;display:block;border:0}
+body:has(#drive:not([hidden])) .ydock{top:max(76px,env(safe-area-inset-top));bottom:auto;inset-inline-start:50%;inset-inline-end:auto;transform:translateX(50%);width:min(420px,calc(100vw - 32px))}
+.toast{position:fixed;z-index:95;inset-inline:16px;bottom:112px;margin-inline:auto;max-width:460px;background:#e2323e;color:#fff;padding:12px 16px;border-radius:12px;font-weight:600;text-align:center}
+.kind{font-size:.75rem;padding:1px 8px;border-radius:99px;border:1px solid currentColor}
+.kind.ka{color:light-dark(#1a2f7a,#b9c6f0)}
+.kind.kv{color:var(--mute)}
+.hint{margin:6px 0 0;font-size:.82rem;color:var(--mute)}
+@media (max-width:640px){.ydock{inset-inline:8px;width:auto;bottom:104px}}
 </style>
 </head>
 <body>
@@ -324,6 +340,7 @@ aside.filters.open{transform:none}
     <fieldset><legend>ישיבה</legend><div id="fy"></div></fieldset>
     <fieldset><legend><label for="fr">רב</label></legend><select id="fr"></select></fieldset>
     <fieldset><legend>אורך השיעור</legend><div id="fl"></div></fieldset>
+    <fieldset><legend>סוג</legend><div id="fa"></div></fieldset>
     <fieldset><button class="link" id="clear2">ניקוי כל הסינונים</button></fieldset>
   </aside>
   <div class="scrim" id="scrim"></div>
@@ -359,6 +376,11 @@ aside.filters.open{transform:none}
   <p>האתר נבנה לפי הנחיות WCAG 2.1 ברמה AA ותקן ישראלי 5568.</p>
 </div></footer>
 
+<div class="ydock" id="yDock" role="region" aria-label="נגן וידאו" hidden>
+  <div class="yhead"><span id="yDockT"></span><button class="yx" id="yClose" aria-label="סגירת הווידאו ועצירה">✕</button></div>
+  <div class="yframe"><div id="yFrame"></div></div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 <div class="pbar" id="pbar" role="region" aria-label="נגן">
   <div class="wrap">
     <div class="pt"><b id="pT"></b><small id="pS"></small>
