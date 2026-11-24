@@ -1,0 +1,55 @@
+# Pulls new shiurim every 4 hours, rebuilds the site and the podcast feeds,
+# and publishes dist/ to GitHub Pages (free hosting at https://<user>.github.io/<repo>/).
+name: update-site
+on:
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency: { group: pages, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Pull new shiurim (YouTube, podcasts, yeshiva sites)
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: python3 ingest/ingest.py
+      - name: Build podcast feeds and site
+        env:
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          p = "data/feeds_config.json"; c = json.load(open(p, encoding="utf-8"))
+          if "YOUR-DOMAIN" in c["site_url"]:
+              c["site_url"] = os.environ["SITE_URL"]
+              json.dump(c, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+          PY
+          python3 ingest/build_feeds.py
+          cp assets/cover.jpg dist/feeds/cover.jpg
+          python3 ingest/build_site.py
+      - name: Save the updated shiurim list
+        run: |
+          git config user.name "shiurim-bot"
+          git config user.email "shiurim-bot@users.noreply.github.com"
+          git add data/shiurim.json
+          git commit -m "update shiurim" || echo "no changes"
+          git push || true
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: dist }
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.d.outputs.page_url }}" }
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4

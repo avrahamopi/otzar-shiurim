@@ -1,0 +1,47 @@
+{
+ "_note": "מקורות השיעורים לכל ישיבה. podcast = כתובת פיד RSS או מזהה Apple Podcasts (לשמע). youtube = @handle או UC... (לווידאו). null = עוד לא אותר.",
+ "otniel": {
+  "youtube": "UC7012vgMyTmjhY3PyO7VFYA",
+  "site": "https://otniel.org/",
+  "podcast": "1667271419"
+ },
+ "har-etzion": {
+  "youtube": "@HarEtzion-TheGush",
+  "site": "https://etzion.haretzion.org/"
+ },
+ "hakotel": {
+  "youtube": "@YeshivatHakotel",
+  "site": null
+ },
+ "nir": {
+  "youtube": "@yeshivat-nir",
+  "site": "http://yeshivatnir.org.il/"
+ },
+ "k8": {
+  "youtube": "@yeshivat-k8",
+  "site": "https://www.yk8.org.il/",
+  "note": "בערוץ בעיקר אירועים ושירים, מעט שיעורים"
+ },
+ "ybm": {
+  "youtube": null,
+  "site": "https://www.ybm.org.il/",
+  "note": "מאגר עשיר באתר; ערוץ יוטיוב קיים, צריך לאתר את המזהה"
+ },
+ "netivot": {
+  "youtube": "UCqKDP3LNa5YjY3iJJ9wiSAw",
+  "site": null
+ },
+ "afikei-daat": {
+  "wordpress": "https://sderot.org",
+  "wp_type": "lessons",
+  "youtube": "@YeshivaGvohaaHesdearsderot",
+  "site": "https://sderot.org/שיעורים",
+  "note": "ארכיון שמע מלא דרך WordPress REST: /wp-json/wp/v2/lessons"
+ },
+ "or-etzion": {
+  "drukman": "https://haravdrukman.co.il",
+  "youtube": "@HARAVDRUKMAN",
+  "site": "https://haravdrukman.co.il/מתורתו_של_רבינו",
+  "note": "מורשת הרב חיים דרוקמן זצ\"ל: קטגוריות → סדרות → חלקים. בכל חלק: יוטיוב, MP3 בגוגל דרייב, שנה עברית ואורך."
+ }
+}
