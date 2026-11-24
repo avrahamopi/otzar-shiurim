@@ -33,7 +33,7 @@ python3 ingest/build_feeds.py   # כותב dist/feeds/*.xml + cover.jpg + index.
 
 ## העלאה לאוויר בחינם (GitHub Pages)
 1. יוצרים מאגר ב-GitHub ומעלים אליו את תיקיית הפרויקט.
-2. Settings → Pages → Source: **GitHub Actions**.
+2. Settings → Pages → Source: Deploy from a branch → `gh-pages`.
 3. (רשות) Settings → Secrets → `YT_API_KEY` כדי לקבל אורך לשיעורי יוטיוב.
 4. Actions → update-site → Run workflow. מעכשיו הוא רץ לבד כל 4 שעות.
 האתר יעלה בכתובת `https://<שם-משתמש>.github.io/<שם-המאגר>/`, והפידים ב-`/feeds/all.xml`.
