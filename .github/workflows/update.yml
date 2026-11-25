@@ -32,6 +32,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - name: Pull new shiurim (YouTube, podcasts, yeshiva sites)
+        timeout-minutes: 75
+        continue-on-error: true   # whatever was saved so far still gets published
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: python3 ingest/ingest.py

@@ -28,8 +28,8 @@ SKIP = re.compile(r"קמפיין|תרומה|להרשמה|שיר |ניגון|קל
 def get(url):
     url = urllib.parse.quote(url, safe=":/?&=%#+,;@!$'()*~")  # Hebrew paths -> %xx
     req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read().decode("utf-8", "replace")
+    with urllib.request.urlopen(req, timeout=25) as r:
+        return r.read(8_000_000).decode("utf-8", "replace")
 
 
 def channel_id(ref):
@@ -184,7 +184,8 @@ def drukman(base, max_pages=800, skip=frozenset()):
     import html, time
     base = base.rstrip("/")
     seen, queue, pages = set(skip), [f"{base}/{p}" for p in DRUKMAN_START], 0
-    while queue and pages < max_pages:
+    stop = time.time() + 15 * 60
+    while queue and pages < max_pages and time.time() < stop:
         url = queue.pop(0)
         if url in seen:
             continue
@@ -269,8 +270,16 @@ def same_shiur(a, b):
 def main():
     channels = json.loads((DATA / "channels.json").read_text(encoding="utf-8"))
     path = DATA / "shiurim.json"
-    known = {s["v"]: s for s in json.loads(path.read_text(encoding="utf-8"))} if path.exists() else {}
+    # key every shiur by its video id, else its audio URL (audio-only shiurim have no video id)
+    known = {(s.get("v") or s.get("a") or s.get("t")): s
+             for s in json.loads(path.read_text(encoding="utf-8"))} if path.exists() else {}
     new = []
+
+    def save():  # written after every source, so a run cut short still keeps what it found
+        all_s = sorted(known.values(), key=lambda s: s.get("dt") or "", reverse=True)
+        tmp = path.with_suffix(".tmp")
+        tmp.write_text(json.dumps(all_s, ensure_ascii=False, indent=0), encoding="utf-8")
+        tmp.replace(path)
     # re-tag rabbis with the current rules (cheap, and fixes older entries in place);
     # a podcast's series title ("... | הרב X") names the speaker more reliably than the episode title
     for s_ in known.values():
@@ -325,7 +334,8 @@ def main():
                     added += 1
             except Exception as ex:
                 print(f"FAIL {yid} podcast {ref}: {ex}")
-        print(f"ok   {yid} (podcasts: {len(feeds)} feeds, {added} new episodes)")
+        print(f"ok   {yid} (podcasts: {len(feeds)} feeds, {added} new episodes)", flush=True)
+        save()
     for yid, c in channels.items():
         if yid.startswith("_") or not c.get("wordpress"):
             continue
@@ -344,7 +354,8 @@ def main():
                 have_audio.add(les["a"])
                 new.append(s)
                 n += 1
-            print(f"ok   {yid} (site: {n} new)")
+            print(f"ok   {yid} (site: {n} new)", flush=True)
+            save()
         except Exception as ex:
             print(f"FAIL {yid} site: {ex}")
     for yid, c in channels.items():
@@ -363,7 +374,8 @@ def main():
                 have_audio.add(les["a"])
                 new.append(s)
                 n += 1
-            print(f"ok   {yid} (crawl: {n} new)")
+            print(f"ok   {yid} (crawl: {n} new)", flush=True)
+            save()
         except Exception as ex:
             print(f"FAIL {yid} crawl: {ex}")
     for yid, c in channels.items():
@@ -386,17 +398,18 @@ def main():
                 have_audio.add(les["a"])
                 new.append(s)
                 n += 1
-            print(f"ok   {yid} (drukman: {n} new)")
+            print(f"ok   {yid} (drukman: {n} new)", flush=True)
+            save()
         except Exception as ex:
             print(f"FAIL {yid} drukman: {ex}")
+    save()
     key = os.environ.get("YT_API_KEY")
     if key and new:
         d = durations([s["v"] for s in new if s.get("v")], key)
         for s in new:
             s["d"] = d.get(s["v"])
-    all_s = sorted(known.values(), key=lambda s: s["dt"], reverse=True)
-    path.write_text(json.dumps(all_s, ensure_ascii=False, indent=0), encoding="utf-8")
-    print(f"{len(new)} new, {len(all_s)} total")
+    save()
+    print(f"{len(new)} new, {len(known)} total")
 
 
 if __name__ == "__main__":
