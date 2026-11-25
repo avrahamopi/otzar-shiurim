@@ -180,10 +180,10 @@ class MainLinks(HTMLParser):
             self.h1[-1] += d
 
 
-def drukman(base, max_pages=3000):
+def drukman(base, max_pages=800, skip=frozenset()):
     import html, time
     base = base.rstrip("/")
-    seen, queue, pages = set(), [f"{base}/{p}" for p in DRUKMAN_START], 0
+    seen, queue, pages = set(skip), [f"{base}/{p}" for p in DRUKMAN_START], 0
     while queue and pages < max_pages:
         url = queue.pop(0)
         if url in seen:
@@ -371,7 +371,8 @@ def main():
             continue
         try:
             n = 0
-            for les in drukman(c["drukman"]):
+            done = {s_.get("src") for s_ in known.values() if s_.get("y") == yid and s_.get("src")}
+            for les in drukman(c["drukman"], skip=done):
                 if les["a"] in have_audio:
                     continue
                 twin = known.get(les["v"]) if les["v"] else None
