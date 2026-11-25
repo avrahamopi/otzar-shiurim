@@ -267,6 +267,13 @@ def main():
     path = DATA / "shiurim.json"
     known = {s["v"]: s for s in json.loads(path.read_text(encoding="utf-8"))} if path.exists() else {}
     new = []
+    # re-tag rabbis with the current rules (cheap, and fixes older entries in place);
+    # a podcast's series title ("... | הרב X") names the speaker more reliably than the episode title
+    for s_ in known.values():
+        if s_.get("r") == "הרב חיים דרוקמן":
+            continue
+        r = (find_rabbi(s_["sr"]) if s_.get("sr") else "") or find_rabbi(s_["t"])
+        s_["r"] = r or "רבני הישיבה"
     for yid, c in channels.items():
         if yid.startswith("_") or not c.get("youtube"):
             continue
@@ -300,8 +307,7 @@ def main():
                         continue
                     have_audio.add(ep["a"])
                     s = tag(ep["title"])
-                    if not s["r"]:
-                        s["r"] = find_rabbi(meta.get("title", "")) or find_rabbi(meta.get("author", "")) or "רבני הישיבה"
+                    s["r"] = find_rabbi(meta.get("title", "")) or s["r"] or find_rabbi(meta.get("author", "")) or "רבני הישיבה"
                     twin = next((v for v in videos if not v.get("a") and same_shiur(v, s)), None)
                     if twin:
                         twin["a"] = ep["a"]
