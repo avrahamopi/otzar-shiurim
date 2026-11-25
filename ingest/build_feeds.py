@@ -22,6 +22,9 @@ TOPIC_SLUG = {"גמרא": "gemara", "הלכה": "halacha", 'תנ"ך': "tanach", 
               "אמונה ומחשבה": "emuna", "מוסר": "musar", "חסידות וקבלה": "chasidut", "מועדים": "moadim"}
 
 
+MAX_ITEMS = 300
+
+
 def rabbi_slug(name):
     return "rav-" + hashlib.sha1(name.encode()).hexdigest()[:8]
 
@@ -50,7 +53,7 @@ def item(s):
 
 
 def feed(slug, title, desc, items):
-    items = sorted(items, key=lambda s: s["dt"], reverse=True)
+    items = sorted(items, key=lambda s: s.get("dt") or "", reverse=True)[:MAX_ITEMS]  # podcast apps choke on huge feeds
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
@@ -86,8 +89,11 @@ for yid in sorted({s["y"] for s in shiurim}):
     f = feed(f"y-{yid}", f"ישיבת {name} · {cfg['title']}", f"שיעורי ישיבת {name}.", its)
     f.update(kind="yeshiva", key=yid)
     index.append(f)
-for rabbi in sorted({s.get("r") for s in shiurim if s.get("r")}):
-    its = [s for s in shiurim if s.get("r") == rabbi]
+by_rabbi = {}
+for s in shiurim:
+    if s.get("r") and s["r"] != "רבני הישיבה":
+        by_rabbi.setdefault(s["r"], []).append(s)
+for rabbi, its in sorted(by_rabbi.items()):
     if len(its) >= cfg["min_rabbi_feed"]:
         f = feed(rabbi_slug(rabbi), f"{rabbi} · {cfg['title']}", f"שיעורי {rabbi}.", its)
         f.update(kind="rabbi", key=rabbi)
