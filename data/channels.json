@@ -493,5 +493,35 @@
    "https://feeds.transistor.fm/9d5ec4da-0cec-4fb0-9dd4-968348562c13",
    "https://feeds.transistor.fm/f25fb363-c0ab-4dd8-b191-8f53d82c134d"
   ]
+ },
+ "birkat-yosef": {
+  "crawl": {
+   "start": [
+    "https://www.yelonmoreh.co.il/index2.php?id=4&lang=HEB",
+    "https://www.yelonmoreh.co.il/index2.php?id=5&lang=HEB"
+   ],
+   "follow": "index2\\.php\\?id=\\d+&lang=HEB",
+   "max_pages": 4000
+  }
+ },
+ "derech-chaim": {
+  "crawl": {
+   "start": [
+    "https://derechaim.org.il/search",
+    "https://derechaim.org.il/"
+   ],
+   "follow": "/(lessons|lesson_cat1|search)/?",
+   "max_pages": 3000
+  }
+ },
+ "avinoam": {
+  "crawl": {
+   "start": [
+    "https://www.yavinoam.org/index2.php?id=4&lang=HEB",
+    "https://www.yavinoam.org/"
+   ],
+   "follow": "index2\\.php\\?id=\\d+&lang=HEB",
+   "max_pages": 4000
+  }
  }
 }

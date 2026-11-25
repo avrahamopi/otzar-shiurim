@@ -18,7 +18,7 @@ const st={q:"",topic:"",ys:[],rg:[],r:"",len:[],ao:false,sort:"new"};
 try{Object.assign(st,JSON.parse(localStorage.getItem("osh-f2")||"{}"))}catch(e){}
 const save=()=>{try{localStorage.setItem("osh-f2",JSON.stringify(st))}catch(e){}};
 const heb=dt=>{try{return new Intl.DateTimeFormat("he-u-ca-hebrew",{day:"numeric",month:"long"}).format(new Date(dt))}catch(e){return dt}};
-const when=x=>x.yr?x.yr:heb(x.dt);
+const when=x=>x.yr?x.yr:(x.dt?heb(x.dt):"");
 const norm=s=>s.replace(/["'״׳]/g,"").toLowerCase();
 const byNew=(a,b)=>b.dt.localeCompare(a.dt);
 const SORTS={new:byNew,short:(a,b)=>(a.d||999)-(b.d||999),long:(a,b)=>(b.d||0)-(a.d||0),az:(a,b)=>a.t.localeCompare(b.t,"he")};

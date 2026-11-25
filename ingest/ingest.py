@@ -214,6 +214,42 @@ def drukman(base, max_pages=3000):
                 queue.append(h)
 
 
+
+# ---------- audio: generic site crawler (sites with MP3 links on lesson pages) ----------
+MP3_RE = re.compile(r"""(?:href|src)=["']([^"']+?\.(?:mp3|m4a))["']""", re.I)
+TITLE_RE = re.compile(r"<h1[^>]*>(.*?)</h1>|<title>(.*?)</title>", re.S | re.I)
+HREF_RE = re.compile(r"""href=["']([^"'#]+)["']""", re.I)
+
+
+def crawl(cfg):
+    """Breadth-first crawl of one yeshiva site. cfg = {"start": [urls], "follow": regex,
+    "max_pages": n}. Yields one shiur per page that links an audio file."""
+    import html, time
+    follow = re.compile(cfg["follow"])
+    host = urllib.parse.urlparse(cfg["start"][0]).netloc
+    queue, seen, n = list(cfg["start"]), set(cfg["start"]), 0
+    while queue and n < cfg.get("max_pages", 1500):
+        url = queue.pop(0); n += 1
+        try:
+            body = get(url)
+        except Exception:
+            continue
+        for h in HREF_RE.findall(body):
+            u = urllib.parse.urljoin(url, html.unescape(h))
+            if urllib.parse.urlparse(u).netloc == host and u not in seen and follow.search(urllib.parse.unquote(u)):
+                seen.add(u); queue.append(u)
+        mp3 = list(dict.fromkeys(MP3_RE.findall(body)))
+        if len(mp3) > 1:  # a listing page, or a lesson page with a sidebar: keep the file named after this page's id
+            pid = re.search(r"[?&]id=(\d+)", url)
+            mp3 = [m for m in mp3 if pid and re.search(rf"/{pid.group(1)}\.(?:mp3|m4a)$", m)]
+        if mp3:
+            m = TITLE_RE.search(body)
+            title = re.sub(r"<[^>]+>|\s+", " ", html.unescape(next(g for g in m.groups() if g) if m else "")).strip()
+            title = re.split(r"\s[|\-–]\s(?:ישיבת|Yeshiv)", title)[0].strip()
+            a = urllib.parse.quote(urllib.parse.urljoin(url, html.unescape(mp3[0])), safe=":/?&=%")
+            yield {"a": a, "title": title, "link": url, "dt": "", "v": None}
+        time.sleep(0.2)
+
 def _words(t):
     return set(re.findall(r"[א-ת\w]{2,}", re.sub(r'["\'״׳]', "", t)))
 
@@ -301,6 +337,24 @@ def main():
             print(f"ok   {yid} (site: {n} new)")
         except Exception as ex:
             print(f"FAIL {yid} site: {ex}")
+    for yid, c in channels.items():
+        if yid.startswith("_") or not c.get("crawl"):
+            continue
+        n = 0
+        try:
+            for les in crawl(c["crawl"]):
+                if les["a"] in have_audio or not les["title"]:
+                    continue
+                s = tag(les["title"])
+                s["r"] = s["r"] or "רבני הישיבה"
+                s.update({"y": yid, "v": None, "a": les["a"], "d": None, "dt": les["dt"], "src": les["link"]})
+                known[les["a"]] = s
+                have_audio.add(les["a"])
+                new.append(s)
+                n += 1
+            print(f"ok   {yid} (crawl: {n} new)")
+        except Exception as ex:
+            print(f"FAIL {yid} crawl: {ex}")
     for yid, c in channels.items():
         if yid.startswith("_") or not c.get("drukman"):
             continue
