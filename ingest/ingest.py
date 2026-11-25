@@ -228,7 +228,8 @@ def crawl(cfg, skip=frozenset()):
     follow = re.compile(cfg["follow"])
     host = urllib.parse.urlparse(cfg["start"][0]).netloc
     queue, seen, n = list(cfg["start"]), set(cfg["start"]), 0
-    while queue and n < cfg.get("max_pages", 1500):
+    # bounded per run; lesson pages already ingested are skipped, so each run reaches further
+    while queue and n < cfg.get("max_pages", 600):
         url = queue.pop(0)
         if url in skip:  # lesson page already ingested on an earlier run
             continue
@@ -251,7 +252,7 @@ def crawl(cfg, skip=frozenset()):
             title = re.split(r"\s[|\-–]\s(?:ישיבת|Yeshiv)", title)[0].strip()
             a = urllib.parse.quote(urllib.parse.urljoin(url, html.unescape(mp3[0])), safe=":/?&=%")
             yield {"a": a, "title": title, "link": url, "dt": "", "v": None}
-        time.sleep(0.2)
+        time.sleep(0.1)
 
 def _words(t):
     return set(re.findall(r"[א-ת\w]{2,}", re.sub(r'["\'״׳]', "", t)))
