@@ -30,7 +30,11 @@ def rabbi_slug(name):
 
 
 def pubdate(d):
-    dt = datetime.datetime.fromisoformat(d).replace(hour=12, tzinfo=datetime.timezone.utc)
+    try:
+        dt = datetime.datetime.fromisoformat(d or "")
+    except ValueError:  # site lessons without a date
+        dt = datetime.datetime(2020, 1, 1)
+    dt = dt.replace(hour=12, tzinfo=datetime.timezone.utc)
     return format_datetime(dt)
 
 

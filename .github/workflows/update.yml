@@ -3,7 +3,8 @@
 name: update-site
 on:
   schedule:
-    - cron: "17 */4 * * *"
+    - cron: "17 */4 * * *"   # podcasts and YouTube (a few minutes)
+    - cron: "41 23 * * *"    # nightly: also crawls yeshiva websites (slow, up to an hour)
   workflow_dispatch:
   push:
     branches: [main]
@@ -36,6 +37,7 @@ jobs:
         continue-on-error: true   # whatever was saved so far still gets published
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          CRAWL: ${{ (github.event.schedule == '41 23 * * *' || github.event_name == 'workflow_dispatch') && '1' || '' }}
         run: python3 ingest/ingest.py
       - name: Build podcast feeds and site
         env:

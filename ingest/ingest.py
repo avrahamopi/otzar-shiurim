@@ -28,7 +28,7 @@ SKIP = re.compile(r"קמפיין|תרומה|להרשמה|שיר |ניגון|קל
 def get(url):
     url = urllib.parse.quote(url, safe=":/?&=%#+,;@!$'()*~")  # Hebrew paths -> %xx
     req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=25) as r:
+    with urllib.request.urlopen(req, timeout=15) as r:
         return r.read(8_000_000).decode("utf-8", "replace")
 
 
@@ -359,7 +359,7 @@ def main():
         except Exception as ex:
             print(f"FAIL {yid} site: {ex}")
     for yid, c in channels.items():
-        if yid.startswith("_") or not c.get("crawl"):
+        if yid.startswith("_") or not c.get("crawl") or not os.environ.get("CRAWL"):
             continue
         n = 0
         try:
@@ -379,7 +379,7 @@ def main():
         except Exception as ex:
             print(f"FAIL {yid} crawl: {ex}")
     for yid, c in channels.items():
-        if yid.startswith("_") or not c.get("drukman"):
+        if yid.startswith("_") or not c.get("drukman") or not os.environ.get("CRAWL"):
             continue
         try:
             n = 0

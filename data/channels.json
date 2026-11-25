@@ -505,14 +505,7 @@
   }
  },
  "derech-chaim": {
-  "crawl": {
-   "start": [
-    "https://derechaim.org.il/search",
-    "https://derechaim.org.il/"
-   ],
-   "follow": "/(lessons|lesson_cat1|search)/?",
-   "max_pages": 600
-  }
+  "note": "באתר יש קבצי שמע, אבל השרת איטי מאוד; לא נסרק אוטומטית"
  },
  "avinoam": {
   "crawl": {
