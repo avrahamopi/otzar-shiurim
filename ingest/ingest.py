@@ -17,7 +17,7 @@ import json, os, pathlib, re, sys, urllib.error, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from tagger import tag
+from tagger import tag, find_rabbi
 
 DATA = pathlib.Path(__file__).parent.parent / "data"
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
@@ -79,9 +79,15 @@ def podcast_feed_url(ref):
     return data["results"][0]["feedUrl"]
 
 
-def podcast(ref):
+def podcast(ref, meta=None):
+    """Yield episodes of one podcast feed. If meta is a dict, it receives the show's
+    title and author (used as series name and as a fallback for the rabbi)."""
     root = ET.fromstring(get(podcast_feed_url(ref)).encode("utf-8"))
     from email.utils import parsedate_to_datetime
+    chan = root.find("channel")
+    if meta is not None and chan is not None:
+        meta["title"] = (chan.findtext("title") or "").strip()
+        meta["author"] = (chan.findtext(f"{{{ITUNES}}}author") or "").strip()
     for it in root.iter("item"):
         enc = it.find("enclosure")
         if enc is None or not enc.get("url"):
@@ -241,32 +247,46 @@ def main():
         except Exception as ex:  # one broken channel must not stop the rest
             print(f"FAIL {yid}: {ex}")
     # audio: attach each podcast episode to its video, or add it as an audio-only shiur
+    have_audio = {s["a"] for s in known.values() if s.get("a")}
     for yid, c in channels.items():
-        if yid.startswith("_") or not c.get("podcast"):
+        if yid.startswith("_"):
             continue
-        try:
-            for ep in podcast(c["podcast"]):
-                if any(s.get("a") == ep["a"] for s in known.values()):
-                    continue
-                s = tag(ep["title"])
-                twin = next((v for v in known.values() if v["y"] == yid and not v.get("a") and same_shiur(v, s)), None)
-                if twin:
-                    twin["a"] = ep["a"]
-                    twin["d"] = twin.get("d") or ep["d"]
-                else:
+        feeds = list(c.get("podcasts") or []) + ([c["podcast"]] if c.get("podcast") else [])
+        if not feeds:
+            continue
+        videos = [v for v in known.values() if v["y"] == yid and not v.get("a")]
+        added = 0
+        for ref in feeds:
+            meta = {}
+            try:
+                for ep in podcast(ref, meta):
+                    if ep["a"] in have_audio:
+                        continue
+                    have_audio.add(ep["a"])
+                    s = tag(ep["title"])
+                    if not s["r"]:
+                        s["r"] = find_rabbi(meta.get("title", "")) or find_rabbi(meta.get("author", "")) or "רבני הישיבה"
+                    twin = next((v for v in videos if not v.get("a") and same_shiur(v, s)), None)
+                    if twin:
+                        twin["a"] = ep["a"]
+                        twin["d"] = twin.get("d") or ep["d"]
+                        continue
                     s.update({"y": yid, "v": None, "a": ep["a"], "d": ep["d"], "dt": ep["dt"], "id": ep["guid"]})
+                    if meta.get("title"):
+                        s["sr"] = meta["title"][:80]
                     known[ep["guid"]] = s
                     new.append(s)
-            print(f"ok   {yid} (podcast)")
-        except Exception as ex:
-            print(f"FAIL {yid} podcast: {ex}")
+                    added += 1
+            except Exception as ex:
+                print(f"FAIL {yid} podcast {ref}: {ex}")
+        print(f"ok   {yid} (podcasts: {len(feeds)} feeds, {added} new episodes)")
     for yid, c in channels.items():
         if yid.startswith("_") or not c.get("wordpress"):
             continue
         try:
             n = 0
             for les in wordpress(c["wordpress"], c.get("wp_type", "lessons")):
-                if any(s.get("a") == les["a"] for s in known.values()):
+                if les["a"] in have_audio:
                     continue
                 s = tag(les["title"])
                 twin = known.get(les["v"]) if les["v"] else None
@@ -275,6 +295,7 @@ def main():
                     continue
                 s.update({"y": yid, "v": les["v"], "a": les["a"], "d": None, "dt": les["dt"], "src": les["link"]})
                 known[les["id"]] = s
+                have_audio.add(les["a"])
                 new.append(s)
                 n += 1
             print(f"ok   {yid} (site: {n} new)")
@@ -286,7 +307,7 @@ def main():
         try:
             n = 0
             for les in drukman(c["drukman"]):
-                if any(s.get("a") == les["a"] for s in known.values()):
+                if les["a"] in have_audio:
                     continue
                 twin = known.get(les["v"]) if les["v"] else None
                 if twin:  # same shiur already came in from YouTube: give it the audio
@@ -296,6 +317,7 @@ def main():
                 s.update({"y": yid, "r": "הרב חיים דרוקמן", "v": les["v"], "a": les["a"], "d": les["d"],
                           "dt": les["dt"], "yr": les["yr"], "src": les["link"]})
                 known[les["a"]] = s
+                have_audio.add(les["a"])
                 new.append(s)
                 n += 1
             print(f"ok   {yid} (drukman: {n} new)")

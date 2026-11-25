@@ -23,7 +23,7 @@ const norm=s=>s.replace(/["'״׳]/g,"").toLowerCase();
 const byNew=(a,b)=>b.dt.localeCompare(a.dt);
 const SORTS={new:byNew,short:(a,b)=>(a.d||999)-(b.d||999),long:(a,b)=>(b.d||0)-(a.d||0),az:(a,b)=>a.t.localeCompare(b.t,"he")};
 const match=(x,skip)=>{
- if(st.q){const q=norm(st.q).split(/\s+/).filter(Boolean);const h=norm(x.t+" "+x.r+" "+x.c+" "+Y[x.y].n);if(!q.every(w=>h.includes(w)))return false}
+ if(st.q){const q=norm(st.q).split(/\s+/).filter(Boolean);const h=norm(x.t+" "+x.r+" "+x.c+" "+Y[x.y].n+" "+(x.sr||""));if(!q.every(w=>h.includes(w)))return false}
  if(skip!=="topic"&&st.topic&&x.c!==st.topic)return false;
  if(skip!=="rg"&&st.rg.length&&!st.rg.includes(Y[x.y].reg))return false;
  if(skip!=="y"&&st.ys.length&&!st.ys.includes(x.y))return false;
@@ -213,7 +213,7 @@ function renderList(){
  $("list").innerHTML=r.length?r.slice(0,shown).map(x=>{const y=Y[x.y],on=P.cur===x.id,inq=P.q.includes(x.id);return `<li class="shiur${on?" on":""}" data-id="${x.id}">
   <button class="pbig" data-play="${x.id}" aria-pressed="${on}" aria-label="${on&&P.playing?"השהיה":"האזנה"}: ${esc(x.t)}">${on&&P.playing?PAUSE:PLAY}</button>
   <div><h3>${esc(x.t)}</h3>
-   <div class="meta"><b>${esc(x.r)}</b><span>ישיבת ${esc(short(y.n))}</span><span class="tag">${esc(x.c)}</span><span class="kind ${x.a?"ka":"kv"}">${x.a?"שמע":"וידאו בלבד"}</span><span class="nw">${esc(when(x))}</span>${resumeLabel(x)}</div></div>
+   <div class="meta"><b>${esc(x.r)}</b><span>ישיבת ${esc(short(y.n))}</span><span class="tag">${esc(x.c)}</span>${x.sr&&!x.t.includes(x.sr)?`<span class="sr">${esc(x.sr)}</span>`:""}<span class="kind ${x.a?"ka":"kv"}">${x.a?"שמע":"וידאו בלבד"}</span><span class="nw">${esc(when(x))}</span>${resumeLabel(x)}</div></div>
   <div class="side">${x.d?`<span class="dur">${x.d}<small>דקות</small></span>`:""}
    <button class="ico" data-q="${x.id}" aria-pressed="${inq}" aria-label="${inq?"הסרה מהתור":"הוספה לתור"}">${inq?QON:QADD}</button>
    ${x.v?`<button class="ico" data-video="${x.id}" aria-label="צפייה בווידאו: ${esc(x.t)}">${VID}</button>`:""}</div></li>`}).join("")

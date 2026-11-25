@@ -1,0 +1,2356 @@
+{
+ "ybm": [
+  {
+   "feed": "https://feeds.redcircle.com/a9ef7401-8e58-4580-8ac4-09808bb3176b",
+   "name": "דף יומי - הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 1246
+  },
+  {
+   "feed": "https://feeds.redcircle.com/06e4dc7f-8e6d-44e6-9295-16e9b55069f7",
+   "name": "רגע של חינוך עם הרב אלישע אבינר",
+   "author": "ישיבת ברכת משה",
+   "count": 326
+  },
+  {
+   "feed": "https://feeds.redcircle.com/8eda0328-44b5-44f1-91ce-d2f8e99e6b58",
+   "name": "נתיבות עולם למהר\"ל - הרב יונתן רוזין",
+   "author": "ישיבת ברכת משה",
+   "count": 204
+  },
+  {
+   "feed": "https://feeds.redcircle.com/d6a05c8e-9426-4009-b33a-168c46ac32bf",
+   "name": "הרמב\"ם היומי 10 - ספר טהרה | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 137
+  },
+  {
+   "feed": "https://feeds.redcircle.com/bad1986b-81c5-4fcb-9196-622ecdd2fcf7",
+   "name": "אגדות הש\"ס | הרב יונתן רוזין",
+   "author": "ישיבת ברכת משה",
+   "count": 132
+  },
+  {
+   "feed": "https://feeds.redcircle.com/c5a6f1e3-b1da-4c77-9a3b-5f195f946616",
+   "name": "הרמב\"ם היומי 3 - ספר זמנים | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 96
+  },
+  {
+   "feed": "https://feeds.redcircle.com/46412512-515c-45c4-91d5-e3f17f84215d",
+   "name": "הרמב\"ם היומי 8 - ספר עבודה | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 93
+  },
+  {
+   "feed": "https://feeds.redcircle.com/f450297f-aa49-40f0-bdc8-a382ee52f8b9",
+   "name": "הרמב\"ם היומי 7 - ספר זרעים | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 84
+  },
+  {
+   "feed": "https://feeds.redcircle.com/fcf29ebd-6909-4d72-8442-258244f71c3b",
+   "name": "ישיבת ברכת משה מעלה אדומים",
+   "author": "ישיבת ברכת משה",
+   "count": 75
+  },
+  {
+   "feed": "https://feeds.redcircle.com/8b7db474-1b03-463c-bc39-8f7c5a42029a",
+   "name": "הרמב\"ם היומי 13 - ספר משפטים | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 72
+  },
+  {
+   "feed": "https://feeds.redcircle.com/f07d6e24-6867-4bf8-9bc2-ae6da954983f",
+   "name": "פירוש הרמב\"ם למסכת אבות - הרב יצחק שילת",
+   "author": "ישיבת ברכת משה",
+   "count": 71
+  },
+  {
+   "feed": "https://feeds.redcircle.com/1ef0f0d7-4d15-41ea-806f-bddf81a492d0",
+   "name": "הרמב\"ם היומי 12 - ספר קנין | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 69
+  },
+  {
+   "feed": "https://feeds.redcircle.com/365977ee-77ba-41ce-9629-e058d4d9bb48",
+   "name": "שמירת הלשון | רה\"י הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 64
+  },
+  {
+   "feed": "https://feeds.redcircle.com/744cf8f5-e359-4dc8-ac6e-a911129ffe34",
+   "name": "והגדת לבנך - פסח עם ישיבת ברכת משה",
+   "author": "ישיבת ברכת משה",
+   "count": 62
+  },
+  {
+   "feed": "https://feeds.redcircle.com/18aa8ab4-dd84-4ce3-a9b7-ce88176fa68c",
+   "name": "עשר דקות של עיון | מועדים",
+   "author": "ישיבת ברכת משה",
+   "count": 60
+  },
+  {
+   "feed": "https://feeds.redcircle.com/bfb27167-6bc1-4e2f-981c-96552a4d12ff",
+   "name": "הרמב\"ם היומי 11 - ספר נזקים | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 59
+  },
+  {
+   "feed": "https://feeds.redcircle.com/2fefc2ac-3ddf-47c9-aeee-eb8cc0d2efff",
+   "name": "מדרש רבה תשפ\"ג - רה''י הרב יצחק שילת",
+   "author": "ישיבת ברכת משה",
+   "count": 57
+  },
+  {
+   "feed": "https://feeds.redcircle.com/2e0900cd-8537-4ed2-b0b8-bea108ee030f",
+   "name": "מסילת ישרים - רה\"י הרב חיים סבתו (תשפ\"ד)",
+   "author": "ישיבת ברכת משה",
+   "count": 56
+  },
+  {
+   "feed": "https://feeds.redcircle.com/ddbea160-550a-44de-acc9-d01fc513227b",
+   "name": "לקראת שבת | רה\"י הרב חיים סבתו",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 54
+  },
+  {
+   "feed": "https://feeds.redcircle.com/3ed937ad-161d-44a1-a766-3640048130eb",
+   "name": "טעימות מן הרלב\"ג",
+   "author": "ישיבת ברכת משה",
+   "count": 54
+  },
+  {
+   "feed": "https://feeds.redcircle.com/30d8c7e1-3766-4f65-95c0-3fd4e730ceef",
+   "name": "שפת אמת על התורה | הרב אפי ולץ",
+   "author": "ישיבת ברכת משה",
+   "count": 54
+  },
+  {
+   "feed": "https://feeds.redcircle.com/67ebc4c5-2d89-4ed6-a1ec-e94d7a992f22",
+   "name": "מסביב לפרשה - תשפ\"ד",
+   "author": "ישיבת ברכת משה",
+   "count": 53
+  },
+  {
+   "feed": "https://feeds.redcircle.com/689aeae8-f3b2-43e0-a68e-fbd407759bc8",
+   "name": "הרמב\"ם היומי 4 - ספר נשים | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 53
+  },
+  {
+   "feed": "https://feeds.redcircle.com/80366f34-1507-4078-92b0-6d8eb8ec9785",
+   "name": "לקראת שבת תשפ''ב - הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 52
+  },
+  {
+   "feed": "https://feeds.redcircle.com/a4213acc-4e26-4b0f-800a-ddc9753b221c",
+   "name": "מסביב לפרשה תשפ\"ג - הרב יואב פלדמן",
+   "author": "ישיבת ברכת משה",
+   "count": 52
+  },
+  {
+   "feed": "https://feeds.redcircle.com/68e5d258-02fa-4c28-8cba-4d7f310eeb3b",
+   "name": "לקראת שבת תשפ\"ד - הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 51
+  },
+  {
+   "feed": "https://feeds.redcircle.com/6c1c0b47-2245-4c56-8b49-839092b66603",
+   "name": "הרמב\"ם היומי 1 - ספר המדע | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 50
+  },
+  {
+   "feed": "https://feeds.redcircle.com/25abf956-c46a-4d36-83db-7a91ac96473c",
+   "name": "חרבות ברזל - שיעורים לחיילים",
+   "author": "ישיבת ברכת משה",
+   "count": 50
+  },
+  {
+   "feed": "https://feeds.redcircle.com/1d3922b7-783c-4aa8-bc65-0eb55b00129f",
+   "name": "לקראת שבת תשפ\"ה - רה\"י הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 49
+  },
+  {
+   "feed": "https://feeds.redcircle.com/4e2f6582-b22e-4e07-aec5-f21e0f31c411",
+   "name": "פרקי במדבר | הרב דוד סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 49
+  },
+  {
+   "feed": "https://feeds.redcircle.com/5aa978cb-7a18-4f80-abc9-0187ee8036d9",
+   "name": "הרמב\"ם היומי 2 - ספר אהבה | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 47
+  },
+  {
+   "feed": "https://feeds.redcircle.com/f79288eb-8b71-41c6-a7ac-8062cab1affb",
+   "name": "לקראת שבת תשפ\"ג - הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 46
+  },
+  {
+   "feed": "https://feeds.redcircle.com/54640ba9-1386-419d-ba4f-bccb93480070",
+   "name": "הלכות שמיטה בקצרה | הרב אלישע אבינר",
+   "author": "ישיבת ברכת משה",
+   "count": 46
+  },
+  {
+   "feed": "https://feeds.redcircle.com/81b9081c-f479-48a9-80b3-8f91b8e49a82",
+   "name": "הרמב\"ם היומי 9 - ספר הקרבנות | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 44
+  },
+  {
+   "feed": "https://feeds.redcircle.com/999c0a6e-b224-450c-8e1e-841b1be406a3",
+   "name": "אורי וישעי - ימים נוראים עם ישיבת ברכת משה",
+   "author": "ישיבת ברכת משה",
+   "count": 42
+  },
+  {
+   "feed": "https://feeds.redcircle.com/3cdd5d8d-6c7e-4f6b-888c-2fc1f75562b7",
+   "name": "הרמב\"ם היומי 6 - ספר הפלאה | הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 42
+  },
+  {
+   "feed": "https://feeds.redcircle.com/5bbaa8b6-bb7b-4ae2-842c-4e8210d08151",
+   "name": "ילמד ענוים דרכו - שנה א (שיעורי העמקה) | הרב רן כלילי",
+   "author": "ישיבת ברכת משה",
+   "count": 40
+  },
+  {
+   "feed": "https://feeds.redcircle.com/6ed6f792-8ca9-4d0b-8dcb-758e2b079c86",
+   "name": "חמש מגילות - הרב דוד סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 39
+  },
+  {
+   "feed": "https://feeds.redcircle.com/fe8a43eb-3ef4-4f14-b700-ebd5825676ae",
+   "name": "מהפכות נבואיות | הרב דוד סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 39
+  },
+  {
+   "feed": "https://feeds.redcircle.com/db6466ce-1d3e-4ea5-a16e-2fcd39883c04",
+   "name": "מחנכים לחיים",
+   "author": "ישיבת ברכת משה",
+   "count": 37
+  },
+  {
+   "feed": "https://feeds.redcircle.com/1795a99d-a6e3-41ca-a94d-90f2e07206c4",
+   "name": "(שיעורי העמקה) | הרב רן כלילי ילמד ענוים דרכו - שנה ד",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 37
+  },
+  {
+   "feed": "https://feeds.redcircle.com/077fcf2f-ce23-43ba-a68c-9014e15aafdf",
+   "name": "הרב יצחק שילת - תולדות ספרות ההלכה",
+   "author": "ישיבת ברכת משה",
+   "count": 34
+  },
+  {
+   "feed": "https://feeds.redcircle.com/3aeedf6c-234c-443a-a540-69c5327366b8",
+   "name": "פרקי יצחק ויעקב - הרב דוד סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 33
+  },
+  {
+   "feed": "https://feeds.redcircle.com/16a684db-3051-4a80-aed5-8a33ff8b3c7d",
+   "name": "עקבי הצאן - הרב אלישע אבינר",
+   "author": "ישיבת ברכת משה",
+   "count": 33
+  },
+  {
+   "feed": "https://feeds.redcircle.com/44d7c77a-290d-4b69-adda-81456fbccf8e",
+   "name": "שיחות שבועיות תשפ\"ו ברכת משה",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 32
+  },
+  {
+   "feed": "https://feeds.redcircle.com/72a8b5ed-ec0b-49a1-911b-5303b77d52b0",
+   "name": "מה לימד הרמב\"ם? | הרב עוז בלומן",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 32
+  },
+  {
+   "feed": "https://feeds.redcircle.com/cc13d8ea-f27c-4fc9-8ce6-6955481ab0fd",
+   "name": "ילמד ענוים דרכו - שנה ב (שיעורי העמקה) | הרב רן כלילי",
+   "author": "ישיבת ברכת משה",
+   "count": 31
+  },
+  {
+   "feed": "https://feeds.redcircle.com/0be691f4-9c68-4bd1-90d6-25dd7cdd0119",
+   "name": "עיון תפילה | רה\"י הרב יצחק שילת",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 30
+  },
+  {
+   "feed": "https://feeds.redcircle.com/3e4f04b4-e7dd-4bd9-ad14-48c24c7b5d60",
+   "name": "קול הנבואה התשפ\"ה",
+   "author": "ישיבת ברכת משה",
+   "count": 30
+  },
+  {
+   "feed": "https://feeds.redcircle.com/d9898f7c-f47f-49db-8ede-ae5cecc10472",
+   "name": "כללי המצוות - הרב יואב פלדמן",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 27
+  },
+  {
+   "feed": "https://feeds.redcircle.com/6fbe02df-7c68-4b9d-9fcf-a9bd0b3f7796",
+   "name": "(שיעורי העמקה) | הרב רן כלילי ילמד ענוים דרכו - שנה ג | הרמב\"ן",
+   "author": "ישיבת ברכת משה",
+   "count": 25
+  },
+  {
+   "feed": "https://feeds.redcircle.com/b4efdf16-a524-470d-943f-d70781b88151",
+   "name": "Oneg Shabeas With rabbi amichy sacchr",
+   "author": "Yeshivat Birkat Moshe",
+   "count": 24
+  },
+  {
+   "feed": "https://feeds.redcircle.com/68500226-8afe-411a-a7fe-3ce9063c7c37",
+   "name": "הלכות דעות | רה\"י הרב יצחק שילת",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 24
+  },
+  {
+   "feed": "https://feeds.redcircle.com/30243a0f-44b1-48ff-84ad-2976de4f5c74",
+   "name": "התפתחות ההלכה ודרכי פסיקה | הרב אלישע אבינר",
+   "author": "ישיבת ברכת משה",
+   "count": 24
+  },
+  {
+   "feed": "https://feeds.redcircle.com/14d49a47-1529-4d44-b48f-c1f11f44c1a8",
+   "name": "צא ולמד",
+   "author": "ישיבת ברכת משה",
+   "count": 24
+  },
+  {
+   "feed": "https://feeds.redcircle.com/209df0c7-c211-42cc-8a22-c5ab9f0c10a4",
+   "name": "זוגיות יהודית",
+   "author": "ישיבת ברכת משה",
+   "count": 22
+  },
+  {
+   "feed": "https://feeds.redcircle.com/f046d936-a409-47fc-b558-3cd0647a990b",
+   "name": "דקדוק לשון הקודש | רה\"י הרב יצחק שילת",
+   "author": "ישיבת ברכת משה",
+   "count": 22
+  },
+  {
+   "feed": "https://feeds.redcircle.com/9204cb10-4e8e-4dfa-a287-403f307c2326",
+   "name": "שיחות כלליות תשפ\"ה ברכת משה",
+   "author": "ישיבת ברכת משה",
+   "count": 22
+  },
+  {
+   "feed": "https://feeds.redcircle.com/8aa4b5f2-20de-4eb8-9e1a-22bd97b05882",
+   "name": "נביאים אחרונים - הרב דוד סבתו (תשפ\"ד)",
+   "author": "ישיבת ברכת משה",
+   "count": 21
+  },
+  {
+   "feed": "https://feeds.redcircle.com/1da4bcc8-4d97-4fc8-8228-3909aba9649e",
+   "name": "קול הנבואה - הרב צמח הלפרין (תשפ\"ד)",
+   "author": "ישיבת ברכת משה",
+   "count": 20
+  },
+  {
+   "feed": "https://feeds.redcircle.com/3e26b5b1-c480-480a-ae49-d813ef343b07",
+   "name": "קול הנבואה התשפ\"ו",
+   "author": "ישיבת ברכת משה",
+   "count": 20
+  },
+  {
+   "feed": "https://feeds.redcircle.com/46d0e735-2f1c-404a-bd8b-783371f54649",
+   "name": "עשר דקות של עיון | נושאים כלליים",
+   "author": "ישיבת ברכת משה",
+   "count": 17
+  },
+  {
+   "feed": "https://feeds.redcircle.com/7ec74075-14d9-4f54-a027-1e7764d24634",
+   "name": "פני שבת נקבלה - הרב אלישע אבינר",
+   "author": "ישיבת ברכת משה",
+   "count": 17
+  },
+  {
+   "feed": "https://feeds.redcircle.com/ae41b5bd-d410-488d-b40f-fd7f24c2e79a",
+   "name": "הלכות כהנים | הרב אלישע אבינר",
+   "author": "ישיבת ברכת משה",
+   "count": 16
+  },
+  {
+   "feed": "https://feeds.redcircle.com/3efc9bb2-928b-461f-9f76-2c6c53a661aa",
+   "name": "אורה ושמחה - פורים עם ישיבת ברכת משה",
+   "author": "ישיבת ברכת משה",
+   "count": 15
+  },
+  {
+   "feed": "https://feeds.redcircle.com/15f782d1-8946-4d9e-be1e-17512a2c8875",
+   "name": "אזי בימי חשמנים | הרב צבי הבר",
+   "author": "ישיבת ברכת משה",
+   "count": 13
+  },
+  {
+   "feed": "https://feeds.redcircle.com/425613e8-e01a-40e2-8213-6a5794f74d49",
+   "name": "הכנה השקפתית לצבא | הרב יצחק שילת",
+   "author": "ישיבת ברכת משה",
+   "count": 13
+  },
+  {
+   "feed": "https://feeds.redcircle.com/7b799e92-6089-4324-86ba-04a5d4bf9ea9",
+   "name": "מסילות בלבבם - הרב הבר",
+   "author": "ישיבת ברכת משה",
+   "count": 13
+  },
+  {
+   "feed": "https://feeds.redcircle.com/c603fd03-371b-4d9a-ac65-c0576e835501",
+   "name": "שפת אמת למועדים - הרב אפי ולץ",
+   "author": "ישיבת ברכת משה",
+   "count": 12
+  },
+  {
+   "feed": "https://feeds.redcircle.com/2ae954b5-5290-4722-b3cf-1322960088ab",
+   "name": "מלחמות יהושע - הרב צבי הבר",
+   "author": "ישיבת ברכת משה",
+   "count": 12
+  },
+  {
+   "feed": "https://feeds.redcircle.com/283761a3-6883-46ab-8163-337291bce484",
+   "name": "במעגל השנה עם הרמב\"ם - הרב יואב פלדמן",
+   "author": "ישיבת ברכת משה",
+   "count": 12
+  },
+  {
+   "feed": "https://feeds.redcircle.com/ac7fdb23-ba9c-4e97-8a39-8b58e26008b7",
+   "name": "מהר\"ל - נתיב הלשון | הרב בצלאל דניאל",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 12
+  },
+  {
+   "feed": "https://feeds.redcircle.com/aa2b0ff7-bf78-4ede-a87d-1e4b28c12f5c",
+   "name": "פרשת שבוע - הרב אלישע אבינר",
+   "author": "ישיבת ברכת משה",
+   "count": 11
+  },
+  {
+   "feed": "https://feeds.redcircle.com/5c24dc48-c565-49ac-b02a-af3fc02d522d",
+   "name": "שיחות שבועיות תשפ\"ז ברכת משה",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 11
+  },
+  {
+   "feed": "https://feeds.redcircle.com/26e8f8e5-5f83-4943-aad4-7294ae736e5d",
+   "name": "שערי תשובה | רה\"י הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 10
+  },
+  {
+   "feed": "https://feeds.redcircle.com/29d0795e-9a50-4ad1-86cd-ea290b3bdbbf",
+   "name": "פרשה ומדרשה | רה\"י הרב יצחק שילת",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.redcircle.com/7db741bb-39d2-4e0b-a304-ecc7e7cab8ba",
+   "name": "תקראו אותם - חנוכה",
+   "author": "ישיבת ברכת משה",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.redcircle.com/02be015d-c5ab-4331-ac63-bee26f40c37f",
+   "name": "הרב ישי אנגלמן - עשר דקות של עיון - סוכות",
+   "author": "ישיבת ברכת משה",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.redcircle.com/d2dab3b5-0035-4b71-a4c8-9229de24d4cc",
+   "name": "הסידור כהלכה - הרב אליהו ליפשיץ",
+   "author": "ישיבת ברכת משה",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.redcircle.com/69aea86f-e525-48e5-a93a-5dac911df15c",
+   "name": "חוג הראי\"ה | הרב צמח הלפרין",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.redcircle.com/8a414487-85e8-4821-83c0-f36127c1440b",
+   "name": "אורות התורה | רה\"י הרב חיים סבתו",
+   "author": "ישיבת ברכת משה",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.redcircle.com/00862a21-c463-4d64-ac20-d0313cc63ae4",
+   "name": "אורות התשובה | רה\"י הרב יצחק שילת",
+   "author": "ישיבת ברכת משה",
+   "count": 8
+  },
+  {
+   "feed": "https://feeds.redcircle.com/6e9a2be0-d398-4e3d-bc79-686aa9a5f909",
+   "name": "תקראו אותם - מועדי אייר",
+   "author": "ישיבת ברכת משה",
+   "count": 8
+  },
+  {
+   "feed": "https://feeds.redcircle.com/bf2ba319-01fb-44df-8517-261542d48e18",
+   "name": "פוריות והלכה - הרב אריה כץ",
+   "author": "ישיבת ברכת משה",
+   "count": 7
+  },
+  {
+   "feed": "https://feeds.redcircle.com/dc1bc1a8-2bc5-4348-81f7-1fd7a0f17371",
+   "name": "רמב\"ן לשולחן השבת - הרב רן כלילי",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 7
+  },
+  {
+   "feed": "https://feeds.redcircle.com/d3be6d74-1cdf-4088-9145-f9dad805279f",
+   "name": "אורות התשובה | רה\"י הרב שילת | התשפ\"ה",
+   "author": "ישיבת ברכת משה",
+   "count": 7
+  },
+  {
+   "feed": "https://feeds.redcircle.com/3473c518-e168-499a-9c6d-ec1565166ba6",
+   "name": "תקראו אותם - פסח",
+   "author": "ישיבת ברכת משה",
+   "count": 7
+  },
+  {
+   "feed": "https://feeds.redcircle.com/263dd849-7cd1-4a33-bc85-fd0468d44440",
+   "name": "בעקבות האושפיזין",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 7
+  },
+  {
+   "feed": "https://feeds.redcircle.com/4a384a93-44fd-4649-8e63-dbba3ab2ccc7",
+   "name": "על הניסים",
+   "author": "ישיבת ברכת משה",
+   "count": 6
+  },
+  {
+   "feed": "https://feeds.redcircle.com/888b1046-6c23-4986-bcef-89eb4046ce3a",
+   "name": "אורי וישעי 8 | התשפ\"ד",
+   "author": "ישיבת ברכת משה",
+   "count": 5
+  },
+  {
+   "feed": "https://feeds.redcircle.com/256f299e-9f26-4c70-a43e-0102d27eb6b5",
+   "name": "הלכות חנוכה עם הרב גדי",
+   "author": "ישיבת ברכת משה",
+   "count": 5
+  },
+  {
+   "feed": "https://feeds.redcircle.com/5bf5b412-30ee-4bd6-bb53-95f8cdc407f4",
+   "name": "הקדמה רוחנית ללימוד עיון | הרב בצלאל דניאל",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 5
+  },
+  {
+   "feed": "https://feeds.redcircle.com/dfc8a467-6f75-4f32-b7c0-e1b79d666bdc",
+   "name": "ערבי זכרון לרב רבינוביץ'",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 5
+  },
+  {
+   "feed": "https://feeds.redcircle.com/1e440959-ea47-4e6d-a5c6-c3536b3fd902",
+   "name": "אורי וישעי 10 | התשפ\"ו",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 4
+  },
+  {
+   "feed": "https://feeds.redcircle.com/4844b695-a856-4cd5-8626-9d77288f7bc3",
+   "name": "על ראש השנה | הרב ישי אנגלמן",
+   "author": "ישיבת ברכת משה",
+   "count": 3
+  },
+  {
+   "feed": "https://feeds.redcircle.com/22c94801-cc03-4b8a-90fb-eb76ec52f00a",
+   "name": "אורי וישעי 9 | התשפ\"ה",
+   "author": "ישיבת ברכת משה",
+   "count": 3
+  },
+  {
+   "feed": "https://feeds.redcircle.com/72a3cacc-2ce1-4c89-a6e0-0abf15243081",
+   "name": "סוגיות אקטואליות באמונה - הרב רן כלילי",
+   "author": "ישיבת ברכת משה",
+   "count": 2
+  },
+  {
+   "feed": "https://feeds.redcircle.com/062bfbf3-5941-4d0c-a04e-fb8984022f6d",
+   "name": "ממדבר מתנה - פרקים מבית הישיבה",
+   "author": "ישיבת ברכת משה מעלה אדומים",
+   "count": 1
+  }
+ ],
+ "hakotel": [
+  {
+   "feed": "https://anchor.fm/s/49d82298/podcast/rss",
+   "name": "עיונים במגילת אסתר - הרב טוביה ליפשיץ - ישיבת הכותל",
+   "author": "Yeshivat Hakotel",
+   "count": 24
+  },
+  {
+   "feed": "https://anchor.fm/s/4ac6f47c/podcast/rss",
+   "name": "לקראת שבת | הקשר בין ההפטרה לפרשה | הרב הדרי",
+   "author": "Yeshivat Hakotel",
+   "count": 22
+  },
+  {
+   "feed": "https://anchor.fm/s/49db44f0/podcast/rss",
+   "name": "שיעורים בכוזרי | הרב גדי שלוין",
+   "author": "Yeshivat Hakotel",
+   "count": 12
+  },
+  {
+   "feed": "https://anchor.fm/s/498f0694/podcast/rss",
+   "name": "15 Minute Fire",
+   "author": "Yeshivat Hakotel Bergman Family Leadership Program",
+   "count": 7
+  }
+ ],
+ "har-etzion": [
+  {
+   "feed": "https://rss.libsyn.com/shows/18464/destinations/12657.xml",
+   "name": "KMTT - the Torah Podcast",
+   "author": "Rabbanei Yeshivat Har Etzion",
+   "count": 1996
+  },
+  {
+   "feed": "https://anchor.fm/s/f93023e4/podcast/rss",
+   "name": "חידוש מהגוש",
+   "author": "Yeshivat Har Etzion",
+   "count": 291
+  },
+  {
+   "feed": "https://anchor.fm/s/f80bac68/podcast/rss",
+   "name": "דף יומי - בבא בתרא",
+   "author": "Yeshivat Har Etzion",
+   "count": 174
+  },
+  {
+   "feed": "https://anchor.fm/s/fbb05044/podcast/rss",
+   "name": "גושפוד - הסכתי ישיבת הר עציון",
+   "author": "Yeshivat Har Etzion",
+   "count": 152
+  },
+  {
+   "feed": "https://anchor.fm/s/1120ea8cc/podcast/rss",
+   "name": "דף יומי הר עציון - חולין",
+   "author": "Yeshivat Har Etzion",
+   "count": 139
+  },
+  {
+   "feed": "https://anchor.fm/s/f7d09704/podcast/rss",
+   "name": "תכנית הלכה | הרב ישי יסלזון",
+   "author": "Yeshivat Har Etzion",
+   "count": 137
+  },
+  {
+   "feed": "https://anchor.fm/s/f2f9df4c/podcast/rss",
+   "name": "דף יומי - בבא מציעא",
+   "author": "Yeshivat Har Etzion",
+   "count": 117
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/41a4eea33bc1457381ce986f7080c27f.xml",
+   "name": "דף יומי – בבא קמא",
+   "author": "yeshivat har etzion",
+   "count": 115
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/d7a89bd79be34bd2ae57d8ed372ae2da.xml",
+   "name": "דף יומי- יבמות",
+   "author": "ישיבת הר עציון",
+   "count": 115
+  },
+  {
+   "feed": "https://anchor.fm/s/109650270/podcast/rss",
+   "name": "דף יומי הר עציון - זבחים",
+   "author": "Yeshivat Har Etzion",
+   "count": 113
+  },
+  {
+   "feed": "https://anchor.fm/s/fefcffb8/podcast/rss",
+   "name": "דף יומי הר עציון - סנהדרין",
+   "author": "Yeshivat Har Etzion",
+   "count": 112
+  },
+  {
+   "feed": "https://anchor.fm/s/10dc66b4c/podcast/rss",
+   "name": "דף יומי הר עציון - מנחות",
+   "author": "Yeshivat Har Etzion",
+   "count": 108
+  },
+  {
+   "feed": "https://anchor.fm/s/116279374/podcast/rss",
+   "name": "אורח חיים בשנה - שיעורים עם הרב ישי יסלזון",
+   "author": "Yeshivat Har Etzion",
+   "count": 101
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/5fc560f87de0481cb4ad3e92d2f41bf2.xml",
+   "name": "דף יומי – גיטין",
+   "author": "ישיבת הר עציון",
+   "count": 87
+  },
+  {
+   "feed": "https://anchor.fm/s/11890f060/podcast/rss",
+   "name": "שניים ליום - מסיימים תנ\"ך בשנה",
+   "author": "Yeshivat Har Etzion",
+   "count": 84
+  },
+  {
+   "feed": "https://anchor.fm/s/fd761c88/podcast/rss",
+   "name": "זאת תורת ההסדר והמילואים",
+   "author": "Yeshivat Har Etzion",
+   "count": 81
+  },
+  {
+   "feed": "https://anchor.fm/s/10648c428/podcast/rss",
+   "name": "דף יומי הר עציון - עבודה זרה",
+   "author": "Yeshivat Har Etzion",
+   "count": 74
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/f7aded97358f4b7e937f63a63c083d96.xml",
+   "name": "ארכיון פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי",
+   "author": "ישיבת הר עציון",
+   "count": 74
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/331547d133254f649323ad02575cbc55.xml",
+   "name": "דף יומי – נזיר",
+   "author": "ישיבת הר עציון",
+   "count": 62
+  },
+  {
+   "feed": "https://anchor.fm/s/11761c3e0/podcast/rss",
+   "name": "דף יומי הר עציון - בכורות",
+   "author": "Yeshivat Har Etzion",
+   "count": 60
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/37d12bb6c6084f1a97c79ce8149ee396.xml",
+   "name": "דף יומי – כתובות",
+   "author": "ישיבת הר עציון",
+   "count": 60
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/7199779b152e413bb107bee488786108.xml",
+   "name": "פרשה דיגיטלית | הרב הראל ברגר",
+   "author": "ישיבת הר עציון",
+   "count": 56
+  },
+  {
+   "feed": "https://anchor.fm/s/10d9b0330/podcast/rss",
+   "name": "עיון בפרשה | הרב משה ליכטנשטיין",
+   "author": "Yeshivat Har Etzion",
+   "count": 53
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/7d2a67ff06ad4b5b8747cf2ed0800ba1.xml",
+   "name": "דף יומי – נדרים",
+   "author": "ישיבת הר עציון",
+   "count": 49
+  },
+  {
+   "feed": "https://anchor.fm/s/10462cf14/podcast/rss",
+   "name": "דף יומי הר עציון - שבועות",
+   "author": "Yeshivat Har Etzion",
+   "count": 48
+  },
+  {
+   "feed": "https://anchor.fm/s/10648e23c/podcast/rss",
+   "name": "דף יומי – סוטה",
+   "author": "ישיבת הר עציון",
+   "count": 48
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/0d50de42768b444e9ea7ceb493acb355.xml",
+   "name": "פרשה ופסיכולוגיה | הרב איתיאל גולד",
+   "author": "ישיבת הר עציון",
+   "count": 48
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/bb1f1f18059a484ba5e74bb9eccd181e.xml",
+   "name": "נושאים הלכתיים בפרשה | הרב ישי יסלזון",
+   "author": "ישיבת הר עציון",
+   "count": 47
+  },
+  {
+   "feed": "https://anchor.fm/s/10117a064/podcast/rss",
+   "name": "קדושת אביב | לימוד שבועי בספר",
+   "author": "Yeshivat Har Etzion",
+   "count": 44
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/cbd65e5302114e71ada207b632198170.xml",
+   "name": "ספר איוב | הרב משה ליכטנשטיין",
+   "author": "ישיבת הר עציון",
+   "count": 39
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/78144f827e644378b0c9086d1a7c64a4.xml",
+   "name": "הלכות שמיטה | הרב ישי יסלזון",
+   "author": "ישיבת הר עציון",
+   "count": 38
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/f621ea20917a4ad0ac9755df214adc0d.xml",
+   "name": "דף יומי- ראש השנה",
+   "author": "ישיבת הר עציון",
+   "count": 34
+  },
+  {
+   "feed": "https://anchor.fm/s/10247e174/podcast/rss",
+   "name": "דף יומי- מגילה",
+   "author": "Yeshivat Har Etzion",
+   "count": 31
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/a2e3cfa1418b43d198cd3b680c38dd51.xml",
+   "name": "דף יומי – קידושין",
+   "author": "yeshivat har etzion",
+   "count": 30
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/327e8725dbd64a5fa241fc644c9b6e58.xml",
+   "name": "דף יומי- תענית",
+   "author": "ישיבת הר עציון",
+   "count": 29
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/bb6abb93a7234f7ba680bad72fc16f5f.xml",
+   "name": "מנהגי רבותינו | הרב בנימין תבורי זצ\"ל",
+   "author": "ישיבת הר עציון",
+   "count": 29
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/261dca3b4b6140a48eb1fbffc012eeb7.xml",
+   "name": "דף יומי- מועד קטן",
+   "author": "ישיבת הר עציון",
+   "count": 28
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/8dcfbfcc2c4c44e2bea6a6fb15c7298c.xml",
+   "name": "להיות יהודי | חיי אברהם אבינו | הרב עזרא ביק",
+   "author": "ישיבת הר עציון",
+   "count": 27
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/b17e8bd05c4744cfa26608b3f2431adf.xml",
+   "name": "דף יומי- חגיגה",
+   "author": "ישיבת הר עציון",
+   "count": 25
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/579b55ed345e45abb11fb7e29b9fb78a.xml",
+   "name": "ספר שופטים | הרב מדן",
+   "author": "ישיבת הר עציון",
+   "count": 24
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/2c70857a56a24bac80d2003d24c57885.xml",
+   "name": "צו וזרוז | יומנו הרוחני של האדמו\"ר מפיאסצנה | הרב אורי יעקב בירן",
+   "author": "ישיבת הר עציון",
+   "count": 24
+  },
+  {
+   "feed": "https://anchor.fm/s/1037924b8/podcast/rss",
+   "name": "דף יומי הר עציון - מכות",
+   "author": "Yeshivat Har Etzion",
+   "count": 22
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/37e45734f9694ac6947ddddeb204fd5a.xml",
+   "name": "הגדת ישיבת הר עציון",
+   "author": "ישיבת הר עציון",
+   "count": 16
+  },
+  {
+   "feed": "https://anchor.fm/s/119f7e8dc/podcast/rss",
+   "name": "אורח חיים בשנה - ההרחבה היומית",
+   "author": "Yeshivat Har Etzion",
+   "count": 15
+  },
+  {
+   "feed": "https://anchor.fm/s/108dc35bc/podcast/rss",
+   "name": "דף יומי הר עציון - הוריות",
+   "author": "Yeshivat Har Etzion",
+   "count": 14
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/ffca11da108e41e7ab197a3722bf2e8d.xml",
+   "name": "הצעה לסדר - מ'קדש' ועד 'נרצה' עם רבני ישיבת הר עציון",
+   "author": "yeshivat har etzion",
+   "count": 14
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/287d9ed66ef34b1a8186a42dafd4bbf1.xml",
+   "name": "מוסיף והולך | חנוכה עם ישיבת הר עציון",
+   "author": "ישיבת הר עציון",
+   "count": 11
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/be6aafc8ca794b40800d05a610888eb6.xml",
+   "name": "ספר שמות עם פרופסור יונתן גרוסמן",
+   "author": "ישיבת הר עציון",
+   "count": 11
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/8ca14200a591466498f859254a448851.xml",
+   "name": "שובו אלי | רבנים מדברים תשובה",
+   "author": "ישיבת הר עציון",
+   "count": 10
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/5e422f1afc474cdf99fd76d7df1d0f1a.xml",
+   "name": "Ramban Hal HaTorah | Rav Eli Weber",
+   "author": "yeshivat har etzion",
+   "count": 9
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/54173f307d4c45eb841cdba8604043a5.xml",
+   "name": "דמותו של אליהו הנביא | הרב אמנון בזק",
+   "author": "ישיבת הר עציון",
+   "count": 9
+  },
+  {
+   "feed": "https://anchor.fm/s/11a2d5c10/podcast/rss",
+   "name": "דף יומי הר עציון - ערכין",
+   "author": "Yeshivat Har Etzion",
+   "count": 8
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/7ff2e986398746efbc82410b320f0690.xml",
+   "name": "מזמור לדוד | שבועות תשפ\"ג",
+   "author": "yeshivat har etzion",
+   "count": 8
+  },
+  {
+   "feed": "https://anchor.fm/s/11893434c/podcast/rss",
+   "name": "קריאות ספרותיות בפרשת השבוע עם פרופסור יונתן גרוסמן",
+   "author": "Yeshivat Har Etzion",
+   "count": 7
+  },
+  {
+   "feed": "https://anchor.fm/s/118e8c3f8/podcast/rss",
+   "name": "משיכות חכמה - עיון במשך חכמה",
+   "author": "Yeshivat Har Etzion",
+   "count": 7
+  },
+  {
+   "feed": "https://anchor.fm/s/f4c37e78/podcast/rss",
+   "name": "בכל דור ודור | פסח תשפ\"ד | ישיבת הר עציון",
+   "author": "Yeshivat Har Etzion",
+   "count": 7
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/3d38212ca6ee42c8b27a4ad5beb0cf56.xml",
+   "name": "ענני כבוד | סוכות עם ישיבת הר עציון",
+   "author": "ישיבת הר עציון",
+   "count": 7
+  },
+  {
+   "feed": "https://anchor.fm/s/118d58694/podcast/rss",
+   "name": "חופה וקידושין - מבית הר עציון",
+   "author": "Yeshivat Har Etzion",
+   "count": 5
+  },
+  {
+   "feed": "https://anchor.fm/s/10da635fc/podcast/rss",
+   "name": "שיעור לשישי! | הרב עזרא ביק",
+   "author": "Yeshivat Har Etzion",
+   "count": 1
+  },
+  {
+   "feed": "https://anchor.fm/s/11a2d5cd8/podcast/rss",
+   "name": "דף יומי הר עציון - מעילה",
+   "author": "Yeshivat Har Etzion",
+   "count": 1
+  },
+  {
+   "feed": "https://anchor.fm/s/11a2d5da0/podcast/rss",
+   "name": "דף יומי הר עציון - כריתות",
+   "author": "Yeshivat Har Etzion",
+   "count": 1
+  },
+  {
+   "feed": "https://anchor.fm/s/11a2d5a80/podcast/rss",
+   "name": "דף יומי הר עציון - תמורה",
+   "author": "Yeshivat Har Etzion",
+   "count": 1
+  },
+  {
+   "feed": "https://feeds.libsyn.com/18709/rss",
+   "name": "קש\"ת - קול שידורי תורה",
+   "author": "ישיבת הר עציון",
+   "count": 0
+  }
+ ],
+ "kerem-byavneh": [
+  {
+   "feed": "https://feeds.transistor.fm/49896d8d-efc4-44b7-9695-30335a032fa6",
+   "name": "כרם ביבנה - פרשת השבוע (רבנים ובוגרים)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 84
+  },
+  {
+   "feed": "https://feeds.transistor.fm/chovos-halevavos-rabbi-zvi-davidson-yeshivat-kerem-byavneh",
+   "name": "Chovos HaLevavos | Rabbi Zvi Davidson (Yeshivat Kerem B'Yavneh)",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 59
+  },
+  {
+   "feed": "https://feeds.transistor.fm/da819b48-1eb7-4eb2-9f75-33ee8d846b72",
+   "name": "כנס אסופות ה-6 | מקדש עמו ישראל",
+   "author": "ישיבת כרם ביבנה",
+   "count": 51
+  },
+  {
+   "feed": "https://feeds.transistor.fm/kerem-byavneh-parsha-podcast-b2a59c63-1f71-4ba8-b50a-ede85c584434",
+   "name": "Kerem B'Yavneh Parsha Podcast",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 47
+  },
+  {
+   "feed": "https://feeds.transistor.fm/26b1ad94-675f-4171-948e-9ef8037d687d",
+   "name": "כרם ביבנה - שיעורים מיוחדים",
+   "author": "ישיבת כרם ביבנה",
+   "count": 40
+  },
+  {
+   "feed": "https://feeds.transistor.fm/ramban-on-the-parsha-rabbi-shlomo-friedman-yeshivat-kerem-byavneh",
+   "name": "Ramban on the Parsha | Rabbi Shlomo Friedman (Yeshivat Kerem B'Yavneh)",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 32
+  },
+  {
+   "feed": "https://feeds.transistor.fm/d2354ec5-b325-4e33-98a4-00faa4895d45",
+   "name": "ספר הכוזרי | הרב יצחק דעי (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 32
+  },
+  {
+   "feed": "https://feeds.transistor.fm/b9b3c48a-a2ab-427c-8a26-ae9a5d647437",
+   "name": "שמונה פרקים לרמב\"ם | הרב יצחק ג'מאל (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 31
+  },
+  {
+   "feed": "https://feeds.transistor.fm/d008732d-edec-4dd7-a59f-0a0b1a25a927",
+   "name": "הקדמות לספרי רבותינו | הרב איתיאל סופר (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 28
+  },
+  {
+   "feed": "https://feeds.transistor.fm/e6ecdcce-5c72-4215-8e72-6f01bae24a5d",
+   "name": "Mesillas Yesharim | Rabbi Zvi Davidson (Yeshivat Kerem B'Yavneh)",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 27
+  },
+  {
+   "feed": "https://feeds.transistor.fm/shabbat-halakha-rabbi-finkelstein-yeshivat-kerem-byavneh",
+   "name": "Hilchos Shabbos | Rabbi Meir Finkelstein (Yeshivat Kerem B'Yavneh)",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 27
+  },
+  {
+   "feed": "https://feeds.transistor.fm/011102b0-a37f-4cd0-9d65-503681631b87",
+   "name": "שיעורי עיון | ישיבת כרם ביבנה",
+   "author": "ישיבת כרם ביבנה",
+   "count": 25
+  },
+  {
+   "feed": "https://feeds.transistor.fm/ee2580c7-6d79-4571-91a0-2c0012e5fc3a",
+   "name": "נ\"ך | הרב אהרן פרידמן (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 22
+  },
+  {
+   "feed": "https://feeds.transistor.fm/b0b1de6d-cec8-4327-aabc-f004c14fd32e",
+   "name": "עין אי\"ה | הרב שאול אלעזר שנלר (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 17
+  },
+  {
+   "feed": "https://feeds.transistor.fm/df7fd182-58f3-44c0-8ce4-356d34263072",
+   "name": "שיעורים מיוחדים | ישיבת כרם ביבנה גבעת זאב",
+   "author": "ישיבת כרם ביבנה גבעת זאב",
+   "count": 16
+  },
+  {
+   "feed": "https://feeds.transistor.fm/f99fb7d0-f0e0-4a9c-a90a-44f2932003a1",
+   "name": "Staff Special | Yeshivat Kerem B'Yavneh",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.transistor.fm/a3469258-3ba6-48e4-be37-1e34ff182f50",
+   "name": "מהר\"ל | הרב יצחק דעי (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.transistor.fm/15e532b7-f5e5-4fac-870a-f75519785f2c",
+   "name": "שיעורי הכולל | ישיבת כרם ביבנה גבעת זאב",
+   "author": "ישיבת כרם ביבנה גבעת זאב",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.transistor.fm/132b3921-d11c-4821-bfdf-b1c2cd88f806",
+   "name": "דרך מצוותיך | Rabbi Blachman (Yeshivat Kerem B'Yavneh)",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 8
+  },
+  {
+   "feed": "https://feeds.transistor.fm/32e90d92-862e-4cf5-9019-8e3504fa3ba7",
+   "name": "הלכה | הרב שאול אלעזר שנלר (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 8
+  },
+  {
+   "feed": "https://feeds.transistor.fm/96f90e75-3c55-434f-a6c0-ff2d6ffc3510",
+   "name": "כולל יום שלישי ושישי | ישיבת כרם ביבנה",
+   "author": "ישיבת כרם ביבנה",
+   "count": 7
+  },
+  {
+   "feed": "https://feeds.transistor.fm/d2a4b6ec-73e9-46ff-9741-44503e4f1719",
+   "name": "רמב\"ן על התורה | הרב יצחק ג׳מאל (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 7
+  },
+  {
+   "feed": "https://feeds.transistor.fm/taher-libenu-shovavim-series-rabbi-zvi-davidson-yeshivat-kerem-byavneh",
+   "name": "Taher Libenu – Shovavim Series | Rabbi Zvi Davidson (Yeshivat Kerem B'Yavneh)",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 6
+  },
+  {
+   "feed": "https://feeds.transistor.fm/7cd2c6d2-827f-4504-935d-038e02bc968a",
+   "name": "עין אי\"ה | הרב עומרי קראוס (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 5
+  },
+  {
+   "feed": "https://feeds.transistor.fm/2ae9b69a-8d67-482d-86cf-86f9b82d0dc8",
+   "name": "נתיב התשובה למהר\"ל | הרב איתיאל סופר (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 5
+  },
+  {
+   "feed": "https://feeds.transistor.fm/49ac7034-b25f-4bfb-81cd-444a30b4f1c6",
+   "name": "נושאים מרכזיים בתורת הרב קוק זצ\"ל | הרב אהרן פרידמן (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 5
+  },
+  {
+   "feed": "https://feeds.transistor.fm/718b8798-9ecf-4511-908d-4e601a5ccdd9",
+   "name": "המספד בירושלים | הרב אהרן פרידמן (ישיבת כרם ביבנה גבעת זאב)",
+   "author": "ישיבת כרם ביבנה גבעת זאב",
+   "count": 5
+  },
+  {
+   "feed": "https://feeds.transistor.fm/e1ec5b0a-3105-4dfe-aaad-196de66fadb4",
+   "name": "Bnei Beischa (Dating Series) | Rabbi Zvi Davidson (Yeshivat Kerem B'Yavneh)",
+   "author": "Yeshivat Kerem B'Yavneh",
+   "count": 4
+  },
+  {
+   "feed": "https://feeds.transistor.fm/52f8426e-3975-4eb3-9b25-0a77003ecd3a",
+   "name": "משפט התורה | הרב איתיאל סופר (ישיבת כרם ביבנה)",
+   "author": "ישיבת כרם ביבנה",
+   "count": 4
+  },
+  {
+   "feed": "https://feeds.transistor.fm/9b7aa40a-1411-44da-90c0-b3f4b1b5b54a",
+   "name": "פני הדור - מבט פנימי על דור עקבתא דמשיחא | הרב אלי שיינפלד (ישיבת כרם ב",
+   "author": "ישיבת כרם ביבנה",
+   "count": 3
+  }
+ ],
+ "otniel": [
+  {
+   "feed": "http://rss.castbox.fm/everest/4f8ca6ba49a0403d84931e7f45b4041f.xml",
+   "name": "תורות מבית הועד | שיעורים מוקלטים עתניאל",
+   "author": "ישיבת עתניאל",
+   "count": 220
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/d733696119904c2a90aa563d42f30fe8.xml",
+   "name": "במעגל השנה | שיעורים מוקלטים עתניאל",
+   "author": "ישיבת עתניאל",
+   "count": 106
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/dab26606f05d469483f411c4f4b4a016.xml",
+   "name": "מתוך לימוד העיון | שיעורים מוקלטים עתניאל",
+   "author": "ישיבת עתניאל",
+   "count": 57
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/1fbff8956798404c945a572c041327fd.xml",
+   "name": "נפלאות מתורתך - הרב רא\"ם הכהן",
+   "author": "ישיבת עתניאל",
+   "count": 50
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/2e8186eda03542e3a483bb24aa46d8d5.xml",
+   "name": "אקשיבה - תורה וחיים שמחוץ לכתלים | הרב רא\"ם הכהן",
+   "author": "ישיבת עתניאל",
+   "count": 39
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/a6ed8cc69be24715ad14cac4e3fc8f7f.xml",
+   "name": "פרשת שבוע - ד\"ר יושי פרג'ון",
+   "author": "ישיבת עתניאל",
+   "count": 35
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/ae2badf069e747359df17380224aee6a.xml",
+   "name": "יארצייט - דמויות מפתח ביהדות",
+   "author": "ישיבת עתניאל",
+   "count": 32
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/84fafab3d3f94793af6d01d85c677ea6.xml",
+   "name": "תולדות התנועה החסידית - הרב בני קלמנזון",
+   "author": "ישיבת עתניאל",
+   "count": 29
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/b21a923f5be84c12bc7415ba9db6bfa7.xml",
+   "name": "מדברים בניגון | הרב בני קלמנזון",
+   "author": "ישיבת עתניאל",
+   "count": 24
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/d9f05b1b395d42be83cfb4eacdc4a4b9.xml",
+   "name": "שורש - הרב רא\"ם הכהן",
+   "author": "ישיבת עתניאל",
+   "count": 24
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/75a2126d085448b19c25c052d96c2d9d.xml",
+   "name": "קריאות בספר תהילים - הרב אלקנה שרלו",
+   "author": "ישיבת עתניאל",
+   "count": 22
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/7c1a3144a36d408ebca6496ad6a3eba5.xml",
+   "name": "מקשיבים לזמן | הרב מתניה שטרנברג והרב אמנון דוקוב",
+   "author": "ישיבת עתניאל",
+   "count": 20
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/16bc257e784049d8b60ac692d55265c1.xml",
+   "name": "אמונה תודעה וזמן - הרב אמנון דוקוב",
+   "author": "ישיבת עתניאל, הר חברון",
+   "count": 17
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/8f46e78b1a2947319b24c43f0b0eae39.xml",
+   "name": "על נבואה ותודעה - ד\"ר יושי פרג'ון",
+   "author": "ישיבת עתניאל",
+   "count": 12
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/0e0f8b1798ed4fbaa8e504eb635362cf.xml",
+   "name": "קריאות בספר משלי - הרב אלקנה שרלו",
+   "author": "ישיבת עתניאל",
+   "count": 10
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/aefcbc2526574b9fbeadbf4121d08d72.xml",
+   "name": "יהדות ומדיטציה | הרב אייל אלפיה",
+   "author": "ישיבת עתניאל",
+   "count": 10
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/670fe8a210a44e42b9b5cfe508f29a29.xml",
+   "name": "מבט של  שפע - קריאה בספר דברים",
+   "author": "ישיבת עתניאל",
+   "count": 10
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/56742c75a9bc41819e2f9e477851e1fd.xml",
+   "name": "סולמות אל האלוקים - הרב אמנון דוקוב",
+   "author": "ישיבת עתניאל",
+   "count": 6
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/0238557c140948d8ab5473f85614a141.xml",
+   "name": "יהדות ופמיניזם - הרב אמנון דוקוב",
+   "author": "ישיבת עתניאל",
+   "count": 5
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/ca0958ba88ee4a05bd9db86442f8ef97.xml",
+   "name": "מחשבת השביעית | הרב אלחנן שרלו",
+   "author": "ישיבת עתניאל",
+   "count": 5
+  }
+ ],
+ "tekoa": [
+  {
+   "feed": "https://pinecast.com/feed/https-www-yeshivatekoa-org",
+   "name": "דף יומי: ישיבת תקוע",
+   "author": "דף יומי מישיבת תקוע",
+   "count": 2000
+  },
+  {
+   "feed": "https://pinecast.com/feed/tora-or",
+   "name": "תורה אור",
+   "author": "ישיבת תקוע",
+   "count": 371
+  },
+  {
+   "feed": "https://pinecast.com/feed/tanaimveemoraim2",
+   "name": "אישים בתלמוד || סבב שני",
+   "author": "ישיבת תקוע",
+   "count": 178
+  },
+  {
+   "feed": "https://pinecast.com/feed/rambam-bekviuta",
+   "name": "רמב\"ם בקביעותא - עם הרב דוד פיאלקוף",
+   "author": "ישיבת תקוע",
+   "count": 145
+  },
+  {
+   "feed": "https://pinecast.com/feed/tanaimveemoraim",
+   "name": "אישים בתלמוד",
+   "author": "ישיבת תקוע",
+   "count": 141
+  },
+  {
+   "feed": "https://pinecast.com/feed/mishna",
+   "name": "משנה בקביעותא",
+   "author": "ישיבת תקוע",
+   "count": 122
+  },
+  {
+   "feed": "https://pinecast.com/feed/hayey-olam",
+   "name": "חיי עולם",
+   "author": "ישיבת תקוע",
+   "count": 85
+  },
+  {
+   "feed": "https://pinecast.com/feed/tanyapodcast",
+   "name": "התניא המבואר עם דוד שמחון",
+   "author": "ישיבת תקוע",
+   "count": 74
+  },
+  {
+   "feed": "https://pinecast.com/feed/likutei-moharan",
+   "name": "ליקוטי מוהר\"ן",
+   "author": "ישיבת תקוע",
+   "count": 65
+  },
+  {
+   "feed": "https://pinecast.com/feed/oneaday",
+   "name": "אחת ביום || עיון יומי במשנה",
+   "author": "ישיבת תקוע",
+   "count": 61
+  },
+  {
+   "feed": "https://pinecast.com/feed/a-place-at-the-table",
+   "name": "מקום בשולחן",
+   "author": "ישיבת תקוע",
+   "count": 31
+  },
+  {
+   "feed": "https://pinecast.com/feed/nothing-new-under-the-sun",
+   "name": "אין חדש תחת השמש",
+   "author": "ישיבת תקוע",
+   "count": 26
+  },
+  {
+   "feed": "https://pinecast.com/feed/hachana",
+   "name": "הכנה לחגים",
+   "author": "ישיבת תקוע",
+   "count": 23
+  },
+  {
+   "feed": "https://pinecast.com/feed/parshanuthatalmud",
+   "name": "פרשנות התלמוד לדורותיה",
+   "author": "ישיבת תקוע",
+   "count": 20
+  },
+  {
+   "feed": "https://pinecast.com/feed/the-rose",
+   "name": "The Thirteen Petalled Rose",
+   "author": "ישיבת תקוע",
+   "count": 12
+  },
+  {
+   "feed": "https://pinecast.com/feed/yeshivatekoa",
+   "name": "תא שמע: פודקאסט הכנה לבגרות בגמרא",
+   "author": "ישיבת תקוע",
+   "count": 12
+  },
+  {
+   "feed": "https://pinecast.com/feed/parshanut-agada",
+   "name": "מבוא לפרשנות האגדה",
+   "author": "ישיבת תקוע",
+   "count": 11
+  },
+  {
+   "feed": "https://pinecast.com/feed/chagim",
+   "name": "חגים עם הרב שטיינזלץ",
+   "author": "Yeshivat Tekoa",
+   "count": 9
+  },
+  {
+   "feed": "https://pinecast.com/feed/rose",
+   "name": "מסביב לשושנה",
+   "author": "ישיבת תקוע",
+   "count": 8
+  },
+  {
+   "feed": "https://pinecast.com/feed/claleypsika",
+   "name": "מבוא לספרי השולחן ערוך והרמ\"א",
+   "author": "ישיבת תקוע",
+   "count": 8
+  },
+  {
+   "feed": "https://pinecast.com/feed/digital-yeshivatekoa-org",
+   "name": "השיעור השבועי ברמב\"ם היומי",
+   "author": "ישיבת תקוע",
+   "count": 7
+  },
+  {
+   "feed": "https://pinecast.com/feed/vanitefilati",
+   "name": "ואני תפילתי",
+   "author": "ישיבת תקוע",
+   "count": 2
+  }
+ ],
+ "netivot": [
+  {
+   "feed": "https://anchor.fm/s/e3c95674/podcast/rss",
+   "name": "דרך רוז’ין - עם הרב שמעון ישראלי",
+   "author": "ישיבת ההסדר 'אהבת ישראל' נתיבות",
+   "count": 5
+  }
+ ],
+ "ramat-gan": [
+  {
+   "feed": "https://www.spreaker.com/show/5263531/episodes/feed",
+   "name": "ישיבת רמת גן- צפרא טבא",
+   "author": "ישיבת רמת גן",
+   "count": 401
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5639798/episodes/feed",
+   "name": "טעמו כי טוב ה' - ישיבת רמת גן - הרב שלומי שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 254
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5655433/episodes/feed",
+   "name": "ישיבת רמת גן- שיעורי הרב גד ונקרט",
+   "author": "ישיבת רמת גן",
+   "count": 148
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5728684/episodes/feed",
+   "name": "ישיבת רמת גן - שיעורי הרב דודי דודקביץ - פרשת שבוע ומועדים",
+   "author": "ישיבת רמת גן",
+   "count": 122
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6483664/episodes/feed",
+   "name": "עולת ראיה - הדרכת התפילה | הרב יהושע שפירא | ישיבת רמת גן",
+   "author": "ישיבת רמת גן",
+   "count": 52
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5358172/episodes/feed",
+   "name": "ישיבת רמת גן - אל ה' ואל טובו - הרב יהושע שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 51
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5834476/episodes/feed",
+   "name": "מ\"טמוני הספירה | סדרה יומית לספירת העומר | 48 קנייני תורה | ישיבת רמת גן",
+   "author": "ישיבת רמת גן",
+   "count": 49
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5357509/episodes/feed",
+   "name": "ישיבת רמת גן- דעת אלוקים - הרב יהושע שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 49
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6783795/episodes/feed",
+   "name": "עבודת אלוקים | הרב יהושע שפירא | ישיבת רמת גן",
+   "author": "ישיבת רמת גן",
+   "count": 48
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5731524/episodes/feed",
+   "name": "ישיבת רמת גן - הרב בנימין רוזנצוויג - פרשת שבוע ומועדים",
+   "author": "ישיבת רמת גן",
+   "count": 46
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5405230/episodes/feed",
+   "name": "ישיבת רמת גן - אגדתא - הרב בן ציון אלגאזי",
+   "author": "ישיבת רמת גן",
+   "count": 44
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5712171/episodes/feed",
+   "name": "ישיבת רמת גן - ליקוטי מוהר\"ן - הרב יהושע שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 40
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5662436/episodes/feed",
+   "name": "ישיבת רמת גן - אורות התשובה - \"צור עולמים\" הרב יהושע שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 38
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6804394/episodes/feed",
+   "name": "דרכי חיים - הרב בן ציון אלגאזי",
+   "author": "ישיבת רמת גן",
+   "count": 29
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6675113/episodes/feed",
+   "name": "ישיבת רמת גן - ספר הכוזרי - הרב שלומי שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 26
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6847451/episodes/feed",
+   "name": "שיעורים מיוחדים",
+   "author": "ישיבת רמת גן",
+   "count": 25
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6784542/episodes/feed",
+   "name": "אל ה' ואל טובו - סבב תשפ\"ו - הרב יהושע שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 17
+  },
+  {
+   "feed": "https://www.spreaker.com/show/5892457/episodes/feed",
+   "name": "בכל לבבך | עיון בעבודת ה' | הפודקאסט",
+   "author": "ישיבת רמת גן",
+   "count": 16
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6100280/episodes/feed",
+   "name": "ישיבת רמת גן - צדקת הצדיק - הרב יהושע",
+   "author": "ישיבת רמת גן",
+   "count": 14
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6821120/episodes/feed",
+   "name": "שו\"ת אהלי יעקב | סוגיות בכולל הלכה | מו\"ר הרב יעקב אריאל שליט\"א",
+   "author": "ישיבת רמת גן",
+   "count": 14
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6843939/episodes/feed",
+   "name": "שיחות לפרשת השבוע - הרב יהושע שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 10
+  },
+  {
+   "feed": "https://www.spreaker.com/show/6729001/episodes/feed",
+   "name": "אורות התשובה - חשבון נפש מדליק - הרב יהושע שפירא",
+   "author": "ישיבת רמת גן",
+   "count": 5
+  }
+ ],
+ "or-etzion": [
+  {
+   "feed": "https://anchor.fm/s/eb5e3684/podcast/rss",
+   "name": "בחיל וברוח - הלימוד היומי",
+   "author": "המכון התורני אור עציון",
+   "count": 95
+  },
+  {
+   "feed": "https://anchor.fm/s/4b959fe8/podcast/rss",
+   "name": "הפנינה השבועית מאת מו\"ר הרב חיים דרוקמן",
+   "author": "הישיבה הגבוהה אור עציון",
+   "count": 3
+  }
+ ],
+ "beit-el": [
+  {
+   "feed": "https://anchor.fm/s/fc01cd98/podcast/rss",
+   "name": "שיחות לחגים ומועדים - רבני הישיבה",
+   "author": "ישיבת בית אל",
+   "count": 11
+  }
+ ],
+ "orot-shaul": [
+  {
+   "feed": "https://anchor.fm/s/f9079af0/podcast/rss",
+   "name": "ישיבת אורות שאול - שיעורי פשט בפרשת השבוע",
+   "author": "ישיבת אורות שאול",
+   "count": 248
+  },
+  {
+   "feed": "https://anchor.fm/s/f1e315c4/podcast/rss",
+   "name": "רשו\"ת השידור עם הרב יובל שרלו",
+   "author": "ישיבת אורות שאול",
+   "count": 23
+  },
+  {
+   "feed": "https://anchor.fm/s/11284368c/podcast/rss",
+   "name": "הרב איתמר אלדר-סיפורי מעשיות",
+   "author": "ישיבת אורות שאול",
+   "count": 21
+  },
+  {
+   "feed": "https://anchor.fm/s/111b999cc/podcast/rss",
+   "name": "עשר ספירות | הרב איתמר אלדר ומתן חסידים",
+   "author": "ישיבת אורות שאול",
+   "count": 11
+  },
+  {
+   "feed": "https://anchor.fm/s/10ef6ea14/podcast/rss",
+   "name": "מגילת אסתר מדברת אלינו | הרב תמיר גרנות והרב איתמר אלדר",
+   "author": "ישיבת אורות שאול",
+   "count": 10
+  }
+ ],
+ "yeruham": [
+  {
+   "feed": "http://rss.castbox.fm/everest/3b99d9594d4e405cb4baa284b317894b.xml",
+   "name": "דף יומי במבט רחב",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 296
+  },
+  {
+   "feed": "https://anchor.fm/s/fd3ea0a0/podcast/rss",
+   "name": "חסידים שותים מזה | נגיעות חסידיות עם רה\"י הרב חיים וולפסון",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 259
+  },
+  {
+   "feed": "https://anchor.fm/s/fd4bf390/podcast/rss",
+   "name": "עיון בפרשת השבוע | הרב שמואל גלייזר",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 79
+  },
+  {
+   "feed": "https://anchor.fm/s/fb89a5d4/podcast/rss",
+   "name": "שיעור כללי",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 79
+  },
+  {
+   "feed": "https://anchor.fm/s/fe07f540/podcast/rss",
+   "name": "עולמם של אחרונים | הרב שמואל גלייזר",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 71
+  },
+  {
+   "feed": "https://anchor.fm/s/fb9137b8/podcast/rss",
+   "name": "הלכה – הרב שמואל אריאל",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 54
+  },
+  {
+   "feed": "https://anchor.fm/s/106c1aed8/podcast/rss",
+   "name": "צדקת הצדיק | הרב שי גניזי",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 42
+  },
+  {
+   "feed": "https://anchor.fm/s/10f7a9774/podcast/rss",
+   "name": "ממדבר מתנה – הפודקאסט של ישיבת ההסדר ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 39
+  },
+  {
+   "feed": "https://anchor.fm/s/c7e95e4/podcast/rss",
+   "name": "משנתו של מניטו - הרב אוריאל עיטם",
+   "author": "ישיבת ירוחם",
+   "count": 30
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/1b13393395124b06b985ed022b72d1aa.xml",
+   "name": "והגדת | מתכוננים לפסח עם ישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 17
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/a41993e37c8a4eabb063ef448e1405c2.xml",
+   "name": "ממדבר מתנה",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 17
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/b950a649366343338c9770245a838ba1.xml",
+   "name": "שערים לפרשני המקרא | הרב אוריאל עיטם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 15
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/5de357846eed42df9a2ce85a67baa631.xml",
+   "name": "על פתח ביתו מבחוץ | חנוכה בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 12
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/3e54e492b8ea4f24936d0f8bdebc7874.xml",
+   "name": "איש ואיש | פורים בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 10
+  },
+  {
+   "feed": "https://anchor.fm/s/fef5e3cc/podcast/rss",
+   "name": "בזמן הזה | חנוכה בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 9
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/b130ec8fb5bf4defa49318b4c2aa04c4.xml",
+   "name": "ועלהו לא ייבול | רבני ישיבת ירוחם משוחחים על לימוד תורה",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 8
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/18e785c5d13c4b6bb239128f09ca18d7.xml",
+   "name": "פותח שערים | מתכוננים לתפילת מעריב",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 8
+  },
+  {
+   "feed": "https://anchor.fm/s/10974edd4/podcast/rss",
+   "name": "באור פניך יהלכון - חגי תשרי בישיבת ההסדר בירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 7
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/6032ce427bef4d5a81cc69fdff465596.xml",
+   "name": "מעט מן האור | חנוכה בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 7
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/d50325307f554e38a3f563bb4364f84b.xml",
+   "name": "נהפוך הוא | פורים בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 7
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/1fac906678bf4635b05f0adce15f0115.xml",
+   "name": "והבאתי – ימי הספירה במבט גאולי | ספירת העומר בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 7
+  },
+  {
+   "feed": "http://rss.castbox.fm/everest/d7d707e8bfb84980a1e77418bcf78ee9.xml",
+   "name": "שביעית שלנו | שנת שמיטה בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 6
+  },
+  {
+   "feed": "https://anchor.fm/s/c7f2c48/podcast/rss",
+   "name": "עולמם של ראשונים - הרב שמואל גלייזר",
+   "author": "ישיבת ירוחם",
+   "count": 6
+  },
+  {
+   "feed": "https://anchor.fm/s/c7f0d6c/podcast/rss",
+   "name": "מורה נבוכים - הרב שי גניזי",
+   "author": "ישיבת ירוחם",
+   "count": 5
+  },
+  {
+   "feed": "https://anchor.fm/s/101f134c8/podcast/rss",
+   "name": "דורש טוב – מגילת אסתר לאור המדרש | פורים בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 3
+  },
+  {
+   "feed": "https://anchor.fm/s/fb6ae4c8/podcast/rss",
+   "name": "ונסלח – על סליחה והתחדשות",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 3
+  },
+  {
+   "feed": "https://anchor.fm/s/fc62dae8/podcast/rss",
+   "name": "מבית ומחוץ – על הבית שבחזית ובעורף | סוכות בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 2
+  },
+  {
+   "feed": "https://anchor.fm/s/10112e4ac/podcast/rss",
+   "name": "מטוב הארץ | ט\"ו בשבט בישיבת ירוחם",
+   "author": "ישיבת ההסדר ירוחם",
+   "count": 1
+  }
+ ],
+ "heichal-eliyahu": [
+  {
+   "feed": "https://anchor.fm/s/d7f408e4/podcast/rss",
+   "name": "טהרת המשפחה/הרב שאול דוד בוצ'קו",
+   "author": "ישיבת היכל אליהו כוכב יעקב",
+   "count": 12
+  }
+ ],
+ "har-bracha": [
+  {
+   "feed": "https://anchor.fm/s/85f786b0/podcast/rss",
+   "name": "הפנינה היומית - הלכה יומית מפניני הלכה",
+   "author": "ישיבת הר ברכה",
+   "count": 1477
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss.xml",
+   "name": "פניני הלכה - כל הספרים",
+   "author": "ישיבת הר ברכה",
+   "count": 185
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_Kosher_A._Flora_and_fauna.xml",
+   "name": "פניני הלכה - כשרות א הצומח והחי",
+   "author": "ישיבת הר ברכה",
+   "count": 38
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_Sabbath.xml",
+   "name": "פניני הלכה - שבת",
+   "author": "ישיבת הר ברכה",
+   "count": 30
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_prayer.xml",
+   "name": "פניני הלכה - תפילה",
+   "author": "ישיבת הר ברכה",
+   "count": 26
+  },
+  {
+   "feed": "https://anchor.fm/s/a6faa0b8/podcast/rss",
+   "name": "הלכות בין אדם לחברו | הרב אליעזר מלמד",
+   "author": "ישיבת הר ברכה",
+   "count": 19
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_Times.xml",
+   "name": "פניני הלכה - זמנים",
+   "author": "ישיבת הר ברכה",
+   "count": 17
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_Congratulations.xml",
+   "name": "פניני הלכה - ברכות",
+   "author": "ישיבת הר ברכה",
+   "count": 17
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_Pesach.xml",
+   "name": "פניני הלכה - פסח",
+   "author": "ישיבת הר ברכה",
+   "count": 16
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_Deadlines.xml",
+   "name": "פניני הלכה - מועדים",
+   "author": "ישיבת הר ברכה",
+   "count": 13
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/The_people_and_the_land.xml",
+   "name": "פניני הלכה - העם והארץ",
+   "author": "ישיבת הר ברכה",
+   "count": 10
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/family_purity.xml",
+   "name": "פניני הלכה - טהרת המשפחה",
+   "author": "ישיבת הר ברכה",
+   "count": 10
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_Terrible_days.xml",
+   "name": "פניני הלכה - ימים נוראים",
+   "author": "ישיבת הר ברכה",
+   "count": 10
+  },
+  {
+   "feed": "https://anchor.fm/s/addbe25c/podcast/rss",
+   "name": "הלכות צבא | הרב אליעזר מלמד",
+   "author": "ישיבת הר ברכה",
+   "count": 8
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/rss_ph_Sukkot,_Tabernacles.xml",
+   "name": "פניני הלכה - סוכות",
+   "author": "ישיבת הר ברכה",
+   "count": 8
+  },
+  {
+   "feed": "https://files.yehudae.net/ph/Shemita.xml",
+   "name": "פניני הלכה - שביעית ויובל",
+   "author": "ישיבת הר ברכה",
+   "count": 4
+  }
+ ],
+ "sdemot-neria": [
+  {
+   "feed": "https://anchor.fm/s/efe8ac5c/podcast/rss",
+   "name": "הלכות מלכים ומלחמותיהם לרמב\"ם",
+   "author": "הרב נחמיה רענן, ישיבת הבקעה שדמות נריה",
+   "count": 106
+  },
+  {
+   "feed": "https://anchor.fm/s/f2c235b0/podcast/rss",
+   "name": "ואתהלכה ברחב\"ה | רעיון חסידי בפרשת השבוע",
+   "author": "הרב נחמיה רענן, ישיבת הבקעה שדמות נריה",
+   "count": 80
+  }
+ ],
+ "maalot": [
+  {
+   "feed": "https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/feed.xml",
+   "name": "מדרש רבה | הרב יהושע ויצמן | ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 145
+  },
+  {
+   "feed": "https://yesmalot-podcast.media-384.workers.dev/maalot-iyunim-parasha/feed.xml",
+   "name": "עיונים בפרשת השבוע | הרב מנשה וינר | ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 143
+  },
+  {
+   "feed": "https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/feed.xml",
+   "name": "לחיות עם פרשת השבוע | הרב יהושע ויצמן | ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 132
+  },
+  {
+   "feed": "https://yesmalot-podcast.media-384.workers.dev/maalot-haara/feed.xml",
+   "name": "שיעורים קצרים לדרך - הארה בפרשה | הרב מנשה וינר | ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 129
+  },
+  {
+   "feed": "https://yesmalot-podcast.media-384.workers.dev/maalot-musar/feed.xml",
+   "name": "מוסר | הרב יהושע ויצמן | ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 128
+  },
+  {
+   "feed": "https://anchor.fm/s/ed2ea700/podcast/rss",
+   "name": "(ישיבת מעלות) שיחות חיזוק מהרב ויצמן למלחמת חרבות ברזל",
+   "author": "ישיבת ההסדר מעלות",
+   "count": 118
+  },
+  {
+   "feed": "https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/feed.xml",
+   "name": "שם משמואל | הרב מרדכי פרומר | ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 116
+  },
+  {
+   "feed": "https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/feed.xml",
+   "name": "שיעורים קצרים לדרך - עצות טובות לחיים טובים | הרב מאיר בזק | ישיבת מעלו",
+   "author": "ישיבת מעלות",
+   "count": 80
+  },
+  {
+   "feed": "https://anchor.fm/s/efa37c40/podcast/rss",
+   "name": "מלכים א הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 64
+  },
+  {
+   "feed": "https://anchor.fm/s/f08b1424/podcast/rss",
+   "name": "אורות ישראל - הרב ויצן ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 64
+  },
+  {
+   "feed": "https://anchor.fm/s/f044b2f4/podcast/rss",
+   "name": "איוב - הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 58
+  },
+  {
+   "feed": "https://anchor.fm/s/ecfaf568/podcast/rss",
+   "name": "קצרים -הלכות שבת הרב מיכאל אזרד (ישיבת מעלות)",
+   "author": "ישיבת ההסדר מעלות",
+   "count": 53
+  },
+  {
+   "feed": "https://anchor.fm/s/efbd0a0c/podcast/rss",
+   "name": "מלכים ב הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 51
+  },
+  {
+   "feed": "https://anchor.fm/s/ecc38664/podcast/rss",
+   "name": "קצרים - הנפש והמידות בפרשה הרב בזק (ישיבת מעלות)",
+   "author": "ישיבת ההסדר מעלות",
+   "count": 49
+  },
+  {
+   "feed": "https://anchor.fm/s/ecd64d6c/podcast/rss",
+   "name": "קצרים - משמעות השמות בתנך הרב וינר (ישיבת מעלות)",
+   "author": "ישיבת ההסדר מעלות",
+   "count": 45
+  },
+  {
+   "feed": "https://anchor.fm/s/ec858a6c/podcast/rss",
+   "name": "שמואל ב הרב וינר (ישיבת מעלות)",
+   "author": "ישיבת ההסדר מעלות",
+   "count": 45
+  },
+  {
+   "feed": "https://anchor.fm/s/f0426f44/podcast/rss",
+   "name": "תפארת ישאל - הרב פרומר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 44
+  },
+  {
+   "feed": "https://anchor.fm/s/ee190da4/podcast/rss",
+   "name": "שמואל א הרב וינר (ישיבת מעלות)",
+   "author": "ישיבת מעלות",
+   "count": 42
+  },
+  {
+   "feed": "https://anchor.fm/s/eca2a660/podcast/rss",
+   "name": "מדברים אמונה (ישיבת מעלות)",
+   "author": "ישיבת ההסדר מעלות",
+   "count": 41
+  },
+  {
+   "feed": "https://anchor.fm/s/f0b524e4/podcast/rss",
+   "name": "שופטים - הרב תמיר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 30
+  },
+  {
+   "feed": "https://anchor.fm/s/f06ae1f4/podcast/rss",
+   "name": "הכוזרי - הרב ויצמן ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 29
+  },
+  {
+   "feed": "https://anchor.fm/s/f08e2484/podcast/rss",
+   "name": "יהושע - הרב תמיר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 28
+  },
+  {
+   "feed": "https://anchor.fm/s/f0b93e1c/podcast/rss",
+   "name": "מסורת וחידוש בתנך - הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 27
+  },
+  {
+   "feed": "https://anchor.fm/s/ed1a0b9c/podcast/rss",
+   "name": "ישעיהו ירמיהו ויחזקאל הרב וינר (ישיבת מעלות)",
+   "author": "ישיבת ההסדר מעלות",
+   "count": 25
+  },
+  {
+   "feed": "https://anchor.fm/s/effd0300/podcast/rss",
+   "name": "תניא - הרב שמואל ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 24
+  },
+  {
+   "feed": "https://anchor.fm/s/f06cf854/podcast/rss",
+   "name": "חסידות לחיים - הרב בזק ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 23
+  },
+  {
+   "feed": "https://anchor.fm/s/f0b92454/podcast/rss",
+   "name": "נושאים בתנ\"ך - הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 22
+  },
+  {
+   "feed": "https://anchor.fm/s/f0b8f768/podcast/rss",
+   "name": "עזרא - הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 20
+  },
+  {
+   "feed": "https://anchor.fm/s/ef8398f8/podcast/rss",
+   "name": "עיונים בהלכה אורח חיים הרב אזרד",
+   "author": "ישיבת מעלות",
+   "count": 20
+  },
+  {
+   "feed": "https://anchor.fm/s/efbd6bb4/podcast/rss",
+   "name": "דניאל הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 17
+  },
+  {
+   "feed": "https://anchor.fm/s/effceb2c/podcast/rss",
+   "name": "קצרים - חסידות בפרשה - הרב שמואל",
+   "author": "ישיבת מעלות",
+   "count": 15
+  },
+  {
+   "feed": "https://anchor.fm/s/f017b308/podcast/rss",
+   "name": "קצרים - פשו\"ת אמונה - הרב טל ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 14
+  },
+  {
+   "feed": "https://anchor.fm/s/f0045e98/podcast/rss",
+   "name": "קצרים - בדרכי אבות - הרב מאור ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 14
+  },
+  {
+   "feed": "https://anchor.fm/s/efcf00e0/podcast/rss",
+   "name": "חסידות ועבודת ה' בפרשה הרב שמואל ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 13
+  },
+  {
+   "feed": "https://anchor.fm/s/f0ba93e8/podcast/rss",
+   "name": "הושע - הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 9
+  },
+  {
+   "feed": "https://anchor.fm/s/f0ba9d48/podcast/rss",
+   "name": "נחמיה - הרב וינר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 7
+  },
+  {
+   "feed": "https://anchor.fm/s/effcb47c/podcast/rss",
+   "name": "קצרים - עבודת המידות - הרב נועם אוסטר ישיבת מעלות",
+   "author": "ישיבת מעלות",
+   "count": 5
+  }
+ ],
+ "nof-hagalil": [
+  {
+   "feed": "https://anchor.fm/s/f84b08b8/podcast/rss",
+   "name": "הלכות ציבור | הרב יחזקאל קופלד",
+   "author": "ישיבת ההסדר נוף הגליל",
+   "count": 69
+  },
+  {
+   "feed": "https://anchor.fm/s/96927818/podcast/rss",
+   "name": "פרקי אבות | הרב דני סגליס",
+   "author": "ישיבת ההסדר נוף הגליל",
+   "count": 51
+  },
+  {
+   "feed": "https://anchor.fm/s/f8efbd90/podcast/rss",
+   "name": "שיעורים כלליים באמונה | הרב דני סגליס",
+   "author": "ישיבת ההסדר נוף הגליל",
+   "count": 44
+  },
+  {
+   "feed": "https://anchor.fm/s/faf49674/podcast/rss",
+   "name": "רגע של תשובה | הרב דני סגליס",
+   "author": "ישיבת ההסדר נוף הגליל",
+   "count": 18
+  },
+  {
+   "feed": "https://anchor.fm/s/fae02cac/podcast/rss",
+   "name": "עיון מדרש | הרב דני סגליס",
+   "author": "ישיבת ההסדר נוף הגליל",
+   "count": 16
+  },
+  {
+   "feed": "https://anchor.fm/s/7d9d93d8/podcast/rss",
+   "name": "אורות התורה | הרב דני סגליס",
+   "author": "ישיבת נוף הגליל",
+   "count": 12
+  },
+  {
+   "feed": "https://anchor.fm/s/7636a06c/podcast/rss",
+   "name": "בתוך עמי | הרב דני סגליס",
+   "author": "ישיבת נוף הגליל",
+   "count": 7
+  },
+  {
+   "feed": "https://anchor.fm/s/7d314610/podcast/rss",
+   "name": "מבוא למשנת האמת והשלום | הרב דני סגליס",
+   "author": "ישיבת נוף הגליל",
+   "count": 6
+  },
+  {
+   "feed": "https://anchor.fm/s/7e6d5f8c/podcast/rss",
+   "name": "כוזרי | הרב נפתלי וייס",
+   "author": "ישיבת נוף הגליל",
+   "count": 4
+  },
+  {
+   "feed": "https://anchor.fm/s/7cddf528/podcast/rss",
+   "name": "הבו גודל | הרב דני סגליס",
+   "author": "ישיבת נוף הגליל",
+   "count": 3
+  },
+  {
+   "feed": "https://anchor.fm/s/7e6d7f30/podcast/rss",
+   "name": "דרך ה'| הרב נפתלי וייס",
+   "author": "ישיבת נוף הגליל",
+   "count": 3
+  }
+ ],
+ "akko": [
+  {
+   "feed": "http://rss.castbox.fm/everest/2036c390af7a44c2b1ae1730a3c6de3b.xml",
+   "name": "הלכה יומית | הלכות בשר וחלב | הרב נריה פופר",
+   "author": "ישיבת ההסדר עכו",
+   "count": 30
+  }
+ ],
+ "netzer-mattai": [
+  {
+   "feed": "https://feeds.transistor.fm/c26c58e1-87d6-4ca8-9b20-6ef89013eb14",
+   "name": "ישיבת נצר מטעי באריאל | כל שיעורי הישיבה",
+   "author": "ישיבת נצר מטעי",
+   "count": 451
+  },
+  {
+   "feed": "https://feeds.transistor.fm/75f8429f-2766-4b94-8953-38f3ecb188df",
+   "name": "פרק המשניות היומי - סדר זרעים",
+   "author": "ישיבת נצר מטעי",
+   "count": 84
+  },
+  {
+   "feed": "https://feeds.transistor.fm/fecaacc9-d026-40b6-a7e8-dfe01099a459",
+   "name": "ישיבת נצר מטעי הרב ציון טוויל | פרשת שבוע",
+   "author": "ישיבת נצר מטעי",
+   "count": 84
+  },
+  {
+   "feed": "https://feeds.transistor.fm/b86dac75-7c07-4190-9d43-b70fb1796e86",
+   "name": "ישיבת נצר מטעי הרב אברהם שילר | פרשת שבוע",
+   "author": "ישיבת נצר מטעי",
+   "count": 84
+  },
+  {
+   "feed": "https://feeds.transistor.fm/6db1efb4-f22e-47e4-9ed1-29db9037ace9",
+   "name": "פרק המשניות היומי - סדר מועד",
+   "author": "ישיבת נצר מטעי",
+   "count": 79
+  },
+  {
+   "feed": "https://feeds.transistor.fm/58e16314-e485-4d43-a657-95155610d33b",
+   "name": "פרק המשניות היומי - נשים",
+   "author": "ישיבת נצר מטעי",
+   "count": 74
+  },
+  {
+   "feed": "https://feeds.transistor.fm/df3f804a-c885-49d9-b233-ac5979d078c9",
+   "name": "ישיבת נצר מטעי | הרב אברהם שילר | אורות",
+   "author": "ישיבת נצר מטעי",
+   "count": 72
+  },
+  {
+   "feed": "https://feeds.transistor.fm/22eba8d4-d370-4798-9507-fe4bf0f442f1",
+   "name": "פרק המשניות היומי - סדר נזיקין",
+   "author": "ישיבת נצר מטעי באריאל",
+   "count": 65
+  },
+  {
+   "feed": "https://feeds.transistor.fm/4fb36b98-ad7f-4429-9071-dce24cd350c2",
+   "name": "ישיבת נצר מטעי הרב אריאל שרשבסקי | נתיבות עולם",
+   "author": "ישיבת נצר מטעי",
+   "count": 65
+  },
+  {
+   "feed": "https://feeds.transistor.fm/a340af1f-a4b4-412b-8c94-bc2eb9c10259",
+   "name": "ישיבת נצר מטעי הרב אברהם שילר | מאמרי הראיה",
+   "author": "ישיבת נצר מטעי",
+   "count": 64
+  },
+  {
+   "feed": "https://feeds.transistor.fm/0f361ef5-9fdb-427a-a01c-c2f5047dcdda",
+   "name": "ישיבת נצר מטעי הרב יהושע וידר | פרשת שבוע",
+   "author": "ישיבת נצר מטעי",
+   "count": 55
+  },
+  {
+   "feed": "https://feeds.transistor.fm/73a0f409-b513-4a4e-9603-5d84a3cf3219",
+   "name": "מידות הראי\"ה | הרב יהושע וידר | ישיבת נצר מטעי",
+   "author": "ישיבת נצר מטעי",
+   "count": 44
+  },
+  {
+   "feed": "https://feeds.transistor.fm/5140d2d2-a6ce-4a12-aa20-c58a7f54044e",
+   "name": "ישיבת נצר מטעי הרב אריאל שרשבסקי | שמירת הלשון",
+   "author": "ישיבת נצר  מטעי",
+   "count": 32
+  },
+  {
+   "feed": "https://feeds.transistor.fm/f0ad3614-f4d2-44b5-8cb5-65eff7faedcb",
+   "name": "ישיבת נצר מטעי הרב אריאל שרשבסקי | עין איה",
+   "author": "ישיבת נצר מטעי",
+   "count": 25
+  },
+  {
+   "feed": "https://feeds.transistor.fm/5e5c6c58-eaa4-4cb5-b576-8d12695caac4",
+   "name": "מוסר אביך | הרב יהושע וידר",
+   "author": "ישיבת נצר מטעי באריאל",
+   "count": 24
+  },
+  {
+   "feed": "https://feeds.transistor.fm/cbb19e0f-276c-4eea-a46d-26d28bd7696e",
+   "name": "ישיבת נצר מטעי | הרב אריאל רקובר",
+   "author": "ישיבת נצר מטעי",
+   "count": 20
+  },
+  {
+   "feed": "https://feeds.transistor.fm/2a8bd17b-913f-49ae-bc01-00564473c0ab",
+   "name": "ישיבת נצר מטעי | הרב אריאל רקובר | מאמר הדור",
+   "author": "ישיבת נצר מטעי",
+   "count": 18
+  },
+  {
+   "feed": "https://feeds.transistor.fm/244de00c-3109-4bd7-8e69-0bf497492266",
+   "name": "חובת הלבבות | הרב יהושוע וידר",
+   "author": "ישיבת נצר מטעי באריאל",
+   "count": 10
+  },
+  {
+   "feed": "https://feeds.transistor.fm/21ca455a-6fe7-4b9a-b866-4eca2246ac22",
+   "name": "ישיבת נצר מטעי | שיעורי הרב יצחק בזק",
+   "author": "ישיבת נצר מטעי",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.transistor.fm/f8d54e08-4d83-4848-ba3a-4d5e701c25c6",
+   "name": "ישיבת נצר מטעי | שיעורי הרב יאיר הילר",
+   "author": "ישיבת נצר מטעי",
+   "count": 9
+  },
+  {
+   "feed": "https://feeds.transistor.fm/9d5ec4da-0cec-4fb0-9dd4-968348562c13",
+   "name": "אגדות רבא בר בר חנה | מאמרי הראי\"ה | הרב יהושע וידר",
+   "author": "ישיבת נצר מטעי באריאל",
+   "count": 8
+  },
+  {
+   "feed": "https://feeds.transistor.fm/f25fb363-c0ab-4dd8-b191-8f53d82c134d",
+   "name": "נתיב התשובה למהר\"ל | הרב אברהם שילר",
+   "author": "ישיבת נצר מטעי באריאל",
+   "count": 2
+  }
+ ]
+}
