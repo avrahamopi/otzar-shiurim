@@ -7,6 +7,18 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths-ignore:
+      - "data/discovery.json"
+      - "data/podcasts_found.json"
+      - "data/pod_match.json"
+      - "data/wp_probe.json"
+      - "data/known_sites.json"
+      - "ingest/discover.py"
+      - "ingest/podsearch.py"
+      - "ingest/probe.py"
+      - ".github/workflows/discover.yml"
+      - ".github/workflows/podsearch.yml"
+      - ".github/workflows/probe.yml"
 permissions:
   contents: write
 concurrency: { group: pages, cancel-in-progress: false }
