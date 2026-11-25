@@ -221,7 +221,7 @@ TITLE_RE = re.compile(r"<h1[^>]*>(.*?)</h1>|<title>(.*?)</title>", re.S | re.I)
 HREF_RE = re.compile(r"""href=["']([^"'#]+)["']""", re.I)
 
 
-def crawl(cfg):
+def crawl(cfg, skip=frozenset()):
     """Breadth-first crawl of one yeshiva site. cfg = {"start": [urls], "follow": regex,
     "max_pages": n}. Yields one shiur per page that links an audio file."""
     import html, time
@@ -229,7 +229,10 @@ def crawl(cfg):
     host = urllib.parse.urlparse(cfg["start"][0]).netloc
     queue, seen, n = list(cfg["start"]), set(cfg["start"]), 0
     while queue and n < cfg.get("max_pages", 1500):
-        url = queue.pop(0); n += 1
+        url = queue.pop(0)
+        if url in skip:  # lesson page already ingested on an earlier run
+            continue
+        n += 1
         try:
             body = get(url)
         except Exception:
@@ -348,7 +351,8 @@ def main():
             continue
         n = 0
         try:
-            for les in crawl(c["crawl"]):
+            done = {s_.get("src") for s_ in known.values() if s_.get("y") == yid and s_.get("src")}
+            for les in crawl(c["crawl"], done):
                 if les["a"] in have_audio or not les["title"]:
                     continue
                 s = tag(les["title"])
