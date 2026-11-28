@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אהרן פרידמן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1bf7a2c6.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אהרן פרידמן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שמואל ב פרק ד</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/dd9aeb12/f64148ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dd9aeb12/f64148ea.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב פרק ג חלק 3</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/5c077a86/1de06093.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5c077a86/1de06093.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עלייה לרגל בזמן שאין מקדש ובזמננו | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/7cfb7966/463bbb31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7cfb7966/463bbb31.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב פרק ג חלק 2</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/43add24b/c3a09dce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/43add24b/c3a09dce.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פשוטו של מקרא ומחלוקת ר"מ ור"א אם עדי חתימה או מסירה כרתי | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/e231fbd5/b257a1e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e231fbd5/b257a1e0.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב פרק ג</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/08440389/467ba782.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/08440389/467ba782.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/2e30b21d/bdd3125b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2e30b21d/bdd3125b.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גט בכתב ידו וביאור מעשה מרדכי ואסתר | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/46ffb265/bda38c9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/46ffb265/bda38c9a.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב פרק ב חלק 3</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/71a46aad/e4c19ddc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/71a46aad/e4c19ddc.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אהרן פרידמן | הווידוי ביום הכיפורים</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/baa88033/f5368cdd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/baa88033/f5368cdd.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב פרק ב חלק 2</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/27cc9aa5/0573c302.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/27cc9aa5/0573c302.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/aa9c5a33/fb942c81.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aa9c5a33/fb942c81.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענייני ראש השנה - חנה ופנינה (שמואל א, א)</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/eadc9a5f/d29334f7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eadc9a5f/d29334f7.mp3</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אהרן פרידמן | שיחה לקראת הסליחות - אלול תשפ"ו</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/ceefcb38/c8307711.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ceefcb38/c8307711.mp3</guid>
+   <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב פרק ב</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/0a7f261c/83007a6a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0a7f261c/83007a6a.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/11bf2209/16544125.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/11bf2209/16544125.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מספר השורות בגט ומשמעותו לענין הגט והלכותיו | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/7b1d4569/a9d00a67.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7b1d4569/a9d00a67.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב פרק א - קינת דוד על שאול ויהונתן</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/4439917e/f320106e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4439917e/f320106e.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/1592db35/8a3dc68d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1592db35/8a3dc68d.mp3</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב פרק א</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/84984f25/a47bdf16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/84984f25/a47bdf16.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 (כולל: הקדמת דברים להבאת רס"ל יהודה כץ הי"ד לקבורה)</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/ad405154/68da3df1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ad405154/68da3df1.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה למסכת גיטין וענינה של המשנה הראשונה | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/b2c13e0c/5afcfb9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b2c13e0c/5afcfb9a.mp3</guid>
+   <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אהרן פרידמן | שיעור פתיחה - בראשית: הרמוניה של שמיים וארץ</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/ddf61813/5cb80104.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ddf61813/5cb80104.mp3</guid>
+   <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת הריח מקורה ועניניה | מסכת ברכות | הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/4633bd86/af86c023.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4633bd86/af86c023.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת בהמה לאדם באכילה | מסכת ברכות | הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/157ef994/43d21911.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/157ef994/43d21911.mp3</guid>
+   <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מגילת רות פרק ג'</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/856feaca/630ac134.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/856feaca/630ac134.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת המוציא לחם מן הארץ | מסכת ברכות - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/c793645b/439f18bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c793645b/439f18bf.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מגילת רות פרק ב'</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/e9f24913/4ba95d52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e9f24913/4ba95d52.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר שופטים פרק כ"א</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/52244ec8/72e93a31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/52244ec8/72e93a31.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת בורא נפשות רבות | מסכת ברכות - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/635eb384/16769238.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/635eb384/16769238.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אהרן פרידמן, ראש ישיבת כרם ביבנה • משפחה גדולה בדור של גאולה - בהלכה ובאגדה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/75fb72d0/9cc56181.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75fb72d0/9cc56181.mp3</guid>
+   <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר שופטים פרק כ' (חלק 2)</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/72ae67ea/75ebcf31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/72ae67ea/75ebcf31.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מגילת רות פרק א' (חלק 2 מתוך 2)</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/54c0c3c8/65df3b47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/54c0c3c8/65df3b47.mp3</guid>
+   <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר שופטים פרק כ'</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/ddc12c43/6f68d7e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ddc12c43/6f68d7e1.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פילגש בגבעה - ספר שופטים פרק י"ט (חלק 2)</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/1a41ad51/1fe26d4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1a41ad51/1fe26d4d.mp3</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - ברכת בורא פרי הגפן ודיני יין ומיץ ענבים | מסכת ברכות - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/8baa419f/28d6acec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8baa419f/28d6acec.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פילגש בגבעה - ספר שופטים פרק י"ט | הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/e5a32a4a/d754c825.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e5a32a4a/d754c825.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מגילת רות פרק א' (חלק 1 מתוך 2)</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/918a3d1b/e28fa1f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/918a3d1b/e28fa1f2.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה ליום העצמאות | הרב אהרן פרידמן</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/ba4e3779/e9634fcc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ba4e3779/e9634fcc.mp3</guid>
+   <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקורן של ברכות הנהנין | מסכת ברכות - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/69254784/fc7e8e1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/69254784/fc7e8e1d.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לפסח - מזמור קה, חלק ב</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/c606b2ea/24fc0d45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c606b2ea/24fc0d45.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר שופטים פרק י"ח</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/0020d9bc/0f4d0593.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0020d9bc/0f4d0593.mp3</guid>
+   <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לפסח - מזמור קה, חלק א</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/1e231ffe/5af038c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1e231ffe/5af038c4.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי באמת היה התך</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/af2b2558/421e14e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/af2b2558/421e14e0.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לנר שני של חנוכה | הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/081d7cfe/b4b5e955.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/081d7cfe/b4b5e955.mp3</guid>
+   <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

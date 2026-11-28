@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב בצלאל דניאל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-deb6e42b.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב בצלאל דניאל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>יוסף הצדיק - כוח ההשפעה ומידת היסוד | הרב בצלאל דניאל</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/fb3854e6-4119-4026-92f2-028c1abae02f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/fb3854e6-4119-4026-92f2-028c1abae02f/stream.mp3</guid>
+   <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה ה' יצר את מצרים דווקא בין מדבריות? | הרב בצלאל דניאל</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b1666efb-5cc2-4f4d-b24f-a34cfa98b260/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b1666efb-5cc2-4f4d-b24f-a34cfa98b260/stream.mp3</guid>
+   <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתי התחיל הסיפור שלנו? | והגדת לבנך - תשפ"ו | הרב בצלאל דניאל</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b595f0f0-4dae-47ea-918c-0b941166809d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b595f0f0-4dae-47ea-918c-0b941166809d/stream.mp3</guid>
+   <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משביעו רעב- מרעיבו שבע | 12</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/32d4970d-6f62-4019-abe8-68409ccea20f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/32d4970d-6f62-4019-abe8-68409ccea20f/stream.mp3</guid>
+   <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך ניתנת לאדם אפשרות לחטוא? | 11</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9891911b-9e59-4dfc-a5e5-e41c9b79b3d4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9891911b-9e59-4dfc-a5e5-e41c9b79b3d4/stream.mp3</guid>
+   <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך להפוך לאדון על היצר | 10</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/da6cdb5b-294c-4f53-ab60-4fc1d2ace376/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/da6cdb5b-294c-4f53-ab60-4fc1d2ace376/stream.mp3</guid>
+   <pubDate>Sun, 08 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכרת נפש ויצר האדם | 9</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/18e61840-6cd2-42d4-9bc8-e7a90e3f53b2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/18e61840-6cd2-42d4-9bc8-e7a90e3f53b2/stream.mp3</guid>
+   <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אם החרש תחרישי - תפקיד הפרט בגאולה הכללית | הרב בצלאל דניאל</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/88783f43-639d-41ad-a64e-3ac7f07bb13f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/88783f43-639d-41ad-a64e-3ac7f07bb13f/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך להתמודד מול אדם עוין כלפיי? | 8</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3597db58-c4d2-4b14-a016-ed3e450b2e22/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3597db58-c4d2-4b14-a016-ed3e450b2e22/stream.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לדבר כשצריך | 7</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a27f7fa6-d0ed-43fb-a5b7-4d061a572449/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a27f7fa6-d0ed-43fb-a5b7-4d061a572449/stream.mp3</guid>
+   <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסוד שבבריאת הלשון | 6</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/26ddc91d-e55e-47ad-8f0d-718e05340018/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/26ddc91d-e55e-47ad-8f0d-718e05340018/stream.mp3</guid>
+   <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העומק שבהטלת קנס על הדיבור | 5</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0f05c683-7a91-46ea-b303-d6a57070252f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0f05c683-7a91-46ea-b303-d6a57070252f/stream.mp3</guid>
+   <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדיבור כחיבור א-לוהי בעולם | 4</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ae426fd0-1c7d-454a-a7e2-3704d348ddfb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ae426fd0-1c7d-454a-a7e2-3704d348ddfb/stream.mp3</guid>
+   <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדיבור כגילוי פנימי | 3</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7eee9599-44ce-4910-83c8-08a948f75263/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7eee9599-44ce-4910-83c8-08a948f75263/stream.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיב הלשון: חשיבות הלשון והדיבור | 2</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/379480cd-6266-4937-aeda-b2adc4e4dffe/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/379480cd-6266-4937-aeda-b2adc4e4dffe/stream.mp3</guid>
+   <pubDate>Sun, 11 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה | 1</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/83e732a5-268c-45f8-b772-313aa719defb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/83e732a5-268c-45f8-b772-313aa719defb/stream.mp3</guid>
+   <pubDate>Sun, 28 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העומק בלימוד - מתי ואיך? | 5</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/694e14c0-d95c-4015-a6c5-0be0df43c113/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/694e14c0-d95c-4015-a6c5-0be0df43c113/stream.mp3</guid>
+   <pubDate>Sat, 20 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיבור האדם וה' דרך העולם | 4</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7c3aa658-0294-46ae-9870-8b23df45415d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7c3aa658-0294-46ae-9870-8b23df45415d/stream.mp3</guid>
+   <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המחלוקת והעומק הא-להי בתוכה | 3</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/06838db5-0d99-4537-8be1-8d5e5f3da3bb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/06838db5-0d99-4537-8be1-8d5e5f3da3bb/stream.mp3</guid>
+   <pubDate>Sun, 07 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכרת הא-להות בפרטי הדינים | 2</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/049b7b09-f083-498b-86c1-095a6065a8a4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/049b7b09-f083-498b-86c1-095a6065a8a4/stream.mp3</guid>
+   <pubDate>Sun, 30 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד עיון - היכרות עם פעולות ה׳ בעולם | 1</title>
+   <description>הרב בצלאל דניאל · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב בצלאל דניאל</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/092a8166-4255-496e-89ef-a9d6f2fde588/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/092a8166-4255-496e-89ef-a9d6f2fde588/stream.mp3</guid>
+   <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

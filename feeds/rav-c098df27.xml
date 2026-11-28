@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב ויצן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c098df27.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב ויצן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרק ח – פסקה ט</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F40414195-55a9-7ffd-2dd3-c17a4e8a211f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F40414195-55a9-7ffd-2dd3-c17a4e8a211f.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ח – פסקה ו</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F69745823-ba55-4b4d-c731-51dcd71fb0f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F69745823-ba55-4b4d-c731-51dcd71fb0f1.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ט – פסקאות ג – ד</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F77022e80-53cd-ce23-1983-f6ef96816204.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F77022e80-53cd-ce23-1983-f6ef96816204.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>5700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ח – פסקאות ג – ה</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F63631afe-d4f1-cd6a-6851-5930989b42a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F63631afe-d4f1-cd6a-6851-5930989b42a6.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ח – פסקאות א – ב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffd8be4ad-8258-cf93-c54c-e0481b3ce11a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffd8be4ad-8258-cf93-c54c-e0481b3ce11a.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ח – פסקה א</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffe73379f-66ed-e2d6-fa9f-22cd130eb487.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffe73379f-66ed-e2d6-fa9f-22cd130eb487.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקה יט</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fa4a6d901-7017-5853-6831-a62007e544bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fa4a6d901-7017-5853-6831-a62007e544bf.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקאות יח – יט</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fad03511d-5285-3e9e-2bf1-923c9b3cc7cf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fad03511d-5285-3e9e-2bf1-923c9b3cc7cf.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקה יז</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F55789d60-7b1f-e81f-7a0e-58c3636efb67.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F55789d60-7b1f-e81f-7a0e-58c3636efb67.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקה טז</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F33dce247-eeaf-16ed-c602-b1def38669d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F33dce247-eeaf-16ed-c602-b1def38669d9.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקאות יג – טו</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F006dae4c-6a0e-1d15-df61-793cb1ec8326.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F006dae4c-6a0e-1d15-df61-793cb1ec8326.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקה יב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F82802983-e273-58f6-a610-c9e4f9a2dce4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F82802983-e273-58f6-a610-c9e4f9a2dce4.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקאות ז – ט</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F13dcd800-0915-3e8b-4d19-5615b95c30e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F13dcd800-0915-3e8b-4d19-5615b95c30e6.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקאות ו – יג</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F36963cc4-2249-0a0b-e812-a0917abffcbc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F36963cc4-2249-0a0b-e812-a0917abffcbc.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקאות ג – ה</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F6ebbd090-7dc4-4d2d-c9d8-d938a90c8771.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F6ebbd090-7dc4-4d2d-c9d8-d938a90c8771.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – פסקה ב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F9d725fa3-39f7-3829-046d-b9a37415b0f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F9d725fa3-39f7-3829-046d-b9a37415b0f9.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ו – פסקה ט</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145141/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fae4d3bb8-afb0-7fd3-cb21-b20c04fe825a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145141/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fae4d3bb8-afb0-7fd3-cb21-b20c04fe825a.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ו – פסקה ח</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fd37829fa-dcc8-51d1-e623-74d915701f0b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fd37829fa-dcc8-51d1-e623-74d915701f0b.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ו – פסקאות ו-ז</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F2ca05cde-1fde-6e37-d07e-aea2e954fbe8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F2ca05cde-1fde-6e37-d07e-aea2e954fbe8.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ו – פסקאות ד2-ה</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81145050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F168e5c27-2e73-629e-8276-d7d4259cf81d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81145050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F168e5c27-2e73-629e-8276-d7d4259cf81d.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ו – פסקאות ג-ד</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fffe5b7ce-0557-d0de-a418-b45263e2a546.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fffe5b7ce-0557-d0de-a418-b45263e2a546.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ו – פסקאות א-ב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144915/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F471b2397-bfac-d174-407d-4ed45d851e40.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144915/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F471b2397-bfac-d174-407d-4ed45d851e40.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקאות טו-טז</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F76179ab1-77f5-3b35-4d2a-b35c1cfa70ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F76179ab1-77f5-3b35-4d2a-b35c1cfa70ec.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקאות יג-יד</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fbd806f87-cbb9-3552-827a-4ac8def68ecb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fbd806f87-cbb9-3552-827a-4ac8def68ecb.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקאות יא-יב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F090820d4-6b28-aea0-78e0-c35035919dff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F090820d4-6b28-aea0-78e0-c35035919dff.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקאות ט-י</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ff753f3b5-30d1-ee6b-a167-6b4f169e3c32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ff753f3b5-30d1-ee6b-a167-6b4f169e3c32.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקה ח</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fef569acd-13f4-d4ef-0dc6-25daae59ae2b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fef569acd-13f4-d4ef-0dc6-25daae59ae2b.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקאות ו-ז</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fdd59f5e6-822d-5d8d-0079-cdee869aeaf7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fdd59f5e6-822d-5d8d-0079-cdee869aeaf7.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקה ה</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F81fd33b4-e03d-5ea8-c25a-ff18497451a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F81fd33b4-e03d-5ea8-c25a-ff18497451a2.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקה ד2</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F3a556114-d5af-7837-4f21-741d1f4e689b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F3a556114-d5af-7837-4f21-741d1f4e689b.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקה ד1</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fac99d9f1-ff73-f9d5-1a60-77ce83d0ee86.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fac99d9f1-ff73-f9d5-1a60-77ce83d0ee86.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקה ג</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fdffea935-0240-bee9-c4c0-ed9bf515e334.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fdffea935-0240-bee9-c4c0-ed9bf515e334.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה – פסקאות א-ב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F9ad9d508-1ff8-9b2c-288e-188acb22db67.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F9ad9d508-1ff8-9b2c-288e-188acb22db67.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד – פסקאות ט2-י</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fb9709ecb-2e47-e004-434d-f905ff28ab99.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fb9709ecb-2e47-e004-434d-f905ff28ab99.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד – פסקאות ח-ט</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F521ecd49-40c6-0e1b-0280-f86fb4817c1b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F521ecd49-40c6-0e1b-0280-f86fb4817c1b.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד – פסקאות ו2-ז (חסר)</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F6a0c1ebc-338f-0877-1d57-42a5e213c161.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F6a0c1ebc-338f-0877-1d57-42a5e213c161.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד – פסקה ו</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fcd958eb1-6394-7ecf-07d0-2771d7183f63.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fcd958eb1-6394-7ecf-07d0-2771d7183f63.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד – פסקאות ג-ה</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffdb99ae3-3c85-ff2c-ace6-4d97efe624b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffdb99ae3-3c85-ff2c-ace6-4d97efe624b2.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד – פסקאות א-ב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fd2084f41-d580-1a84-e661-874ce2ac07d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fd2084f41-d580-1a84-e661-874ce2ac07d4.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג – פסקאות ז-ט</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F20930233-f2ca-da2e-cad2-f6e0c39ff027.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F20930233-f2ca-da2e-cad2-f6e0c39ff027.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג – פסקאות ה-ו</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F7b64d1ee-138b-fa98-921e-0bbb904e1843.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F7b64d1ee-138b-fa98-921e-0bbb904e1843.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג – פסקה ד</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F155d0154-cab3-5d90-738d-89191dd8323a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F155d0154-cab3-5d90-738d-89191dd8323a.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג – פסקה ג</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F24e22440-4205-003c-5dcf-92f6d88598a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F24e22440-4205-003c-5dcf-92f6d88598a6.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג – פסקה ב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fad60d9a1-cba4-a797-c5ed-d90fcf4526f8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fad60d9a1-cba4-a797-c5ed-d90fcf4526f8.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג – פסקה א</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F094d482c-43fe-9c94-ead0-0f3c263610d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F094d482c-43fe-9c94-ead0-0f3c263610d8.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב – פסקה ח</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fd43259d2-066c-84ad-41c5-b38783d50b03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fd43259d2-066c-84ad-41c5-b38783d50b03.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב – פסקאות ה-ז</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144202/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F765c756d-2dce-229d-ce26-8cf19b9c8ff3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144202/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F765c756d-2dce-229d-ce26-8cf19b9c8ff3.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב – פסקה ד</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F1849de02-9415-568d-2efe-7e8b24041dff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F1849de02-9415-568d-2efe-7e8b24041dff.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב – פסקה ג2</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F51b97964-af9d-1e93-9707-fb779fc1e82e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F51b97964-af9d-1e93-9707-fb779fc1e82e.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב – פסקאות ב-ג</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144125/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F3a13dcb7-4327-c1d1-247f-72be16c54a13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144125/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F3a13dcb7-4327-c1d1-247f-72be16c54a13.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב – פסקה א</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fc3980bf4-b6dd-190d-b432-0010df557938.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fc3980bf4-b6dd-190d-b432-0010df557938.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה טו-טז</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F825fca00-c4ad-63bf-6358-75652068bc56.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F825fca00-c4ad-63bf-6358-75652068bc56.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה יד</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F6062b26c-646c-cc3b-ff85-1548976d6dac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F6062b26c-646c-cc3b-ff85-1548976d6dac.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה יג</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81144010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F29d3dc45-dce8-90f2-c02a-ebfef374629e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81144010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F29d3dc45-dce8-90f2-c02a-ebfef374629e.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקאות ט-י</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143981/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F75381526-229c-299f-8356-bbdf56d5bf4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143981/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F75381526-229c-299f-8356-bbdf56d5bf4d.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה יב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fe0cd279c-8cd1-0b29-a069-22ec2943dae0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fe0cd279c-8cd1-0b29-a069-22ec2943dae0.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה יא</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143877/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F48e2d505-eea4-dd7d-659e-ef81a13627ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143877/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F48e2d505-eea4-dd7d-659e-ef81a13627ee.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה ח</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F97edb348-1e25-4d49-41c4-75496a81f479.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F97edb348-1e25-4d49-41c4-75496a81f479.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה ז</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F7ea54763-e601-3aca-1481-bced3517ecd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F7ea54763-e601-3aca-1481-bced3517ecd2.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה ו</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffab0ea83-e962-b7fb-eaa7-7b2bc55678ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffab0ea83-e962-b7fb-eaa7-7b2bc55678ec.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה ה</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffa41182d-1d6b-8ffe-dc21-2f746fa00255.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffa41182d-1d6b-8ffe-dc21-2f746fa00255.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקה ד2</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ff937de54-e8cb-4a39-bf37-a8b306c60910.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ff937de54-e8cb-4a39-bf37-a8b306c60910.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקאות ג-ד1</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F9910edd3-b851-5311-3141-386692b4ba81.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F9910edd3-b851-5311-3141-386692b4ba81.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א – פסקאות א-ב</title>
+   <description>הרב ויצן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08b1424/podcast/play/81143432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F11e4e1c7-0b6f-5d4c-3788-4d68460a6431.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08b1424/podcast/play/81143432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F11e4e1c7-0b6f-5d4c-3788-4d68460a6431.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>אוצר השיעורים</title>
+<meta name="description" content="שיעורי תורה מכל ישיבות ההסדר, להאזנה בבית, בדרך וברכב.">
+<meta name="theme-color" content="#1A2F7A">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karantina:wght@400;700&family=Noto+Sans+Hebrew:wght@400;500;600;800&display=swap" rel="stylesheet">
+<style>
+/* VOICE everyday, warm: a car radio for Torah
+   IDEA the tuning dial of a car radio: every yeshiva is a station, topics are the numbered preset buttons
+   PICTURE the dial itself, full-bleed in tekhelet, red needle in the middle, the tuned station "on air" beneath it
+   COLOUR white ground, deep tekhelet band, pale sky tint, red needle as the one accent
+   TYPE Karantina (condensed signage) for station names and big numbers + Noto Sans Hebrew for reading
+   LAYOUT laptop: band with dial and on-air panel, then playlist with filter column; phone: dial, presets, playlist */
+:root{color-scheme:light dark;
+--paper:light-dark(#ffffff,#0d1226);--ink:light-dark(#14161c,#eef1fa);--mute:light-dark(#555c6e,#a8b0c6);
+--band:#1a2f7a;--band2:#23409e;--bandink:#ffffff;--bandmute:#b9c6f0;
+--sky:light-dark(#dde6ff,#1c2650);--rule:light-dark(#e3e6ee,#262f52);--row:light-dark(#f5f7fc,#141b36);
+--needle:#e2323e;--focus:light-dark(#e2323e,#ff8a92);--ok:light-dark(#0f7a3e,#6fdc9a)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+:root.hc{--ink:light-dark(#000,#fff);--mute:light-dark(#222,#eee);--rule:light-dark(#000,#fff)}
+:root.ul a{text-decoration:underline!important;text-underline-offset:3px}
+*{box-sizing:border-box;min-width:0}
+html{scroll-padding-top:16px}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 "Noto Sans Hebrew",Arial,sans-serif;overflow-x:clip}
+a{color:inherit}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:6px}
+[hidden]{display:none!important}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.skip{position:absolute;inset-inline-start:12px;top:-80px;background:var(--needle);color:#fff;padding:10px 16px;border-radius:8px;z-index:90;text-decoration:none;font-weight:800}
+.skip:focus{top:10px}
+.wrap{max-width:1240px;margin:0 auto;padding-inline:max(4vw,16px,env(safe-area-inset-left))}
+
+/* ---------- band: header + dial ---------- */
+.band{background:var(--band);color:var(--bandink);position:relative;overflow:hidden}
+.band::before{content:"";position:absolute;inset:0;background:radial-gradient(120% 80% at 50% 120%,var(--band2),transparent 60%);pointer-events:none}
+.top{position:relative;display:flex;align-items:center;gap:14px;min-height:72px;flex-wrap:wrap}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff}
+.logo svg{width:38px;height:38px;flex:none}
+.logo b{font:700 34px/1 Karantina,sans-serif;letter-spacing:.01em}
+.tsearch{flex:1;display:flex;align-items:center;gap:8px;max-width:520px;margin-inline-start:auto;background:#ffffff14;border:1px solid #ffffff33;border-radius:14px;padding:0 12px;min-height:48px}
+.tsearch:focus-within{background:#fff;color:var(--band);border-color:#fff}
+.tsearch svg{width:20px;height:20px;flex:none;opacity:.85}
+.tsearch input{flex:1;background:transparent;border:0;outline:0;min-height:46px;font-size:16px;color:inherit}
+.tsearch input::placeholder{color:currentColor;opacity:.7}
+.tbtn{min-height:48px;padding:0 14px;border-radius:12px;border:1px solid #ffffff40;background:transparent;color:#fff;font-weight:600;display:inline-flex;align-items:center;gap:8px;cursor:pointer;white-space:nowrap}
+.tbtn svg{width:20px;height:20px}
+.tbtn:hover{background:#ffffff14}
+.a11y{position:absolute;inset-inline-end:max(4vw,16px);top:76px;background:var(--paper);color:var(--ink);border-radius:16px;padding:16px;box-shadow:0 18px 50px #0006;z-index:60;width:min(300px,calc(100vw - 32px))}
+.a11y h2{font-size:18px;margin:0 0 8px}
+.a11y button{display:flex;justify-content:space-between;align-items:center;width:100%;min-height:48px;margin-top:6px;border:1px solid var(--rule);background:var(--paper);border-radius:12px;padding:0 14px;cursor:pointer}
+.a11y button[aria-pressed=true]{border-color:var(--band);background:var(--sky)}
+
+.hero{position:relative;padding-block:clamp(18px,3vw,34px) 0}
+.hero h1{font:700 clamp(46px,6.2vw,80px)/.95 Karantina,sans-serif;margin:0;letter-spacing:.005em;text-wrap:balance}
+.hero p{margin:8px 0 0;color:var(--bandmute);font-size:18px;max-width:52ch}
+
+/* the dial */
+.dialwrap{position:relative;margin-top:clamp(18px,3vw,30px)}
+.dial{display:flex;gap:0;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;padding-block:14px 8px;padding-inline:50%;mask-image:linear-gradient(90deg,transparent,#000 14%,#000 86%,transparent)}
+.dial::-webkit-scrollbar{display:none}
+.st{flex:none;scroll-snap-align:center;width:118px;display:grid;justify-items:center;gap:8px;background:none;border:0;color:var(--bandmute);cursor:pointer;padding:0 4px 10px;position:relative}
+.st .ticks{width:100%;height:34px;background:repeating-linear-gradient(90deg,#ffffff55 0 1px,transparent 1px 11.8px);-webkit-mask:linear-gradient(#000 0 0) bottom/100% 55% no-repeat;mask:linear-gradient(#000 0 0) bottom/100% 55% no-repeat;position:relative}
+.st .ticks::after{content:"";position:absolute;inset-inline-start:50%;bottom:0;width:2px;height:34px;background:#ffffffaa;transform:translateX(50%)}
+.st b{font:700 22px/1.05 Karantina,sans-serif;text-align:center;color:#fff;opacity:.55;min-height:46px;display:flex;align-items:flex-start;justify-content:center}
+.st small{font-size:12px;color:var(--bandmute);opacity:.8}
+.st.live b{opacity:1}
+.st.live small{color:#fff;opacity:.9}
+.st[aria-current=true] b{color:#fff;opacity:1;font-size:26px}
+.needle{position:absolute;top:0;height:50px;inset-inline-start:50%;width:4px;margin-inline-start:-2px;background:var(--needle);border-radius:2px;box-shadow:0 0 18px #e2323e99;pointer-events:none}
+.needle::before{content:"";position:absolute;top:-6px;inset-inline-start:-6px;width:16px;height:16px;border-radius:50%;background:var(--needle)}
+.dialnav{position:absolute;top:22px;display:grid;place-items:center;width:44px;height:44px;border-radius:50%;border:1px solid #ffffff40;background:var(--band);color:#fff;cursor:pointer;z-index:2}
+.dialnav.r{inset-inline-start:0}.dialnav.l{inset-inline-end:0}
+.dialnav svg{width:20px;height:20px}
+
+/* on air: the tuned station */
+.onair{position:relative;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:18px 28px;align-items:center;padding-block:18px 26px;border-top:1px solid #ffffff26;margin-top:6px}
+.onair .lbl{display:inline-flex;align-items:center;gap:8px;font-size:14px;font-weight:600;color:#fff;background:#ffffff1a;border-radius:999px;padding:3px 12px 3px 10px}
+.onair .lbl i{width:9px;height:9px;border-radius:50%;background:var(--needle);box-shadow:0 0 0 4px #e2323e33}
+.onair h2{font:700 clamp(34px,4.4vw,52px)/1 Karantina,sans-serif;margin:10px 0 4px}
+.onair .heads{color:var(--bandmute);font-size:15px}
+.onair .now{margin-top:12px;font-size:18px;font-weight:600;line-height:1.4;max-width:60ch}
+.onair .now span{display:block;font-size:15px;font-weight:400;color:var(--bandmute)}
+.onair .acts{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
+.bigplay{display:inline-flex;align-items:center;gap:12px;min-height:64px;padding:0 26px 0 22px;border-radius:999px;border:0;background:var(--needle);color:#fff;font-weight:800;font-size:19px;cursor:pointer;box-shadow:0 10px 30px #e2323e55}
+.bigplay svg{width:26px;height:26px}
+.ghostw{min-height:64px;padding:0 20px;border-radius:999px;border:1px solid #ffffff55;background:transparent;color:#fff;font-weight:600;cursor:pointer}
+.ghostw:hover{background:#ffffff14}
+
+/* presets: numbered like a car radio */
+.presets{background:var(--sky);border-bottom:1px solid var(--rule)}
+.presets .wrap{display:flex;gap:8px;overflow-x:auto;padding-block:14px;scrollbar-width:thin}
+.chip{flex:none;display:inline-flex;align-items:center;gap:10px;min-height:52px;padding:0 18px 0 8px;border-radius:14px;border:1px solid transparent;background:var(--paper);color:var(--ink);font-weight:600;cursor:pointer;box-shadow:0 1px 0 var(--rule)}
+.chip .pn{display:grid;place-items:center;width:34px;height:34px;border-radius:10px;background:var(--sky);font:700 22px/1 Karantina,sans-serif;color:var(--band)}
+:root[data-theme=dark] .chip .pn,:root:not([data-theme]) .chip .pn{color:light-dark(#1a2f7a,#b9c6f0)}
+.chip[aria-pressed=true]{background:var(--band);color:#fff;border-color:var(--band)}
+.chip[aria-pressed=true] .pn{background:var(--needle);color:#fff}
+
+/* ---------- playlist ---------- */
+main.wrap{display:grid;grid-template-columns:250px minmax(0,1fr);gap:40px;padding-block:30px 48px}
+aside.filters{position:sticky;top:16px;align-self:start;max-height:calc(100vh - 32px);overflow:auto;padding-inline-end:4px}
+.fhead{display:flex;justify-content:space-between;align-items:center}
+.fhead h2,.rhead h2{font:700 30px/1 Karantina,sans-serif;margin:0}
+fieldset{border:0;border-top:1px solid var(--rule);margin:14px 0 0;padding:14px 0 0}
+legend{float:inline-start;width:100%;font-weight:800;padding:0;margin-bottom:6px;font-size:15px}
+legend+*{clear:both}
+.opt{display:flex;align-items:center;gap:10px;min-height:42px;cursor:pointer;font-size:15px}
+.opt input{width:20px;height:20px;accent-color:var(--band);flex:none}
+.opt .n{margin-inline-start:auto;color:var(--mute);font-size:13px;font-variant-numeric:tabular-nums}
+.dot{width:10px;height:10px;border-radius:50%;flex:none}
+select{width:100%;min-height:46px;border:1px solid var(--rule);border-radius:12px;background:var(--paper);padding:0 12px;font-size:16px}
+.link{background:none;border:0;color:light-dark(#1a2f7a,#b9c6f0);font-weight:700;cursor:pointer;min-height:44px;padding:0 4px;text-decoration:underline;text-underline-offset:3px}
+.ghost.closef{display:none}
+.rhead{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px;padding-bottom:12px;border-bottom:2px solid var(--ink)}
+.rhead .count{display:block;color:var(--mute);font-size:15px;margin-top:4px}
+.sort{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.sort select{width:auto;min-height:44px}
+.playall{display:inline-flex;align-items:center;gap:8px;min-height:46px;padding:0 18px;border-radius:999px;border:0;background:var(--needle);color:#fff;font-weight:800;cursor:pointer}
+.playall svg,.ghost svg{width:18px;height:18px}
+.ghost{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:46px;min-width:46px;padding:0 14px;border-radius:999px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);font-weight:600;cursor:pointer;text-decoration:none;font-size:15px}
+.ghost[aria-pressed=true]{border-color:var(--band);background:var(--sky)}
+.openf{display:none}
+.pills{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.pills:empty{display:none}
+.pill{display:inline-flex;align-items:center;gap:6px;background:var(--sky);border:0;border-radius:999px;min-height:36px;padding:0 6px 0 12px;font-size:14px;font-weight:600;cursor:pointer}
+.pill span{display:grid;place-items:center;width:24px;height:24px;border-radius:50%;font-size:17px}
+.pill:hover span{background:var(--paper)}
+ol.list{list-style:none;margin:0;padding:0}
+.shiur{display:grid;grid-template-columns:56px minmax(0,1fr) auto;gap:16px;align-items:center;padding:16px 4px;border-bottom:1px solid var(--rule)}
+.shiur.on{background:linear-gradient(90deg,transparent,var(--sky) 30%,var(--sky) 70%,transparent)}
+.pbig{width:56px;height:56px;border-radius:50%;border:0;background:var(--band);color:#fff;display:grid;place-items:center;cursor:pointer;flex:none}
+.pbig svg{width:22px;height:22px}
+.pbig[aria-pressed=true]{background:var(--needle)}
+.shiur h3{margin:0;font-size:18px;line-height:1.4;font-weight:600}
+.meta{display:flex;flex-wrap:wrap;gap:2px 16px;color:var(--mute);font-size:14px;margin-top:4px}
+.meta b{color:var(--ink);font-weight:600}
+.tag{font-weight:600;color:light-dark(#1a2f7a,#b9c6f0)}
+.nw{white-space:nowrap}
+.res{color:var(--ok);font-weight:600}
+.side{display:flex;align-items:center;gap:6px}
+.dur{font:700 24px/1 Karantina,sans-serif;color:var(--mute);min-width:52px;text-align:center;font-variant-numeric:tabular-nums}
+.dur small{display:block;font:500 11px "Noto Sans Hebrew";margin-top:2px}
+.ico{width:46px;height:46px;border-radius:50%;border:1px solid var(--rule);background:var(--paper);display:grid;place-items:center;cursor:pointer;color:var(--ink)}
+.ico svg{width:20px;height:20px}
+.ico[aria-pressed=true]{background:var(--sky);border-color:var(--band);color:light-dark(#1a2f7a,#dde6ff)}
+.empty{padding:40px 8px;text-align:center;color:var(--mute)}
+.more{text-align:center;padding-top:14px}
+.note{font-size:13px;color:var(--mute);margin-top:18px}
+
+/* ---------- yeshivot directory ---------- */
+section.yesh{border-top:1px solid var(--rule);background:linear-gradient(var(--row),var(--paper))}
+section.yesh .wrap{padding-block:clamp(32px,5vw,64px)}
+.yesh h2{font:700 clamp(40px,5vw,60px)/1 Karantina,sans-serif;margin:0}
+.yesh .lead{color:var(--mute);margin:6px 0 0;max-width:62ch}
+.ytools{display:flex;align-items:center;gap:10px;margin:18px 0 8px}
+.ytools input{min-height:48px;border:1px solid var(--rule);border-radius:12px;background:var(--paper);padding:0 14px;font-size:16px;width:min(380px,100%)}
+.region{margin-top:26px;display:grid;grid-template-columns:150px minmax(0,1fr);gap:20px;border-top:2px solid var(--ink);padding-top:12px}
+.region h3{font:700 30px/1 Karantina,sans-serif;margin:0}
+.region h3 small{display:block;font:500 13px "Noto Sans Hebrew";color:var(--mute);margin-top:6px}
+.yrows{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,250px),1fr));gap:0 24px}
+.yrow{padding:10px 0;border-bottom:1px solid var(--rule);display:grid;gap:3px}
+.yrow b{font-size:16px}
+.yrow .sub{color:var(--mute);font-size:13px}
+.yst{font-size:13px;font-weight:600;display:flex;align-items:center;gap:6px}
+.yst i{width:8px;height:8px;border-radius:50%;background:var(--rule)}
+.yst.on{color:var(--ok)}.yst.on i{background:var(--ok)}
+.yst.ch i{background:light-dark(#1a2f7a,#b9c6f0)}
+.links{display:flex;gap:4px 14px;flex-wrap:wrap;font-size:14px}
+.links a,.links button{color:light-dark(#1a2f7a,#b9c6f0);font-weight:600;background:none;border:0;padding:4px 0;cursor:pointer;text-decoration:underline;text-underline-offset:3px;min-height:32px}
+footer{border-top:1px solid var(--rule);color:var(--mute);font-size:14px}
+footer .wrap{padding-block:26px 130px}
+
+/* ---------- player bar ---------- */
+.pbar{position:fixed;inset-inline:0;bottom:0;z-index:40;background:var(--band);color:#fff;transform:translateY(110%);transition:transform .3s;padding-bottom:env(safe-area-inset-bottom)}
+.pbar.on{transform:none}
+.pbar .wrap{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:18px;align-items:center;min-height:88px;padding-block:10px}
+.pt b{display:block;font-size:16px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pt small{display:block;font-size:13px;color:var(--bandmute);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ptime{display:flex;align-items:center;gap:10px;font-size:12px;font-variant-numeric:tabular-nums;color:var(--bandmute);margin-top:4px}
+.ptime input{flex:1;accent-color:var(--needle);height:22px}
+.pctl{display:flex;align-items:center;gap:2px}
+.pbtn{min-width:46px;min-height:46px;border-radius:50%;border:0;background:transparent;color:#fff;display:grid;place-items:center;cursor:pointer}
+.pbtn svg{width:24px;height:24px}
+.pbtn:hover{background:#ffffff1a}
+.pbtn.big{background:#fff;color:var(--band);min-width:58px;min-height:58px}
+.pbtn.txt{border-radius:12px;font:700 20px/1 Karantina,sans-serif;border:1px solid #ffffff40;min-width:54px}
+.pside{display:flex;gap:8px;align-items:center}
+.pside .tbtn{min-height:48px}
+.drivebtn{display:inline-flex;align-items:center;gap:8px;min-height:52px;padding:0 18px;border-radius:999px;border:0;background:var(--needle);color:#fff;font-weight:800;cursor:pointer;white-space:nowrap}
+.drivebtn svg{width:22px;height:22px}
+
+/* sheets & modal */
+.sheet{position:fixed;inset-inline:0;bottom:0;max-height:76vh;overflow:auto;z-index:55;background:var(--paper);border-radius:22px 22px 0 0;padding:20px max(4vw,16px) 120px;box-shadow:0 -14px 50px #0005}
+.sheet .wrap{padding:0}
+.shead{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.sheet h2{font:700 34px/1 Karantina,sans-serif;margin:0}
+.sheet p{color:var(--mute);margin:8px 0 0}
+.sheet ol{list-style:none;margin:14px 0 0;padding:0}
+.sheet li{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:8px;align-items:center;border-bottom:1px solid var(--rule);padding:10px 0}
+.sheet li.cur b{color:var(--needle)}
+.sheet li.pod{grid-template-columns:minmax(0,1fr)}
+.pod .count{display:block;color:var(--mute);font-size:14px}
+.pod .links{margin-top:6px}
+.vmodal{position:fixed;inset:0;z-index:70;background:#05081aee;display:grid;place-items:center;padding:16px}
+.vbox{width:min(980px,100%)}
+.vf{position:relative;aspect-ratio:16/9;background:#000;border-radius:14px;overflow:hidden}
+.vf iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.vfoot{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 2px;color:#fff;flex-wrap:wrap}
+.vfoot a{color:#fff;font-weight:600}
+.vfoot button{min-height:46px;padding:0 18px;border-radius:999px;border:1px solid #fff6;background:transparent;color:#fff;font-weight:600;cursor:pointer}
+.scrim{display:none}
+
+/* ---------- driving mode: one screen, huge, high contrast ---------- */
+.drive{position:fixed;inset:0;z-index:80;background:#060a1c;color:#fff;display:grid;grid-template-rows:auto 1fr auto auto;gap:clamp(10px,2.4vh,22px);padding:max(16px,env(safe-area-inset-top)) max(16px,env(safe-area-inset-right)) max(16px,env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left))}
+.dtop{display:flex;justify-content:space-between;gap:12px}
+.dtop button{min-height:64px;padding:0 24px;border-radius:18px;border:2px solid #ffffff40;background:transparent;color:#fff;font:700 28px/1 Karantina,sans-serif;cursor:pointer}
+.dtitle{align-self:center;text-align:center}
+.dtitle span{display:block;font:700 clamp(26px,3.4vw,40px)/1 Karantina,sans-serif;color:var(--needle);margin-bottom:12px}
+.dtitle b{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font-size:clamp(26px,4.4vw,46px);line-height:1.2;font-weight:800;text-wrap:balance}
+.dprog{display:grid;gap:8px}
+.dprog .bar{height:14px;border-radius:7px;background:#ffffff22;overflow:hidden}
+.dprog .bar i{display:block;height:100%;width:0;background:var(--needle)}
+.dprog .tm{display:flex;justify-content:space-between;font:700 clamp(26px,3.4vw,38px)/1 Karantina,sans-serif;color:#c9d2ec;font-variant-numeric:tabular-nums}
+.dctl{display:grid;grid-template-columns:1fr 1fr 1.7fr 1fr 1fr;gap:clamp(8px,1.6vw,16px)}
+.dctl button{min-height:clamp(96px,17vh,150px);border-radius:26px;border:0;background:#18203f;color:#fff;cursor:pointer;display:grid;place-items:center;align-content:center;gap:6px;font:700 clamp(22px,2.8vw,30px)/1 Karantina,sans-serif}
+.dctl button svg{width:clamp(36px,5.6vw,56px);height:clamp(36px,5.6vw,56px)}
+.dctl .dplay{background:var(--needle)}
+.dctl .dplay svg{width:clamp(60px,9vw,96px);height:clamp(60px,9vw,96px)}
+.dctl button:active{transform:scale(.97)}
+.dspeed{display:flex;justify-content:center;margin-top:14px}
+.dspeed button{min-height:64px;min-width:190px;border-radius:18px;border:2px solid #ffffff40;background:transparent;color:#fff;font:700 30px/1 Karantina,sans-serif;cursor:pointer}
+
+@media(max-width:900px){
+main.wrap{grid-template-columns:minmax(0,1fr)}
+.openf{display:inline-flex}
+aside.filters{position:fixed;inset-block:0;inset-inline-start:0;width:min(340px,88vw);max-height:none;background:var(--paper);z-index:58;padding:20px;transform:translateX(105%);transition:transform .25s;box-shadow:0 0 50px #0005}
+aside.filters.open{transform:none}
+.scrim.on{display:block;position:fixed;inset:0;background:#05081a88;z-index:57}
+.ghost.closef{display:inline-flex}
+}
+@media(max-width:640px){
+.top{gap:10px;padding-block:8px}
+.tsearch{order:3;flex-basis:100%;max-width:none}
+.logo{flex:1}.logo b{font-size:28px}.tbtn{padding:0 12px}
+.tbtn span{display:none}
+.st{width:96px}
+.st b{font-size:19px}
+.onair{grid-template-columns:minmax(0,1fr)}
+.onair .acts{justify-content:stretch}
+.bigplay{flex:1;justify-content:center}
+.shiur{grid-template-columns:48px minmax(0,1fr);gap:12px}
+.pbig{width:48px;height:48px}
+.side{grid-column:2;justify-content:flex-start}
+.dur{text-align:start;min-width:0}
+.region{grid-template-columns:minmax(0,1fr);gap:8px}
+.pbar .wrap{grid-template-columns:minmax(0,1fr) auto;gap:6px 10px}
+.pbar .pctl{grid-column:1/-1;order:3;justify-content:space-between}
+.pside .tbtn{display:none}
+.drivebtn{padding:0 14px}
+.dctl{grid-template-columns:1fr 1fr}
+.dctl .dplay{grid-column:1/-1;order:-1;min-height:21vh}
+.dctl button{min-height:11vh}
+.dtitle b{font-size:26px;-webkit-line-clamp:2}
+.dtop button{min-height:56px;font-size:24px}
+.dspeed button{min-height:56px}
+.drive{gap:10px}
+}
+@media(orientation:landscape) and (max-height:520px){.dtitle b{font-size:24px;-webkit-line-clamp:2}.dctl button{min-height:84px}.dspeed button{min-height:52px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+:root.still *{transition:none!important}
+
+/* video-only shiurim: visible docked YouTube player */
+.ydock{position:fixed;z-index:85;inset-inline-end:16px;bottom:112px;width:min(400px,calc(100vw - 32px));background:#05081a;border-radius:14px;overflow:hidden;box-shadow:0 18px 40px -12px #05081a99;border:1px solid #ffffff22}
+.yhead{display:flex;align-items:center;gap:10px;padding:8px 10px 8px 14px;color:#dde6ff;font-size:.85rem}
+.yhead span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.yx{background:none;border:0;color:#fff;font-size:1.1rem;width:40px;height:40px;border-radius:50%;cursor:pointer}
+.yx:hover,.yx:focus-visible{background:#ffffff1f}
+.yframe{aspect-ratio:16/9;min-height:200px;background:#000}
+.yframe iframe,#yFrame{width:100%;height:100%;display:block;border:0}
+body:has(#drive:not([hidden])) .ydock{top:max(76px,env(safe-area-inset-top));bottom:auto;inset-inline-start:50%;inset-inline-end:auto;transform:translateX(50%);width:min(420px,calc(100vw - 32px))}
+.toast{position:fixed;z-index:95;inset-inline:16px;bottom:112px;margin-inline:auto;max-width:460px;background:#e2323e;color:#fff;padding:12px 16px;border-radius:12px;font-weight:600;text-align:center}
+.kind{font-size:.75rem;padding:1px 8px;border-radius:99px;border:1px solid currentColor}
+.kind.ka{color:light-dark(#1a2f7a,#b9c6f0)}
+.kind.kv{color:var(--mute)}
+.sr{color:var(--mute);font-size:.85rem;max-width:32ch;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.hint{margin:6px 0 0;font-size:.82rem;color:var(--mute)}
+@media (max-width:640px){.ydock{inset-inline:8px;width:auto;bottom:104px}}
+</style>
+</head>
+<body>
+<a class="skip" href="#results">דילוג לרשימת השיעורים</a>
+
+<div class="band">
+  <div class="wrap">
+    <header class="top">
+      <a class="logo" href="#" aria-label="אוצר השיעורים, דף הבית">
+        <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M4 11c6-2 11-1 16 3 5-4 10-5 16-3v21c-6-2-11-1-16 3-5-4-10-5-16-3z" fill="#fff"/><path d="M20 14v21" stroke="#1a2f7a" stroke-width="1.6"/><circle cx="33" cy="8" r="5" fill="#e2323e"/><path d="M31.4 5.8v4.4l3.6-2.2z" fill="#fff"/></svg>
+        <b>אוצר השיעורים</b>
+      </a>
+      <form class="tsearch" role="search" id="sform">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="2.2" fill="none"/><path d="M15.5 15.5L21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+        <label for="q" class="sr">חיפוש שיעורים</label>
+        <input id="q" type="search" placeholder="רב, מסכת, פרשה או נושא" autocomplete="off">
+      </form>
+      <button class="tbtn" id="podTop" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="11" r="3" fill="currentColor"/><path d="M7 15a7 7 0 1110 0M4.5 17.5a10.5 10.5 0 1115 0" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/><path d="M11 15h2l.5 6h-3z" fill="currentColor"/></svg><span>פודקאסט</span></button>
+      <button class="tbtn" id="a11yBtn" type="button" aria-expanded="false" aria-controls="a11y"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="4" r="2" fill="currentColor"/><path d="M4 8l8 2 8-2M12 10v5l-3 6M12 15l3 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg><span>נגישות</span></button>
+    </header>
+    <div class="a11y" id="a11y" role="dialog" aria-label="הגדרות נגישות" hidden>
+      <h2>הגדרות נגישות</h2>
+      <button id="aSize" aria-pressed="false">הגדלת טקסט <span id="aSizeV">100%</span></button>
+      <button id="aHc" aria-pressed="false">ניגודיות גבוהה</button>
+      <button id="aUl" aria-pressed="false">הדגשת קישורים</button>
+      <button id="aStill" aria-pressed="false">עצירת אנימציות</button>
+    </div>
+
+    <section class="hero" aria-labelledby="hh">
+      <h1 id="hh">כל ישיבות ההסדר. תחנה אחת.</h1>
+      <p>מכוונים לישיבה, לוחצים האזנה, ונוסעים. השיעורים ממשיכים אחד אחרי השני.</p>
+      <div class="dialwrap">
+        <button class="dialnav r" id="dialPrev" aria-label="התחנה הקודמת"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" stroke="currentColor" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg></button>
+        <div class="dial" id="dial" role="listbox" aria-label="חוגת הישיבות" tabindex="0"></div>
+        <div class="needle" aria-hidden="true"></div>
+        <button class="dialnav l" id="dialNext" aria-label="התחנה הבאה"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7" stroke="currentColor" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg></button>
+      </div>
+      <div class="onair" id="onair" aria-live="polite"></div>
+    </section>
+  </div>
+</div>
+
+<nav class="presets" aria-label="נושאים"><div class="wrap" id="chips"></div></nav>
+
+<main class="wrap" id="results" tabindex="-1">
+  <aside class="filters" id="filters" aria-label="סינון שיעורים">
+    <div class="fhead"><h2>סינון</h2><button class="ghost closef" id="closeF" aria-label="סגירת הסינון">✕</button></div>
+    <fieldset><legend>אזור</legend><div id="fg"></div></fieldset>
+    <fieldset><legend>ישיבה</legend><div id="fy"></div></fieldset>
+    <fieldset><legend><label for="fr">רב</label></legend><select id="fr"></select></fieldset>
+    <fieldset><legend>אורך השיעור</legend><div id="fl"></div></fieldset>
+    <fieldset><legend>סוג</legend><div id="fa"></div></fieldset>
+    <fieldset><button class="link" id="clear2">ניקוי כל הסינונים</button></fieldset>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+
+  <section aria-labelledby="rh">
+    <div class="rhead">
+      <div><h2 id="rh">רשימת השמעה</h2><span class="count" id="count" aria-live="polite"></span></div>
+      <div class="sort">
+        <button class="playall" id="playAll"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4l13 8-13 8z" fill="currentColor"/></svg>השמעת הכל</button>
+        <button class="ghost" id="podBtn"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="11" r="3" fill="currentColor"/><path d="M7 15a7 7 0 1110 0" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/><path d="M11 15h2l.5 6h-3z" fill="currentColor"/></svg>פודקאסט</button>
+        <button class="ghost openf" id="openF" aria-controls="filters" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>סינון <span id="fcount"></span></button>
+        <label for="sort" class="sr">מיון</label>
+        <select id="sort"><option value="new">החדשים קודם</option><option value="short">הקצרים קודם</option><option value="long">הארוכים קודם</option><option value="az">לפי שם</option></select>
+      </div>
+    </div>
+    <div class="pills" id="pills"></div>
+    <ol class="list" id="list"></ol>
+    <p class="note" id="srcnote"></p>
+  </section>
+</main>
+
+<section class="yesh" id="yeshivot" aria-labelledby="yh">
+  <div class="wrap">
+    <h2 id="yh">כל ישיבות ההסדר</h2>
+    <p class="lead" id="ylead"></p>
+    <div class="ytools"><label for="yq" class="sr">חיפוש ישיבה</label><input id="yq" type="search" placeholder="חיפוש ישיבה או רב"></div>
+    <div id="ygrid"></div>
+  </div>
+</section>
+
+<footer><div class="wrap">
+  <p>האתר מאגד שיעורים שהישיבות מפרסמות, בהסכמתן, ומפנה תמיד למקור. רשימת הישיבות: <a href="https://hesder.org.il/%d7%99%d7%a9%d7%99%d7%91%d7%95%d7%aa-%d7%94%d7%a1%d7%93%d7%a8" target="_blank" rel="noopener">איגוד ישיבות ההסדר</a>.</p>
+  <p>האתר נבנה לפי הנחיות WCAG 2.1 ברמה AA ותקן ישראלי 5568.</p>
+</div></footer>
+
+<div class="ydock" id="yDock" role="region" aria-label="נגן וידאו" hidden>
+  <div class="yhead"><span id="yDockT"></span><button class="yx" id="yClose" aria-label="סגירת הווידאו ועצירה">✕</button></div>
+  <div class="yframe"><div id="yFrame"></div></div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<div class="pbar" id="pbar" role="region" aria-label="נגן">
+  <div class="wrap">
+    <div class="pt"><b id="pT"></b><small id="pS"></small>
+      <div class="ptime"><span id="pCur">0:00</span><input type="range" id="pSeek" min="0" max="1000" value="0" aria-label="מיקום בשיעור"><span id="pDur">0:00</span></div>
+    </div>
+    <div class="pctl">
+      <button class="pbtn" id="pPrev" aria-label="השיעור הקודם"><svg viewBox="0 0 24 24"><path d="M18 5v14l-9-7zM6 5h2v14H6z" fill="currentColor"/></svg></button>
+      <button class="pbtn" id="pBack" aria-label="אחורה 15 שניות"><svg viewBox="0 0 24 24"><path d="M12 5V2L7 6l5 4V7a6 6 0 11-6 6H4a8 8 0 108-8z" fill="currentColor"/></svg></button>
+      <button class="pbtn big" id="pPlay" aria-label="הפעלה"></button>
+      <button class="pbtn" id="pFwd" aria-label="קדימה 30 שניות"><svg viewBox="0 0 24 24"><path d="M12 5V2l5 4-5 4V7a6 6 0 106 6h2a8 8 0 11-8-8z" fill="currentColor"/></svg></button>
+      <button class="pbtn" id="pNext" aria-label="השיעור הבא"><svg viewBox="0 0 24 24"><path d="M6 5v14l9-7zM16 5h2v14h-2z" fill="currentColor"/></svg></button>
+      <button class="pbtn txt" id="pSpeed" aria-label="מהירות השמעה">1×</button>
+    </div>
+    <div class="pside">
+      <button class="tbtn" id="pQueue" aria-label="תור ההשמעה"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h13M3 12h13M3 18h8" stroke="currentColor" stroke-width="2"/><path d="M18 14v6l4-3z" fill="currentColor"/></svg><span id="qN">0</span></button>
+      <button class="drivebtn" id="pDrive"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2.4" fill="none"/><circle cx="12" cy="12" r="2.5" fill="currentColor"/><path d="M3.5 10.5h6M14.5 10.5h6M12 14.5V21" stroke="currentColor" stroke-width="2.4"/></svg>מצב נסיעה</button>
+    </div>
+  </div>
+</div>
+
+<div class="sheet" id="qSheet" role="dialog" aria-label="תור ההשמעה" hidden>
+  <div class="shead"><h2>תור ההשמעה</h2><div><button class="link" id="qClear">ניקוי התור</button> <button class="ghost" id="qClose" aria-label="סגירה">✕</button></div></div>
+  <ol id="qList"></ol>
+</div>
+<div class="sheet" id="podSheet" role="dialog" aria-label="האזנה באפליקציית פודקאסטים" hidden>
+  <div class="shead"><h2>להאזנה באפליקציה</h2><button class="ghost" id="podClose" aria-label="סגירה">✕</button></div>
+  <p>נרשמים פעם אחת, והשיעורים החדשים מגיעים לבד לטלפון, וגם למסך הרכב דרך CarPlay ו-Android Auto.</p>
+  <ol id="podList"></ol>
+</div>
+<div class="vmodal" id="vModal" role="dialog" aria-modal="true" aria-label="צפייה בשיעור" hidden>
+  <div class="vbox"><div class="vf" id="vFrame"></div>
+    <div class="vfoot"><span id="vT"></span><span><a id="vYt" href="#" target="_blank" rel="noopener">פתיחה ביוטיוב</a> <button id="vClose">סגירה</button></span></div></div>
+</div>
+<div class="drive" id="drive" role="dialog" aria-modal="true" aria-label="מצב נסיעה" hidden>
+  <div class="dtop"><button id="dExit">יציאה</button><button id="dQueueNext">הבא בתור</button></div>
+  <div class="dtitle" aria-live="polite"><span id="dS"></span><b id="dT"></b></div>
+  <div class="dprog"><div class="bar"><i id="dBar"></i></div><div class="tm"><span id="dCur">0:00</span><span id="dLeft">-0:00</span></div></div>
+  <div>
+    <div class="dctl">
+      <button id="dPrev" aria-label="השיעור הקודם"><svg viewBox="0 0 24 24"><path d="M18 5v14l-9-7zM6 5h2v14H6z" fill="currentColor"/></svg>הקודם</button>
+      <button id="dBack" aria-label="אחורה 15 שניות"><svg viewBox="0 0 24 24"><path d="M12 5V2L7 6l5 4V7a6 6 0 11-6 6H4a8 8 0 108-8z" fill="currentColor"/></svg>15 אחורה</button>
+      <button id="dPlay" class="dplay" aria-label="הפעלה"></button>
+      <button id="dFwd" aria-label="קדימה 30 שניות"><svg viewBox="0 0 24 24"><path d="M12 5V2l5 4-5 4V7a6 6 0 106 6h2a8 8 0 11-8-8z" fill="currentColor"/></svg>30 קדימה</button>
+      <button id="dNext" aria-label="השיעור הבא"><svg viewBox="0 0 24 24"><path d="M6 5v14l9-7zM16 5h2v14h-2z" fill="currentColor"/></svg>הבא</button>
+    </div>
+    <div class="dspeed"><button id="dSpeed" aria-label="מהירות השמעה">מהירות 1×</button></div>
+  </div>
+</div>
+<audio id="aud" preload="none"></audio>
+<script src="data.js?v=72f627e72b"></script>
+<script>{
+const D=window.__DATA__;
+const S=D.shiurim.map((s,i)=>({...s,id:i,r:s.r||"רבני הישיבה"}));
+const PAL=["#1a2f7a","#0f6e64","#a8322b","#6b3fa6","#8a5d00","#2b6fa3","#9b2f63","#3d6b21"];
+const order=[...new Set(S.map(s=>s.y))];
+const Y={};D.yeshivot.forEach(y=>{const i=order.indexOf(y.id);Y[y.id]={...y,c:i<0?"#7b8397":PAL[i%PAL.length]}});
+const CH=D.channels;
+const T=["גמרא","הלכה","תנ\"ך","פרשת השבוע","אמונה ומחשבה","מוסר","חסידות וקבלה","מועדים"];
+const REG_ORDER=["צפון","שרון","גוש דן","השפלה","חבל יבנה","ירושלים","בנימין","שומרון","בקעת הירדן","גוש עציון","יהודה","הר חברון","דרום"];
+const REG=[...REG_ORDER.filter(g=>D.yeshivot.some(y=>y.reg===g)),...new Set(D.yeshivot.map(y=>y.reg).filter(g=>!REG_ORDER.includes(g)))];
+const L=[["s","עד 15 דקות",d=>d<=15],["m","15 עד 45 דקות",d=>d>15&&d<=45],["l","יותר מ-45 דקות",d=>d>45]];
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const hesder=y=>"https://hesder.org.il/institute/"+encodeURIComponent(y.h);
+const ytUrl=r=>r.startsWith("UC")?`https://www.youtube.com/channel/${r}`:`https://www.youtube.com/${r}`;
+const short=n=>n.replace(/\s*–.*$/,"");
+const st={q:"",topic:"",ys:[],rg:[],r:"",len:[],ao:false,sort:"new"};
+try{Object.assign(st,JSON.parse(localStorage.getItem("osh-f2")||"{}"))}catch(e){}
+const save=()=>{try{localStorage.setItem("osh-f2",JSON.stringify(st))}catch(e){}};
+const heb=dt=>{try{return new Intl.DateTimeFormat("he-u-ca-hebrew",{day:"numeric",month:"long"}).format(new Date(dt))}catch(e){return dt}};
+const when=x=>x.yr?x.yr:(x.dt?heb(x.dt):"");
+const norm=s=>s.replace(/["'״׳]/g,"").toLowerCase();
+const byNew=(a,b)=>b.dt.localeCompare(a.dt);
+const SORTS={new:byNew,short:(a,b)=>(a.d||999)-(b.d||999),long:(a,b)=>(b.d||0)-(a.d||0),az:(a,b)=>a.t.localeCompare(b.t,"he")};
+const match=(x,skip)=>{
+ if(st.q){const q=norm(st.q).split(/\s+/).filter(Boolean);const h=norm(x.t+" "+x.r+" "+x.c+" "+Y[x.y].n+" "+(x.sr||""));if(!q.every(w=>h.includes(w)))return false}
+ if(skip!=="topic"&&st.topic&&x.c!==st.topic)return false;
+ if(skip!=="rg"&&st.rg.length&&!st.rg.includes(Y[x.y].reg))return false;
+ if(skip!=="y"&&st.ys.length&&!st.ys.includes(x.y))return false;
+ if(skip!=="r"&&st.r&&x.r!==st.r)return false;
+ if(skip!=="len"&&st.len.length&&!L.some(l=>st.len.includes(l[0])&&x.d&&l[2](x.d)))return false;
+ if(skip!=="ao"&&st.ao&&!x.a)return false;
+ return true};
+const cnt=(skip,f)=>S.filter(x=>match(x,skip)&&f(x)).length;
+const box=(name,val,label,n,on,dot)=>`<label class="opt"><input type="checkbox" name="${name}" value="${esc(val)}" ${on?"checked":""}>${dot?`<span class="dot" style="background:${dot}"></span>`:""}<span>${esc(label)}</span><span class="n">${n}</span></label>`;
+const withData=Object.keys(Y).filter(k=>S.some(s=>s.y===k));
+const PLAY='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4l13 8-13 8z" fill="currentColor"/></svg>';
+const PAUSE='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h4v16H6zM14 4h4v16h-4z" fill="currentColor"/></svg>';
+const QADD='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h12M3 12h12M3 18h7M18 13v8M14 17h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>';
+const QON='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h12M3 12h12M3 18h7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M14 17l3 3 5-6" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/></svg>';
+const VID='<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="5" width="14" height="14" rx="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 10l6-3v10l-6-3z" fill="currentColor"/></svg>';
+
+/* ---------- filters ---------- */
+function renderFilters(){
+ $("chips").innerHTML=[["","הכל"],...T.map(t=>[t,t])].map(([v,l],i)=>`<button type="button" class="chip" data-t="${esc(v)}" aria-pressed="${st.topic===v}"><span class="pn" aria-hidden="true">${i||"0"}</span>${l}</button>`).join("");
+ $("fg").innerHTML=REG.filter(g=>withData.some(k=>Y[k].reg===g)).map(g=>box("rg",g,g,cnt("rg",x=>Y[x.y].reg===g),st.rg.includes(g))).join("");
+ $("fy").innerHTML=withData.map(k=>box("y",k,short(Y[k].n),cnt("y",x=>x.y===k),st.ys.includes(k),Y[k].c)).join("");
+ const rs=[...new Set(S.filter(x=>match(x,"r")).map(x=>x.r))].sort((a,b)=>a.localeCompare(b,"he"));
+ if(st.r&&!rs.includes(st.r))rs.unshift(st.r);
+ $("fr").innerHTML=`<option value="">כל הרבנים</option>`+rs.map(r=>`<option ${r===st.r?"selected":""}>${esc(r)}</option>`).join("");
+ $("fl").innerHTML=L.map(l=>box("len",l[0],l[1],cnt("len",x=>x.d&&l[2](x.d)),st.len.includes(l[0]))).join("");
+ $("fa").innerHTML=`<label class="opt"><input type="checkbox" name="ao" ${st.ao?"checked":""}><span>רק שיעורים עם קובץ שמע</span><span class="n">${cnt("ao",x=>x.a)}</span></label><p class="hint">מתנגנים גם כשהמסך כבוי, מתאים לנסיעה.</p>`;
+ $("sort").value=st.sort;}
+
+/* ---------- player ----------
+   A shiur with an audio file (x.a) plays through <audio>, also in the background.
+   A shiur that exists only on YouTube plays in a small, visible YouTube player docked
+   above the bar (YouTube's terms don't allow taking the sound alone), driven by the
+   same buttons, queue, speed and car controls. No fake clock: if nothing can play,
+   the listener is told and the queue moves on. */
+const aud=$("aud");
+const P={q:[],cur:null,playing:false,rate:1,mode:null,pos:{}};
+try{Object.assign(P.pos,JSON.parse(localStorage.getItem("osh-pos")||"{}"));const k=JSON.parse(localStorage.getItem("osh-q")||"null");if(k){P.q=(k.q||[]).filter(i=>S[i]);P.rate=k.rate||1}}catch(e){}
+const RATES=[1,1.25,1.5,1.75,2,0.75];
+const fmt=t=>{t=Math.max(0,Math.floor(t||0));const h=Math.floor(t/3600),m=Math.floor(t%3600/60),s2=String(t%60).padStart(2,"0");return h?`${h}:${String(m).padStart(2,"0")}:${s2}`:`${m}:${s2}`};
+const K=x=>x.v||x.a;
+const curX=()=>P.cur==null?null:S[P.cur];
+let YTP=null,ytReady=null,ytTimer=null,ytT0=0;
+const ytOk=()=>YTP&&typeof YTP.getCurrentTime==="function";
+const durOf=x=>{if(!x)return 0;if(x.id===P.cur){if(P.mode==="a"&&isFinite(aud.duration)&&aud.duration>0)return aud.duration;if(P.mode==="yt"&&ytOk()){const d=YTP.getDuration();if(d>0)return d}}return (x.d||45)*60};
+const resumeLabel=x=>{const t=P.pos[K(x)];return t&&t>30&&t<durOf(x)-30?`<span class="res nw">ממשיכים מ-${fmt(t)}</span>`:""};
+const persist=()=>{try{localStorage.setItem("osh-pos",JSON.stringify(P.pos));localStorage.setItem("osh-q",JSON.stringify({q:P.q,rate:P.rate}))}catch(e){}};
+const now=()=>P.mode==="yt"?(ytOk()?YTP.getCurrentTime():ytT0):aud.currentTime;
+function setT(t){const x=curX();if(!x)return;t=Math.max(0,Math.min(durOf(x)-1,t));if(P.mode==="yt"){if(ytOk())YTP.seekTo(t,true)}else aud.currentTime=t;P.pos[K(x)]=t;tick()}
+let toastT;function toast(m){const el=$("toast");el.textContent=m;el.hidden=false;clearTimeout(toastT);toastT=setTimeout(()=>el.hidden=true,5000)}
+function loadYT(){if(ytReady)return ytReady;ytReady=new Promise(res=>{window.onYouTubeIframeAPIReady=()=>res(true);const sc=document.createElement("script");sc.src="https://www.youtube.com/iframe_api";sc.onerror=()=>{ytReady=null;res(false)};document.head.appendChild(sc)});return ytReady}
+function showDock(x){$("yDockT").textContent=x.t;$("yDock").hidden=false;document.body.classList.add("hasdock")}
+function hideDock(){$("yDock").hidden=true;document.body.classList.remove("hasdock");try{ytOk()&&YTP.stopVideo()}catch(e){}clearInterval(ytTimer)}
+function stopAll(){aud.pause();try{ytOk()&&YTP.pauseVideo()}catch(e){}clearInterval(ytTimer)}
+function play(id,{fromQueue}={}){
+ const x=S[id];if(!x)return;
+ if(P.cur===id){toggle();return}
+ if(!fromQueue&&!P.q.includes(id))P.q.unshift(id);
+ stopAll();P.cur=id;P.playing=true;const t0=P.pos[K(x)]||0;
+ if(x.a)playAudio(x,t0);else playYT(x,t0);
+ meta();ui();persist();
+ $("pbar").classList.add("on");document.body.style.paddingBottom="100px";}
+function playAudio(x,t0){P.mode="a";hideDock();aud.src=x.a;aud.playbackRate=P.rate;
+ if(t0)aud.addEventListener("loadedmetadata",()=>{try{aud.currentTime=t0}catch(e){}},{once:true});
+ aud.play().catch(e=>{if(P.cur!==x.id||P.mode!=="a")return;if(e&&e.name==="NotAllowedError"){P.playing=false;ui()}})}
+aud.addEventListener("error",()=>{const x=curX();if(!x||P.mode!=="a"||!aud.getAttribute("src"))return;
+ if(x.v){toast("קובץ השמע לא נטען, עוברים לנגן של YouTube.");playYT(x,P.pos[K(x)]||0)}
+ else{P.playing=false;ui();toast("קובץ השמע של השיעור הזה לא זמין כרגע. ממשיכים לשיעור הבא.");setTimeout(()=>{if(curX()===x)step(1)},2500)}});
+async function playYT(x,t0){P.mode="yt";ytT0=t0;aud.pause();aud.removeAttribute("src");showDock(x);
+ const id=x.id,ok=await loadYT();if(P.cur!==id||P.mode!=="yt")return;
+ if(!ok||!window.YT||!YT.Player){P.playing=false;ui();toast("הנגן של YouTube לא נטען. בדקו את החיבור לאינטרנט.");return}
+ if(!YTP){YTP=new YT.Player("yFrame",{host:"https://www.youtube-nocookie.com",width:"100%",height:"100%",videoId:x.v,
+   playerVars:{start:Math.floor(t0),playsinline:1,rel:0,autoplay:1,origin:location.origin,widget_referrer:location.href},
+   events:{onReady:e=>{try{e.target.setPlaybackRate(P.rate)}catch(_){}if(P.playing&&P.mode==="yt")e.target.playVideo()},onStateChange:ytState,onError:ytErr}})}
+ else{YTP.loadVideoById({videoId:x.v,startSeconds:Math.floor(t0)});try{YTP.setPlaybackRate(P.rate)}catch(e){}}
+ clearInterval(ytTimer);ytTimer=setInterval(()=>{const c=curX();if(c&&P.mode==="yt"&&ytOk()){const t=YTP.getCurrentTime();if(t>0)P.pos[K(c)]=t;tick()}},1000);
+ setTimeout(()=>{if(P.cur===id&&P.mode==="yt"&&P.playing&&ytOk()&&![1,3].includes(YTP.getPlayerState())){P.playing=false;ui();toast("הדפדפן חסם הפעלה אוטומטית. הקישו על ▶ בחלון הווידאו.")}},4000)}
+function ytState(e){if(P.mode!=="yt")return;const s=e.data;if(s===0){ended();return}
+ if(s===1&&!P.playing){P.playing=true;ui()}else if(s===2&&P.playing){P.playing=false;ui()}}
+function ytErr(e){const x=curX();document.body.dataset.yterr=e&&e.data;toast(`הסרטון הזה לא זמין לצפייה באתר (קוד ${e&&e.data}). ממשיכים לשיעור הבא.`);setTimeout(()=>{if(curX()===x)step(1)},2500)}
+function toggle(){if(P.cur==null){if(P.q.length)play(P.q[0],{fromQueue:true});return}
+ P.playing=!P.playing;
+ if(P.mode==="yt"){if(ytOk())P.playing?YTP.playVideo():YTP.pauseVideo()}else{P.playing?aud.play().catch(()=>{}):aud.pause()}
+ ui();persist()}
+function step(d){if(P.cur==null)return;let i=P.q.indexOf(P.cur);if(i<0){P.q.unshift(P.cur);i=0}
+ if(d<0&&now()>10){setT(0);return}
+ const n=P.q[i+d];if(n==null){if(d>0){P.playing=false;stopAll();ui()}return}
+ P.cur=null;play(n,{fromQueue:true})}
+function ended(){const x=curX();if(x)delete P.pos[K(x)];step(1)}
+aud.addEventListener("ended",ended);
+aud.addEventListener("timeupdate",()=>{const x=curX();if(x&&P.mode==="a")P.pos[K(x)]=aud.currentTime;tick()});
+function meta(){const x=curX();if(!x||!("mediaSession" in navigator))return;
+ try{navigator.mediaSession.metadata=new MediaMetadata({title:x.t,artist:x.r,album:"ישיבת "+short(Y[x.y].n)});
+  const ms=navigator.mediaSession,h=(a,f)=>{try{ms.setActionHandler(a,f)}catch(e){}};
+  h("play",()=>{if(!P.playing)toggle()});h("pause",()=>{if(P.playing)toggle()});
+  h("seekbackward",()=>setT(now()-15));h("seekforward",()=>setT(now()+30));
+  h("previoustrack",()=>step(-1));h("nexttrack",()=>step(1));
+  h("seekto",e=>setT(e.seekTime));
+ }catch(e){}}
+let lastSave=0;
+function tick(){const x=curX();if(!x)return;const t=now(),d=durOf(x),pct=d?t/d*100:0;
+ $("pCur").textContent=fmt(t);$("pDur").textContent=fmt(d);$("pSeek").value=Math.round(pct*10);
+ $("dCur").textContent=fmt(t);$("dLeft").textContent="-"+fmt(d-t);$("dBar").style.width=pct+"%";
+ try{navigator.mediaSession&&navigator.mediaSession.setPositionState&&navigator.mediaSession.setPositionState({duration:d,position:Math.min(t,d),playbackRate:P.rate})}catch(e){}
+ if(Date.now()-lastSave>5000){lastSave=Date.now();persist()}}
+function ui(){const x=curX();
+ const ico=P.playing?PAUSE:PLAY,lbl=P.playing?"השהיה":"הפעלה";
+ $("pPlay").innerHTML=ico;$("pPlay").setAttribute("aria-label",lbl);
+ $("dPlay").innerHTML=ico+`<span>${lbl}</span>`;$("dPlay").setAttribute("aria-label",lbl);
+ $("pSpeed").textContent=P.rate+"×";$("dSpeed").textContent=`מהירות ${P.rate}×`;
+ $("qN").textContent=P.q.length;
+ if(x){$("pT").textContent=x.t;$("pS").textContent=`${x.r}, ישיבת ${short(Y[x.y].n)}${P.mode==="yt"?", בווידאו":""}`;
+  $("dT").textContent=x.t;$("dS").textContent=`${x.r}, ${short(Y[x.y].n)}`;}
+ try{navigator.mediaSession&&(navigator.mediaSession.playbackState=P.playing?"playing":"paused")}catch(e){}
+ tick();renderQueue();
+ document.querySelectorAll("#list .shiur").forEach(li=>{const id=+li.dataset.id,on=id===P.cur,b=li.querySelector(".pbig");
+  li.classList.toggle("on",on);b.setAttribute("aria-pressed",on);b.innerHTML=on&&P.playing?PAUSE:PLAY;
+  b.setAttribute("aria-label",`${on&&P.playing?"השהיה":"האזנה"}: ${S[id].t}`)});
+ document.querySelectorAll("#list [data-q]").forEach(b=>{const on=P.q.includes(+b.dataset.q);b.setAttribute("aria-pressed",on);b.innerHTML=on?QON:QADD;b.setAttribute("aria-label",on?"הסרה מהתור":"הוספה לתור")});
+ renderOnair();}
+function renderQueue(){$("qList").innerHTML=P.q.length?P.q.map(id=>{const x=S[id];return `<li class="${id===P.cur?"cur":""}"><div><b>${esc(x.t)}</b><div class="count">${esc(x.r)}${x.d?`, ${x.d} דק'`:""}</div></div><button class="ghost" data-qp="${id}" aria-label="השמעה">${id===P.cur&&P.playing?PAUSE:PLAY}</button><button class="ghost" data-qr="${id}" aria-label="הסרה מהתור">✕</button></li>`}).join(""):`<li><div>התור ריק. הוסיפו שיעור לתור, או לחצו "השמעת הכל".</div></li>`}
+$("yClose").addEventListener("click",()=>{P.playing=false;hideDock();ui()});
+$("pPlay").addEventListener("click",toggle);$("dPlay").addEventListener("click",toggle);
+$("pBack").addEventListener("click",()=>setT(now()-15));$("dBack").addEventListener("click",()=>setT(now()-15));
+$("pFwd").addEventListener("click",()=>setT(now()+30));$("dFwd").addEventListener("click",()=>setT(now()+30));
+$("pPrev").addEventListener("click",()=>step(-1));$("dPrev").addEventListener("click",()=>step(-1));
+$("pNext").addEventListener("click",()=>step(1));$("dNext").addEventListener("click",()=>step(1));$("dQueueNext").addEventListener("click",()=>step(1));
+const speed=()=>{P.rate=RATES[(RATES.indexOf(P.rate)+1)%RATES.length];aud.playbackRate=P.rate;try{P.mode==="yt"&&ytOk()&&YTP.setPlaybackRate(P.rate)}catch(e){}ui();persist()};
+$("pSpeed").addEventListener("click",speed);$("dSpeed").addEventListener("click",speed);
+$("pSeek").addEventListener("input",e=>{const x=curX();if(x)setT(e.target.value/1000*durOf(x))});
+$("pQueue").addEventListener("click",()=>{$("qSheet").hidden=!$("qSheet").hidden;if(!$("qSheet").hidden)$("qClose").focus()});
+$("qClose").addEventListener("click",()=>{$("qSheet").hidden=true;$("pQueue").focus()});
+$("qClear").addEventListener("click",()=>{P.q=P.cur!=null?[P.cur]:[];ui();persist()});
+$("qList").addEventListener("click",e=>{const a=e.target.closest("[data-qp]"),r=e.target.closest("[data-qr]");
+ if(a)play(+a.dataset.qp,{fromQueue:true});
+ if(r){const id=+r.dataset.qr;P.q=P.q.filter(v=>v!==id);ui();persist()}});
+
+/* driving mode: one screen, wake lock keeps the display on */
+let wl=null;
+async function drive(on){$("drive").hidden=!on;document.body.style.overflow=on?"hidden":"";
+ if(on){if(P.cur==null&&P.q.length)play(P.q[0],{fromQueue:true});ui();$("dPlay").focus();try{wl=await navigator.wakeLock.request("screen")}catch(e){}}
+ else{try{wl&&wl.release()}catch(e){}wl=null;$("pDrive").focus()}}
+$("pDrive").addEventListener("click",()=>drive(true));$("dExit").addEventListener("click",()=>drive(false));
+
+/* video: YouTube embed in a modal; pauses the audio and starts where you stopped */
+function openVideo(id){const x=S[id];if(P.playing)toggle();hideDock();
+ $("vFrame").innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${x.v}?autoplay=1&start=${Math.floor(P.pos[K(x)]||0)}" title="${esc(x.t)}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+ $("vT").textContent=x.t;$("vYt").href=`https://www.youtube.com/watch?v=${x.v}`;$("vModal").hidden=false;$("vClose").focus()}
+function closeVideo(){$("vModal").hidden=true;$("vFrame").innerHTML=""}
+$("vClose").addEventListener("click",closeVideo);$("vModal").addEventListener("click",e=>{if(e.target.id==="vModal")closeVideo()});
+
+/* ---------- the dial: every yeshiva is a station, north to south ---------- */
+const STATIONS=REG.flatMap(g=>D.yeshivot.filter(y=>y.reg===g).sort((a,b)=>(S.some(s=>s.y===b.id)?1:0)-(S.some(s=>s.y===a.id)?1:0)));
+let tuned=null;try{tuned=localStorage.getItem("osh-tuned")}catch(e){}
+if(!Y[tuned]||!withData.includes(tuned))tuned=withData.slice().sort((a,b)=>S.filter(s=>s.y===b).length-S.filter(s=>s.y===a).length)[0];
+function renderDial(){
+ $("dial").innerHTML=STATIONS.map(y=>{const n=S.filter(s=>s.y===y.id).length;
+  return `<button class="st${n?" live":""}" role="option" data-st="${y.id}" aria-selected="${y.id===tuned}" aria-current="${y.id===tuned}" aria-label="${esc(y.n)}${n?`, ${n} שיעורים`:", בקרוב"}"><span class="ticks" aria-hidden="true"></span><b>${esc(short(y.n))}</b><small>${n?`${n} שיעורים`:esc(y.reg)}</small></button>`}).join("")}
+function center(id,smooth){const b=$("dial").querySelector(`[data-st="${id}"]`);if(b)b.scrollIntoView({behavior:smooth&&!document.documentElement.classList.contains("still")?"smooth":"auto",inline:"center",block:"nearest"})}
+function tune(id,smooth=true){if(!Y[id])return;tuned=id;try{localStorage.setItem("osh-tuned",id)}catch(e){}
+ $("dial").querySelectorAll(".st").forEach(b=>{const on=b.dataset.st===id;b.setAttribute("aria-current",on);b.setAttribute("aria-selected",on)});
+ center(id,smooth);renderOnair()}
+function latest(id){return S.filter(s=>s.y===id).sort((a,b)=>(b.a?1:0)-(a.a?1:0)||byNew(a,b))[0]}
+function renderOnair(){const y=Y[tuned];if(!y)return;const n=S.filter(s=>s.y===y.id).length,x=n?latest(y.id):null,ch=CH[y.id];
+ const playingHere=x&&P.cur!=null&&S[P.cur].y===y.id&&P.playing;
+ $("onair").innerHTML=`<div><span class="lbl"><i></i>${n?"משדרים עכשיו":"התחנה בהכנה"}</span>
+  <h2>ישיבת ${esc(y.n)}</h2><div class="heads">${esc(y.heads||y.reg)}</div>
+  ${x?`<div class="now">${esc(x.t)}<span>${esc(x.r)}${x.d?`, ${x.d} דקות`:""}, ${esc(when(x))}</span></div>`:`<div class="now"><span>השיעורים של הישיבה עוד לא חוברו לאתר.${ch&&ch.youtube?" ערוץ היוטיוב שלה כבר זוהה.":""}</span></div>`}</div>
+  <div class="acts">${x?`<button class="bigplay" data-air="${y.id}">${playingHere?PAUSE:PLAY}${playingHere?"השהיה":"האזנה לתחנה"}</button><button class="ghostw" data-airlist="${y.id}">כל ${n} השיעורים</button>`:`<a class="ghostw" style="display:inline-flex;align-items:center;text-decoration:none" href="${hesder(y)}" target="_blank" rel="noopener">לדף הישיבה באיגוד</a>`}</div>`}
+$("dial").addEventListener("click",e=>{const b=e.target.closest("[data-st]");if(b)tune(b.dataset.st)});
+let dt;$("dial").addEventListener("scroll",()=>{clearTimeout(dt);dt=setTimeout(()=>{const d=$("dial"),r=d.getBoundingClientRect(),mid=r.left+r.width/2;let best=null,bd=1e9;
+ d.querySelectorAll(".st").forEach(b=>{const br=b.getBoundingClientRect(),dd=Math.abs(br.left+br.width/2-mid);if(dd<bd){bd=dd;best=b}});
+ if(best&&best.dataset.st!==tuned){tuned=best.dataset.st;try{localStorage.setItem("osh-tuned",tuned)}catch(e){}
+  d.querySelectorAll(".st").forEach(b=>{const on=b===best;b.setAttribute("aria-current",on);b.setAttribute("aria-selected",on)});renderOnair()}},140)},{passive:true});
+const stepDial=d=>{const i=STATIONS.findIndex(y=>y.id===tuned);const n=STATIONS[Math.max(0,Math.min(STATIONS.length-1,i+d))];tune(n.id)};
+$("dialPrev").addEventListener("click",()=>stepDial(-1));$("dialNext").addEventListener("click",()=>stepDial(1));
+$("dial").addEventListener("keydown",e=>{if(e.key==="ArrowLeft"){e.preventDefault();stepDial(1)}if(e.key==="ArrowRight"){e.preventDefault();stepDial(-1)}});
+$("onair").addEventListener("click",e=>{const a=e.target.closest("[data-air]"),l=e.target.closest("[data-airlist]");
+ if(a){const id=a.dataset.air;if(P.cur!=null&&S[P.cur].y===id){toggle();return}
+  const list=S.filter(s=>s.y===id).sort((x,y)=>(y.a?1:0)-(x.a?1:0)||byNew(x,y));P.q=list.map(x=>x.id);P.cur=null;play(P.q[0],{fromQueue:true})}
+ if(l){clearAll();st.ys=[l.dataset.airlist];all();$("results").scrollIntoView({behavior:"smooth"});$("results").focus({preventScroll:true})}});
+
+/* ---------- playlist ---------- */
+let shown=25;
+function renderList(){
+ const r=S.filter(x=>match(x)).sort(SORTS[st.sort]);
+ $("count").textContent=r.length===1?"שיעור אחד":`${r.length} שיעורים`;
+ $("list").innerHTML=r.length?r.slice(0,shown).map(x=>{const y=Y[x.y],on=P.cur===x.id,inq=P.q.includes(x.id);return `<li class="shiur${on?" on":""}" data-id="${x.id}">
+  <button class="pbig" data-play="${x.id}" aria-pressed="${on}" aria-label="${on&&P.playing?"השהיה":"האזנה"}: ${esc(x.t)}">${on&&P.playing?PAUSE:PLAY}</button>
+  <div><h3>${esc(x.t)}</h3>
+   <div class="meta"><b>${esc(x.r)}</b><span>ישיבת ${esc(short(y.n))}</span><span class="tag">${esc(x.c)}</span>${x.sr&&!x.t.includes(x.sr)?`<span class="sr">${esc(x.sr)}</span>`:""}<span class="kind ${x.a?"ka":"kv"}">${x.a?"שמע":"וידאו בלבד"}</span><span class="nw">${esc(when(x))}</span>${resumeLabel(x)}</div></div>
+  <div class="side">${x.d?`<span class="dur">${x.d}<small>דקות</small></span>`:""}
+   <button class="ico" data-q="${x.id}" aria-pressed="${inq}" aria-label="${inq?"הסרה מהתור":"הוספה לתור"}">${inq?QON:QADD}</button>
+   ${x.v?`<button class="ico" data-video="${x.id}" aria-label="צפייה בווידאו: ${esc(x.t)}">${VID}</button>`:""}</div></li>`}).join("")
+  +(r.length>shown?`<li class="more"><button class="ghost" data-more>עוד ${Math.min(25,r.length-shown)} שיעורים</button></li>`:"")
+ :`<li class="empty"><p><b>אין שיעורים שמתאימים לסינון הזה.</b></p><p>אפשר להסיר אחד מהסינונים או לחפש מילה אחרת.</p><button class="link" data-clear>ניקוי כל הסינונים</button></li>`;
+ const PL=[];
+ if(st.q)PL.push(["q","",`חיפוש: ${st.q}`]);
+ if(st.topic)PL.push(["topic","",st.topic]);
+ st.rg.forEach(k=>PL.push(["rg",k,k]));
+ st.ys.forEach(k=>PL.push(["ys",k,short(Y[k].n)]));
+ if(st.r)PL.push(["r","",st.r]);
+ st.len.forEach(k=>PL.push(["len",k,L.find(l=>l[0]===k)[1]]));
+ if(st.ao)PL.push(["ao","","רק שמע"]);
+ $("pills").innerHTML=PL.map(p=>`<button class="pill" data-k="${p[0]}" data-v="${esc(p[1])}" aria-label="הסרת הסינון ${esc(p[2])}">${esc(p[2])}<span aria-hidden="true">×</span></button>`).join("")+(PL.length>1?`<button class="link" data-clear>ניקוי הכל</button>`:"");
+ const n=st.ys.length+st.rg.length+st.len.length+(st.r?1:0);
+ $("fcount").textContent=n?`(${n})`:"";}
+const all=()=>{shown=25;renderFilters();renderList();save()};
+function clearAll(){Object.assign(st,{q:"",topic:"",ys:[],rg:[],r:"",len:[],ao:false});$("q").value="";all()}
+$("q").value=st.q;
+let qt;$("q").addEventListener("input",e=>{clearTimeout(qt);qt=setTimeout(()=>{st.q=e.target.value.trim();all()},150)});
+$("sform").addEventListener("submit",e=>{e.preventDefault();$("results").scrollIntoView({behavior:"smooth"});$("results").focus({preventScroll:true})});
+$("chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;st.topic=b.dataset.t;all()});
+$("filters").addEventListener("change",e=>{const t=e.target;
+ if(t.id==="fr")st.r=t.value;
+ else if(t.name==="ao")st.ao=t.checked;
+ else{const k={y:"ys",rg:"rg",len:"len"}[t.name];if(!k)return;st[k]=t.checked?[...st[k],t.value]:st[k].filter(v=>v!==t.value)}
+ all();const el=t.id==="fr"?$("fr"):document.querySelector(`#filters input[name="${t.name}"][value="${CSS.escape(t.value)}"]`);el&&el.focus()});
+$("sort").addEventListener("change",e=>{st.sort=e.target.value;renderList();save()});
+$("pills").addEventListener("click",e=>{const b=e.target.closest("[data-k],[data-clear]");if(!b)return;
+ if(b.dataset.clear!==undefined)return clearAll();
+ const k=b.dataset.k,v=b.dataset.v;if(Array.isArray(st[k]))st[k]=st[k].filter(x=>x!==v);else if(k==="ao")st.ao=false;else st[k]="";
+ if(k==="q")$("q").value="";all()});
+$("list").addEventListener("click",e=>{if(e.target.closest("[data-clear]"))return clearAll();if(e.target.closest("[data-more]")){shown+=25;renderList();return}
+ const p=e.target.closest("[data-play]"),q=e.target.closest("[data-q]"),v=e.target.closest("[data-video]");
+ if(p)play(+p.dataset.play);
+ if(q){const id=+q.dataset.q;P.q=P.q.includes(id)?P.q.filter(x=>x!==id):[...P.q,id];ui();persist()}
+ if(v)openVideo(+v.dataset.video)});
+$("playAll").addEventListener("click",()=>{const r=S.filter(x=>match(x)).sort(SORTS[st.sort]);if(!r.length)return;P.q=r.map(x=>x.id);P.cur=null;play(P.q[0],{fromQueue:true})});
+$("clear2").addEventListener("click",clearAll);
+const setF=o=>{$("filters").classList.toggle("open",o);$("scrim").classList.toggle("on",o);$("openF").setAttribute("aria-expanded",o);if(o)$("closeF").focus()};
+$("openF").addEventListener("click",()=>setF(true));$("closeF").addEventListener("click",()=>{setF(false);$("openF").focus()});$("scrim").addEventListener("click",()=>setF(false));
+
+/* ---------- yeshivot directory ---------- */
+const nCon=withData.length,nCh=Object.keys(CH).filter(k=>!k.startsWith("_")&&CH[k].youtube&&!withData.includes(k)).length;
+$("ylead").textContent=`${D.yeshivot.length} ישיבות מרשימת איגוד ישיבות ההסדר, מהצפון לדרום. ${nCon} כבר משדרות באתר, ועוד ${nCh} בדרך.`;
+$("srcnote").textContent=`השיעורים נמשכים מאתרי הישיבות, מערוצי היוטיוב שלהן ומארכיון מורשת הרב דרוקמן. עודכן ב-${D.updated}. הנושא והרב מתויגים אוטומטית לפי הכותרת.`;
+function renderY(){
+ const q=norm($("yq").value.trim());
+ const ys=D.yeshivot.filter(y=>!q||norm(y.n+" "+y.heads+" "+y.reg).includes(q));
+ const rank=y=>S.some(s=>s.y===y.id)?0:CH[y.id]&&CH[y.id].youtube?1:2;
+ $("ygrid").innerHTML=REG.map(g=>{const rows=ys.filter(y=>y.reg===g).sort((a,b)=>rank(a)-rank(b));if(!rows.length)return"";
+  return `<section class="region"><h3>${esc(g)}<small>${rows.length} ישיבות</small></h3><div class="yrows">${rows.map(y=>{
+   const n=S.filter(s=>s.y===y.id).length,ch=CH[y.id],r=rank(y);
+   return `<div class="yrow"><b>${esc(y.n)}</b>${y.heads?`<span class="sub">${esc(y.heads)}</span>`:""}
+    <span class="yst ${r===0?"on":r===1?"ch":""}"><i></i>${r===0?`${n} שיעורים באתר`:r===1?"ערוץ זוהה, בחיבור":"בקרוב"}</span>
+    <div class="links">${n?`<button data-y="${y.id}">האזנה</button><button data-tune="${y.id}">לחוגה</button>`:""}${ch&&ch.youtube?`<a href="${ytUrl(ch.youtube)}" target="_blank" rel="noopener">יוטיוב</a>`:""}${ch&&ch.site?`<a href="${ch.site}" target="_blank" rel="noopener">אתר הישיבה</a>`:""}<a href="${hesder(y)}" target="_blank" rel="noopener">באיגוד</a></div></div>`}).join("")}</div></section>`}).join("")||`<p class="empty">לא נמצאה ישיבה בשם הזה.</p>`}
+$("yq").addEventListener("input",renderY);
+$("ygrid").addEventListener("click",e=>{const b=e.target.closest("[data-y]"),t=e.target.closest("[data-tune]");
+ if(b){clearAll();st.ys=[b.dataset.y];all();$("results").scrollIntoView();$("results").focus({preventScroll:true})}
+ if(t){window.scrollTo({top:0,behavior:"smooth"});tune(t.dataset.tune)}});
+
+/* ---------- accessibility panel ---------- */
+const root=document.documentElement,A={size:0,hc:false,ul:false,still:false};
+try{Object.assign(A,JSON.parse(localStorage.getItem("osh-a")||"{}"))}catch(e){}
+const sizes=[100,112,125,140];
+const applyA=()=>{document.body.style.fontSize=(17*sizes[A.size]/100)+"px";
+ $("aSizeV").textContent=sizes[A.size]+"%";$("aSize").setAttribute("aria-pressed",A.size>0);
+ [["hc","aHc"],["ul","aUl"],["still","aStill"]].forEach(([k,id])=>{root.classList.toggle(k,A[k]);$(id).setAttribute("aria-pressed",A[k])});
+ try{localStorage.setItem("osh-a",JSON.stringify(A))}catch(e){}};
+$("aSize").addEventListener("click",()=>{A.size=(A.size+1)%sizes.length;applyA()});
+[["hc","aHc"],["ul","aUl"],["still","aStill"]].forEach(([k,id])=>$(id).addEventListener("click",()=>{A[k]=!A[k];applyA()}));
+$("a11yBtn").addEventListener("click",()=>{const h=!$("a11y").hidden;$("a11y").hidden=h;$("a11yBtn").setAttribute("aria-expanded",!h);if(!h)$("aSize").focus()});
+
+/* ---------- podcast feeds: offer the feed that matches what is on screen ---------- */
+const FEEDS=D.feeds||[];
+function renderPods(){
+ const pick=[];const add=f=>{if(f&&!pick.includes(f))pick.push(f)};
+ if(st.topic)add(FEEDS.find(f=>f.kind==="topic"&&f.key===st.topic));
+ st.ys.forEach(k=>add(FEEDS.find(f=>f.kind==="yeshiva"&&f.key===k)));
+ if(st.r)add(FEEDS.find(f=>f.kind==="rabbi"&&f.key===st.r));
+ add(FEEDS.find(f=>f.kind==="yeshiva"&&f.key===tuned));
+ add(FEEDS.find(f=>f.kind==="all"));
+ FEEDS.forEach(add);
+ $("podList").innerHTML=pick.length?pick.map(f=>{const bare=f.url.replace(/^https?:\/\//,"");return `<li class="pod"><div><b>${esc(f.title.split(" · ")[0])}</b><span class="count">${f.n} שיעורי שמע</span>
+  <div class="links"><a href="podcast://${esc(bare)}">Apple Podcasts</a><a href="pktc://subscribe/${esc(bare)}">Pocket Casts</a><a href="overcast://x-callback-url/add?url=${encodeURIComponent(f.url)}">Overcast</a><button data-copy="${esc(f.url)}">העתקת הכתובת</button></div></div></li>`}).join("")
+ :`<li class="pod"><div>הפידים ייבנו אוטומטית כשיהיו שיעורי שמע.</div></li>`}
+const openPods=from=>{renderPods();$("podSheet").hidden=false;$("podClose").focus();$("podClose").dataset.from=from};
+$("podBtn").addEventListener("click",()=>openPods("podBtn"));$("podTop").addEventListener("click",()=>openPods("podTop"));
+$("podClose").addEventListener("click",()=>{$("podSheet").hidden=true;$($("podClose").dataset.from||"podBtn").focus()});
+$("podList").addEventListener("click",async e=>{const b=e.target.closest("[data-copy]");if(!b)return;
+ try{await navigator.clipboard.writeText(b.dataset.copy);b.textContent="הכתובת הועתקה"}catch(err){b.textContent=b.dataset.copy}});
+
+document.addEventListener("keydown",e=>{
+ if(e.key==="/"&&!/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)){e.preventDefault();$("q").focus()}
+ if(e.key===" "&&!$("drive").hidden){e.preventDefault();toggle()}
+ if(e.key==="Escape"){
+  if(!$("drive").hidden)drive(false);
+  if(!$("vModal").hidden)closeVideo();
+  if(!$("qSheet").hidden){$("qSheet").hidden=true;$("pQueue").focus()}
+  if(!$("podSheet").hidden){$("podSheet").hidden=true;$("podBtn").focus()}
+  if($("filters").classList.contains("open")){setF(false);$("openF").focus()}
+  if(!$("a11y").hidden){$("a11y").hidden=true;$("a11yBtn").setAttribute("aria-expanded","false");$("a11yBtn").focus()}}});
+
+applyA();all();renderY();renderDial();ui();requestAnimationFrame(()=>center(tuned,false));
+}
+</script>
+</body>
+</html>

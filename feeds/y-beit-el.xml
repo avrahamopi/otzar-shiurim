@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>ישיבת בית אל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/y-beit-el.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי ישיבת בית אל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הלכות חג השבועות ויום טוב</title>
+   <description>רבני הישיבה · ישיבת בית אל · הלכה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/103375899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F401217090-44100-2-1faa907efae72.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/103375899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F401217090-44100-2-1faa907efae72.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ערב פסח שחל בשבת - הרב משה בר ציון</title>
+   <description>הרב משה בר ציון · ישיבת בית אל · הלכה</description>
+   <itunes:author>הרב משה בר ציון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/100587384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-30%2F397501717-44100-2-c667d82e4fb68.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/100587384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-30%2F397501717-44100-2-c667d82e4fb68.mp3</guid>
+   <pubDate>Sun, 30 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעשות פורים - מו"ר הרב זלמן מלמד</title>
+   <description>הרב זלמן מלמד · ישיבת בית אל · מועדים</description>
+   <itunes:author>הרב זלמן מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/99744385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396434462-44100-2-4876f3daab075.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/99744385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396434462-44100-2-4876f3daab075.m4a</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני הפורים, פורים שחל בערב שבת, ופורים המשולש - הרב משה בר ציון</title>
+   <description>הרב משה בר ציון · ישיבת בית אל · הלכה</description>
+   <itunes:author>הרב משה בר ציון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/99743323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396433536-44100-2-8fe516e3bb595.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/99743323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396433536-44100-2-8fe516e3bb595.mp3</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשרה בטבת שחל ביום שישי - הרב משה בר ציון</title>
+   <description>הרב משה בר ציון · ישיבת בית אל · אמונה ומחשבה</description>
+   <itunes:author>הרב משה בר ציון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/96801864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F392768003-44100-2-401a45bd9bb4f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/96801864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F392768003-44100-2-401a45bd9bb4f.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נר ראשון של חנוכה התשפ"ג - מו"ר הרב זלמן מלמד</title>
+   <description>הרב זלמן מלמד · ישיבת בית אל · מועדים</description>
+   <itunes:author>הרב זלמן מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/94207955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-10%2F1d844c0d-9f28-9f79-6078-378246c1dc8f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/94207955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-10%2F1d844c0d-9f28-9f79-6078-378246c1dc8f.mp3</guid>
+   <pubDate>Sun, 10 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני ארבעת המינים הלכה למעשה - הרב משה בר ציון</title>
+   <description>הרב משה בר ציון · ישיבת בית אל · הלכה</description>
+   <itunes:author>הרב משה בר ציון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/93008772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-14%2F388060013-44100-2-a2527a53044d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/93008772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-14%2F388060013-44100-2-a2527a53044d5.mp3</guid>
+   <pubDate>Mon, 14 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב ראש השנה התשפ"ג - הרב ש. י. וייצן</title>
+   <description>הרב ש י · ישיבת בית אל · מועדים</description>
+   <itunes:author>הרב ש י</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/92731952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2F1ca26081-d5d2-0f54-7d9e-6717fe3949df.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/92731952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2F1ca26081-d5d2-0f54-7d9e-6717fe3949df.mp3</guid>
+   <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קראוהו בהיותו קרוב - הרב חיים כ"ץ</title>
+   <description>הרב חיים כץ · ישיבת בית אל · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים כץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/92731868/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2Fdddfc433-851d-0c5e-5547-f2b46a03d150.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/92731868/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2Fdddfc433-851d-0c5e-5547-f2b46a03d150.mp3</guid>
+   <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לפני סליחות התשע"ט - מו"ר הרב זלמן מלמד</title>
+   <description>הרב זלמן מלמד · ישיבת בית אל · מועדים</description>
+   <itunes:author>הרב זלמן מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/92731625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2F5cf49d9a-255c-404c-fb35-207bac67e583.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/92731625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2F5cf49d9a-255c-404c-fb35-207bac67e583.mp3</guid>
+   <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לראש השנה - הרב חיים כץ</title>
+   <description>הרב חיים כץ · ישיבת בית אל · מועדים</description>
+   <itunes:author>הרב חיים כץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/92731601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2F8f2ff4f0-a06f-dbd7-87f1-d27b63807726.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/92731601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-8%2F8f2ff4f0-a06f-dbd7-87f1-d27b63807726.mp3</guid>
+   <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

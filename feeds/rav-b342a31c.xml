@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אמנון בזק · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-b342a31c.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אמנון בזק.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>"מוסף יום הזכרון הזה" | זכרונות | הרב אמנון בזק | ראש השנה תשפ"ז</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/125516136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431595532-44100-2-8c238cf247a55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/125516136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431595532-44100-2-8c238cf247a55.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | ארכיאולוגיה | הרב אמנון בזק | תשפ"ו</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120287126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424550856-44100-2-b38f5d96df651.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120287126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424550856-44100-2-b38f5d96df651.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ה'על זמניות' של ליל הסדר | הרב אמנון בזק | פסח תשפ"ו</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117415051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420682030-44100-2-fa91505b03b0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117415051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420682030-44100-2-fa91505b03b0f.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדמיך חיי- דם הקורבן ודם המילה | פרשת בא | חידוש מהגוש תשפ"ו | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/114390151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-22%2F416621525-44100-2-30b320953a168.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/114390151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-22%2F416621525-44100-2-30b320953a168.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סערת מכת הברד! פרשת וארא תשפ"ו | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/114023828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-15%2F416152800-44100-2-c4151ea79854b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/114023828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-15%2F416152800-44100-2-c4151ea79854b.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איוב מן התורה מניין? | פרשת שמות תשפ"ו | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/113676445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F415711000-44100-2-d50e56cfe1b3a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/113676445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F415711000-44100-2-d50e56cfe1b3a.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>״לישועתך קויתי ה׳״- בין דן לגד | פרשת ויחי תשפ"ו | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/113347280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-31%2F415294760-44100-2-6db270f0ffb6d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/113347280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-31%2F415294760-44100-2-6db270f0ffb6d.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא תיקום ולא תיטור אצל יוסף | פרשת ויגש תשפ"ו | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/113100459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414982950-44100-2-b94a1930ac10c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/113100459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414982950-44100-2-b94a1930ac10c.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבקה הרמאית! | פרשת תולדות | תשפ"ו | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/111407026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2F412772359-44100-2-b27f078329ef9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/111407026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2F412772359-44100-2-b27f078329ef9.mp3</guid>
+   <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר בין אברהם לשרה | פרשת חיי שרה | תשפ"ו | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/111071903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-12%2F412333194-44100-2-65846d98ed21b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/111071903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-12%2F412333194-44100-2-65846d98ed21b.mp3</guid>
+   <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אושפיזין | יצחק אבינו - הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/109398393/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2Fc95eefdb-f54e-4687-1a3d-14faae6295c1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/109398393/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2Fc95eefdb-f54e-4687-1a3d-14faae6295c1.mp3</guid>
+   <pubDate>Wed, 08 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניגון מנגנים | חמול על מעשיך | הרב אמנון בזק | ימים נוראים תשפ"ו</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/109015110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408404591-44100-2-f32d908bab5e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/109015110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408404591-44100-2-f32d908bab5e1.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מיוחד! חידוש מהגוש | וילך-הפטרת שבת שובה | תשפ"ו | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/108813487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408144560-44100-2-d82ca65034ae6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/108813487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408144560-44100-2-d82ca65034ae6.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה ועצה לחיילים | ראש השנה | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/108813711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145047-44100-2-9eefa34fe24c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/108813711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145047-44100-2-9eefa34fe24c.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נצבים | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/108437987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-17%2F407658169-44100-2-8fc7550bb092e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/108437987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-17%2F407658169-44100-2-8fc7550bb092e.mp3</guid>
+   <pubDate>Wed, 17 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/108111719/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-10%2F407241667-44100-2-b14e23111dc42.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/108111719/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-10%2F407241667-44100-2-b14e23111dc42.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/107747926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-3%2F406791091-44100-2-aa8cad7c9b797.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/107747926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-3%2F406791091-44100-2-aa8cad7c9b797.mp3</guid>
+   <pubDate>Thu, 04 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/107430712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-27%2F406388520-44100-2-369b14b3d3cb1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/107430712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-27%2F406388520-44100-2-369b14b3d3cb1.mp3</guid>
+   <pubDate>Wed, 27 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואתחנן | תשפ"ה | הרב אמנון בזק וחכם חזי כהן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/106434821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-4%2F405107597-44100-2-39e0a24305b4c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/106434821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-4%2F405107597-44100-2-39e0a24305b4c.mp3</guid>
+   <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים | תשפ"ה | הרב אמנון בזק וחכם חזי כהן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/106258978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-31%2F404882860-44100-2-66c1a49fed7c5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/106258978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-31%2F404882860-44100-2-66c1a49fed7c5.mp3</guid>
+   <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות מסעי | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/105921405/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F404451344-44100-2-f80603f86fc72.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/105921405/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F404451344-44100-2-f80603f86fc72.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פינחס | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/105585101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-16%2F404021000-44100-2-468079d829064.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/105585101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-16%2F404021000-44100-2-468079d829064.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/105303589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-10%2F403658335-44100-2-96621eb184d56.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/105303589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-10%2F403658335-44100-2-96621eb184d56.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/104661009/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-26%2F402837203-44100-2-8087ae3e37f5d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/104661009/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-26%2F402837203-44100-2-8087ae3e37f5d.mp3</guid>
+   <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/104349388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F402439897-44100-2-bd460cd9688fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/104349388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F402439897-44100-2-bd460cd9688fa.mp3</guid>
+   <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/104017613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F402023658-44100-2-6034aac944a0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/104017613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F402023658-44100-2-6034aac944a0f.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשא | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/103691693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-5%2F401612976-44100-2-e45e09b852b41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/103691693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-5%2F401612976-44100-2-e45e09b852b41.mp3</guid>
+   <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/103363089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F401200899-44100-2-b11ad3189215.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/103363089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F401200899-44100-2-b11ad3189215.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר-בחוקותי | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/103006326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400747290-44100-2-322bd46a770bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/103006326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400747290-44100-2-322bd46a770bc.mp3</guid>
+   <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/102699537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-15%2F400332078-44100-2-c22a2e390ba43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/102699537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-15%2F400332078-44100-2-c22a2e390ba43.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות - קדושים | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/102359202/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-8%2F399847331-44100-2-4256721839df4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/102359202/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-8%2F399847331-44100-2-4256721839df4.mp3</guid>
+   <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע - מצורע | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/102024474/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-1%2F399395945-44100-2-439422700f898.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/102024474/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-1%2F399395945-44100-2-439422700f898.mp3</guid>
+   <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני | תשפ"ה | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/101722802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-24%2F399008763-44100-2-a71360e79a0a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/101722802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-24%2F399008763-44100-2-a71360e79a0a5.mp3</guid>
+   <pubDate>Thu, 24 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/100707093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397652979-44100-2-b86674b9b1c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/100707093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397652979-44100-2-b86674b9b1c9.mp3</guid>
+   <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קידוש בשבת וביו"ט | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/101004874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-8%2F398032635-44100-2-f70ef6ecac787.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/101004874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-8%2F398032635-44100-2-f70ef6ecac787.m4a</guid>
+   <pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/100707024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397652896-44100-2-41ee837d2d697.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/100707024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397652896-44100-2-41ee837d2d697.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | "וירעו אותנו המצרים": הפשט של הדרש | הרב אמנון בזק | פסח תשפ"ה</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100670522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606778-44100-2-27d582c4b21ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100670522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606778-44100-2-27d582c4b21ad.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי - החודש | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/100447253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F397324958-44100-2-f0d95a9075e6c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/100447253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F397324958-44100-2-f0d95a9075e6c.mp3</guid>
+   <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל - פרה | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/100120901/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-20%2F396909838-44100-2-f24bd225db177.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/100120901/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-20%2F396909838-44100-2-f24bd225db177.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שניים ליום - הפודקאסט | יחזקאל - הנביא שהיה בן אדם | ספי אליאש משוחח עם הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100121659/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-20%2F396910797-44100-2-bca407ed8b17e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100121659/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-20%2F396910797-44100-2-bca407ed8b17e.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דמויות משנה במגילה | זרש | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/99686461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-11%2F396361065-44100-2-34da96d22d00f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/99686461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-11%2F396361065-44100-2-34da96d22d00f.mp3</guid>
+   <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תצווה - זכור | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/99459062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F396076868-44100-2-d5cab51a5d674.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/99459062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F396076868-44100-2-d5cab51a5d674.mp3</guid>
+   <pubDate>Thu, 06 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה | תשפ"ה | הרב אמנון בזק וד"ר יושי פרג'ון</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/99119018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2F395652180-44100-2-4c65763ede26a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/99119018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2F395652180-44100-2-4c65763ede26a.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים | תשפ"ה | הרב אמנון בזק וד"ר יושי פרג'ון</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/98889980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-23%2F395367233-44100-2-9ae557cdb278a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/98889980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-23%2F395367233-44100-2-9ae557cdb278a.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת יתרו | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/98431455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F394795153-44100-2-49551252acaf1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/98431455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F394795153-44100-2-49551252acaf1.mp3</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בשלח | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/98100372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394381294-44100-2-73d3635a59a8f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/98100372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394381294-44100-2-73d3635a59a8f.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בא | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/97769052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-30%2F393968837-44100-2-f5733ca10f8d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/97769052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-30%2F393968837-44100-2-f5733ca10f8d7.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וארא | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/97447716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-23%2F393568166-44100-2-7c2a98f0f9be8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/97447716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-23%2F393568166-44100-2-7c2a98f0f9be8.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמות | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/97126534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F393167708-44100-2-dd78fac1619a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/97126534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F393167708-44100-2-dd78fac1619a5.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נבואת עשרה בטבת (יחזקאל כ"ד) | הרב אמנון בזק | עשרה בטבת תשפ"ה</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/96772865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-8%2F392731184-44100-2-df394d775b99d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/96772865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-8%2F392731184-44100-2-df394d775b99d.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ארץ ישראל לסדום ולמצרים | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94295658/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2Fec62cd15-52c9-0534-6ce3-d8e71e7bf7f7.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94295658/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2Fec62cd15-52c9-0534-6ce3-d8e71e7bf7f7.m4a</guid>
+   <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני עצרת ושמחת תורה | הרב אמנון בזק | ליל לימוד הושענא רבה תשפ"ה</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/93335027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-21%2F388462344-44100-2-f9d6d9c312cd6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/93335027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-21%2F388462344-44100-2-f9d6d9c312cd6.mp3</guid>
+   <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותאזרני חיל למלחמה | חיזוק לחיילי הסדיר ומשרתי המילואים לקראת יוה"כ | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92828595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387842892-44100-2-25123056f1408.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92828595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387842892-44100-2-25123056f1408.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ולתפלתם שעה | ובשופר גדול יתקע | הרב אמנון בזק | ימים נוראים תשפ"ה</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92394536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387299309-44100-2-a40d7c771d491.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92394536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387299309-44100-2-a40d7c771d491.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | מוציא מצה | הרב אמנון בזק | פסח תשפ"ב</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/70/d7/04/cc7047432c99bfbc5c46a8b3ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/70/d7/04/cc7047432c99bfbc5c46a8b3ec.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ואתחנן | תשפ"א | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/89645077/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383798498-44100-2-59153664c0b57ef7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/89645077/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383798498-44100-2-59153664c0b57ef7.mp3</guid>
+   <pubDate>Thu, 22 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 | עלית אליהו בסערה השמים</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/18/a7/40/82b3cb488ab85d069d2ee3fe1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/18/a7/40/82b3cb488ab85d069d2ee3fe1c.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 | אליהו ושליחי המלך אחזיה</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4b/3f/ed/4ee76c45d6b7753a4722f8b484.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4b/3f/ed/4ee76c45d6b7753a4722f8b484.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 | פרשת כרם נבות</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/db/ff/de/f3394144ef80088db1890b7039.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/db/ff/de/f3394144ef80088db1890b7039.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 | מפגש אליהו ואלישע</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/06/fd/24/49f34d49d28bbf789fecd0e409.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/06/fd/24/49f34d49d28bbf789fecd0e409.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 | אליהו בחורב</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/83/8e/ec/d964304e2cb6a14e5e08f3f45b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/83/8e/ec/d964304e2cb6a14e5e08f3f45b.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 | אליהו בהר הכרמל</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/4b/50/fc62464ef2855043f98bf2dbdd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/4b/50/fc62464ef2855043f98bf2dbdd.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 | משולש אליהו - אחאב - עובדיהו</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/df/84/47/de98194dc1b631e2c060bd4e20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/df/84/47/de98194dc1b631e2c060bd4e20.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 | כד הקמח לא תכלה</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e7/c7/a5/69e18441698fa74cc121fc7cef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e7/c7/a5/69e18441698fa74cc121fc7cef.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 | הרקע להופעת אליהו</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8b/0b/ee/e7b04442d78b774afa9fd3df96.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8b/0b/ee/e7b04442d78b774afa9fd3df96.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמיני | תשפ"א | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/89645200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383798628-44100-2-7d6a8389e1c7544f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/89645200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383798628-44100-2-7d6a8389e1c7544f.mp3</guid>
+   <pubDate>Wed, 07 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה נשתנה | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/34/31/aa/31b652430899c3666d16e00a8e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/34/31/aa/31b652430899c3666d16e00a8e.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יצחק אבינו | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ec/7a/12/88d526453189c923aad3768ae2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ec/7a/12/88d526453189c923aad3768ae2.mp3</guid>
+   <pubDate>Wed, 30 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אמנון בזק | שלושה מסלולי תשובה בעקבות דוד המלך</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/19/12/7b/064dfa4fa4b3f5b3067a98b7c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/19/12/7b/064dfa4fa4b3f5b3067a98b7c0.mp3</guid>
+   <pubDate>Mon, 07 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

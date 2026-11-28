@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב טל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-5c017617.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב טל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>עניינו של חנוכה</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/96423842/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-30%2Fc3a72a90-9d58-d56c-a65c-84ce78931bd1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/96423842/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-30%2Fc3a72a90-9d58-d56c-a65c-84ce78931bd1.mp3</guid>
+   <pubDate>Mon, 30 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובת הרמב"ם לבחירה וידיעה</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/96186210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-23%2Fc8dd5a7f-7fd1-02ad-9c2a-8e0b30545d75.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/96186210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-23%2Fc8dd5a7f-7fd1-02ad-9c2a-8e0b30545d75.mp3</guid>
+   <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה לרמבם- בחירה וידיעה</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/95905495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-16%2F2e9d1662-e7f5-89d3-912b-43896413a195.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/95905495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-16%2F2e9d1662-e7f5-89d3-912b-43896413a195.mp3</guid>
+   <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בחירה וידיעה</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/95598318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-9%2Fc34d8d09-d706-b30e-1dc8-be3233a8ecc6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/95598318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-9%2Fc34d8d09-d706-b30e-1dc8-be3233a8ecc6.mp3</guid>
+   <pubDate>Mon, 09 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם מותר לגדל כלב</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/82977209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-21%2F368219319-44100-2-69bf91b67eac7.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/82977209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-21%2F368219319-44100-2-69bf91b67eac7.m4a</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה מתפללים - חלק ב</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/82663987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367432859-44100-2-a2ac37fcabf27.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/82663987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367432859-44100-2-a2ac37fcabf27.m4a</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה מתפללים - חלק א</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/82584952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220837-44100-2-a7aabd0e2448a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/82584952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220837-44100-2-a7aabd0e2448a.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקומו של יצר הרע</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/82015921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2F365615122-44100-2-7eef45fa96a26.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/82015921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2F365615122-44100-2-7eef45fa96a26.m4a</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ישראל והעמים</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/81685197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-23%2F364645768-44100-2-7e175093e7e75.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/81685197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-23%2F364645768-44100-2-7e175093e7e75.m4a</guid>
+   <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השגחה פרטית - סיום</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/81579704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-21%2Fb18a919f-6b50-b791-430c-664b1a1f135b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/81579704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-21%2Fb18a919f-6b50-b791-430c-664b1a1f135b.m4a</guid>
+   <pubDate>Sun, 21 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השגחה פרטית - אמונות ודעות</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/81018397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-9%2F91e7711d-a991-82d2-252f-bb86bd1d91c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/81018397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-9%2F91e7711d-a991-82d2-252f-bb86bd1d91c6.mp3</guid>
+   <pubDate>Tue, 09 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השגחה פרטית חלק ג - שיטת הרמב"ם</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/80813754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F84cf566f-41ce-af42-b33d-1c663c52d3af.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/80813754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F84cf566f-41ce-af42-b33d-1c663c52d3af.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השגחה פרטית חלק ב</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/80813727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F375c82d2-74c6-940c-21f2-4ab81ecafda5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/80813727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F375c82d2-74c6-940c-21f2-4ab81ecafda5.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השגחה פרטית חלק א</title>
+   <description>הרב טל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב טל</itunes:author>
+   <enclosure url="https://anchor.fm/s/f017b308/podcast/play/80813689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F3b6292fb-4143-7421-3905-e2058542f3a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f017b308/podcast/play/80813689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F3b6292fb-4143-7421-3905-e2058542f3a4.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מדן בזק · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-42126bff.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מדן בזק.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>למה נקרא קהלת "קהלת"? | סוכות | חידוש מהגוש תשפ"ז | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/126179371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F432490365-44100-2-2183e511d52b9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/126179371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F432490365-44100-2-2183e511d52b9.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבנה הכתיבה בשירות המקרא | האזינו | חידוש מהגוש תשפ"ז | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/125860413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432065734-44100-2-d8f58c57fcc7a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/125860413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432065734-44100-2-d8f58c57fcc7a.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין הסתר פנים ונתינת פנים | ניצבים - וילך | חידוש מהגוש תשפ"ו | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/125039051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430961750-44100-2-118d4e1a9576e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/125039051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430961750-44100-2-118d4e1a9576e.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"ארמי אבד אבי" | כי תבוא | חידוש מהגוש תשפ"ו | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/124650466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-24%2F430423628-44100-2-c0b48414978c5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/124650466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-24%2F430423628-44100-2-c0b48414978c5.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עלילות, שקר ומה שביניהם: על "השנואה" | כי תצא | חידוש מהגוש תשפ"ו | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/124470191/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F430179879-44100-2-96215e9c8e1d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/124470191/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F430179879-44100-2-96215e9c8e1d5.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיוב הנדר ואחריות ראשי המטות | מטות - מסעי | חידוש מהגוש תשפ"ו | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/122552726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2F427580103-44100-2-c073f6767709b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/122552726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2F427580103-44100-2-c073f6767709b.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קורבנות המוספים וקורבנות הנשיאים | פינחס | חידוש מהגוש תשפ"ו | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/122245115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427165528-44100-2-8782fc1b990c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/122245115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427165528-44100-2-8782fc1b990c.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין פרשות חוקת לבלק: על הנחשים, הלחישות ונחושת | בלק | חידוש מהגוש תשפ"ו | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/121931145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F426745211-44100-2-4380eb5a558ba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/121931145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F426745211-44100-2-4380eb5a558ba.mp3</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביכורים ובכורות- בין מתנה לה' ומתנות כהונה | פרשת קרח | חידוש מהגוש תשפ"ו | הרב מדן והרב בזק</title>
+   <description>הרב מדן בזק · ישיבת הר עציון · גמרא</description>
+   <itunes:author>הרב מדן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/121335266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-11%2F425948390-44100-2-a2de73e4c40bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/121335266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-11%2F425948390-44100-2-a2de73e4c40bc.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

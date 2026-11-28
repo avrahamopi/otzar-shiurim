@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יצחק שילת · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-693b225e.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יצחק שילת.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרשת ויצא - יציאה מהארץ</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7345ddfd-9557-49fd-9c84-ec83eaaa89cc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7345ddfd-9557-49fd-9c84-ec83eaaa89cc/stream.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא - מקומו של עולם</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2a35d182-0d91-475b-9ec9-ff11f9ba4d4c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2a35d182-0d91-475b-9ec9-ff11f9ba4d4c/stream.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות - מציאות של קדושה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/099829d0-be3c-4fd9-ade8-75102e458062/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/099829d0-be3c-4fd9-ade8-75102e458062/stream.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות - נטייה טבעית ובחירה חופשית</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a36750fe-74d1-4e9c-89c2-d1aab4683d35/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a36750fe-74d1-4e9c-89c2-d1aab4683d35/stream.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - והיית לנו לראש</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/84c9d9e8-ef3b-4aed-8249-39ca533adbf6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/84c9d9e8-ef3b-4aed-8249-39ca533adbf6/stream.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה - יפה שיחתן של עבדי אבות</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6d25b459-e2e0-4993-8475-5aad7f7109e1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6d25b459-e2e0-4993-8475-5aad7f7109e1/stream.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות תכונת ההגינות בעם ישראל | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3f999aec-702a-4811-89c4-379725ec4492/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3f999aec-702a-4811-89c4-379725ec4492/stream.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - המסר לימינו מדור הפלגה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b9d90c32-4886-41ea-9aec-43cdc221405f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b9d90c32-4886-41ea-9aec-43cdc221405f/stream.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - היחס בין האדם לבעלי החיים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4107d163-c2b8-4417-bdf7-027d110073e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4107d163-c2b8-4417-bdf7-027d110073e9/stream.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - תפקיד הרע בבריאה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2f336a74-c4a9-474f-84fe-55220d934da4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2f336a74-c4a9-474f-84fe-55220d934da4/stream.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות התקיעות בראש השנה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a549772e-9e83-4ac0-b220-434aac9dcc2a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a549772e-9e83-4ac0-b220-434aac9dcc2a/stream.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהי הדרך של הציבור הציוני תורני? | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/35e0b8b2-de6c-4111-b818-cd4a0f949ca8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/35e0b8b2-de6c-4111-b818-cd4a0f949ca8/stream.mp3</guid>
+   <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היחס ליתום והאלמנה (ו, ט-י) | 24</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/beb01968-5f38-4673-a10a-c9db8e07eb52/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/beb01968-5f38-4673-a10a-c9db8e07eb52/stream.mp3</guid>
+   <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוכח תוכיח (ו, ז-ח) | 23</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b10df11f-b449-40c1-872b-3f6492697678/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b10df11f-b449-40c1-872b-3f6492697678/stream.mp3</guid>
+   <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא תשנא את אחיך בלבבך (ו, ה-ז) | 22</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ab0a0a3c-348e-44a7-8a81-be2f928c0a7b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ab0a0a3c-348e-44a7-8a81-be2f928c0a7b/stream.mp3</guid>
+   <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואהבת לרעך כמוך (ו, ג-ד) | 21</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/62f3fff9-7877-471c-9870-b7214dfd3bc9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/62f3fff9-7877-471c-9870-b7214dfd3bc9/stream.mp3</guid>
+   <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סביבה, חברה ומקום מגורים (דעות ו, א-ב) | 20</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1c5ebb04-003c-4101-8494-28262761197a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1c5ebb04-003c-4101-8494-28262761197a/stream.mp3</guid>
+   <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משאו ומתנו של תלמיד חכם (ה, יב-יג) | 19</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a770b11d-7941-448e-8902-723a575d238d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a770b11d-7941-448e-8902-723a575d238d/stream.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פמיניזם, תורה וצבא | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0c38e85b-9da1-4e4d-b6ec-351669295401/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0c38e85b-9da1-4e4d-b6ec-351669295401/stream.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההתנהלות הכלכלית הראויה (ה, י-יא) | 18</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b02481f2-0868-4992-8be9-f6e34e62417a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b02481f2-0868-4992-8be9-f6e34e62417a/stream.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הליכות ונראות תלמיד החכמים (ה, ז-ט) | 17</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/6f18fe72-9c97-425a-967b-ecda5cf3b1bd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/6f18fe72-9c97-425a-967b-ecda5cf3b1bd/stream.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנהגת תלמיד החכמים (ה, ו-ז) | 16</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/645481e5-e08c-4354-b7de-597628587d98/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/645481e5-e08c-4354-b7de-597628587d98/stream.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השתיה והשכרות (ה, ג) | 15</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3d6d7b14-415f-4fa2-8d7f-824bc391bb52/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3d6d7b14-415f-4fa2-8d7f-824bc391bb52/stream.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התעמלות והתנהגות החכם (ד - ה, ב) | 14</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/df6bfbf0-befa-4ec7-950f-01694c472173/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/df6bfbf0-befa-4ec7-950f-01694c472173/stream.mp3</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההנהגה ורפואות הרמב"ם (ג, ג - ד) | 13</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/f9b3fb00-5423-4de9-844d-3f42848498b2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/f9b3fb00-5423-4de9-844d-3f42848498b2/stream.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכיך דעהו (ג, ב-ג) | 12</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/01d2678d-4c29-48b4-b09a-ed5cf336c7f4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/01d2678d-4c29-48b4-b09a-ed5cf336c7f4/stream.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם לימוד מדע יכול להיחשב כלימוד תורה? | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/451be42a-4a09-46d3-a5d5-b3c8a2047738/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/451be42a-4a09-46d3-a5d5-b3c8a2047738/stream.mp3</guid>
+   <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפרישות (ג, א) | 11</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1c0731ec-6161-48be-96b3-8192e9ec3288/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1c0731ec-6161-48be-96b3-8192e9ec3288/stream.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרך האמצע בשמחה ובפרנסה (ב, ז) | 10</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7c44fa23-b4e9-4b23-92ff-afe796e7d6f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7c44fa23-b4e9-4b23-92ff-afe796e7d6f2/stream.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תוכו כברו ודברי חלקות (ב, ו) | 9</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4812c02b-4c67-4b32-91a2-34be6e8d6dbf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4812c02b-4c67-4b32-91a2-34be6e8d6dbf/stream.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק שילת, ראש ישיבת מעלה אדומים • סוגיות באישות ומשפחה לאור כוונות התורה - שיחה עם הרב ישי אנגלמן</title>
+   <description>הרב יצחק שילת · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://media.transistor.fm/ff977a11/88939484.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ff977a11/88939484.mp3</guid>
+   <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעולם ירבה אדם בשתיקה (ב, ד-ו) | 8</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/109644d7-e7dd-4205-816b-e0d16e636df2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/109644d7-e7dd-4205-816b-e0d16e636df2/stream.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המידות המיוחדות (ב, ג) | 7</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4e12484e-7757-4541-871b-3d9f947e11f7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4e12484e-7757-4541-871b-3d9f947e11f7/stream.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות מעמד הר סיני בבניין הרוחני של עם ישראל | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1e00d52c-1b2c-4178-8f5c-05cb44727330/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1e00d52c-1b2c-4178-8f5c-05cb44727330/stream.mp3</guid>
+   <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רפואת חולי הנפשות (ב, א-ג) | 6</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/332abe0f-4c43-4039-a60f-4431fd9236a8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/332abe0f-4c43-4039-a60f-4431fd9236a8/stream.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרגל נעשה טבע (א, ז) | 5</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c05c2dba-64dd-4b17-bd07-eded236d425e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c05c2dba-64dd-4b17-bd07-eded236d425e/stream.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החכם והחסיד (א, ד-ו) | 4</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4f18326a-2e91-4f8e-be46-5d9ae23e1979/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4f18326a-2e91-4f8e-be46-5d9ae23e1979/stream.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרך האמצע (א, ג) | 3</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d2752f5e-3060-4465-ac48-264916b47ddf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d2752f5e-3060-4465-ac48-264916b47ddf/stream.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרכי האדם (א,ב) | 2</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e194cbd6-71d0-4c2e-aef9-eafb6ae95d46/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e194cbd6-71d0-4c2e-aef9-eafb6ae95d46/stream.mp3</guid>
+   <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה | 1</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/98f7822c-13e4-4a05-bca8-753591a16d0a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/98f7822c-13e4-4a05-bca8-753591a16d0a/stream.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עונש מוות למחבלים | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e5a54c9b-221f-4883-92bd-a02d4e30723a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e5a54c9b-221f-4883-92bd-a02d4e30723a/stream.mp3</guid>
+   <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילת המועדים - יעלה ויבוא | 30</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/950cbc68-5fad-4455-a3d8-ce5aa4b3267e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/950cbc68-5fad-4455-a3d8-ce5aa4b3267e/stream.mp3</guid>
+   <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילת המועדים - יעלה ויבוא | 29</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/e215a535-3d49-47f1-b974-dd7e2e9dff8c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/e215a535-3d49-47f1-b974-dd7e2e9dff8c/stream.mp3</guid>
+   <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילת הרגלים | 28</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/885ab390-abaa-4630-b6c1-70c847ceb03d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/885ab390-abaa-4630-b6c1-70c847ceb03d/stream.mp3</guid>
+   <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכות השחר (ג) | 27</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2c07fd70-0c7d-47ca-8a31-d89a82a7c088/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2c07fd70-0c7d-47ca-8a31-d89a82a7c088/stream.mp3</guid>
+   <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זמן חירותנו | והגדת לבנך תשפ"ו | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3fe54d07-b585-421c-931d-af62791d4f4d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3fe54d07-b585-421c-931d-af62791d4f4d/stream.mp3</guid>
+   <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכות השחר (ב) - "שלא עשאני" | 26</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f6d2c667-a941-4fcb-aa05-ceeaecef7bec/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f6d2c667-a941-4fcb-aa05-ceeaecef7bec/stream.mp3</guid>
+   <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכות השחר (א) | 25</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/8b0b173f-d7ad-4fa4-ad3e-ff4437efddc8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/8b0b173f-d7ad-4fa4-ad3e-ff4437efddc8/stream.mp3</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכות התורה | 24</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/682907fc-2809-4990-b7d4-df6236b69ac7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/682907fc-2809-4990-b7d4-df6236b69ac7/stream.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אתה בחרתנו" - תפילת הרגלים | 23"</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/24ca7104-3bcc-4961-a1da-7400a0928c6d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/24ca7104-3bcc-4961-a1da-7400a0928c6d/stream.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסף ראש חודש | 22</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/9b6ed42f-a5c1-477a-94d8-9cf51b26ce9d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/9b6ed42f-a5c1-477a-94d8-9cf51b26ce9d/stream.mp3</guid>
+   <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאל ישראל והשכיבנו | 21</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/63b02cf3-3e6c-4b98-b4f5-0b8c48cafc54/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/63b02cf3-3e6c-4b98-b4f5-0b8c48cafc54/stream.mp3</guid>
+   <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על הניסים (ב) - מה הניע את המן? - עיון תפילה פורים | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/87d72a2f-0602-4534-adeb-20a82d1ef018/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/87d72a2f-0602-4534-adeb-20a82d1ef018/stream.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על הניסים (א) - על איזה נס מודים? - עיון תפילה פורים | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1f914826-2419-4679-8c9a-414087e9a500/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1f914826-2419-4679-8c9a-414087e9a500/stream.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת אהבה | 20</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/53982054-b051-43f6-b8f8-742734b1b245/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/53982054-b051-43f6-b8f8-742734b1b245/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיטת הרמב"ם בבן עיר שהלך לכרך - שיעור כללי פורים לתשפ"ו | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/46f70343-419d-469a-b5f9-9b6d328ac129/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/46f70343-419d-469a-b5f9-9b6d328ac129/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יוצר אור | 19</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/de0c344f-f090-40f8-882f-fab2195ad773/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/de0c344f-f090-40f8-882f-fab2195ad773/stream.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסף של שבת | 18</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/c3df9d36-8d03-4026-9b68-3747a0599fc6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/c3df9d36-8d03-4026-9b68-3747a0599fc6/stream.mp3</guid>
+   <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מנחה של שבת | 17</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/704faaf3-40fc-47cd-99e5-47c7c3cd61ec/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/704faaf3-40fc-47cd-99e5-47c7c3cd61ec/stream.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שחרית של שבת | 16</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/e46ce583-0e40-489e-8094-c4feae497807/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/e46ce583-0e40-489e-8094-c4feae497807/stream.mp3</guid>
+   <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערבית של שבת | 15</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/afb258bc-1eb2-41dc-9a64-1bba422ba617/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/afb258bc-1eb2-41dc-9a64-1bba422ba617/stream.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילות השבת - פתיחה | 14</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/47a8eb41-494a-4484-a87b-bec153d5a7e2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/47a8eb41-494a-4484-a87b-bec153d5a7e2/stream.mp3</guid>
+   <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת השלום | 13</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/67723157-c30e-40e0-bf3e-6ab58769e042/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/67723157-c30e-40e0-bf3e-6ab58769e042/stream.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכות שומע תפילה, עבודה והודאה | 12</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/be64a802-f3a5-404d-98a4-5f341995e1d3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/be64a802-f3a5-404d-98a4-5f341995e1d3/stream.mp3</guid>
+   <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בונה ירושלים ומצמיח קרן ישועה | 11</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/83f16d5f-3342-4d91-8b9b-864107e3bcd9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/83f16d5f-3342-4d91-8b9b-864107e3bcd9/stream.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשפט (ב), הרשעים והצדיקים, וברכות הישועה | 10</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/dce933b8-90e0-4be3-a3a0-7e5bae735dad/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/dce933b8-90e0-4be3-a3a0-7e5bae735dad/stream.mp3</guid>
+   <pubDate>Fri, 23 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קיבוץ גלויות וברכת המשפט (א) | 9</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/0b6cf074-497f-4182-9b1e-2f9830464a8c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/0b6cf074-497f-4182-9b1e-2f9830464a8c/stream.mp3</guid>
+   <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סליחה, גאולה, רפואה וברכת השנים | 8</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f95371d1-2b2a-4488-a23d-1f558e911c4a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f95371d1-2b2a-4488-a23d-1f558e911c4a/stream.mp3</guid>
+   <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה מן השמיים | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0809d5b1-1652-4edc-a75d-94ee3cd89322/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0809d5b1-1652-4edc-a75d-94ee3cd89322/stream.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דעת ותשובה | 7</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/60cb5215-6748-4a45-b8d8-1fdcb28326bb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/60cb5215-6748-4a45-b8d8-1fdcb28326bb/stream.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הא-ל הקדוש | 6</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/22277805-0c0d-4993-a74c-700830090d4a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/22277805-0c0d-4993-a74c-700830090d4a/stream.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת גבורות | 5</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/cffc3d7c-1869-405d-a6c8-bf47cf1d0627/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/cffc3d7c-1869-405d-a6c8-bf47cf1d0627/stream.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת אבות (ג) | 4</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/4cc3f250-0da2-4e72-84e2-5ad8c09b146e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/4cc3f250-0da2-4e72-84e2-5ad8c09b146e/stream.mp3</guid>
+   <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת אבות (ב) | 3</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/4e9ec64c-c00c-42dd-b6e2-3b81218485eb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/4e9ec64c-c00c-42dd-b6e2-3b81218485eb/stream.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכות השבח - אבות | 2</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/c7de67a3-8d58-4e2f-adbc-de52d4f543ed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/c7de67a3-8d58-4e2f-adbc-de52d4f543ed/stream.mp3</guid>
+   <pubDate>Fri, 26 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה לתפילה | 1</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/53c97f4d-38bb-4af1-8640-77c44796accb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/53c97f4d-38bb-4af1-8640-77c44796accb/stream.mp3</guid>
+   <pubDate>Sat, 20 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המוסר הטבעי לעומת מצוות התורה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d637e63b-b2dd-45e4-ae49-30518d2364d1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d637e63b-b2dd-45e4-ae49-30518d2364d1/stream.mp3</guid>
+   <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסוד היסודות ועמוד החכמות | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3e6dd94c-9a73-463c-96db-23de3220caeb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3e6dd94c-9a73-463c-96db-23de3220caeb/stream.mp3</guid>
+   <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי הם החרדים? | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/f26ea06e-0ad6-4d98-804a-25c8be5ea081/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/f26ea06e-0ad6-4d98-804a-25c8be5ea081/stream.mp3</guid>
+   <pubDate>Wed, 29 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין תשובה אישית לתשובה לאומית | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/285567ea-191b-4bb3-9f10-f4ccf2d957b5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/285567ea-191b-4bb3-9f10-f4ccf2d957b5/stream.mp3</guid>
+   <pubDate>Sun, 21 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלימוד בישיבה בימינו - פתיחה לזמן אלול | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/8020859c-5e43-45c0-ab8a-423203a17de9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/8020859c-5e43-45c0-ab8a-423203a17de9/stream.mp3</guid>
+   <pubDate>Tue, 26 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיצד יש להתייחס למהפכת ה-AI? | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7a92cd23-c54b-4200-946e-5b4db9fbfd29/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7a92cd23-c54b-4200-946e-5b4db9fbfd29/stream.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דחיק ואתי מרחיק | 22</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/678c6034-43d3-4f4e-8635-f365ac3daa3e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/678c6034-43d3-4f4e-8635-f365ac3daa3e/stream.mp3</guid>
+   <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נסוג אחור | 21</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a003a6df-a375-47cc-a16c-e8478a05edf7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a003a6df-a375-47cc-a16c-e8478a05edf7/stream.mp3</guid>
+   <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טעמי המקרא | 20</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6d5d539c-2e23-4b07-83b3-aa43c28a7606/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6d5d539c-2e23-4b07-83b3-aa43c28a7606/stream.mp3</guid>
+   <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תחביר | 19</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/db7789fe-dfa6-4935-a951-906306851a05/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/db7789fe-dfa6-4935-a951-906306851a05/stream.mp3</guid>
+   <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיצוניות מול פנימיות | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/15c68829-ed13-4e83-962f-25b1ba8d1f00/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/15c68829-ed13-4e83-962f-25b1ba8d1f00/stream.mp3</guid>
+   <pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רוח לחימה וסייעתא דשמיא - הרב יצחק שילת בשיחה ליום ירושלים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ba80ea28-763d-4792-88f8-b44aebceafc6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ba80ea28-763d-4792-88f8-b44aebceafc6/stream.mp3</guid>
+   <pubDate>Mon, 26 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התארים | 18</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a5430f72-e699-424d-af80-f128d14ec777/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a5430f72-e699-424d-af80-f128d14ec777/stream.mp3</guid>
+   <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צורת המקור | 17</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ff3ec5e6-f53c-4a4a-8584-69abf0b2e446/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ff3ec5e6-f53c-4a4a-8584-69abf0b2e446/stream.mp3</guid>
+   <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צורת הנקבה | 16</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6387857b-c6bd-444a-9a24-9240f31d4a02/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6387857b-c6bd-444a-9a24-9240f31d4a02/stream.mp3</guid>
+   <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עקרונות היסוד בליל הסדר | והגדת לבנך תשפ"ה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b06b1c04-b48f-46f6-993f-7e42c93010c8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b06b1c04-b48f-46f6-993f-7e42c93010c8/stream.mp3</guid>
+   <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השווא המרחף | 15</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fa0db401-c3a6-4b62-bf9f-6fda6a30f747/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fa0db401-c3a6-4b62-bf9f-6fda6a30f747/stream.mp3</guid>
+   <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משקלי מקטל | 14</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/041034d7-4db4-4416-a158-de2ea25e4cb5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/041034d7-4db4-4416-a158-de2ea25e4cb5/stream.mp3</guid>
+   <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשקלים קָטָל וקַטָּל | 13</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/76d2e2ae-3c0e-453d-8d2d-d8576a0608de/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/76d2e2ae-3c0e-453d-8d2d-d8576a0608de/stream.mp3</guid>
+   <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ה"א השאלה, צורת הרבים והמשקלים קֶטֶל וקֹטֶל | 12</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8ce57af5-50ec-4c5b-abe9-ac5a65119423/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8ce57af5-50ec-4c5b-abe9-ac5a65119423/stream.mp3</guid>
+   <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"כל מעשיך יהיו לשם שמים" | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4d9bdd18-8874-4c67-bc67-8f707241c23c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4d9bdd18-8874-4c67-bc67-8f707241c23c/stream.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניקוד ה"א הידיעה | 11</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/175b3774-11dd-4e15-989e-0db6adebe43d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/175b3774-11dd-4e15-989e-0db6adebe43d/stream.mp3</guid>
+   <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניקוד וי"ו החיבור ואותיות השימוש בכ"ל | 10</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8402e7e1-4260-4444-b1d4-7fdf12ba9d91/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8402e7e1-4260-4444-b1d4-7fdf12ba9d91/stream.mp3</guid>
+   <pubDate>Tue, 11 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התנועות החטופות באותיות הגרוניות | 9</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d81ab1f1-5ace-4fd9-ae6f-d2a912a19a0c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d81ab1f1-5ace-4fd9-ae6f-d2a912a19a0c/stream.mp3</guid>
+   <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט תורני על צורת השלטון הדמוקרטית | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d6cec701-cd58-40da-8073-d81102a81007/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d6cec701-cd58-40da-8073-d81102a81007/stream.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וי"ו ההיפוך | 8</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/01c24b02-5302-4bd4-9ede-e884929e4556/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/01c24b02-5302-4bd4-9ede-e884929e4556/stream.mp3</guid>
+   <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גזרות נחי ל"א ול"ה וגזרת הכפולים | 7</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/af19ef8c-97b3-46c5-87b9-896c1fb091ff/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/af19ef8c-97b3-46c5-87b9-896c1fb091ff/stream.mp3</guid>
+   <pubDate>Tue, 21 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גזרת נחי ע"ו | 6</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9274ca81-2d94-4ab0-8956-1a5316fa21be/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9274ca81-2d94-4ab0-8956-1a5316fa21be/stream.mp3</guid>
+   <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גזרות חסרי פ"נ ונחי פ"י | 5</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a4262ee5-ed8d-4379-892b-32e94df7b7ac/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a4262ee5-ed8d-4379-892b-32e94df7b7ac/stream.mp3</guid>
+   <pubDate>Tue, 07 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניין התפעל | 4</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fd78b5f3-b68c-4eed-b62b-e986e8b1c500/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fd78b5f3-b68c-4eed-b62b-e986e8b1c500/stream.mp3</guid>
+   <pubDate>Sun, 29 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דילמות מוסריות בזמן המלחמה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c13366ad-1f7a-4076-8691-8a5930b83fa4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c13366ad-1f7a-4076-8691-8a5930b83fa4/stream.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניינים - הפעיל והופעל | 4</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8841b99e-b0f6-4bdb-8b5f-7ce8e662ec67/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8841b99e-b0f6-4bdb-8b5f-7ce8e662ec67/stream.mp3</guid>
+   <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכת כהנים וגוי קדוש - שיחה ליום העצמאות | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7bb065f8-683b-4df8-8791-265c6dd3e601/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7bb065f8-683b-4df8-8791-265c6dd3e601/stream.mp3</guid>
+   <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניינים נפעל, פיעל ופועל | 2</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/71afca1f-966d-4b77-a2dd-d8af536dc5f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/71afca1f-966d-4b77-a2dd-d8af536dc5f2/stream.mp3</guid>
+   <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה ובניין קל | 1</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b886388c-e42a-4dae-8d30-7f1fc142f426/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b886388c-e42a-4dae-8d30-7f1fc142f426/stream.mp3</guid>
+   <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות בלי אמונה? | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2518eb1b-8a6f-48b7-80d6-61deb9aee56a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2518eb1b-8a6f-48b7-80d6-61deb9aee56a/stream.mp3</guid>
+   <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעיית המגזרים | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/29716e78-9494-4952-9200-caee54c86114/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/29716e78-9494-4952-9200-caee54c86114/stream.mp3</guid>
+   <pubDate>Wed, 06 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובת הציבור הדתי לאומי | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/8ce6f694-7586-4b0e-a7a2-8f461f6d6989/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/8ce6f694-7586-4b0e-a7a2-8f461f6d6989/stream.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבה, מחלוקות ולימוד (ה, יד - יט) - 71</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f46f38b8-2566-4511-badf-32a06e43e799/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f46f38b8-2566-4511-badf-32a06e43e799/stream.mp3</guid>
+   <pubDate>Wed, 28 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבע מידות באדם (ה, יא - יג) - 70</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/751a90b0-f7ca-441b-9e17-bf99a89c1fab/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/751a90b0-f7ca-441b-9e17-bf99a89c1fab/stream.mp3</guid>
+   <pubDate>Fri, 23 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידה כנגד מידה (ה, ז - י) - 69</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/92ac7608-41a0-4dbd-8723-cf10241f80dd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/92ac7608-41a0-4dbd-8723-cf10241f80dd/stream.mp3</guid>
+   <pubDate>Fri, 16 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוגי האנשים – בור, גולם, חסיד וחכם (ה, ה-ו) - 68</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/53bec268-6b37-4f5b-914c-40d08f159ef2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/53bec268-6b37-4f5b-914c-40d08f159ef2/stream.mp3</guid>
+   <pubDate>Wed, 14 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הניסים שנעשו לאבותינו ובריאת העולם (ה, ג – ה) - 67</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fc71d9b6-37ab-4a9a-9963-ebc96e60ccd3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fc71d9b6-37ab-4a9a-9963-ebc96e60ccd3/stream.mp3</guid>
+   <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנסיונות והניסים שנעשו לאבותינו (ה, ג) - 66</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/607e1886-e54e-4321-87cb-39a4da32151d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/607e1886-e54e-4321-87cb-39a4da32151d/stream.mp3</guid>
+   <pubDate>Wed, 07 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על עשרה מאמרות ועשרה דורות (ה, א - ב) - 65</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b279c15a-b3d5-4d3b-81b0-fb582d1fc870/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b279c15a-b3d5-4d3b-81b0-fb582d1fc870/stream.mp3</guid>
+   <pubDate>Thu, 01 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקנאה והתאוה והכבוד מוציאין את האדם מן העולם (ד, כג-כד) -64</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f2c80b8f-db16-4067-9288-7444f32fabd7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f2c80b8f-db16-4067-9288-7444f32fabd7/stream.mp3</guid>
+   <pubDate>Wed, 31 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תסתכל בקנקן (ד, כא - כב) - 63</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/74af80df-108f-4e4f-b4a4-3684158ac924/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/74af80df-108f-4e4f-b4a4-3684158ac924/stream.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על טקט ושמחה לאיד (ד, יט - כ) - 62</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/418e912b-482e-4b13-b83b-07242d7cfb1d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/418e912b-482e-4b13-b83b-07242d7cfb1d/stream.mp3</guid>
+   <pubDate>Wed, 24 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יפה שעה אחת של עולם הבא מכל העולם הזה (ד, יז - יח) - 61</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ef5cf0e5-9063-46a7-bf9c-26440eb5aaed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ef5cf0e5-9063-46a7-bf9c-26440eb5aaed/stream.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משילות רשעים, שלום וזנב לאריות (ד, טז) - 60</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a9dfdde3-d99b-4a00-b2c7-393c94315a37/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a9dfdde3-d99b-4a00-b2c7-393c94315a37/stream.mp3</guid>
+   <pubDate>Wed, 17 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוי גולה למקום תורה ואל בינתך אל תשען (ד, טו) - 59</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b6394187-0837-41b5-a0c3-55d508ce0628/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b6394187-0837-41b5-a0c3-55d508ce0628/stream.mp3</guid>
+   <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על שגגת התלמוד ושלושה כתרים (ד, יד) - 58</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3ecca91a-4651-45cc-a770-f98123901f42/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3ecca91a-4651-45cc-a770-f98123901f42/stream.mp3</guid>
+   <pubDate>Wed, 10 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהי כבוד תלמידך חביב עליך ככבוד חברך (ד, יב - יג) - 57</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f522b138-7c19-4764-9f0a-a7a8b21d3292/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f522b138-7c19-4764-9f0a-a7a8b21d3292/stream.mp3</guid>
+   <pubDate>Wed, 03 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כל המקיים את התורה מעוני סופו לקיימה מעושר (ד, י - יא) - 56</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/91af5c01-59b1-49c8-9aa1-bd4aa6d32821/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/91af5c01-59b1-49c8-9aa1-bd4aa6d32821/stream.mp3</guid>
+   <pubDate>Thu, 27 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבוד התורה, רשלנות וגאווה בדין ופסיקה (ד, ז - ט) - 55</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5b65958d-e8cd-4e1d-85c1-9794c3e81ea1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5b65958d-e8cd-4e1d-85c1-9794c3e81ea1/stream.mp3</guid>
+   <pubDate>Wed, 26 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משכורת מלימוד תורה - המשך (ד, ז) - 54</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b7211f18-469a-4363-b063-e923aa999064/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b7211f18-469a-4363-b063-e923aa999064/stream.mp3</guid>
+   <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משכורת מלימוד תורה (ד, ז) - 53</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7872812d-9650-463e-8c78-5dc3dd4dca17/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7872812d-9650-463e-8c78-5dc3dd4dca17/stream.mp3</guid>
+   <pubDate>Wed, 19 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המחלל שם שמים בסתר נפרעין ממנו בגלוי (ד, ה) - 52</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5a07843e-7373-44bb-b908-814cc2598f83/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5a07843e-7373-44bb-b908-814cc2598f83/stream.mp3</guid>
+   <pubDate>Fri, 14 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאוד מאוד הווי שפל רוח (ד, ד) - 51</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a5f25b03-e048-4b96-8805-d263d6248f56/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a5f25b03-e048-4b96-8805-d263d6248f56/stream.mp3</guid>
+   <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תהי בז לכל אדם ומעלת הענווה (ד, ג - ד) - 50</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/444b90f6-1fae-49c5-af74-0785545c8b14/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/444b90f6-1fae-49c5-af74-0785545c8b14/stream.mp3</guid>
+   <pubDate>Wed, 05 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכר מצווה - מצווה (ד, ב) - 49</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8deec137-4db2-4411-8c81-641ef574a582/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8deec137-4db2-4411-8c81-641ef574a582/stream.mp3</guid>
+   <pubDate>Fri, 31 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חכמה, מעשים טובים וענווה (ג, כא - ד, א) - 48</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/75c6fe92-5207-4ede-92d3-202d89e32570/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/75c6fe92-5207-4ede-92d3-202d89e32570/stream.mp3</guid>
+   <pubDate>Wed, 29 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרך ארץ קדמה לתורה (ג, ב) - 47</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/85a9596c-6ece-4efa-b9de-566127df9d87/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/85a9596c-6ece-4efa-b9de-566127df9d87/stream.mp3</guid>
+   <pubDate>Fri, 24 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החוב של כולנו (ג, טו - טז) - 46</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d39ebb93-aea9-4037-a922-2b84cd9e8f04/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d39ebb93-aea9-4037-a922-2b84cd9e8f04/stream.mp3</guid>
+   <pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכל צפוי והרשות נתונה (ג, טו) - 45</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9d86d887-367f-4fa5-9969-fedacfdbec83/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9d86d887-367f-4fa5-9969-fedacfdbec83/stream.mp3</guid>
+   <pubDate>Fri, 17 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולה גשמית וגאולה רוחנית | תשפ"ד | רה"י הרב יצחק שילת - 2</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/74791bc7-17f6-49ec-9ae1-ff7c07887847/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/74791bc7-17f6-49ec-9ae1-ff7c07887847/stream.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חביב אדם שנברא בצלם (ג, יד) - 44</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e52cb5d4-8586-4b5c-8417-42872b6f45b9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e52cb5d4-8586-4b5c-8417-42872b6f45b9/stream.mp3</guid>
+   <pubDate>Fri, 12 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עמידה לפני כל אדם והסייגים שאדם מטיל על עצמו (ג, יב - יג) - 43</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/59875e01-1d4f-4924-9399-c21799cc673c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/59875e01-1d4f-4924-9399-c21799cc673c/stream.mp3</guid>
+   <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אע"פ שיש בידו מעשים טובים- אין לו חלק לעולם הבא (ג, יא) - 42</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3fd10a5d-d175-4ab7-b239-05c7656b5161/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3fd10a5d-d175-4ab7-b239-05c7656b5161/stream.mp3</guid>
+   <pubDate>Fri, 05 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדברים המוציאים את האדם מן העולם (ג, י) - 41</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/21a299b3-5014-4c40-a293-a63cda1a9317/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/21a299b3-5014-4c40-a293-a63cda1a9317/stream.mp3</guid>
+   <pubDate>Fri, 05 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה ללא מעשה (ג, ט-י) - 40</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1f39d7fd-e390-4169-b106-85907ff5fa9b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1f39d7fd-e390-4169-b106-85907ff5fa9b/stream.mp3</guid>
+   <pubDate>Wed, 27 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכינה, אילנות וזיכרון (ג, ו-ח) - 39</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1185f185-6c40-494f-9d81-dc446f1f311f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1185f185-6c40-494f-9d81-dc446f1f311f/stream.mp3</guid>
+   <pubDate>Fri, 22 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על התורה (ג, ה) - 38</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/eb23485b-db0d-46e4-a70c-18fdc1d2405a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/eb23485b-db0d-46e4-a70c-18fdc1d2405a/stream.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושה שאכלו על שולחן אחד (ג, ג - ד) - 37</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ed900717-83e8-4d7c-88b1-887debf150ea/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ed900717-83e8-4d7c-88b1-887debf150ea/stream.mp3</guid>
+   <pubDate>Fri, 15 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מושב לצים (ג, ג) - 36</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/dc0d8ff8-bd66-4755-a48e-9337b2645b27/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/dc0d8ff8-bd66-4755-a48e-9337b2645b27/stream.mp3</guid>
+   <pubDate>Wed, 13 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דע מאין באת ולאן אתה הולך (ג, א) - 35</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ff58cdb4-b8ba-40c2-839a-1f8a60458f0e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ff58cdb4-b8ba-40c2-839a-1f8a60458f0e/stream.mp3</guid>
+   <pubDate>Fri, 08 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזמן קצר והמלאכה מרובה (ב, יד-טו) - 34</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3aa05c81-6007-4463-9699-7817fdedc8a4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3aa05c81-6007-4463-9699-7817fdedc8a4/stream.mp3</guid>
+   <pubDate>Wed, 06 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>33 - דע מה שתשיב (ב, יג)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b9b9da29-9b4e-43ff-9e89-35b29362dc3b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b9b9da29-9b4e-43ff-9e89-35b29362dc3b/stream.mp3</guid>
+   <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לכוון בתפילה (ב, יב) - 32</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3320eea7-ebdd-4a9d-9fdd-42d28aff9927/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3320eea7-ebdd-4a9d-9fdd-42d28aff9927/stream.mp3</guid>
+   <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>31 - האדם והעולם (ב, י-יא)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9b08cfd1-e8ce-4cd4-8a1e-5b18827f0bf7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9b08cfd1-e8ce-4cd4-8a1e-5b18827f0bf7/stream.mp3</guid>
+   <pubDate>Fri, 16 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>30 - כבוד חברך (ב, ט)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2123c5dc-24b5-4098-b0a9-dcc9e7ddaac3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2123c5dc-24b5-4098-b0a9-dcc9e7ddaac3/stream.mp3</guid>
+   <pubDate>Fri, 09 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>29 - דרך שידבק בה האדם (ב, ט)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/826ae8e7-1586-4daf-99b2-1d200b24c71e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/826ae8e7-1586-4daf-99b2-1d200b24c71e/stream.mp3</guid>
+   <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>28 - גולה למקום תורה (ב, ז)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/435b7ae6-29ba-4131-8cf7-f9fbc676cd72/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/435b7ae6-29ba-4131-8cf7-f9fbc676cd72/stream.mp3</guid>
+   <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>27 - תלמידי רבן יוחנן (ב, ז)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bf093657-03ea-4d77-be82-633d0f52fa6c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bf093657-03ea-4d77-be82-633d0f52fa6c/stream.mp3</guid>
+   <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>26 - מעשים ותוצאות (ב, ז)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d820f4e0-31af-4d93-b225-00901dc9581e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d820f4e0-31af-4d93-b225-00901dc9581e/stream.mp3</guid>
+   <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>25 - מדה כנגד מדה (ב, ו)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c15fae2f-3285-40ae-ba7f-675bf2e1ed80/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c15fae2f-3285-40ae-ba7f-675bf2e1ed80/stream.mp3</guid>
+   <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>24 - השתדל להיות איש (ב, ה)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d8181894-2ff5-49aa-a27c-ea9c991c4da8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d8181894-2ff5-49aa-a27c-ea9c991c4da8/stream.mp3</guid>
+   <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>23 - עצות מהלל הזקן (ב, ד)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ce312801-42ee-4ba9-9b47-e96c7895ae8b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ce312801-42ee-4ba9-9b47-e96c7895ae8b/stream.mp3</guid>
+   <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>22 - שלטון לשם שמיים (ב, ג)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9746b5d8-414a-465c-ad4c-7b96615a47c3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9746b5d8-414a-465c-ad4c-7b96615a47c3/stream.mp3</guid>
+   <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>21 - צרכי ציבור באמונה (ב, ב)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3481f36c-b86d-48df-926e-a17cffc75094/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3481f36c-b86d-48df-926e-a17cffc75094/stream.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>20 - הדרך הישרה (ב, א)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/396967f7-94e7-4ada-b07c-620a386b588c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/396967f7-94e7-4ada-b07c-620a386b588c/stream.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>19 - דין, אמת ושלום (א, יח)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/27017148-f85a-4a7e-85b3-f43035f8637a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/27017148-f85a-4a7e-85b3-f43035f8637a/stream.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>18 - חומרת לשון הרע (א, טז)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/893c569c-dc78-4c5d-a718-e4aae3002bca/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/893c569c-dc78-4c5d-a718-e4aae3002bca/stream.mp3</guid>
+   <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>17 - סוגי הדיבור - המשך (א, יז)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/719a3ab5-c9a1-4e62-897b-241ef1ba1fb5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/719a3ab5-c9a1-4e62-897b-241ef1ba1fb5/stream.mp3</guid>
+   <pubDate>Wed, 20 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>16 - (א, יז) סוגי הדיבור</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9235876c-2057-471b-9a6b-82609c978d96/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9235876c-2057-471b-9a6b-82609c978d96/stream.mp3</guid>
+   <pubDate>Mon, 11 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>15 - לצאת מהספק (א, טו)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/477d8a49-79c6-4889-ab0a-af8fd563683d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/477d8a49-79c6-4889-ab0a-af8fd563683d/stream.mp3</guid>
+   <pubDate>Mon, 11 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת מלחמה | יום עיון לחיילים | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/60139083-8fac-40d6-9e3b-6bef14b955a1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/60139083-8fac-40d6-9e3b-6bef14b955a1/stream.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>14 - אם אין אני לי - מי לי? (א, יג-יד)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/270c3872-608a-4596-9b5b-0246d8caa58d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/270c3872-608a-4596-9b5b-0246d8caa58d/stream.mp3</guid>
+   <pubDate>Wed, 06 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>13 - תלמידיו של אהרן (א, יב)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1ccfeb17-9ec0-4393-b94a-6f10ccb0153d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1ccfeb17-9ec0-4393-b94a-6f10ccb0153d/stream.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>12 - חכמים הזהרו בדבריכם (א, יא)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f0433240-a21f-42cc-8e5e-89039f8369f3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f0433240-a21f-42cc-8e5e-89039f8369f3/stream.mp3</guid>
+   <pubDate>Mon, 27 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>11 - הסכנה שבכוח (א, י)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d00ca058-db8d-4c76-920b-90d39b1f1dae/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d00ca058-db8d-4c76-920b-90d39b1f1dae/stream.mp3</guid>
+   <pubDate>Wed, 22 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10 - צדק צדק תרדוף (א, ח)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/19f4b144-4e3d-4b62-aabd-d7cb4fa84fa3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/19f4b144-4e3d-4b62-aabd-d7cb4fa84fa3/stream.mp3</guid>
+   <pubDate>Wed, 22 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - התחברות עם הרשע ויראת שמיים (א, ז)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d53aec61-1b5a-4fbb-beb4-1289d568530a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d53aec61-1b5a-4fbb-beb4-1289d568530a/stream.mp3</guid>
+   <pubDate>Wed, 15 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - חברוּת במשנת הרמב"ם - המשך (א, ו)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d289344a-11fd-483b-98a2-40bfa84c2d7e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d289344a-11fd-483b-98a2-40bfa84c2d7e/stream.mp3</guid>
+   <pubDate>Fri, 10 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7 - חברוּת במשנת הרמב"ם (א, ו)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fdf02ff4-06c2-406f-989a-7a56b9095cef/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fdf02ff4-06c2-406f-989a-7a56b9095cef/stream.mp3</guid>
+   <pubDate>Fri, 10 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת מלחמה - רה"י הרב יצחק שילת (חרבות ברזל תשפ"ד)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d7129508-24d2-4d77-9889-cb3eae93dc67/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d7129508-24d2-4d77-9889-cb3eae93dc67/stream.mp3</guid>
+   <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - זוגיות בעבודת ה' (א, ה)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/155cc108-3ecc-45bd-9995-a6fdf8722901/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/155cc108-3ecc-45bd-9995-a6fdf8722901/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - שימוש תלמידי חכמים (א,ד)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/759e4c58-b930-4ee9-95b8-ca3db6770876/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/759e4c58-b930-4ee9-95b8-ca3db6770876/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - צדוקים, קראים ורפורמים (א,ג)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/31d3d693-770b-48f3-870a-90ac070f8b68/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/31d3d693-770b-48f3-870a-90ac070f8b68/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - עבודה מיראה (א,ג)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/05211a6e-af33-48fe-be9d-7c95ac085d28/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/05211a6e-af33-48fe-be9d-7c95ac085d28/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - תורה, עבודה וגמילות חסדים (א,ב)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fe5247db-3dbc-4d33-a98f-9cb64e4e9266/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fe5247db-3dbc-4d33-a98f-9cb64e4e9266/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - דיינים, תלמידים וסייגים (א, א)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c916bee7-1ca9-4b33-ae3d-6dbe3ee4ebf1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c916bee7-1ca9-4b33-ae3d-6dbe3ee4ebf1/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום רֵעוּת יהיה לכם | אורי וישעי תשפ"ג | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a744eefd-953e-4866-b577-eae93d65572a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a744eefd-953e-4866-b577-eae93d65572a/stream.mp3</guid>
+   <pubDate>Wed, 13 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואתחנן - כוחה של אחדות</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d230d82c-6357-4e42-b0f8-314aa3a69932/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d230d82c-6357-4e42-b0f8-314aa3a69932/stream.mp3</guid>
+   <pubDate>Wed, 26 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים - גדולת הדיינים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/fabc9cf3-6012-4aab-a575-2f12eef3b60f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/fabc9cf3-6012-4aab-a575-2f12eef3b60f/stream.mp3</guid>
+   <pubDate>Fri, 21 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים - השבת וישראל</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/706c1f1a-4023-46a8-8f81-9544c23ae825/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/706c1f1a-4023-46a8-8f81-9544c23ae825/stream.mp3</guid>
+   <pubDate>Thu, 20 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות-מסעי - ארץ חמדה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ff64dd8d-3b97-49b0-b379-9b6e8ffda70b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ff64dd8d-3b97-49b0-b379-9b6e8ffda70b/stream.mp3</guid>
+   <pubDate>Fri, 14 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות - אישיותו של מנהיג</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/74d8c2f1-adee-4f76-b54b-6775451127e2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/74d8c2f1-adee-4f76-b54b-6775451127e2/stream.mp3</guid>
+   <pubDate>Thu, 13 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנחס - התורה כמסר או היסטוריה?</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0728715d-6e9e-40d4-a0f6-5c29a036bc44/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0728715d-6e9e-40d4-a0f6-5c29a036bc44/stream.mp3</guid>
+   <pubDate>Thu, 06 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק - לא מדובשך ולא מעוקצך</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/97a9327d-5493-43b5-917c-9bd045b264c2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/97a9327d-5493-43b5-917c-9bd045b264c2/stream.mp3</guid>
+   <pubDate>Fri, 30 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוקת - רודף שלום</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/78f21ef6-0f43-437b-9640-ca51831c1e9a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/78f21ef6-0f43-437b-9640-ca51831c1e9a/stream.mp3</guid>
+   <pubDate>Fri, 23 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוקת - במה חטא משה?</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a781887e-04f3-4091-acc9-bd80a031679a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a781887e-04f3-4091-acc9-bd80a031679a/stream.mp3</guid>
+   <pubDate>Fri, 23 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח - קרח עינו הטעתו</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ed5f4391-9f7b-49df-83e3-6d9b50a2643e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ed5f4391-9f7b-49df-83e3-6d9b50a2643e/stream.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח - כל העדה כולם קדושים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b85ff732-3f80-44e4-bfb7-311c323da5b8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b85ff732-3f80-44e4-bfb7-311c323da5b8/stream.mp3</guid>
+   <pubDate>Thu, 15 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח - אור זרוע לצדיק</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/eb4491b2-f017-427a-9078-1036c014a928/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/eb4491b2-f017-427a-9078-1036c014a928/stream.mp3</guid>
+   <pubDate>Fri, 09 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח - מוציאי דיבת הארץ</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/781b1fca-d370-4862-b879-a0040d2f01cf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/781b1fca-d370-4862-b879-a0040d2f01cf/stream.mp3</guid>
+   <pubDate>Fri, 09 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך - יראת ה' ויראת מלכות</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3bc6fe59-d22f-4d53-a197-4c8c650e6124/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3bc6fe59-d22f-4d53-a197-4c8c650e6124/stream.mp3</guid>
+   <pubDate>Fri, 02 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשא - יקרה היא מפנינים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a09cd8d0-53ac-41d2-978f-00691a472a17/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a09cd8d0-53ac-41d2-978f-00691a472a17/stream.mp3</guid>
+   <pubDate>Fri, 02 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר - בזכות מה יצאו ישראל ממצרים?</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8307bf39-85fb-4228-8559-d6326b7b76c4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8307bf39-85fb-4228-8559-d6326b7b76c4/stream.mp3</guid>
+   <pubDate>Fri, 19 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר - מיפקד הלויים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ebdf9be1-312b-48bd-b3a1-5780fad4be11/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ebdf9be1-312b-48bd-b3a1-5780fad4be11/stream.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר-בחוקותי - ונתתי גשמיכם בעתם</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/144ff0eb-74a8-45f0-8ccc-687e317f48b1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/144ff0eb-74a8-45f0-8ccc-687e317f48b1/stream.mp3</guid>
+   <pubDate>Fri, 12 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר - שמיים או ארץ נבראו תחילה?</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1b461db1-ebab-43aa-ad3b-6c636b451521/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1b461db1-ebab-43aa-ad3b-6c636b451521/stream.mp3</guid>
+   <pubDate>Wed, 10 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור - מה יתרון לאדם בכל עמלו?</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/291371a3-9fde-48f4-9047-6920ef251b27/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/291371a3-9fde-48f4-9047-6920ef251b27/stream.mp3</guid>
+   <pubDate>Fri, 05 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור - אין יתרון לבעל הלשון</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5cb1b405-cd9d-406b-9dec-b16293cecf57/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5cb1b405-cd9d-406b-9dec-b16293cecf57/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות - מיתת הצדיקים מכפרת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b15bc134-5990-4f71-a822-4ec6491a65bb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b15bc134-5990-4f71-a822-4ec6491a65bb/stream.mp3</guid>
+   <pubDate>Fri, 28 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא - והאיש משה עניו מאוד</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/719a35c3-39de-4db9-8082-e5df96cc0287/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/719a35c3-39de-4db9-8082-e5df96cc0287/stream.mp3</guid>
+   <pubDate>Fri, 24 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל - אני ישנה ולבי ער</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/828ab8a2-3959-48b5-a6c4-fdcd15ca4315/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/828ab8a2-3959-48b5-a6c4-fdcd15ca4315/stream.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל - וממכותיך ארפאך</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2a73e841-a6ff-4bd4-a939-99795f072587/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2a73e841-a6ff-4bd4-a939-99795f072587/stream.mp3</guid>
+   <pubDate>Wed, 15 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום יום בצבא</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1224c90c-0170-4a32-b8c6-ce536e7d2391/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1224c90c-0170-4a32-b8c6-ce536e7d2391/stream.mp3</guid>
+   <pubDate>Wed, 15 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא - הן יראת ה' היא חוכמה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/bc84ccbe-be9d-47c0-baa2-1c13e5c900b3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/bc84ccbe-be9d-47c0-baa2-1c13e5c900b3/stream.mp3</guid>
+   <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצווה - קחו עמכם דברים ושובו אל ה'</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ef24de2c-ccaa-43be-8b5d-74594888d56f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ef24de2c-ccaa-43be-8b5d-74594888d56f/stream.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה - ליצוק קדושה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/65a6af02-ffe1-4192-9ba8-9b3c3e89bced/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/65a6af02-ffe1-4192-9ba8-9b3c3e89bced/stream.mp3</guid>
+   <pubDate>Wed, 01 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - כתר תורה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/64487065-e1c3-452b-b73a-bc1b15fbb47d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/64487065-e1c3-452b-b73a-bc1b15fbb47d/stream.mp3</guid>
+   <pubDate>Fri, 24 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - לקח טוב נתתי לכם</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/25185d8c-f54e-415b-add2-a5e716104110/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/25185d8c-f54e-415b-add2-a5e716104110/stream.mp3</guid>
+   <pubDate>Wed, 22 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טלטול בשבת במקום שאין עירוב</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/f8a36be6-1a02-4860-aa84-119fdfc228c1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/f8a36be6-1a02-4860-aa84-119fdfc228c1/stream.mp3</guid>
+   <pubDate>Tue, 21 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - התורה: דינים לפניה ולאחריה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8d97d865-4986-4d93-9df6-0255cfae743d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8d97d865-4986-4d93-9df6-0255cfae743d/stream.mp3</guid>
+   <pubDate>Thu, 16 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה להרגעת הרוחות הסוערות - חיזוק לנאום נשיא המדינה | הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3c71a439-2610-4cf5-8024-13911778f719/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3c71a439-2610-4cf5-8024-13911778f719/stream.mp3</guid>
+   <pubDate>Wed, 15 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - כי אם בזאת יתהלל המתהלל</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0c898b54-548b-4844-8777-3683c981ff81/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0c898b54-548b-4844-8777-3683c981ff81/stream.mp3</guid>
+   <pubDate>Wed, 15 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבעה דברים פטרו במחנה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2a54e367-f05f-40bc-91cf-d8adbdcef0fd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2a54e367-f05f-40bc-91cf-d8adbdcef0fd/stream.mp3</guid>
+   <pubDate>Mon, 13 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו - ערבות ואחריות</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0b93f681-f1b3-4d2c-ab50-568504b6b07b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0b93f681-f1b3-4d2c-ab50-568504b6b07b/stream.mp3</guid>
+   <pubDate>Fri, 10 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והיה מחניך קדוש</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e9a7e769-826d-43df-aaa8-02ae3e83ad8a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e9a7e769-826d-43df-aaa8-02ae3e83ad8a/stream.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו - אמור דברים שהם יכולים לשמוע</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/02779e04-2fff-443c-86d6-9b9d5c4eea97/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/02779e04-2fff-443c-86d6-9b9d5c4eea97/stream.mp3</guid>
+   <pubDate>Wed, 08 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח - "מעשה ידי טובעים בים ואתם אומרים שירה?"</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/05136ee4-4cd3-4f5a-ba0e-c1c001223ded/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/05136ee4-4cd3-4f5a-ba0e-c1c001223ded/stream.mp3</guid>
+   <pubDate>Wed, 08 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח - מה תצעק אלי?</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5bb67b50-71e2-4fe5-96e4-c0c7e0b2e098/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5bb67b50-71e2-4fe5-96e4-c0c7e0b2e098/stream.mp3</guid>
+   <pubDate>Tue, 31 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קידוש השם בחיים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/48b16d51-9ddd-4a2b-86e2-af7d8665aa52/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/48b16d51-9ddd-4a2b-86e2-af7d8665aa52/stream.mp3</guid>
+   <pubDate>Tue, 31 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - מקדש ישראל והזמנים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0f535190-53e4-4cfb-af3c-bf74ef5449a8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0f535190-53e4-4cfb-af3c-bf74ef5449a8/stream.mp3</guid>
+   <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - הארץ היאך נבראת תחילה?</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3a4e26db-0ecf-4103-9ac2-a4849f7682a1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3a4e26db-0ecf-4103-9ac2-a4849f7682a1/stream.mp3</guid>
+   <pubDate>Wed, 25 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וזכרת כי ה' א-לוהיך הוא הנותן לך כח לעשות חיל</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0eecd201-be54-4aa8-b5cf-25ecafb5da40/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0eecd201-be54-4aa8-b5cf-25ecafb5da40/stream.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא - ואני אקשה את לב פרעה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9b98a24a-eb55-4987-9973-114c0e964840/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9b98a24a-eb55-4987-9973-114c0e964840/stream.mp3</guid>
+   <pubDate>Fri, 20 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא - דבר שפתיים אך למחסור</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d9c6cda4-a48b-4912-aa6c-0fbc676f688d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d9c6cda4-a48b-4912-aa6c-0fbc676f688d/stream.mp3</guid>
+   <pubDate>Fri, 20 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמרו של הרצי"ה 'למצות הארץ'</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3dfc5ad1-467f-4b81-9e44-9e6d157da625/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3dfc5ad1-467f-4b81-9e44-9e6d157da625/stream.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגבורה הגופנית והעלתה בקדושה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a5ff206e-2eca-4d93-b99c-9019c34ec4ca/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a5ff206e-2eca-4d93-b99c-9019c34ec4ca/stream.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיריים לכנסת ישראל</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/bb2e9b00-0a6e-49d8-8294-9fab584f469f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/bb2e9b00-0a6e-49d8-8294-9fab584f469f/stream.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואלה המשפטים - על הרפורמה המשפטית הצפויה | הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b73fec2c-6bb1-4bf4-9acf-1cb7360b2060/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b73fec2c-6bb1-4bf4-9acf-1cb7360b2060/stream.mp3</guid>
+   <pubDate>Mon, 16 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - זכותו של יתרו</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4b79b425-3afd-43b5-9a59-5599a7af85ab/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4b79b425-3afd-43b5-9a59-5599a7af85ab/stream.mp3</guid>
+   <pubDate>Fri, 13 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - חושך שבטו שונא בנו</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/32e898a7-ce98-44c2-98b6-09185d3954a1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/32e898a7-ce98-44c2-98b6-09185d3954a1/stream.mp3</guid>
+   <pubDate>Fri, 13 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - לישועתך קיויתי ה׳</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/14628b01-83fc-464c-be2b-62c0b7d831d7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/14628b01-83fc-464c-be2b-62c0b7d831d7/stream.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - תורתן של האבות</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2a763cf7-d23f-482a-a747-887ce16797bc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2a763cf7-d23f-482a-a747-887ce16797bc/stream.mp3</guid>
+   <pubDate>Fri, 30 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - אנכי אערבנו</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1308e220-00e6-46c9-be41-62ef61a53fee/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1308e220-00e6-46c9-be41-62ef61a53fee/stream.mp3</guid>
+   <pubDate>Thu, 29 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - חלומות שווא ידברו?</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/391852a0-d09f-4a5e-9386-fae2313e19d0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/391852a0-d09f-4a5e-9386-fae2313e19d0/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - תולדות יעקב: יוסף</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6142bcf1-c4b5-48bb-94fa-1c21e21b2a05/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6142bcf1-c4b5-48bb-94fa-1c21e21b2a05/stream.mp3</guid>
+   <pubDate>Thu, 15 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - שונא מתנות יחיה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4a963c99-e20e-44ee-8019-446a6a1c5d94/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4a963c99-e20e-44ee-8019-446a6a1c5d94/stream.mp3</guid>
+   <pubDate>Fri, 09 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - אין הבטחה לצדיק בעולם הזה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f1197b18-bf49-48ac-bd01-7056b64b402e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f1197b18-bf49-48ac-bd01-7056b64b402e/stream.mp3</guid>
+   <pubDate>Fri, 09 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - פרנסה לצדיקים ולגרים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/610fb843-40f7-4fef-bcb6-5ac218b0d178/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/610fb843-40f7-4fef-bcb6-5ac218b0d178/stream.mp3</guid>
+   <pubDate>Fri, 02 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - מקומו של עולם</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8f555152-99c9-471b-b54c-02714cb6a3a3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8f555152-99c9-471b-b54c-02714cb6a3a3/stream.mp3</guid>
+   <pubDate>Wed, 30 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדושה הסגולית בישראל</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/26bd41aa-7435-4951-9c37-18bd0dd62bff/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/26bd41aa-7435-4951-9c37-18bd0dd62bff/stream.mp3</guid>
+   <pubDate>Wed, 30 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - רשעים ברשות לבם בניגוד לצדיקים השולטים בו</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3038b083-3d85-4dd4-9bdb-468ce2d12a87/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3038b083-3d85-4dd4-9bdb-468ce2d12a87/stream.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - "בת מאה כבת עשרים" התמימות והמנהיגות של שרה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/99a8f49f-66d1-4e43-8ac8-56e3a809ada3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/99a8f49f-66d1-4e43-8ac8-56e3a809ada3/stream.mp3</guid>
+   <pubDate>Fri, 18 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התגובות לתנועה הציונית הרשמית</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1ac0e5ef-1330-4aaf-8f54-00db9e3ea539/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1ac0e5ef-1330-4aaf-8f54-00db9e3ea539/stream.mp3</guid>
+   <pubDate>Wed, 16 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - הכצעקתה: עומק הרוע</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9a6044e5-657e-4d2b-9bb8-c80c38793d0a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9a6044e5-657e-4d2b-9bb8-c80c38793d0a/stream.mp3</guid>
+   <pubDate>Wed, 09 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - דיני מלחמה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a227075e-5f7b-4584-8fa5-94df05137a7f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a227075e-5f7b-4584-8fa5-94df05137a7f/stream.mp3</guid>
+   <pubDate>Wed, 09 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התעוררות לאומית והשיתוף עם חילונים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/cf6ede85-4ccd-4017-b4a8-6310009c67ad/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/cf6ede85-4ccd-4017-b4a8-6310009c67ad/stream.mp3</guid>
+   <pubDate>Wed, 09 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובת העלייה לארץ - דעות הראשונים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/32bdec77-7de9-442f-b1ab-16ca3e1066eb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/32bdec77-7de9-442f-b1ab-16ca3e1066eb/stream.mp3</guid>
+   <pubDate>Fri, 04 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - רחמים על סדום</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5ab8832c-f732-4db0-802c-6e00bcae8e5c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5ab8832c-f732-4db0-802c-6e00bcae8e5c/stream.mp3</guid>
+   <pubDate>Thu, 03 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משטר דמוקרטי רצוי על פי התורה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c9ad8eed-11da-40e7-b969-357758e74f01/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c9ad8eed-11da-40e7-b969-357758e74f01/stream.mp3</guid>
+   <pubDate>Sun, 30 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - צרכים וערכים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/107dfaad-16cf-498f-b507-756bc7ffdf2c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/107dfaad-16cf-498f-b507-756bc7ffdf2c/stream.mp3</guid>
+   <pubDate>Fri, 28 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה ד - השיבה לפנימיות התורה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/86abdaa6-b005-4db8-b7fe-39511b842482/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/86abdaa6-b005-4db8-b7fe-39511b842482/stream.mp3</guid>
+   <pubDate>Fri, 30 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חסד, משפט וצדקה בארץ - כי באלה חפצתי - דרוש לימי התשובה | אורי וישעי תשפ"ב | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/98d0d5f8-b07d-4171-b322-1cef847d0913/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/98d0d5f8-b07d-4171-b322-1cef847d0913/stream.mp3</guid>
+   <pubDate>Fri, 23 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה ד - התשובה וסגולת ישראל</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/ef32a63c-6f32-47b2-82af-a5568a6e513d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/ef32a63c-6f32-47b2-82af-a5568a6e513d/stream.mp3</guid>
+   <pubDate>Wed, 21 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה ד - הרצון להתעלות</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/63344e05-ee0f-43b4-b226-c939861a0e49/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/63344e05-ee0f-43b4-b226-c939861a0e49/stream.mp3</guid>
+   <pubDate>Fri, 16 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה ד - התשובה כמקור החיים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2b036e77-0f99-4f60-8d17-bee210c86611/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2b036e77-0f99-4f60-8d17-bee210c86611/stream.mp3</guid>
+   <pubDate>Tue, 13 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה ג - תשובה פרטית מפורשת ותשובה סתמית כללית</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/1c6eab18-e6de-4b3e-b99c-1ac6c307dd90/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/1c6eab18-e6de-4b3e-b99c-1ac6c307dd90/stream.mp3</guid>
+   <pubDate>Fri, 09 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה ב - תשובה פתאומית ותשובה הדרגית</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/3a482a8b-f9fc-4ab1-903b-77475390e64f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/3a482a8b-f9fc-4ab1-903b-77475390e64f/stream.mp3</guid>
+   <pubDate>Thu, 08 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה א (חלק ב) - תשובה אמונית ותשובה שכלית</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/7680dbef-f93b-457c-a964-db24708fa956/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/7680dbef-f93b-457c-a964-db24708fa956/stream.mp3</guid>
+   <pubDate>Fri, 02 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה א (חלק א) - תשובה טבעית</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/dd89ba16-29f4-4585-a704-d485030ea116/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/dd89ba16-29f4-4585-a704-d485030ea116/stream.mp3</guid>
+   <pubDate>Wed, 31 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספירת העומר כציפייה לזהות - הרב יצחק שילת (תשע"ד)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e4b1b8d9-ff14-4fd6-9c0d-0a82d8bd3264/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e4b1b8d9-ff14-4fd6-9c0d-0a82d8bd3264/stream.mp3</guid>
+   <pubDate>Mon, 30 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פניני יד פשוטה | ספר שופטים - הלכות סנהדרין | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/65791b24-f54b-4c26-a9a6-60c3804dcd8c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/65791b24-f54b-4c26-a9a6-60c3804dcd8c/stream.mp3</guid>
+   <pubDate>Sun, 22 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהר - גומל נפשו איש חסד | מדרש רבה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e4241e97-9d6e-4ac4-ba53-16018a622853/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e4241e97-9d6e-4ac4-ba53-16018a622853/stream.mp3</guid>
+   <pubDate>Fri, 13 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיונות חינוכיים סביב ההגדה וקורבן פסח | תקראו אותם - פסח | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c00489de-1ce2-4408-9341-13bffc856689/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c00489de-1ce2-4408-9341-13bffc856689/stream.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשפ"ב | נקודות בענייני ליל הסדר | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/47123187-16df-4748-8253-1161066bee76/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/47123187-16df-4748-8253-1161066bee76/stream.mp3</guid>
+   <pubDate>Mon, 04 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשע"ח | ליל העברת האמונה - רה''י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d6566288-f35d-4097-bc31-0189b874aa61/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d6566288-f35d-4097-bc31-0189b874aa61/stream.mp3</guid>
+   <pubDate>Wed, 30 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | רה"י הרב יצחק שילת - "משנכנס אדר מרבין בשמחה" - על השמחה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/34c4fba2-d861-4b04-9aa9-1ed019dcfa6d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/34c4fba2-d861-4b04-9aa9-1ed019dcfa6d/stream.mp3</guid>
+   <pubDate>Thu, 10 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | רה"י הרב יצחק שילת - פרוז שקיים מצוות פורים ונסע לירושלים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/317848a0-14d7-406a-b8f5-4ae7ef0bef74/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/317848a0-14d7-406a-b8f5-4ae7ef0bef74/stream.mp3</guid>
+   <pubDate>Thu, 10 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה באתם השותלים? | ערך עבודת האדמה | רה''י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/39de2a1e-020b-4a6f-91f3-b352a565dc66/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/39de2a1e-020b-4a6f-91f3-b352a565dc66/stream.mp3</guid>
+   <pubDate>Tue, 11 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-34- ארצות אשכנז במחצית הראשונה של האה השבע-עשרה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/26537c36-407a-4023-b2db-7091a486076b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/26537c36-407a-4023-b2db-7091a486076b/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-33- חכמי יוון ואיטליה (חלק שני)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/78bcb44f-9720-43ef-94e2-30af0a4effa4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/78bcb44f-9720-43ef-94e2-30af0a4effa4/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-32- חכמי יוון ואיטליה (חלק ראשון)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2b7953fc-42e2-41ee-b0cd-bcd139654e9f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2b7953fc-42e2-41ee-b0cd-bcd139654e9f/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-31- ראשוני האחרונים באשכנז</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a59836a7-a402-4b08-b1ec-96296f949449/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a59836a7-a402-4b08-b1ec-96296f949449/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-30- חכמי המזרח בארץ ישראל</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/96686cdd-762c-45b1-a7ee-e1cee9481eaf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/96686cdd-762c-45b1-a7ee-e1cee9481eaf/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-29- חכמי ארץ ישראל בדור שאחרי הבית יוסף</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2826cae2-cc1a-4ea2-a81b-58f164893948/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2826cae2-cc1a-4ea2-a81b-58f164893948/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-28- חכמי סלוניקי ומצרים בתקופה שלאחר גירוש ספרד</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/b7fc0efe-63e7-4454-b72f-48956e60c607/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/b7fc0efe-63e7-4454-b72f-48956e60c607/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-27- חכמי טורקיה בתקופת גירוש ספרד</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/e21d5ad4-405a-4de8-b2b6-16126a55a4f4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/e21d5ad4-405a-4de8-b2b6-16126a55a4f4/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-26- חכמי מרוקו, מצרים ותוניס בתקופה שלאחר גירוש ספרד</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5bc562fb-eb38-4bb9-8088-3666c3639725/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5bc562fb-eb38-4bb9-8088-3666c3639725/stream.mp3</guid>
+   <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-25- ראשית תקופת האחרונים בגירוש ספרד</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d4e7975e-c0ab-4a28-b962-7e35ebe6b909/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d4e7975e-c0ab-4a28-b962-7e35ebe6b909/stream.mp3</guid>
+   <pubDate>Thu, 20 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-24- הדור האחרון של תקופת ראשוני אשכנז</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/97925124-aed3-4a78-991c-c9bded75a9c2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/97925124-aed3-4a78-991c-c9bded75a9c2/stream.mp3</guid>
+   <pubDate>Thu, 20 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-23- החלק האחרון של תקופת הראשונים באשכנז</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/ffb7dc73-f67c-45bd-8190-365efc814a3f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/ffb7dc73-f67c-45bd-8190-365efc814a3f/stream.mp3</guid>
+   <pubDate>Thu, 13 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-22- מאה השנים האחרונות של תקופת הראשונים בספרד</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/11f99a8a-22c3-4ce1-a522-15e7323a5292/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/11f99a8a-22c3-4ce1-a522-15e7323a5292/stream.mp3</guid>
+   <pubDate>Thu, 13 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-21- הדורות האחרונים של חכמי פרובנס</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/4c82ad5e-2370-48d2-a764-b29cf3f3e692/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/4c82ad5e-2370-48d2-a764-b29cf3f3e692/stream.mp3</guid>
+   <pubDate>Thu, 13 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-20- חכמי פרובנס במאות ה-13 וה-14</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/095671b5-381b-4144-b644-b7aac7a85445/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/095671b5-381b-4144-b644-b7aac7a85445/stream.mp3</guid>
+   <pubDate>Mon, 12 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-19- המשך חכמי ספרד וחכמי ארצות הים התיכון</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5b5c5974-27db-4cf1-bf11-7543775a0551/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5b5c5974-27db-4cf1-bf11-7543775a0551/stream.mp3</guid>
+   <pubDate>Mon, 12 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-18- תלמידי הרשב"א והרא"ה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/4f172ca5-9a7a-43fb-ab62-b4b093962114/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/4f172ca5-9a7a-43fb-ab62-b4b093962114/stream.mp3</guid>
+   <pubDate>Tue, 23 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-17- ראשוני ספרד בזמן בעלי התוספות</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/b5a8e9f7-1bb6-42e4-b976-9dd2c82f45fa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/b5a8e9f7-1bb6-42e4-b976-9dd2c82f45fa/stream.mp3</guid>
+   <pubDate>Tue, 16 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-16- בעלי התוספות האחרונים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/018b883c-6546-467c-b030-1f15c162a4ea/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/018b883c-6546-467c-b030-1f15c162a4ea/stream.mp3</guid>
+   <pubDate>Tue, 16 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-15- סוף תקופת בעלי התוספות בצרפת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/70932d6a-8f2a-4729-8148-775be72f8652/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/70932d6a-8f2a-4729-8148-775be72f8652/stream.mp3</guid>
+   <pubDate>Tue, 16 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

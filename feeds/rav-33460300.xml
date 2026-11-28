@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שי סבג · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-33460300.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שי סבג.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לג' בעומר – גבורה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/yfKfaLeXqY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/yfKfaLeXqY.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | טז' לעומר – פחד א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/svkbD-ywY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/svkbD-ywY.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מא' לעומר – חופש ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Tfj6nlzAFQU</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Tfj6nlzAFQU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Tfj6nlzAFQU.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מ' לעומר – חופש א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=XUtjzvligeg</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XUtjzvligeg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XUtjzvligeg.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לט' לעומר – אכילה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/LrhfVpgxEds-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/LrhfVpgxEds-1.mp3</guid>
+   <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לח' לעומר – אכילה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/U-ozYR5Kd7k-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/U-ozYR5Kd7k-1.mp3</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לז' לעומר – אכילה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/FD7985qb23U-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/FD7985qb23U-1.mp3</guid>
+   <pubDate>Sat, 09 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מט' לעומר – מידות טובות ומידות רעות | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bhVxEotKzd8-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bhVxEotKzd8-1.mp3</guid>
+   <pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מח' לעומר – להדבק במידותיו | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/aZ52uY7NTdU-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/aZ52uY7NTdU-1.mp3</guid>
+   <pubDate>Sat, 31 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מז' לעומר – חמדת הממון | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1u9vZ8u9jXo-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1u9vZ8u9jXo-1.mp3</guid>
+   <pubDate>Fri, 30 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מו' לעומר – זריזות | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/m7CrxXIWmDs-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/m7CrxXIWmDs-1.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מה' לעומר – זהירות | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/NTCozBVvPzU-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/NTCozBVvPzU-1.mp3</guid>
+   <pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מד' לעומר – שמחה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kCBcJldLHYk-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kCBcJldLHYk-1.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מג' לעומר – שמחה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/jmWboiJkni4-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/jmWboiJkni4-1.mp3</guid>
+   <pubDate>Mon, 26 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מב' לעומר – שמחה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=IZxAcAC4jJ0</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IZxAcAC4jJ0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IZxAcAC4jJ0.mp3</guid>
+   <pubDate>Sun, 25 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לו' לעומר – צניעות ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Mp8-_futRaI</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Mp8-_futRaI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Mp8-_futRaI.mp3</guid>
+   <pubDate>Mon, 19 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לה' לעומר – צניעות א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Vxa9bpbEKdo</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Vxa9bpbEKdo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Vxa9bpbEKdo.mp3</guid>
+   <pubDate>Sun, 18 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לד' לעומר – גבורה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=oSm7wj9JgRw</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oSm7wj9JgRw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oSm7wj9JgRw.mp3</guid>
+   <pubDate>Sat, 17 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לב' לעומר – גבורה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=OOlKYAa9YR8</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/OOlKYAa9YR8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/OOlKYAa9YR8.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לא' לעומר – נקימה ונטירה | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=WWUafEHHzzg</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/WWUafEHHzzg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/WWUafEHHzzg.mp3</guid>
+   <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ל' לעומר – תמימות ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=DXoLMHtCpzA</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/DXoLMHtCpzA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/DXoLMHtCpzA.mp3</guid>
+   <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כט' לעומר – תמימות א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=wjs-rj4esbw</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/wjs-rj4esbw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/wjs-rj4esbw.mp3</guid>
+   <pubDate>Mon, 12 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כח' לעומר – ענווה-גאווה ד' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=mcItQ_nEBGc</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mcItQ_nEBGc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mcItQ_nEBGc.mp3</guid>
+   <pubDate>Sun, 11 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כז' לעומר – ענווה-גאווה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=z9N3ywkFiS4</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/z9N3ywkFiS4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/z9N3ywkFiS4.mp3</guid>
+   <pubDate>Sat, 10 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כו' לעומר – ענווה-גאווה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=kzBWkUeMRVQ</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kzBWkUeMRVQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kzBWkUeMRVQ.mp3</guid>
+   <pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כה' לעומר – ענווה-גאווה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=CJc5yScExOY</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CJc5yScExOY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CJc5yScExOY.mp3</guid>
+   <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כד' לעומר – דיבור ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=k2vJYeK25zI</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/k2vJYeK25zI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/k2vJYeK25zI.mp3</guid>
+   <pubDate>Wed, 07 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כג' לעומר – דיבור ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=eNWlShIMdM4</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/eNWlShIMdM4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/eNWlShIMdM4.mp3</guid>
+   <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כב' לעומר – דיבור א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=YwqE-GiQ8to</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/YwqE-GiQ8to.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/YwqE-GiQ8to.mp3</guid>
+   <pubDate>Mon, 05 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כא' לעומר – עין טובה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cFvryYl4d9Q</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cFvryYl4d9Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cFvryYl4d9Q.mp3</guid>
+   <pubDate>Sun, 04 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כ' לעומר – עין טובה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Y-YhPbSp6zg</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Y-YhPbSp6zg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Y-YhPbSp6zg.mp3</guid>
+   <pubDate>Sat, 03 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יט' לעומר – עין טובה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=b493Ta9HIqU</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/b493Ta9HIqU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/b493Ta9HIqU.mp3</guid>
+   <pubDate>Fri, 02 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יח' לעומר – פחד ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Zjc1hn4I-hw</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Zjc1hn4I-hw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Zjc1hn4I-hw.mp3</guid>
+   <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יז' לעומר – פחד ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cFXZU3vs7DA</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cFXZU3vs7DA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cFXZU3vs7DA.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | טו' לעומר – כבוד ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=gq9hG2KtgrM</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/gq9hG2KtgrM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/gq9hG2KtgrM.mp3</guid>
+   <pubDate>Mon, 28 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יד' לעומר – כבוד ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=gEaKirlZ6aM</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/gEaKirlZ6aM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/gEaKirlZ6aM.mp3</guid>
+   <pubDate>Sun, 27 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יג' לעומר – כבוד א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Kgj8kpXiFqc</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Kgj8kpXiFqc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Kgj8kpXiFqc.mp3</guid>
+   <pubDate>Sat, 26 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יב' לעומר – אהבה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=k8W-rhWL_6w</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/k8W-rhWL_6w.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/k8W-rhWL_6w.mp3</guid>
+   <pubDate>Fri, 25 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יא' לעומר – אהבה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=wCpVSw3uzdc</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/wCpVSw3uzdc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/wCpVSw3uzdc.mp3</guid>
+   <pubDate>Thu, 24 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | י' לעומר – יראת שמיים וכיבוד הורים ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=2ZXu2NTKzeM</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/2ZXu2NTKzeM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/2ZXu2NTKzeM.mp3</guid>
+   <pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ט' לעומר – יראת שמיים וכיבוד הורים ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=aoyDKvxzaSY</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/aoyDKvxzaSY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/aoyDKvxzaSY.mp3</guid>
+   <pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ח' לעומר – יראת שמיים וכיבוד הורים א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=x223hs5MPgU</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/x223hs5MPgU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/x223hs5MPgU.mp3</guid>
+   <pubDate>Mon, 21 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ז' לעומר – קנאה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=AH1LpH_BmrE</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AH1LpH_BmrE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AH1LpH_BmrE.mp3</guid>
+   <pubDate>Sun, 20 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ו' לעומר – קנאה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=7SFo48UTLeY</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7SFo48UTLeY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7SFo48UTLeY.mp3</guid>
+   <pubDate>Sat, 19 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ה' לעומר – קנאה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=JgR4q9lBB4M</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/JgR4q9lBB4M.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/JgR4q9lBB4M.mp3</guid>
+   <pubDate>Fri, 18 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ד' לעומר – כעס ד' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=5gBcPEG4A9c</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5gBcPEG4A9c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5gBcPEG4A9c.mp3</guid>
+   <pubDate>Thu, 17 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ג' לעומר – כעס ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=zR5wUpoKwoM</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zR5wUpoKwoM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zR5wUpoKwoM.mp3</guid>
+   <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ב' לעומר – כעס ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=T9Bxea1UfmI</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/T9Bxea1UfmI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/T9Bxea1UfmI.mp3</guid>
+   <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | א' לעומר – כעס א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=HVHj9XkYNr4</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/HVHj9XkYNr4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/HVHj9XkYNr4.mp3</guid>
+   <pubDate>Mon, 14 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב | דמותו של יוסף הצדיק | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=vvGWoPl8NC8</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vvGWoPl8NC8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vvGWoPl8NC8.mp3</guid>
+   <pubDate>Thu, 15 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שי סבג – אהבת כל פסיק ותג בתורה</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=q0alAT5re6Q</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/q0alAT5re6Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/q0alAT5re6Q.mp3</guid>
+   <pubDate>Tue, 27 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"החידוש שבתשובה" | יום כיפור ה'תשפ"א עם הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מועדים</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ntsvDoMGQA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ntsvDoMGQA.mp3</guid>
+   <pubDate>Sat, 26 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שי סבג – הקנאה</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=m1h4KHgOGLo</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/m1h4KHgOGLo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/m1h4KHgOGLo.mp3</guid>
+   <pubDate>Wed, 22 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שי סבג בתובנות על השואה ואנטישמיות | יום הזיכרון לשואה ולגבורה</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=ftpKIELJe3I</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ftpKIELJe3I.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ftpKIELJe3I.mp3</guid>
+   <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מתגברים על הפחד? | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=AvJFNy7T-78</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AvJFNy7T-78.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AvJFNy7T-78.mp3</guid>
+   <pubDate>Thu, 16 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שי סבג – מידת הכעס</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=MVTKo_yW58Q</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/MVTKo_yW58Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/MVTKo_yW58Q.mp3</guid>
+   <pubDate>Sun, 12 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שי סבג – שמחה בכל מצב</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=qtx6Y03WhzI</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qtx6Y03WhzI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qtx6Y03WhzI.mp3</guid>
+   <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שי סבג – חירות</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=1oC3EueBUus</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1oC3EueBUus.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1oC3EueBUus.mp3</guid>
+   <pubDate>Tue, 17 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

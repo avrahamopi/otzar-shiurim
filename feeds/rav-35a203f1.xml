@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב בני קלמנזון · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-35a203f1.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב בני קלמנזון.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>ו' סיון | הבעל שם טוב | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/98/d4/a3/4485524a7bae621ddc723a6519.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/98/d4/a3/4485524a7bae621ddc723a6519.mp3</guid>
+   <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שואה, גבורה ועצמאות - שיחה ליום העצמאות | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/95e7de8b-f0e5-40cc-88b5-8eb677907714/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/95e7de8b-f0e5-40cc-88b5-8eb677907714/stream.mp3</guid>
+   <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ"ד טבת | ר' שניאור זלמן מלאדי - האדמו"ר הזקן | הרב בני קלמזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6a/20/d0/5873da43eaa3fc7f605b26a197.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6a/20/d0/5873da43eaa3fc7f605b26a197.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ״ב שבט | הרבי מקוצק | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/89/1c/75/dd8cc543c3a11be1942cf7597a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/89/1c/75/dd8cc543c3a11be1942cf7597a.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבוא לחג הסוכות | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/22/2b/56/7e08734ff9bc823b9d31d875e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/22/2b/56/7e08734ff9bc823b9d31d875e0.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 17 | העלייה הרביעית | "שכב בני" (עמנואל הרוסי)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a2/42/08/ae497b49fc8da1b15f6da55b55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a2/42/08/ae497b49fc8da1b15f6da55b55.mp3</guid>
+   <pubDate>Wed, 14 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 16 | שירי רחל | חלק ג': ואולי לא היו הדברים מעולם</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4c/a0/6a/e603ed416a8136d09a82e68ca9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4c/a0/6a/e603ed416a8136d09a82e68ca9.mp3</guid>
+   <pubDate>Thu, 18 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 15 | רחל המשוררת | חלק ב' : בחצר כנרת</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e5/3d/b4/e17d904111a74f8750ec92771a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e5/3d/b4/e17d904111a74f8750ec92771a.mp3</guid>
+   <pubDate>Thu, 27 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 14 | רחל המשוררת | חלק א' : בין רחל אימנו לרחל בלובשטיין</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e8/68/2d/d81bda4f56b65ac20b08d9a06a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e8/68/2d/d81bda4f56b65ac20b08d9a06a.mp3</guid>
+   <pubDate>Fri, 21 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 13 | העלייה השלישית | "טוב למות בעד ארצנו", שירי תל חי</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/9e/51/57c75f4962a3d0c81312fafba3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/9e/51/57c75f4962a3d0c81312fafba3.mp3</guid>
+   <pubDate>Thu, 23 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 12 | העלייה השלישית | מאופוריה למשבר (המלחין יוסף מילט)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/03/f0/058a4446539f3b296d4ceba808.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/03/f0/058a4446539f3b296d4ceba808.mp3</guid>
+   <pubDate>Fri, 17 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 11 | העלייה השנייה | "מארש הגלות" "יפים הלילות בכנען"</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/81/68/cf/5c57cf4f39b0115404314c9c25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/81/68/cf/5c57cf4f39b0115404314c9c25.mp3</guid>
+   <pubDate>Thu, 09 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | משתה של שמחה | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/51/19/35/3be9ea4636a4386fee14e9a642.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/51/19/35/3be9ea4636a4386fee14e9a642.mp3</guid>
+   <pubDate>Sun, 05 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"א באדר | ש"י עגנון | הרב בני קלמנזון ודביר קראוסהר</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/5e/28/7d6bad40208e6b3c84cb879f48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/5e/28/7d6bad40208e6b3c84cb879f48.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 10 | העלייה השנייה | בשדמות בית לחם (אבא קונסטנטין שפירא)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/c2/60/fbac974969a367c8bfc6f2b0e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/c2/60/fbac974969a367c8bfc6f2b0e6.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 9 | העלייה השנייה | שירי ילדים</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ec/11/4a/c48eb84b5787dd6ba4955fb961.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ec/11/4a/c48eb84b5787dd6ba4955fb961.mp3</guid>
+   <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 8 | העלייה הראשונה | "במחרשתי" ו "שיר עבודה" (נח שפירא)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7d/19/67/6d23bf489babdda0c3c5302c19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7d/19/67/6d23bf489babdda0c3c5302c19.mp3</guid>
+   <pubDate>Fri, 17 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 7 | העלייה הראשונה | שלושה שירי געגוע</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/67/78/7b/1cb6f445a08af989d8af85a5a3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/67/78/7b/1cb6f445a08af989d8af85a5a3.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 6 | העלייה הראשונה | שושנה (אליקום צונזער)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/88/cd/23/d797364a5ba2a1dad9f1e93f24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/88/cd/23/d797364a5ba2a1dad9f1e93f24.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י' בשבט | האדמו"ר הריי"ץ | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e2/46/13/5ea87e4dbb872ad45eb14e75ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e2/46/13/5ea87e4dbb872ad45eb14e75ed.mp3</guid>
+   <pubDate>Wed, 01 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 5 | תורה | רבי נחמן ושירת העשבים</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d8/6b/98/0bee9d43f19af2acd5dda39c69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d8/6b/98/0bee9d43f19af2acd5dda39c69.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 4 | מבוא | שיר על עץ, חלק שלישי</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e2/9d/b0/95926146a3a796bc0927e6d519.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e2/9d/b0/95926146a3a796bc0927e6d519.mp3</guid>
+   <pubDate>Wed, 25 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 3 | מבוא | שיר על עץ, חלק שני</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/d2/1b/de360a4aaeb030c49c48a43064.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/d2/1b/de360a4aaeb030c49c48a43064.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 2 | מבוא | שיר על עץ, חלק ראשון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c5/cb/6b/96a294440aa840ebef71ca3c35.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c5/cb/6b/96a294440aa840ebef71ca3c35.mp3</guid>
+   <pubDate>Mon, 23 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 1 | מבוא | שיקוף, תגובה, השפעה</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/64/b8/408ec84a0c967c777928b6e0cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/64/b8/408ec84a0c967c777928b6e0cd.mp3</guid>
+   <pubDate>Sun, 22 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ט בכסליו | המגיד ממעזריטש | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/aa/1e/7c/22e7934d2abbd3bc87552a81ae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/aa/1e/7c/22e7934d2abbd3bc87552a81ae.mp3</guid>
+   <pubDate>Mon, 12 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ספיישל - מחיית עמלק על ידי ניגון 👺</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ab/4d/d0/ac8e9b4ee5be1259142d2a72c1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ab/4d/d0/ac8e9b4ee5be1259142d2a72c1.mp3</guid>
+   <pubDate>Fri, 11 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל-קונדור פאסה 🎶 הניגון בלבד</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/18/aa/82/47fc4f44c3bbea784a29f2f9e0.wav" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/18/aa/82/47fc4f44c3bbea784a29f2f9e0.wav</guid>
+   <pubDate>Sat, 11 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניגוני אלול | אל-קונדור פאסה</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6f/9c/07/e8ad1f416095d25887800422e4.mpeg" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6f/9c/07/e8ad1f416095d25887800422e4.mpeg</guid>
+   <pubDate>Fri, 10 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מארש ההמלכה של גור 🎶 הניגון בלבד</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/04/b8/49/ef4381428f8dbcacec2210b31d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/04/b8/49/ef4381428f8dbcacec2210b31d.mp3</guid>
+   <pubDate>Mon, 06 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניגוני אלול | מארש ההמלכה</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b6/ce/90/9575934beda4fd6c20eb5e819b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b6/ce/90/9575934beda4fd6c20eb5e819b.mp3</guid>
+   <pubDate>Mon, 06 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניגוני אלול | ניגון שאמיל</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/30/43/4b/172d33435b8608bb76dacbe0de.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/30/43/4b/172d33435b8608bb76dacbe0de.mp3</guid>
+   <pubDate>Sun, 29 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניגוני אלול | ניגון ארבע בבות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2f/86/ac/fd55ca49d790cbdcb218a6439b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2f/86/ac/fd55ca49d790cbdcb218a6439b.mp3</guid>
+   <pubDate>Wed, 25 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניגוני אלול | פרק מבוא- הניגון כשפה</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/bf/63/b67a8a48c28add166254b4d93a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/bf/63/b67a8a48c28add166254b4d93a.mp3</guid>
+   <pubDate>Tue, 24 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 29 - המלחמה בין המשכילים לחסידים ~ חלק ג</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0c/92/a4/2886b54d14a1bab16c8f4ffa78.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0c/92/a4/2886b54d14a1bab16c8f4ffa78.mp3</guid>
+   <pubDate>Mon, 29 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 28 - המלחמה בין המשכילים לחסידים ~ חלק ב</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/67/09/d0/616a7b4388a8155abb121f79ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/67/09/d0/616a7b4388a8155abb121f79ff.mp3</guid>
+   <pubDate>Mon, 22 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 27 - המלחמה בין המשכילים לחסידים</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f5/b2/7e/bc6bcf45998ebf22d214146467.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f5/b2/7e/bc6bcf45998ebf22d214146467.mp3</guid>
+   <pubDate>Sun, 21 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 26 - איזביצה וקוצק</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bc/a2/99/7fe2a349cd9a9892c87d7f9449.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bc/a2/99/7fe2a349cd9a9892c87d7f9449.mp3</guid>
+   <pubDate>Thu, 04 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 25 - החצר בפשיסחא</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/94/70/63/d44fcd4e719747016d0542e7d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/94/70/63/d44fcd4e719747016d0542e7d7.mp3</guid>
+   <pubDate>Mon, 27 May 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 24 - מלובלין לפשיסחא</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/60/43/d0/4a1d90460dbbf773c358fddd0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/60/43/d0/4a1d90460dbbf773c358fddd0f.mp3</guid>
+   <pubDate>Thu, 23 May 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 23 - ממזריטש לליזאנסק ולובלין</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/08/40/19/0a994f4f05adc50dc85da005eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/08/40/19/0a994f4f05adc50dc85da005eb.mp3</guid>
+   <pubDate>Tue, 14 May 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 22 - ראשית חסידויות פולין</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/86/9c/c7/f282664a06ae18d91fa92dc3a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/86/9c/c7/f282664a06ae18d91fa92dc3a2.mp3</guid>
+   <pubDate>Tue, 14 May 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 21 - עולם המצוות - נפש החיים חבד והרב קוק</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d1/e4/89/a4c100493897b8e9df5a492563.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d1/e4/89/a4c100493897b8e9df5a492563.mp3</guid>
+   <pubDate>Fri, 03 May 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 20 - ביקורת נפש החיים על החסידים והחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/0a/ad/ba41f644b2a1f8744ad8b66459.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/0a/ad/ba41f644b2a1f8744ad8b66459.mp3</guid>
+   <pubDate>Thu, 28 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 19 - עיקרון עת לעשות לה הפרו תורתך בחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2c/b2/ea/40d1e4478e8429cbb2aea46e54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2c/b2/ea/40d1e4478e8429cbb2aea46e54.mp3</guid>
+   <pubDate>Mon, 18 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 18 - גישות החסידים והמתנגדים ביחס להלכה</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/b8/f5/d43b5e4cd59ff715da8695f96e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/b8/f5/d43b5e4cd59ff715da8695f96e.mp3</guid>
+   <pubDate>Fri, 15 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 17 - סיכום סוגיית יחס החסידות לגשמיות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/77/1a/76/7f6a4545ed9e5eca9b21444773.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/77/1a/76/7f6a4545ed9e5eca9b21444773.mp3</guid>
+   <pubDate>Thu, 28 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 16 - מחלוקת בובר ושלום ~ חלק ב</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/5f/48/fe01cd45a6a90cc5ee7bc0d8a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/5f/48/fe01cd45a6a90cc5ee7bc0d8a2.mp3</guid>
+   <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 15 - מחלוקת בובר ושלום ~ חלק א</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5e/ce/a5/6f464d43fda6b7d9a967fbc35f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5e/ce/a5/6f464d43fda6b7d9a967fbc35f.mp3</guid>
+   <pubDate>Wed, 13 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 - הרקע להתפתחות הניאו-חסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/77/2c/1612374ad689db3fd79e65dbc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/77/2c/1612374ad689db3fd79e65dbc3.mp3</guid>
+   <pubDate>Wed, 13 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 13 - השלכות מעשיות למחלוקות החסידים והמתנגדים</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/38/4d/d6/28eeca4c7d9d8c6be2a9c04e76.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/38/4d/d6/28eeca4c7d9d8c6be2a9c04e76.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 12 - מחלוקות החסידים והמתנגדים בסוגיית הצמצום</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/2e/30/4c317b4e0ea939254f5805b370.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/2e/30/4c317b4e0ea939254f5805b370.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 11 - תפיסת האלוקות בחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8a/a7/cf/6deb294d1b96fdd2a32cd434bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8a/a7/cf/6deb294d1b96fdd2a32cd434bb.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 10 - סוגיית הצמצום בחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0a/16/46/5fda814886ba3644dd0df56c81.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0a/16/46/5fda814886ba3644dd0df56c81.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 - הרקע הקבלי לתורת החסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/44/f6/6f31b3414c8070cbd2c5ed79ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/44/f6/6f31b3414c8070cbd2c5ed79ef.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 - סיכום הרקע ההסטורי לחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f5/1d/e5/bd3df04fd38b32a712c271f029.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f5/1d/e5/bd3df04fd38b32a712c271f029.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 - שבתאי צבי והפרנקיסטים</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7f/41/58/f042134dceb4f6c0353ee55609.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7f/41/58/f042134dceb4f6c0353ee55609.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 - עלייתו של שבתאי צבי ~ חלק שני</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6c/35/c7/676cd24da98ccb3706aded5b22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6c/35/c7/676cd24da98ccb3706aded5b22.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - פרעות תח-תט ועלייתו של שבתאי צבי</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/f8/38/a1ba7b442d9c45c9fffc053b3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/f8/38/a1ba7b442d9c45c9fffc053b3d.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - התפתחותה והשפעתה של קבלת צפת ~ חלק שני</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/7b/63/4f926d47129ff8e54d08b2802a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/7b/63/4f926d47129ff8e54d08b2802a.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - התפתחותה והשפעתה של קבלת צפת</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/79/26/ce/bbd5014b3f804adfa7e4fc53e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/79/26/ce/bbd5014b3f804adfa7e4fc53e6.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - יהדות אירופה במאה ה16</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/64/c9/40765f4743b89960a0b362593c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/64/c9/40765f4743b89960a0b362593c.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - הרקע ההסטורי לחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d9/a2/c3/1e88814e4c8da1043d73d0db2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d9/a2/c3/1e88814e4c8da1043d73d0db2f.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

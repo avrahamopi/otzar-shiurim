@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב הדרי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-92741c2a.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב הדרי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרשת ויקרא-החודש</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26139097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F1a72ffc4-8a45-c4e5-2ce9-bffd2e4b60fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26139097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F1a72ffc4-8a45-c4e5-2ce9-bffd2e4b60fa.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקהל-פקודי/פרה</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26139059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fcb9b5788-1e03-67fe-a861-f8a6d14f05c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26139059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fcb9b5788-1e03-67fe-a861-f8a6d14f05c2.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי-תשא</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26139026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Ff48dadc8-3869-8c41-f202-6a8ac1e424e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26139026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Ff48dadc8-3869-8c41-f202-6a8ac1e424e1.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תצווה - זכור</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26138999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F7843f3a5-d67f-92af-785f-9dd412612df5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26138999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F7843f3a5-d67f-92af-785f-9dd412612df5.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תרומה</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26138976/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F8a024f23-f06a-491e-d76b-2c8a7fd9fd20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26138976/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F8a024f23-f06a-491e-d76b-2c8a7fd9fd20.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת משפטים - שקלים</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26138939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F4cd1960b-2d72-5688-5556-7300646b5382.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26138939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F4cd1960b-2d72-5688-5556-7300646b5382.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת יתרו</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26138888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F9b6f397d-2e41-88db-43a4-be3e8225de94.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26138888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F9b6f397d-2e41-88db-43a4-be3e8225de94.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בשלח</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26138848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Ff58b9510-f315-a5fd-775a-d59d44b5f646.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26138848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Ff58b9510-f315-a5fd-775a-d59d44b5f646.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בא</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26117854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F3d2a1f8d-ab0d-5b2e-d587-a6887df6b044.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26117854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F3d2a1f8d-ab0d-5b2e-d587-a6887df6b044.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וארא</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26109059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fbe2d9216-ea1a-81ba-78d9-66f73de8a919.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26109059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fbe2d9216-ea1a-81ba-78d9-66f73de8a919.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמות</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26108874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F81d75cd6-0c22-17ee-afa2-4a964f66ee32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26108874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F81d75cd6-0c22-17ee-afa2-4a964f66ee32.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26097116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fec401b3a-3793-b6fc-d44e-7c56153cce0c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26097116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fec401b3a-3793-b6fc-d44e-7c56153cce0c.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויגש</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26097057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fea11b2b6-20b8-9e8d-2ffc-5a36ee420d7c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26097057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fea11b2b6-20b8-9e8d-2ffc-5a36ee420d7c.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מקץ-חנוכה</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26096491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F1cee2ac3-75d3-de4c-ff35-440a10b54b6f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26096491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F1cee2ac3-75d3-de4c-ff35-440a10b54b6f.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26096448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fedc8530f-761c-7eed-4fb1-c70193241c93.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26096448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2Fedc8530f-761c-7eed-4fb1-c70193241c93.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26096416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F4f032c26-1d23-1a1e-c18b-dbfb73728b33.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26096416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F4f032c26-1d23-1a1e-c18b-dbfb73728b33.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26096377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F5cab352e-fb7b-9351-dda1-ff3e612dc4ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26096377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F5cab352e-fb7b-9351-dda1-ff3e612dc4ac.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26096306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F39f1be5c-fdb0-9e87-5039-0ecd79171ef9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26096306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F39f1be5c-fdb0-9e87-5039-0ecd79171ef9.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי-שרה</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26096254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F4ae843c6-6446-4f79-f1e4-3aad98fd642c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26096254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F4ae843c6-6446-4f79-f1e4-3aad98fd642c.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וירא</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26096195/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F877901c4-8646-6322-5738-f7fdd5b653d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26096195/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F877901c4-8646-6322-5738-f7fdd5b653d9.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת לך-לך</title>
+   <description>הרב הדרי · ישיבת הכותל · פרשת השבוע</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26096118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F7f17dc84-ec14-942c-d70d-07e78d66dd6d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26096118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F7f17dc84-ec14-942c-d70d-07e78d66dd6d.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כל השיעורים</title>
+   <description>הרב הדרי · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב הדרי</itunes:author>
+   <enclosure url="https://anchor.fm/s/4ac6f47c/podcast/play/26093096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-02%2F8572220af9c63d15ee06021ba4f80320.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/4ac6f47c/podcast/play/26093096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-02-02%2F8572220af9c63d15ee06021ba4f80320.m4a</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>15180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

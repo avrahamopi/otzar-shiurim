@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>אמונה ומחשבה · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/emuna.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי אמונה ומחשבה מכל ישיבות ההסדר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סימן קצ"ט | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/130206037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2Fa6e727a6-025a-4dde-d773-54c2c20a4a65.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/130206037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2Fa6e727a6-025a-4dde-d773-54c2c20a4a65.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קצ"ט | זימון נשים | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/130204412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F3ade4156-dfb1-c2a5-35da-0bdf3ce5d5d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/130204412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F3ade4156-dfb1-c2a5-35da-0bdf3ce5d5d0.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משיכות חוכמה | וישלח | משנתו הלאומית של ה'משך חכמה', צרתו של יעקב ושלושת האבות כנגד שלושת בתי-מקדש</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/118e8c3f8/podcast/play/130145067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437677757-44100-2-0761afa0006cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118e8c3f8/podcast/play/130145067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437677757-44100-2-0761afa0006cd.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלידה עד שיבה | 8 | פדיון הבן</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/08_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/08_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - מעשה אבות סימן לבנים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d286f0c9-b3fb-4790-974b-fdde5b164b2e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d286f0c9-b3fb-4790-974b-fdde5b164b2e/stream.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וערבה לה' מנחת יהודה וירושלים(מג,ו)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-6a58542e5aff4b00.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-6a58542e5aff4b00.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - עם לבן גרתי</title>
+   <description>הרב מרדכי פרומר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי פרומר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-a1603d7c263e3df1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-a1603d7c263e3df1.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעקבות יט כסלו - עיבור, יניקה, מוחין (הועבר על ידי הרב אהרנסון)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-ec9c38ab7bd64cb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-ec9c38ab7bd64cb3.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עברית לשון הקודש | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6e8fb3c0/3c76da09.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6e8fb3c0/3c76da09.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצורך בהעמקת הדעות | מאמר הדור - פרק ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0315ac15/140b14d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0315ac15/140b14d0.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קצ"ה - קצ"ח | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/130180396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F2796a958-36ae-db53-8a32-d4704d3a4d84.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/130180396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F2796a958-36ae-db53-8a32-d4704d3a4d84.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האדם בשבועה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/130155982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437695265-44100-2-2873ffbfa140a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/130155982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437695265-44100-2-2873ffbfa140a.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נתנאל כהן - ר"מ בישיבת הדרום | בין מימוש עצמי למעורבות חברתית</title>
+   <description>הרב נתנאל כהן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב נתנאל כהן</itunes:author>
+   <enclosure url="https://media.transistor.fm/6510f7cc/9c389c4b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6510f7cc/9c389c4b.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפליטיקה הישראלית האמיתית | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ef759818/d417b643.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ef759818/d417b643.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | שער הבחינה - פרק ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d36f8591/37d000c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d36f8591/37d000c4.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן מב - עדות הקידושין</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/130092768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F90910b0e-c1a9-bd69-3eb9-28c230899aab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/130092768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F90910b0e-c1a9-bd69-3eb9-28c230899aab.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מאיר פינקלשטיין | וישלח תשפ"ז</title>
+   <description>הרב מאיר פינקלשטיין · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר פינקלשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/92ddb8ef/f289d119.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/92ddb8ef/f289d119.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב תומר ששון | וישלח תשפ"ז</title>
+   <description>הרב תומר ששון · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר ששון</itunes:author>
+   <enclosure url="https://media.transistor.fm/bc1331a1/0bded99a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bc1331a1/0bded99a.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Rabbi David Zahtz | Vayishlach 5787</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/c733f44c/0de0bc4f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c733f44c/0de0bc4f.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח: קח נא את ברכתי | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/130070541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437577330-44100-2-effacd97e0f758.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/130070541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437577330-44100-2-effacd97e0f758.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחדות השינוי | אורות ישראל | פרק ה פיסקה ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/df78e467/9d6a129d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/df78e467/9d6a129d.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחדות השינוי | אורות ישראל | פרק ה פיסקה ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2322f6c1/28a95bfe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2322f6c1/28a95bfe.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Erev Shabbat Program | Vayishlach | Seeking Holiness: Remembering Rav Moshe Tzvi Neria zt"l</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_07_Vayishlach_REBick.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_07_Vayishlach_REBick.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mind of a Monotheist | 8 | Vayishlach 5787 | Faces Faces Everywhere</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_08__Vayishlach_RDDebow.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_08__Vayishlach_RDDebow.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לעמים | 8 | אחריות רוחנית כלפי נכרים (ה)</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/08_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/08_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #30</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/32d2a23c/2fdf2228.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/32d2a23c/2fdf2228.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדרך השלישית - ייסורי הצדיקים | סיפורי מעשיות: מעשה מחיגר - פרק ו | הרב איתמר אלדר</title>
+   <description>הרב איתמר אלדר · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב איתמר אלדר</itunes:author>
+   <enclosure url="https://anchor.fm/s/11284368c/podcast/play/130078046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437588114-44100-2-b86834a932f378.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11284368c/podcast/play/130078046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437588114-44100-2-b86834a932f378.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קצ"ב - קצ"ד | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/130046621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437545191-44100-2-dfe4dcc323ea.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/130046621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437545191-44100-2-dfe4dcc323ea.m4a</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח: מיד אחי מיד עשו | ר' לוי יצחק מברדיצ'ב | חסידים שותים מזה עם רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/130147339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437681213-44100-2-65fdf17b6b65d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/130147339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437681213-44100-2-65fdf17b6b65d8.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ט - קצ"א | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/130009133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437494646-44100-2-11e3f8bc68ddd.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/130009133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437494646-44100-2-11e3f8bc68ddd.m4a</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קפ"ח | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/130009114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437494536-44100-2-d2662009af76b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/130009114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437494536-44100-2-d2662009af76b.m4a</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ט - קצ"א | ברכת הטוב והמיטיב, הרחמנים וסיום ברכת המזון | הרב אמיתי בר תקוה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/130046427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Ff3046f69-0103-138a-aafd-5938c95713d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/130046427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Ff3046f69-0103-138a-aafd-5938c95713d3.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קפ"ח | הוספות בברכת המזון | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/130009736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437496397-44100-2-0f6e64084b859.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/130009736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437496397-44100-2-0f6e64084b859.m4a</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #29</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/f47a4256/d39b4fa3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f47a4256/d39b4fa3.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לקנא ולא להיבהל מהרעש בבית</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-FKNJbEcZaUM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-FKNJbEcZaUM.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | שער הבחינה - פרק ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d7153756/f7f1a43b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d7153756/f7f1a43b.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>The Weekly Mitzva | Vayishlach | Assigning a Beit Din</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/07_WeeklyMitzva_vayishlach_5772_87_Tabory.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/07_WeeklyMitzva_vayishlach_5772_87_Tabory.mp3?dest-id=12657</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זריזים מקדימים למצוות | 27</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a61ebedd-0453-4b1e-9fbe-b16f1005b122/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a61ebedd-0453-4b1e-9fbe-b16f1005b122/stream.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #28</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/980d37f1/ac161139.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/980d37f1/ac161139.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתוך המשבר צומחת הישועה | דרכי חיים - שיעור 29 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76448080/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76448080/lesson.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק א | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/227657fe/d84ece1a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/227657fe/d84ece1a.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ה - קפ"ז | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129885695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F437328517-44100-2-8863e07a2e887.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129885695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F437328517-44100-2-8863e07a2e887.m4a</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ג בסעיף ח' - קפ"ד | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129885670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F437328483-44100-2-bded46c15d3ed.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129885670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F437328483-44100-2-bded46c15d3ed.m4a</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המצווה השבועית | וישלח | משמעות הכתובה, שיעור מיוחד</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit07_Vayishlach_5775_87_Kahn.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit07_Vayishlach_5775_87_Kahn.mp3?dest-id=410397</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ג מסימן ח' - קפ"ד | כבוד הברכה וכמות האוכל עליה צריך לברך | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129754427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F6d1a64a6-10bb-40fd-0f66-164b349a9f4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129754427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F6d1a64a6-10bb-40fd-0f66-164b349a9f4d.mp3</guid>
+   <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ב - קפ"ג בסעיף ז' | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129773744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437175161-44100-2-38295241baeb4.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129773744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437175161-44100-2-38295241baeb4.m4a</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ב - קפ"ג בסעיף ז' | כוס של ברכה | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129795261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fe3195469-e3f6-ee11-0fed-cd2dfb886fac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129795261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fe3195469-e3f6-ee11-0fed-cd2dfb886fac.mp3</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Erev Shabbat Program | Vayetze | Yaakov's Ladder: Climbing Toward God, Facing Consequences</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_06_Vayetze_REBick.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_06_Vayetze_REBick.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Talking Machshava | 6 | Conflicts in Halakha</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/06_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/06_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים ק"פ - קפ"א | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129773717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437175085-44100-2-5a5a6fa0875ea.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129773717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437175085-44100-2-5a5a6fa0875ea.m4a</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ח - קע"ט | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129732348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F984dc123-4fe8-bc21-813e-f7c1dfeed4a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129732348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F984dc123-4fe8-bc21-813e-f7c1dfeed4a0.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים ק"פ - קפ"א | מים אחרונים | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129752046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437145325-44100-2-5e9fa2df5e9eb.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129752046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437145325-44100-2-5e9fa2df5e9eb.m4a</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ח קע"ט | שינוי מקום באמצע הסעודה | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129732366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F046fbe61-a1f0-67a9-936a-d1c46572a9ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129732366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F046fbe61-a1f0-67a9-936a-d1c46572a9ad.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Ramban on Vayeitzei</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/84487544/a6bae0b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/84487544/a6bae0b2.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא: אותי את אוהבת? | ר' לוי יצחק מברדיצ'ב | חסידים שותים מזה עם רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/129739458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437128522-44100-2-aa7112da4d92b8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/129739458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437128522-44100-2-aa7112da4d92b8.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועת שווא | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/129749139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437142979-44100-2-debb3da6c68b68.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/129749139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437142979-44100-2-debb3da6c68b68.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פגיעת ה-מקום על פי דרכו של רשי</title>
+   <description>הרב מנשה וינר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מנשה וינר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-iyunim-parasha/audio/yesmalot-8e99f24d3b9fb78f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-iyunim-parasha/audio/yesmalot-8e99f24d3b9fb78f.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרצון - הבסיס לרצון</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-7cc4f33e0edcb5c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-7cc4f33e0edcb5c7.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mind of a Monotheist | 7 | Vayetze 5787 | Lavan the White Supremacist</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_07__Vayetze_RDDebow.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_07__Vayetze_RDDebow.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Vayetze | And Behold... She was Leah</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/Vayetze5787_RYEtshalom.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/Vayetze5787_RYEtshalom.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לעמים | 7 | אחריות רוחנית כלפי נכרים (ד)</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/07_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/07_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלידה עד שיבה | 7 | זבד הבת</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/07_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/07_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהי תפילה? | הרב איתן צוקר</title>
+   <description>הרב איתן צוקר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב איתן צוקר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7f244302-ecfd-4c02-9cd2-136c258154aa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7f244302-ecfd-4c02-9cd2-136c258154aa/stream.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - עמדת התפילה לפני ה'</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9376610d-1cd9-40d3-8a8a-ab06947a9198/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9376610d-1cd9-40d3-8a8a-ab06947a9198/stream.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק ג'מאל | ויצא תשפ"ז</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/5ab38c30/027ebe30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5ab38c30/027ebe30.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב צבי צרפתי | ויצא תשפ"ז</title>
+   <description>הרב צבי צרפתי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי צרפתי</itunes:author>
+   <enclosure url="https://media.transistor.fm/fe6e45c8/fb196755.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fe6e45c8/fb196755.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Rabbi Zvi Davidson | Vayetzei 5787</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/523f68e8/fa334d6d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/523f68e8/fa334d6d.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השיגעון של העולם - אבק הדרכים | סיפורי מעשיות: מעשה מחיגר - פרק ה | הרב איתמר אלדר</title>
+   <description>הרב איתמר אלדר · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב איתמר אלדר</itunes:author>
+   <enclosure url="https://anchor.fm/s/11284368c/podcast/play/129626251/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436976986-44100-2-494857de2416.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11284368c/podcast/play/129626251/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436976986-44100-2-494857de2416.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא: עולים ויורדים | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/129666257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437030678-44100-2-7ccf7d4906f7d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/129666257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437030678-44100-2-7ccf7d4906f7d8.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ו - קע"ז | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129628543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2Ffa5f06b2-e65b-91f1-edf8-fc89e1349446.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129628543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2Ffa5f06b2-e65b-91f1-edf8-fc89e1349446.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ו - קע"ז | ברכת המוציא | ברכת הסעודה | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129625246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436973880-44100-2-0508cbedd0923.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129625246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436973880-44100-2-0508cbedd0923.m4a</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן ל"ד | ברכת אירוסין | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/129625900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F7f6dae32-5e90-556e-71f1-5dbe4539bcc6.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/129625900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F7f6dae32-5e90-556e-71f1-5dbe4539bcc6.m4a</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בית אל: שער השמים בין מקדש למחלוקת</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/08_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/08_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #27</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/e33b15cc/381c1a97.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e33b15cc/381c1a97.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור | אושר ועושר</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/fcbb3624/62ed11b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fcbb3624/62ed11b1.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - נזקי רעש | הגדרת רעש כנזק</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/998246ce/c570c2b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/998246ce/c570c2b4.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם נישואים טובים נועדו לכישלון?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-muF6Y2puaKA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-muF6Y2puaKA.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה היא פוליטיקה ישראלית | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/eeccb157/d5b987bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eeccb157/d5b987bb.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | שער הבחינה - פרק א | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f30cb028/07253330.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f30cb028/07253330.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | שער הבחינה - פרק א | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/821ee50c/9500dffe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/821ee50c/9500dffe.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>The Weekly Mitzva | Vayetze | Sleeping in a Beit Knesset</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/06_WeeklyMitzva_vayetze_5767_87_Tabory.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/06_WeeklyMitzva_vayetze_5767_87_Tabory.mp3?dest-id=12657</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ד - קע"ה | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129560346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F1a15a20f-6649-0c4e-607e-d01e895fb7e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129560346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F1a15a20f-6649-0c4e-607e-d01e895fb7e8.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ד - קע"ה | ברכת היין ומשקים נוספים תוך כדי הסעודה | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129560271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F6ac9a2ab-b59c-d269-5e49-4d1fd7289395.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129560271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F6ac9a2ab-b59c-d269-5e49-4d1fd7289395.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תדיר ושאינו תדיר (ב) | 26</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bfedbbd3-3789-437a-9d32-2fb5adb4a37b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bfedbbd3-3789-437a-9d32-2fb5adb4a37b/stream.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #26</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/9ec22d13/81f7d7fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9ec22d13/81f7d7fb.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | מתי אומרים חטא כדי שיזכה חברך</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b07fe1cf/12ccfe30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b07fe1cf/12ccfe30.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המספד בירושלים (מאמרי הראיה) חלק 5</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/a8cef443/442112e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a8cef443/442112e8.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסוד מאחורי גדולתו של הרב עובדיה | דרכי חיים - שיעור 28 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76316291/utf_8_b_15pxqneb15kg15fxmdez150gmjgubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76316291/utf_8_b_15pxqneb15kg15fxmdez150gmjgubxaz.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Talking Machshava | 5 | Repairing the World: Our Role in God's Kingship</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/05_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/05_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"א - קע"ג | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129466288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436766184-44100-2-f69b16edea8f2.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129466288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436766184-44100-2-f69b16edea8f2.m4a</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן ק"ע סעיפים י"א - הסוף | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129466230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436766134-44100-2-f1986efcf2d09.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129466230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436766134-44100-2-f1986efcf2d09.m4a</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"א - קע"ג | מה יעשה מי ששכח לברך על האוכל | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129505143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F18818747-2c17-10c0-afdc-b6339330d304.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129505143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F18818747-2c17-10c0-afdc-b6339330d304.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למחוק!!!!</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5cd8/podcast/play/129492360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436798637-44100-2-dd5e82ec3fc98.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5cd8/podcast/play/129492360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436798637-44100-2-dd5e82ec3fc98.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למחוק!!!!</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5da0/podcast/play/129492364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436798644-44100-2-d1aaa7c5515fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5da0/podcast/play/129492364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436798644-44100-2-d1aaa7c5515fd.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למחוק!!!!</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5a80/podcast/play/129492354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436798623-44100-2-f5377b8ba8da3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5a80/podcast/play/129492354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436798623-44100-2-f5377b8ba8da3.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #25</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/d0e24f8e/f916be11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d0e24f8e/f916be11.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אלי שיינפלד | להתענג על ה'</title>
+   <description>הרב אלי שיינפלד · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://media.transistor.fm/3cdb68f2/d5017fb5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3cdb68f2/d5017fb5.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהותם של העיר שכם, הר עיבל והר גריזים, מאת הרב יצחק לוי</title>
+   <description>הרב יצחק לוי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/07_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/07_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397</guid>
+   <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קס"ט - ק"ע בסעיף י' | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129332862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F2250df47-2bd4-1bbe-d6a1-88d65f44040a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129332862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F2250df47-2bd4-1bbe-d6a1-88d65f44040a.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קס"ט - ק"ע בסעיף י' | האם מותר לתת אוכל למי שלא יברך עליו? | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129364798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F436631742-44100-2-2093e1a3eca88.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129364798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F436631742-44100-2-2093e1a3eca88.m4a</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Ramban on Toldot</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/8b0252d0/52b1b397.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8b0252d0/52b1b397.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 9</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4e484020/8ba06797.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4e484020/8ba06797.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - מכירת הבכורה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/129339481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436599291-44100-2-001dc146d77878.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/129339481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436599291-44100-2-001dc146d77878.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות- איש ציד לעומת יושב אוהלים במדרשי חזל</title>
+   <description>הרב מנשה וינר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מנשה וינר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-iyunim-parasha/audio/yesmalot-c09c38978386122b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-iyunim-parasha/audio/yesmalot-c09c38978386122b.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Erev Shabbat Program | Toldot | Yaakov Becomes Esav: The Two Blessings of Toldot</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_05_Toldot_REBick.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_05_Toldot_REBick.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Toldot | Stolen Blessings: The Sefat Emet on Yaakov's Deception</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_07__Toldot_REWeber.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_07__Toldot_REWeber.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ח | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129332883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F955a6291-994f-34dd-c648-b9f5284ee753.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129332883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F955a6291-994f-34dd-c648-b9f5284ee753.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ח | פת הבאה בכיסנין | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129328600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F49a0a4dd-190d-9646-0fbc-7b8debfdc406.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129328600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F49a0a4dd-190d-9646-0fbc-7b8debfdc406.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עמי צברי - ר"מ באור עציון | כולנו אור איתן – לאורו ולאור משנתו של מו"ר הרב חיים דרוקמן זצ"ל</title>
+   <description>הרב עמי צברי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עמי צברי</itunes:author>
+   <enclosure url="https://media.transistor.fm/84f1012e/782b47d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/84f1012e/782b47d3.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין ג' | צורבא מרבנן - רז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76316148/utf_8_b_16bxldeo15hxkcdxqtev15zxk9ev16oubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76316148/utf_8_b_16bxldeo15hxkcdxqtev15zxk9ev16oubxaz.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות: סוד האהבה | ר' לוי יצחק מברדיצ'ב</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/129240540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436465258-44100-2-60a1030c9a978.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/129240540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436465258-44100-2-60a1030c9a978.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להרע או להיטיב ב' | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/129319855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436573742-44100-2-b64da70f8a009.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/129319855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436573742-44100-2-b64da70f8a009.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדמותו של מלכיצדק מלך שלם (מג,ו)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-422cceaa370cd0a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-422cceaa370cd0a6.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Toldot | Do You Have But One Berakha, My Father?</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/Toldot5787_RYEtshalom.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/Toldot5787_RYEtshalom.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mind of a Monotheist | 6 | Toldot 5787 | Accidents at Birth</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_06__Toldot_RDDebow.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_06__Toldot_RDDebow.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Talking Machshava | 4new | Adding to the Infinite: How We Bring God Into the World</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/04final_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/04final_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ז סעיפים י"א - כ' | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129191830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F6aadd4f5-dfa4-41e4-7341-1a73fe0b7309.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129191830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F6aadd4f5-dfa4-41e4-7341-1a73fe0b7309.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ז סעיפים יא' - כ' | ברכת "המוציא" עבור אנשים אחרים | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129250112/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436477599-44100-2-f3d995d85cc7b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129250112/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436477599-44100-2-f3d995d85cc7b.m4a</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לעמים | 6 | אחריות רוחנית כלפי נכרים (ג)</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/06_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/06_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלידה עד שיבה | 6 | הברית שבברית המילה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/06_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/06_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מינוי מלך נכרי: ממשלת מיעוט בימינו | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e1813adc-255e-4ec4-a84e-8fce0a71cf87/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e1813adc-255e-4ec4-a84e-8fce0a71cf87/stream.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עומרי קראוס | תולדות תשפ"ז</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/eaa0bb0c/ba59d734.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eaa0bb0c/ba59d734.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אליה אטיאס | תולדות תשפ"ז</title>
+   <description>הרב אליה אטיאס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליה אטיאס</itunes:author>
+   <enclosure url="https://media.transistor.fm/99ff1d78/9a8a9e43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/99ff1d78/9a8a9e43.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Rabbi Shlomo Friedman | Toldot 5787</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/1c2b3fcc/f57110c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1c2b3fcc/f57110c3.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אזכרת שלושים לפטירת מורנו הרב אפרים רובינשטיין זצ"ל</title>
+   <description>הרב אפרים רובינשטיין · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אפרים רובינשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/931b7003/07e5db90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/931b7003/07e5db90.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מפגש הירח והשמש - העולם לפני הפירוד | סיפורי מעשיות: מעשה מחיגר - פרק ד | הרב איתמר אלדר</title>
+   <description>הרב איתמר אלדר · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב איתמר אלדר</itunes:author>
+   <enclosure url="https://anchor.fm/s/11284368c/podcast/play/129212043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436428634-44100-2-e3cb477187162.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11284368c/podcast/play/129212043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436428634-44100-2-e3cb477187162.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אב המון גויים | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/021ba1cd/d716b2a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/021ba1cd/d716b2a1.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | הקדמה לשער הבחינה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b49b6bb1/ba551ee0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b49b6bb1/ba551ee0.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | הקדמה לשער הבחינה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0bb41b5a/ea06eb5b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0bb41b5a/ea06eb5b.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ז סעיפים א' -י' | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129191799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F8a0c5b80-187e-7429-d435-497103ad0afc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129191799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F8a0c5b80-187e-7429-d435-497103ad0afc.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ז סעיפים א'-י' | בציעת הפת והמלח | הרב אמיתי בר תקוה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129205958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436418089-44100-2-8c48aa7aa159e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129205958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436418089-44100-2-8c48aa7aa159e.m4a</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - חוקים ומשפטים צדיקים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/41856059-1503-430a-a2e7-0a1b3e5dd912/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/41856059-1503-430a-a2e7-0a1b3e5dd912/stream.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #24</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/5b36bd45/b1dd572d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5b36bd45/b1dd572d.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 8</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/5495b1f2/f1e900e7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5495b1f2/f1e900e7.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור | אלו ואלו דברי אלוקים חיים - המשך</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/0bf50fd2/36dc9ec0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0bf50fd2/36dc9ec0.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תנורו של עכנאי | אגדתא - מז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76286553/utf_8_b_16rxonev16jxlsdxqdecinei15vxoneq15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76286553/utf_8_b_16rxonev16jxlsdxqdecinei15vxoneq15kubxaz.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות: אהבה אינה משחק סכום אפס | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/129195207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436405725-44100-2-da85e2b5ddf2d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/129195207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436405725-44100-2-da85e2b5ddf2d8.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה אנחנו פוגשים כל כך הרבה אכזבות?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-ffZJwmY0XdI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-ffZJwmY0XdI.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>The Weekly Mitzva | Toldot | Mitzvat Talmud Torah and Spiritual Fatherhood</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/05_WeeklyMitzva_toldot_5767_87_Tabory.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/05_WeeklyMitzva_toldot_5767_87_Tabory.mp3?dest-id=12657</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קס"ג - קס"ו | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129048864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F3614a3f3-b930-fc39-0b91-20943061f680.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129048864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F3614a3f3-b930-fc39-0b91-20943061f680.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המצווה השבועית | תולדות | תלמוד תורה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit05_Toldot_5767_87_Tabory.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit05_Toldot_5767_87_Tabory.mp3?dest-id=410397</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יש קונה עולמו בשעה אחת (3) | 133</title>
+   <description>הרב יונתן רוזין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יונתן רוזין</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/884ed1b9-2950-4cf1-8aaa-29121bdb810a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/884ed1b9-2950-4cf1-8aaa-29121bdb810a/stream.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | הנחה בשבת על פלטה העתידה להידלק</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/276d68f2/bd0bdb9f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/276d68f2/bd0bdb9f.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המספד בירושלים (מאמרי הראיה) חלק 4</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/89d27efc/f509c9c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/89d27efc/f509c9c0.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קס"א - קס"ב | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/129048859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2Ff6b417b3-d260-7219-571e-8187a1e37509.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/129048859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2Ff6b417b3-d260-7219-571e-8187a1e37509.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רחבעם וירבעם בשכם, הר גריזים והר עיבל</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/06_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/06_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביאור דרכו של הרמב"ם בתארים הא-לוהיים חלק ב | 37</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/eca7708d-7156-4aa2-9074-8923f07b79a8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/eca7708d-7156-4aa2-9074-8923f07b79a8/stream.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביאור דרכו של הרמב"ם בתארים הא-לוהיים - חלק א | 36</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0498cc02-0b6a-40d3-afab-debc25974723/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0498cc02-0b6a-40d3-afab-debc25974723/stream.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #23</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/025c487d/963b2b00.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/025c487d/963b2b00.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Love &amp; Joy in Prayer</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/a63b40d0/c516b8e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a63b40d0/c516b8e0.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן ק"ס | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128918189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052241-44100-2-c5e80ba7cada8.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128918189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052241-44100-2-c5e80ba7cada8.m4a</guid>
+   <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קנ"ט סעיפים י"ד - כ' | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128918157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052172-44100-2-377497c1f55a6.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128918157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052172-44100-2-377497c1f55a6.m4a</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - השורש של עם ישראל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/23d647e5-8e75-490f-be20-084083816246/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/23d647e5-8e75-490f-be20-084083816246/stream.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - ויצא יצחק לשוח בשדה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/128908070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2Fdb82dce6-3670-c0a7-f080-8cbb5698e471.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/128908070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2Fdb82dce6-3670-c0a7-f080-8cbb5698e471.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להרע או להיטיב | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/128878323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F436005307-44100-2-68df7b3cd6f228.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/128878323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F436005307-44100-2-68df7b3cd6f228.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Erev Shabbat Program | Chayei Sara | Mastering the Fire Within: Avraham's Final Blessing</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_04_ChayeiSara_REBick.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_04_ChayeiSara_REBick.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Sefat Emet | Chayei Sara | From Servant to Son: The Sefat Emet on Eliezer</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_06__ChayeiSara_REWeber.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_06__ChayeiSara_REWeber.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קנ"ט סעיפים א' - י"ג | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128829403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435939896-44100-2-4b74e27298374.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128829403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435939896-44100-2-4b74e27298374.m4a</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן כ"ט - מתנה ע״מ להחזיר, ערב ועבד עברי | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/128870530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435991860-44100-2-f1b98cd35856d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/128870530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435991860-44100-2-f1b98cd35856d.m4a</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - והיית לנו לראש</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/84c9d9e8-ef3b-4aed-8249-39ca533adbf6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/84c9d9e8-ef3b-4aed-8249-39ca533adbf6/stream.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - והיית לנו לראש</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/15134c40-3921-4692-a01a-2307efa05463/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/15134c40-3921-4692-a01a-2307efa05463/stream.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יובל מיטלמן - רב קהילת ישורון בגדרה | איך לדעת שזה זה</title>
+   <description>הרב יובל מיטלמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל מיטלמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/3cbc254b/9394a721.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3cbc254b/9394a721.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #22</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/e16d4136/81ba25dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e16d4136/81ba25dc.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין ב' | צורבא מרבנן - רו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76191688/utf_8_b_16lxmdeo15xxkdez158g15enlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76191688/utf_8_b_16lxmdeo15xxkdez158g15enlm1wmw.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדרך לרצון טוב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-718684bb7c8c994c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-718684bb7c8c994c.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבדלת ישראל מהעמים | אורות ישראל | פרקה ה פסקה א | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/07bf62fd/635823fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/07bf62fd/635823fe.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבדלת ישראל מהעמים | אורות ישראל | פרקה ה פסקה א | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a65ea334/b5b47d0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a65ea334/b5b47d0f.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Chayei Sara | Finding a Wife for Yitzchak</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/ChayeiSara5787_RYEtshalom.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/ChayeiSara5787_RYEtshalom.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mind of a Monotheist | 5 | Chayei Sara 5787 | Of Fish, Fox and Martyrdom</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_05__ChayeiSara_RDDebow.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_05__ChayeiSara_RDDebow.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קנ"ז - קנ"ח | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128768432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435862169-44100-2-fdf57f6b1338d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128768432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435862169-44100-2-fdf57f6b1338d.m4a</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לעמים | 5 | אחריות רוחנית כלפי נכרים (ב)</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/05_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/05_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות תכונת ההגינות בעם ישראל | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3f999aec-702a-4811-89c4-379725ec4492/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3f999aec-702a-4811-89c4-379725ec4492/stream.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מרדכי חיימוב | חיי־שרה תשפ"ז</title>
+   <description>הרב מרדכי חיימוב · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי חיימוב</itunes:author>
+   <enclosure url="https://media.transistor.fm/48a1aaab/8ad5d0a3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/48a1aaab/8ad5d0a3.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שאול אלעזר שנלר | חיי־שרה תשפ"ז</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a932d39b/6849f51a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a932d39b/6849f51a.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Rabbi Meir Finkelstein | Chayei Sara 5787</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/6469e71b/c0e271f7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6469e71b/c0e271f7.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Ramban on Vayeira</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/6f0e61b0/bf0233a8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6f0e61b0/bf0233a8.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #21</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/5f038b03/45600ba1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5f038b03/45600ba1.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות איש פשוט - המפגש עם הגזלנים | מעשה מחיגר - פרק ג | הרב איתמר אלדר</title>
+   <description>הרב איתמר אלדר · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב איתמר אלדר</itunes:author>
+   <enclosure url="https://anchor.fm/s/11284368c/podcast/play/128746418/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435836243-44100-2-80fa988e7661c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11284368c/podcast/play/128746418/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435836243-44100-2-80fa988e7661c.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה: סיפור חיים | ר' לוי יצחק מברדיצ'ב</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/128797321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435899549-44100-2-1fa8dd1149c5c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/128797321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435899549-44100-2-1fa8dd1149c5c8.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה: גיבורים מסוג אחר | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/128714364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435796409-44100-2-eaaee9777d7fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/128714364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435796409-44100-2-eaaee9777d7fb.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפוליטיקה שלנו | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/aa7e0382/15aa9a22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aa7e0382/15aa9a22.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | חלק ח ואחרון | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/62af6785/ee594931.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/62af6785/ee594931.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | חלק ח ואחרון | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/733e9184/9af068a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/733e9184/9af068a0.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קנ"ד - קנ"ו | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128604455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F571697fb-0883-2796-4214-c3ff4119d157.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128604455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F571697fb-0883-2796-4214-c3ff4119d157.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלידה עד שיבה | 5 | בין לידה לברית</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/05_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/05_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - המתנות לרבקה</title>
+   <description>הרב מרדכי פרומר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי פרומר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-8e039bca7b5ce1e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-8e039bca7b5ce1e2.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>The Weekly Mitzva | Chayei Sara | Nichum Avelim</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/04_WeeklyMitzva_chayeisara_5767_87_Tabory.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/04_WeeklyMitzva_chayeisara_5767_87_Tabory.mp3?dest-id=12657</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קנ"ג סעיפים י"ב - כ"ב | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128568812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F83c20fcd-0f3e-7bd5-69f7-f08d46feee0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128568812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F83c20fcd-0f3e-7bd5-69f7-f08d46feee0d.mp3</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המצווה השבועית | חיי שרה | קבורה, הספד וניחום אבלים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit04_ChayeiSara_5767_87_Tabory.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit04_ChayeiSara_5767_87_Tabory.mp3?dest-id=410397</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יש קונה עולמו בשעה אחת (2) | 132</title>
+   <description>הרב יונתן רוזין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יונתן רוזין</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/41530f4f-8489-4512-bcb1-da2e6e23dddc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/41530f4f-8489-4512-bcb1-da2e6e23dddc/stream.mp3</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #20</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/8a1751dc/fce41d93.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8a1751dc/fce41d93.mp3</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Talking Machshava | 3 | Can Human Reason Know God's Will? Avraham's Answer</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/03_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/03_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קנ"ב - קנ"ג סעיפים א' - י"א | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128568818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fc137a08b-a597-f73a-c7d0-f17842e1ae3b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128568818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fc137a08b-a597-f73a-c7d0-f17842e1ae3b.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים ק"נ - קנ"א | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128545072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435572299-44100-2-d78df7e949182.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128545072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435572299-44100-2-d78df7e949182.m4a</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלטון אבימלך ומשל יותם</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/05_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/05_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #19</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/d0ef0575/47175d9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d0ef0575/47175d9d.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 7</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7c9d0e53/77ff2fb2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7c9d0e53/77ff2fb2.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור | אלו ואלו דברי אלוקים חיים</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/d3c2dde0/bee38ef4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d3c2dde0/bee38ef4.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תדיר ושאינו תדיר (א) | 25</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/26a09984-e307-4024-a28c-9fbe063e002e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/26a09984-e307-4024-a28c-9fbe063e002e/stream.mp3</guid>
+   <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קמ"ז - קמ"ט | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128338631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fd1d5a5d2-8624-c3ae-768d-db22cd0daf8e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128338631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fd1d5a5d2-8624-c3ae-768d-db22cd0daf8e.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן כ"ז - פרוטה ואמירה | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/128420400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F7df3760a-d07d-0a32-f85c-2bdfad57b2b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/128420400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F7df3760a-d07d-0a32-f85c-2bdfad57b2b3.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - כוחו של חסד: אברהם מול סדום</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a7e62c9d-3d39-4f43-9ffc-1044a6b6f70f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a7e62c9d-3d39-4f43-9ffc-1044a6b6f70f/stream.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Vayera | Partners with God: Tzedaka, Mishpat and Laughter</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_03_Vayera_REBick.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_03_Vayera_REBick.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Sefat Emet | Vayera | Request, Not Command: Two Readings of the Akeida</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_05__Vayera_REWeber.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_05__Vayera_REWeber.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קמ"ד - קמ"ו | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128338651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F96a9c821-839f-2693-3239-69237c8b2736.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128338651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F96a9c821-839f-2693-3239-69237c8b2736.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין א' | צורבא מרבנן - רה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76068965/utf_8_b_16bxldeo15hxkcdxldez16jxkc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76068965/utf_8_b_16bxldeo15hxkcdxldez16jxkc5tcdm.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא: לצחוק אל הקושי | ר' לוי יצחק מברדיצ'ב</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/128136619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435058488-44100-2-cefa94369532a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/128136619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435058488-44100-2-cefa94369532a.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - אברהם ואבימלך</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/128355065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fe5d79bd8-77f0-5260-d8c0-0ab0d0ab71c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/128355065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fe5d79bd8-77f0-5260-d8c0-0ab0d0ab71c7.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mind of a Monotheist | 4 | Vayera | Avraham - Antimartyr</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_04__Vayera_RDDebow.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_04__Vayera_RDDebow.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Vayera | Sodomy?</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/Vayera5787_RYEtshalom.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/Vayera5787_RYEtshalom.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קמ"א - קמ"ג | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128221574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Fb65a5901-1e37-6984-9146-497020f78bde.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128221574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Fb65a5901-1e37-6984-9146-497020f78bde.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לעמים | 4 | אחריות רוחנית כלפי נכרים (א)</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/04_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/04_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות עשה שהזמן גרמא (ד) | 24</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/58efd7b4-9a89-4e7d-baa4-b955071e7d60/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/58efd7b4-9a89-4e7d-baa4-b955071e7d60/stream.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - משפט הארץ</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a820aa59-625e-490e-a9f4-6cc90c4a21e2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a820aa59-625e-490e-a9f4-6cc90c4a21e2/stream.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב איתיאל סופר | וירא תשפ"ז</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/c7035804/84bc84aa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c7035804/84bc84aa.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב זאב רונס | וירא תשפ"ז</title>
+   <description>הרב זאב רונס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב זאב רונס</itunes:author>
+   <enclosure url="https://media.transistor.fm/c611a297/cfa6c697.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c611a297/cfa6c697.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Rabbi Dani Zuckerman | Vayera 5787</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/c544de89/487ef88c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c544de89/487ef88c.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #18</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/21fff35d/4b87b83c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/21fff35d/4b87b83c.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צוואת האב-עבודתו של הצדיק בעולם | מעשה מחיגר - פרק ב | הרב איתמר אלדר</title>
+   <description>הרב איתמר אלדר · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב איתמר אלדר</itunes:author>
+   <enclosure url="https://anchor.fm/s/11284368c/podcast/play/128056649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434955527-44100-2-dd11b37608905.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11284368c/podcast/play/128056649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434955527-44100-2-dd11b37608905.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא: לפגוש את הקב"ה באדם ואת האדם בקב"ה | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/128135252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435057060-44100-2-7e497b89c99b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/128135252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435057060-44100-2-7e497b89c99b1.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לאומיות ישראלית מקורית מול מיובאת | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/022ca7d8/152df09b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/022ca7d8/152df09b.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | חלק ז | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/aff55d23/e84e5780.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aff55d23/e84e5780.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | חלק ז | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/112d2072/dfd50b13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/112d2072/dfd50b13.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>The Weekly Mitzva | Vayera | Deviation from the Truth</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/03_WeeklyMitzva_vayera_5767_87_Tabory.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/03_WeeklyMitzva_vayera_5767_87_Tabory.mp3?dest-id=12657</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קל"ט - ק"מ | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128221572/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F75b2d157-b351-97d1-b0a5-667f8a6698c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128221572/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F75b2d157-b351-97d1-b0a5-667f8a6698c9.mp3</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלידה עד שיבה | 4 | לידה: בין חטאה של חווה לשותפות עם ריבונו של עולם</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/04_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/04_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המצווה השבועית | וירא | איסור שקר</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit03_Vayera_5767_87_Tabory.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit03_Vayera_5767_87_Tabory.mp3?dest-id=410397</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכם: מקום של פירוד, תיקון וברית</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/04_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/04_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #17</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/a184cfc1/5893ea9b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a184cfc1/5893ea9b.mp3</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קל"ו - קל"ח | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128122987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fd367595a-d12d-b3d4-5784-14293b637e60.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128122987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fd367595a-d12d-b3d4-5784-14293b637e60.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מנהיגות וחינוך בעידן הרייטינג | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/bc44459b-6596-4d3a-b721-deeba6173a78/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/bc44459b-6596-4d3a-b721-deeba6173a78/stream.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Ramban on Lech Lecha</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/aa3cb810/109a08be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aa3cb810/109a08be.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #16</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/02dd0f1a/5fde13f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/02dd0f1a/5fde13f9.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 6</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a382973b/a400c5f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a382973b/a400c5f3.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - מבוא</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cf79345f/0f116545.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cf79345f/0f116545.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קל"ה | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/128050356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434945301-44100-2-4cb7795102043.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/128050356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434945301-44100-2-4cb7795102043.m4a</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #15</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/8dbda61b/b5ea4175.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8dbda61b/b5ea4175.mp3</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Prayer: Song of the Soul</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/9cb80049/768f7787.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9cb80049/768f7787.mp3</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קל"א - קל"ד | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127947934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F0bef0792-5ad5-d9bf-6610-9cbf9ed2a9ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127947934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F0bef0792-5ad5-d9bf-6610-9cbf9ed2a9ee.mp3</guid>
+   <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קכ"ח סעיף ל"ח - סוף סימן ק"ל | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127878725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fdbc2d8de-025c-1eb0-5302-55f5bbaef1a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127878725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fdbc2d8de-025c-1eb0-5302-55f5bbaef1a0.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - הבחירה באברהם</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/dc786bfa-3c6a-46d7-b02e-915cf458ea5a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/dc786bfa-3c6a-46d7-b02e-915cf458ea5a/stream.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - המסר לימינו מדור הפלגה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b9d90c32-4886-41ea-9aec-43cdc221405f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b9d90c32-4886-41ea-9aec-43cdc221405f/stream.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ששם השוו כל עובדי כוכבים- מג,ה (הרב מנחם ויצמן)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-5511190e76d4151e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-5511190e76d4151e.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Erev Shabbat Program | Lekh Lekha | Hearing the Call and Working for God</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_02_LekhLekha_REBick.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_02_LekhLekha_REBick.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mind of a Monotheist | 3 | Lekh Lekha | Egyptian Beauty Bias</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_03__LekhLekha_RDDebow.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_03__LekhLekha_RDDebow.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Why Give Tzedaka? Ethics as Divine Service</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/02_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/02_talking-machshava-rebick-reweber_5787.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קכ"ח סעיפים כ"ז - ל"ז | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127878729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fa7be40c9-0256-35cf-10ba-a07d6fead372.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127878729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fa7be40c9-0256-35cf-10ba-a07d6fead372.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קכ"ח סעיפים י"ג - כ"ו | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127878564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fbc823cd3-c9cd-a312-7f19-15c429855d9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127878564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fbc823cd3-c9cd-a312-7f19-15c429855d9d.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכחת השם העצמי: המחשבה הדתית לנוכח הפוליטיקה | הרב עוז בלומן</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/51518e49-7ba6-4e07-97ff-515d9481e6f6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/51518e49-7ba6-4e07-97ff-515d9481e6f6/stream.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - עבודת הביטחון</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/af812ec7-2fe1-4b40-bf49-62eebe9476f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/af812ec7-2fe1-4b40-bf49-62eebe9476f2/stream.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גבריאל סרף | בגדר איסור שהייה בשבת</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/446c2f27/63711b3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/446c2f27/63711b3d.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה שבת ב' | צורבא מרבנן - רד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75920752/utf_8_b_16bxldeo15hxkcdxnneainec15og16txli5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75920752/utf_8_b_16bxldeo15hxkcdxnneainec15og16txli5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה שבת | צורבא מרבנן - רג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75802588/utf_8_b_16bxldeo15hxkcdxonexinekjyfxli5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75802588/utf_8_b_16bxldeo15hxkcdxonexinekjyfxli5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעזרת ה' בגיבורים | שיעור לקראת הבחירות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75920636/utf_8_b_15txqnerinet15xxk9eziner15fxmdeo15xxqi5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75920636/utf_8_b_15txqnerinet15xxk9eziner15fxmdeo15xxqi5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך: יציאה למסע | ר' לוי יצחק מברדיצ'ב | חסידים שותים מזה עם רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/127878501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434718615-44100-2-855a3db1bf208.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/127878501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434718615-44100-2-855a3db1bf208.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - נבואת ברית בין הבתרים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/127913162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fc0c2f4be-65c1-b2a6-c665-39fa8299b0c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/127913162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fc0c2f4be-65c1-b2a6-c665-39fa8299b0c0.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזכרת שם בשבועה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/127888608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434733729-44100-2-a9d122314f669.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/127888608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434733729-44100-2-a9d122314f669.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לפגוש את החיצוניות מתוך הפנימיות | לנתיבות ישראל על הפרק שיעור שני | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/09ccf27e/5e20238d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/09ccf27e/5e20238d.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Sefat Emet | Lekh Lekha | Why Abraham Alone Heard God's Call</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_04__LekhLekha_REWeber.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_04__LekhLekha_REWeber.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Sefat Emet | Noach | Noach and Avraham: Two Faces of Divine Help | Rabbi Eli Weber</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_03__Noach_REWeber.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/SefatEmetParasha5787_03__Noach_REWeber.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Lekh Lekha | 'VaYirdof ad Dan': The "Dan" Problem</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/LekhLekha5787_RYEtshalom.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/LekhLekha5787_RYEtshalom.mp3?dest-id=12657</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לעמים | 3 | ז' מצוות בני נח תשתית או דת מספקת</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/03_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/03_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלידה עד שיבה | 3 | אם וילד - על העובר ברחם אמו</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/03_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/03_mi-leida-ad-seiva_5787_rjyeselsohn.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק ג'מאל | לך־לך תשפ"ז</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/afad1121/e2bc9097.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/afad1121/e2bc9097.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אייל רוזנבלום | לך־לך תשפ"ז</title>
+   <description>הרב אייל רוזנבלום · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל רוזנבלום</itunes:author>
+   <enclosure url="https://media.transistor.fm/8c23019d/6fc4b85e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8c23019d/6fc4b85e.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Rabbi Menachem Mendel Blachman | Lech-Lecha 5787</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/2cfdeb74/44828856.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2cfdeb74/44828856.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/2e30b21d/bdd3125b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2e30b21d/bdd3125b.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך: אמונה של מחאה | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/127818591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434636315-44100-2-743fa02897ed3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/127818591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434636315-44100-2-743fa02897ed3.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קכ"ח סעיפים א' - י"ב | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127773588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F3916b153-a4b9-3029-db69-5ff91e743e92.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127773588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F3916b153-a4b9-3029-db69-5ff91e743e92.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אבן העזר סימן כ"ו - החלק העיוני | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/127779630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F85613b7c-80e0-109b-dc80-58c1ad06944e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/127779630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F85613b7c-80e0-109b-dc80-58c1ad06944e.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesilas Yesharim #14</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/f05fedbe/6b3ae102.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f05fedbe/6b3ae102.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך- ארץ ישראל , מילה ושבת</title>
+   <description>הרב מרדכי פרומר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי פרומר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-9d9860f5d7fad4a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-9d9860f5d7fad4a4.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קכ"ה - קכ"ז | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127723650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2Fefa90e74-b010-248d-b11d-97cfae571a6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127723650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2Fefa90e74-b010-248d-b11d-97cfae571a6e.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות עשה שהזמן גרמא (ג) | 23</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/22cdec81-d54a-480d-aec9-7337d0dbdd32/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/22cdec81-d54a-480d-aec9-7337d0dbdd32/stream.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Ramban on Noach</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/888ad8f9/f052a481.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/888ad8f9/f052a481.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesillas Yesharim #13</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/29bc59e6/f99a763a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/29bc59e6/f99a763a.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesillas Yesharim #12</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/d8a13f50/de3c2129.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d8a13f50/de3c2129.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mesillas Yesharim #11</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/a7d6d83b/c96023ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a7d6d83b/c96023ec.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Lekh Lekha | The Brit as Relates to Non-Jews</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/02_WeeklyMitzva_lekh-lekha_5767_87_Tabory.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/02_WeeklyMitzva_lekh-lekha_5767_87_Tabory.mp3?dest-id=12657</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Noach | Ever Min Ha-chai</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/01_WeeklyMitzva_noach_5767_87_Tabory.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/01_WeeklyMitzva_noach_5767_87_Tabory.mp3?dest-id=12657</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קכ"ד | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127662256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Fca923f66-95f6-6e8e-f1c9-7d7d46c49841.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127662256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Fca923f66-95f6-6e8e-f1c9-7d7d46c49841.mp3</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך | מצוות מילה בגויים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit02_Lekh-Lekha_5767_87_Tabory.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit02_Lekh-Lekha_5767_87_Tabory.mp3?dest-id=410397</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח | מעמדם של בני נח</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit01_Noach_5767_87_Tabory.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit01_Noach_5767_87_Tabory.mp3?dest-id=410397</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכם: השער הראשון של האבות לארץ ישראל</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/03_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/03_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עצרת זיכרון והספד במלאת שבעה לפטירת מורנו הרב אפרים רובינשטיין זצ"ל</title>
+   <description>הרב אפרים רובינשטיין · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אפרים רובינשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/a419c4ef/0fbb5cfc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a419c4ef/0fbb5cfc.mp3</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים ק"כ - קכ"ג | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127556985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434282425-44100-2-c8bea821f2756.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127556985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434282425-44100-2-c8bea821f2756.m4a</guid>
+   <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קי"ז - קי"ט | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127514449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434223532-44100-2-058a6c9dd50f1.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127514449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434223532-44100-2-058a6c9dd50f1.m4a</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קי"ד - קט"ז | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127446964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434131286-44100-2-8140fa641bd1e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127446964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434131286-44100-2-8140fa641bd1e.m4a</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - שתי דרכים להתמודד עם טראומה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/58ef51bc-afea-440c-8ace-a72d861219a8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/58ef51bc-afea-440c-8ace-a72d861219a8/stream.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - היחס בין האדם לבעלי החיים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4107d163-c2b8-4417-bdf7-027d110073e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4107d163-c2b8-4417-bdf7-027d110073e9/stream.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - תפקיד הרע בבריאה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2f336a74-c4a9-474f-84fe-55220d934da4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2f336a74-c4a9-474f-84fe-55220d934da4/stream.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Erev Shabbat Program | Noach | Why Chamas Doomed the World; What Noach Missed</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_01_Noach_REBick.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/ErevShabbatProgram5787_01_Noach_REBick.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Mind of a Monotheist | 2 | Noach: Shem, Ham and Yefet: Torah's Map of Peoplehood</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_02__Noach_RDDebow.mp3?dest-id=12657" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/kmtt/MOAM_ParashatHashavua5787_02__Noach_RDDebow.mp3?dest-id=12657</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עובדיה מואיסייב | טומאת כהנים במטה המשטרה - בעקבות התייעצות עם הרב אפרים רובינשטיין זצ"ל</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/40c32969/c5266cab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/40c32969/c5266cab.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח: ונח מצא חן | ר' לוי יצחק מברדיצ'ב | חסידים שותים מזה עם רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/127506657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434212886-44100-2-8bff0f612392b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/127506657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434212886-44100-2-8bff0f612392b.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - שכרותו של נח</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/127528482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F3300771d-21d6-a1c7-f7d4-141f80983bf3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/127528482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F3300771d-21d6-a1c7-f7d4-141f80983bf3.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין נח לבין אברהם</title>
+   <description>הרב מרדכי פרומר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי פרומר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-81f5f7c3bef667c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-81f5f7c3bef667c3.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת השיגרה | שיעור תחילת זמן חורף | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/8d6dc42c/2bd9a5e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8d6dc42c/2bd9a5e4.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קי"ב - קי"ג | הרב ישי יסלזון</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/116279374/podcast/play/127446941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434131261-44100-2-f9fbef9865c21.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/116279374/podcast/play/127446941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434131261-44100-2-f9fbef9865c21.m4a</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לעמים | 2 | המקור לשבע מצוות בני נח (המשך)</title>
+   <description>רבני הישיבה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/02_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/02_bein-yisrael-laamim_5787_rnbuchs.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

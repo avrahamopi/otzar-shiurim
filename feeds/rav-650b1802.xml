@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שילה טובי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-650b1802.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שילה טובי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>השמחה שלמעלה מן הדעת | הרב שילה טובי | פרקי אבות</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Ph1qCiJ8Lqg</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Ph1qCiJ8Lqg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Ph1qCiJ8Lqg.mp3</guid>
+   <pubDate>Mon, 08 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה | תניא – איגרת הקודש י"ד לרה"ש | הרב שילה טובי</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=ObjHJ7g4IRc</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ObjHJ7g4IRc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ObjHJ7g4IRc.mp3</guid>
+   <pubDate>Thu, 14 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תניא | הקדמה לפרק ד' | הרב שילה טובי</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=41vIS4PYRzg</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/41vIS4PYRzg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/41vIS4PYRzg.mp3</guid>
+   <pubDate>Tue, 12 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תניא | הקדמה (2) | הרב שילה טובי</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=zkX1h-hd4JQ</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zkX1h-hd4JQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zkX1h-hd4JQ.mp3</guid>
+   <pubDate>Mon, 19 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלבים ומודלים בזוגיות – על הפריה וריפוי במעגל הזוגי – הרב שילה טובי | הרצאה שניה לבוגרי הישיבה</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=xK1iVSgRySk</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xK1iVSgRySk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xK1iVSgRySk.mp3</guid>
+   <pubDate>Tue, 19 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"ההוד נהפך לדווה" | הרב שילה טובי על יום הזיכרון לשואה ולגבורה</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=DoxzeedIiN0</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/DoxzeedIiN0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/DoxzeedIiN0.mp3</guid>
+   <pubDate>Tue, 21 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שילה טובי – מעשה בת מלך</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=qh5mmOSRJY8</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qh5mmOSRJY8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qh5mmOSRJY8.mp3</guid>
+   <pubDate>Sun, 29 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שילה טובי | הרהורי קורונה בין פורים לפסח – חלק ג'</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=i4vFRQj4QjU</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/i4vFRQj4QjU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/i4vFRQj4QjU.mp3</guid>
+   <pubDate>Wed, 25 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קצרצרים של בוקר | הרב שילה טובי – הפסוק שלי // Short Torah ideas</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Uwb7ZTGNKno</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Uwb7ZTGNKno.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Uwb7ZTGNKno.mp3</guid>
+   <pubDate>Wed, 04 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

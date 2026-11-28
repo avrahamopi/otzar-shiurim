@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אלעזר גולדשטיין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-dd478a15.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אלעזר גולדשטיין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>יג אדר | רב משה פינשטיין | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/26/dd/f6/2b25024f2c8f3ab2ed1aa39d9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/26/dd/f6/2b25024f2c8f3ab2ed1aa39d9a.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים יום קודם החג | ביעור ובדיקת חמץ | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/59/7d/4f/68655947c2b11dea0457159551.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/59/7d/4f/68655947c2b11dea0457159551.mp3</guid>
+   <pubDate>Sun, 02 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ"ב באדר | ערוך השולחן | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/33/64/e586f44596bfad507e4ff66eff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/33/64/e586f44596bfad507e4ff66eff.mp3</guid>
+   <pubDate>Wed, 15 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ט' שבט | רבינו נסים | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/86/63/1c5d0f45bfb522cd5a87e75097.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/86/63/1c5d0f45bfb522cd5a87e75097.mp3</guid>
+   <pubDate>Tue, 31 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 19. איסור חדש בחו"ל | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b1/98/35/50920944c1b5b2ffd80e6fe23f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b1/98/35/50920944c1b5b2ffd80e6fe23f.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 17. מדיניות הכשרות בארץ והגלובליזציה - סיכום ביניים | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/92/5f/d70b8643c89340a819302347ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/92/5f/d70b8643c89340a819302347ee.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 16. וויסקי שעבר עליו הפסח - האם מותר לקות וויסקי בדיוטי-פרי | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/90/c1/551a2543509e04ddbaa4a3e550.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/90/c1/551a2543509e04ddbaa4a3e550.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 15. דיני תערובות - חלק ב' - דברים שאינם בטלים | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dd/9d/03/806e59410b863353a2e89ded77.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dd/9d/03/806e59410b863353a2e89ded77.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 14. דיני תערובות - חלק א' - יסודות | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0e/1e/1b/c905d34247803b4f6366c74a5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0e/1e/1b/c905d34247803b4f6366c74a5a.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 13. בין ישראל לעמים - חלק ה' - כשרות בחו"ל | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/27/7b/a6/1ee79841b7b72976bbee83e4d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/27/7b/a6/1ee79841b7b72976bbee83e4d4.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 12. בין ישראל לעמים - חלק ד' - חלב נוכרי | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a9/86/30/138d3c4d2ab956ff351a6faa2d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a9/86/30/138d3c4d2ab956ff351a6faa2d.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 11. בין ישראל לעמים - חלק ג' - בישולי נוכרים | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8e/52/0e/c950754ddaa81192c1924f2977.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8e/52/0e/c950754ddaa81192c1924f2977.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 10. בין ישראל לעמים - חלק ב' - פת, סעודה ואלכוהול | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7f/a0/da/6bccf845338d9327c3b940adf7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7f/a0/da/6bccf845338d9327c3b940adf7.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 9. בין ישראל לעמים - חלק א' - דיני יין נסך וסתם יינם | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f7/89/9d/6ddd16485eaf64ddba41b482f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f7/89/9d/6ddd16485eaf64ddba41b482f3.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 8. דם בביצים בימינו | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a5/52/e4/d4f0ab4a8f8604e61aaa90658e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a5/52/e4/d4f0ab4a8f8604e61aaa90658e.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 7. חרקים ותולעים במזון - חלק ג' - שאלת ההלכה למעשה | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/73/73/65c56c4bc193099ae34a07eaf1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/73/73/65c56c4bc193099ae34a07eaf1.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 6. חרקים ותולעים במזון - חלק ב' - יסודות המותר והאסור | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fd/fe/f7/7d417f49bb98e274f1428375ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fd/fe/f7/7d417f49bb98e274f1428375ab.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 5. חרקים ותולעים במזון - חלק א' - האם מדובר על איסור מהתורה | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/99/d1/f4/56781b4fa0865c1a48fe7f890c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/99/d1/f4/56781b4fa0865c1a48fe7f890c.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 4. פיטום אווזים | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4e/53/4d/d351af42f7a0e114987484d7e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4e/53/4d/d351af42f7a0e114987484d7e1.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 3. דם, מליחה וצליה, יסודות ולמעשה | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/32/4b/e87c7f49179eaa4290b0d74ee2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/32/4b/e87c7f49179eaa4290b0d74ee2.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 2. כשרות העופות בתעשייה המודרנית | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7e/e5/f6/6153974293b3fd6ef2af777515.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7e/e5/f6/6153974293b3fd6ef2af777515.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | 1. מקור דיני טרפה ורמות הכשרות השונות - כשר, חלק וגלאט | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c7/49/b2/6d8252482d8f7aca37c318c694.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c7/49/b2/6d8252482d8f7aca37c318c694.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשרות בעולם המודרני | פתיחה - סקירה ביביליוגרפית ומתדולוגיה | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/07/96/28/b814ff45fcbf344bfede5a90b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/07/96/28/b814ff45fcbf344bfede5a90b1.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

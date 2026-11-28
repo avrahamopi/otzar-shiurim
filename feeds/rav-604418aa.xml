@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יצחק בזק · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-604418aa.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יצחק בזק.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב יצחק בזק | שיעור להושענא רבה</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/1f5e0756/c0127611.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1f5e0756/c0127611.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבירור שלפני התשובה מלמד על מהותה ודרך עשייתה | הרב יצחק בזק | אורות התשובה</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/41a03e03/87a79567.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/41a03e03/87a79567.mp3</guid>
+   <pubDate>Tue, 12 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם התשובה סותרת את הרצון | הרב יצחק בזק | אורות התשובה | פרק ט פסקאות א,ד</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/b554b124/1d274c8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b554b124/1d274c8a.mp3</guid>
+   <pubDate>Tue, 29 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק בזק, אורות התשובה, הקושי בחזרה בתשובה.mp4</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/f79bd170/7ebb1c10.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f79bd170/7ebb1c10.mp3</guid>
+   <pubDate>Wed, 23 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק בזק, מאמרי הראיה, לתקופת מעבר, שיעור שלישי, הטבע והתגלות ההכרה בגאולת ישראל</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/459e2d89/dd776f1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/459e2d89/dd776f1d.mp3</guid>
+   <pubDate>Wed, 19 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק בזק, מאמרי הראיה, תקופת המעבר, שיעור שני, המעבר מטבע הגוף לטבע הנשמה</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/f867bea2/57d7e789.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f867bea2/57d7e789.mp3</guid>
+   <pubDate>Fri, 07 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק בזק, מאמרי הראיה, לתקופת המעבר</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/277133c5/a032b77b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/277133c5/a032b77b.mp3</guid>
+   <pubDate>Wed, 28 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההרב יצחק בזק, מאמרי הראיה, אחדות ושניות, שיעור שלישי, שלמות חומר והרוח</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/d2b35988/58858e5b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d2b35988/58858e5b.mp3</guid>
+   <pubDate>Tue, 20 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק בזק, מאמרי הראיה, אחדות ושניות, שיעור שני</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/a0954146/27230949.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a0954146/27230949.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק בזק, מאמרי הראיה, אחדות ושניות, שיעור ראשון</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/2ebd959c/5e9b93fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2ebd959c/5e9b93fe.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

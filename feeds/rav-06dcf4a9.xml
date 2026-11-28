@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב בנימין תבורי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-06dcf4a9.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב בנימין תבורי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>1# ענייני תפילת שמונה עשרה</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5c/3c/10/b8c1e14fa4bfd718a67bf422e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5c/3c/10/b8c1e14fa4bfd718a67bf422e5.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2# ענייני תפילת שמונה עשרה - חלק ב'</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/99/a0/a3/6111644cbeb796d6a77a685519.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/99/a0/a3/6111644cbeb796d6a77a685519.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3# חזרת הש"ץ וברכת כהנים</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/78/85/a52a9b49d48b149e81fafaecd9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/78/85/a52a9b49d48b149e81fafaecd9.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4# תחנון</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bf/fe/99/20e4244b16af8c30ea8298ba22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bf/fe/99/20e4244b16af8c30ea8298ba22.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5# חנוכה</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0b/f6/9f/30eea64b0d807ac2828558d778.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0b/f6/9f/30eea64b0d807ac2828558d778.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6# חנוכה - חלק ב'</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/56/9e/89/0d32914fc3986b7c8d707217b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/56/9e/89/0d32914fc3986b7c8d707217b6.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7# תפילין</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5c/f7/75/a2b12a4ea5a05025082241f0a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5c/f7/75/a2b12a4ea5a05025082241f0a2.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8# תפילין - חלק ב'</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8e/75/93/9cce29407c960f6616436b741a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8e/75/93/9cce29407c960f6616436b741a.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9# תפילין - חלק ג'</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/e4/90/a5404444d2bf0816e03e38d72e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/e4/90/a5404444d2bf0816e03e38d72e.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10# ליל שבת</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/35/55/27/a2c7764f7faaf7645613ce224b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/35/55/27/a2c7764f7faaf7645613ce224b.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>11# ענייני קידוש בליל שבת וביום - המשך</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/a7/8c/8ea9ce4e9fbf1db1840419be9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/a7/8c/8ea9ce4e9fbf1db1840419be9a.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>12# לחם משנה וסעודות שבת</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/57/ec/1f/3b26684e058d7dfaab2aab5b39.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/57/ec/1f/3b26684e058d7dfaab2aab5b39.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>13# הבדלה</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/59/91/f8/99f620474a803c9ec76c6b38d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/59/91/f8/99f620474a803c9ec76c6b38d4.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>14# ברכה אחרונה</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/91/8e/fd/6ccabe4322bf8a6177b211baa2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/91/8e/fd/6ccabe4322bf8a6177b211baa2.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>15# ברכה אחרונה - חלק ב'</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/fc/20/5b69be4495b99ff8c3693e79da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/fc/20/5b69be4495b99ff8c3693e79da.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>16# ברכת המזון</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/96/2d/07/6c758f422780935903e20690fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/96/2d/07/6c758f422780935903e20690fe.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>17# פורים</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/72/ac/7b8dc945aa8afc727dcb013660.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/72/ac/7b8dc945aa8afc727dcb013660.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>18# קריאת התורה</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/65/eb/2d/a1bd08495d9b34f4b2205fac66.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/65/eb/2d/a1bd08495d9b34f4b2205fac66.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>19# קריאת התורה - חלק ב'</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fb/c0/63/893592416099d9dfcf1164aa5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fb/c0/63/893592416099d9dfcf1164aa5f.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>20# פסח</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/55/0e/01/c8cffa4389b44d078f6fbd48ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/55/0e/01/c8cffa4389b44d078f6fbd48ce.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>21# פסח -חלק ב'</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4a/57/f7/35b3c040959dd0ba931ca67a12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4a/57/f7/35b3c040959dd0ba931ca67a12.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>22# ספירת העומר</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c2/dc/c6/aa75b243e7990ce15a183a6795.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c2/dc/c6/aa75b243e7990ce15a183a6795.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>23# ראש חודש</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/31/bf/fe/5b073142a19f34dda0477dceb2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/31/bf/fe/5b073142a19f34dda0477dceb2.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>24# ראש חודש - חלק ב'</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2a/49/14/2650fe49d7ac9cd38716e288b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2a/49/14/2650fe49d7ac9cd38716e288b6.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>25# שבועות</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0b/c9/80/0675b0438aaf6b8f364e5f297f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0b/c9/80/0675b0438aaf6b8f364e5f297f.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>26# לא תאכילום</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b0/1f/5e/fc682a47a4b874895419ac7e77.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b0/1f/5e/fc682a47a4b874895419ac7e77.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>27# ציצית</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2d/53/03/2beca7463bae0a2c3405efb4c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2d/53/03/2beca7463bae0a2c3405efb4c9.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>28# פיקוח נפש: ר' חיים</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fc/47/a8/903ece4b20b15638395a72004d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fc/47/a8/903ece4b20b15638395a72004d.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>29# מנהגי נישואין</title>
+   <description>הרב בנימין תבורי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין תבורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/69/aa/c3/5acb7741f1bb361a14ca4fd6bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/69/aa/c3/5acb7741f1bb361a14ca4fd6bd.mp3</guid>
+   <pubDate>Sun, 21 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

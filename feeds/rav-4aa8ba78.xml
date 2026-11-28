@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב עידו הבר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-4aa8ba78.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב עידו הבר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סדרי הקורבנות | הרב עידו הבר</title>
+   <description>הרב עידו הבר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עידו הבר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/123178957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-22%2F428432835-44100-2-91027feae698a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/123178957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-22%2F428432835-44100-2-91027feae698a.mp3</guid>
+   <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עידו הבר - איך מעוררים את מידת הרחמים? | באור פניך יהלכון - פודקאסט לחגי תשרי</title>
+   <description>הרב עידו הבר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עידו הבר</itunes:author>
+   <enclosure url="https://anchor.fm/s/10974edd4/podcast/play/108800738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408127901-44100-2-0dab088b0b377.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10974edd4/podcast/play/108800738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408127901-44100-2-0dab088b0b377.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עידו הבר – יום הזיכרון: זיכרון לחיים</title>
+   <description>הרב עידו הבר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עידו הבר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2d/57/8f/8acb054cc7b279b6f72c541024.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2d/57/8f/8acb054cc7b279b6f72c541024.mp3</guid>
+   <pubDate>Sun, 12 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משתדלים להאיר - הרב עידו הבר</title>
+   <description>הרב עידו הבר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עידו הבר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9f/2f/35/4ed6294ebdb6f0876f18c8f726.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9f/2f/35/4ed6294ebdb6f0876f18c8f726.mp3</guid>
+   <pubDate>Fri, 08 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כמה מכות לקו מצרים על הים? - הרב עידו הבר</title>
+   <description>הרב עידו הבר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עידו הבר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ca/d1/ff/ebeda7467da3faee01f9daf39a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ca/d1/ff/ebeda7467da3faee01f9daf39a.mp3</guid>
+   <pubDate>Fri, 08 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עידו הבר - הלל</title>
+   <description>הרב עידו הבר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עידו הבר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/49/8d/34/08c75e401793f5834edbe31ad0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/49/8d/34/08c75e401793f5834edbe31ad0.mp3</guid>
+   <pubDate>Sun, 14 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עידו הבר - בינת הלב</title>
+   <description>הרב עידו הבר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עידו הבר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/00/f9/3d/298a18426a98d93fd641af9c73.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/00/f9/3d/298a18426a98d93fd641af9c73.mp3</guid>
+   <pubDate>Thu, 03 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

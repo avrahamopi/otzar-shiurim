@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מאיר בזק · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d64c5ca7.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מאיר בזק.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>איך לקנא ולא להיבהל מהרעש בבית</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-FKNJbEcZaUM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-FKNJbEcZaUM.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם נישואים טובים נועדו לכישלון?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-muF6Y2puaKA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-muF6Y2puaKA.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה אנחנו פוגשים כל כך הרבה אכזבות?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-ffZJwmY0XdI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-ffZJwmY0XdI.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין פה מפלצת, יש פה רק מאבק</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/9c5d62c6-d678-406b-b734-a9aa7f2318c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/9c5d62c6-d678-406b-b734-a9aa7f2318c2.mp3</guid>
+   <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה קורה כשהמאבק בבית נפסק?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/1a0070c4-c411-4a0b-8f44-4fda37db5b05.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/1a0070c4-c411-4a0b-8f44-4fda37db5b05.mp3</guid>
+   <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אנחנו המון רבים</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/83a8745a-f1d2-428b-82a8-15e3d3806a11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/83a8745a-f1d2-428b-82a8-15e3d3806a11.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה אתה רוצה ממני?!</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/f19adb96-2588-4d83-9ee7-06666d6e73f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/f19adb96-2588-4d83-9ee7-06666d6e73f5.mp3</guid>
+   <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המציל הטובע - לקחת אחריות על מה שבאמת שלנו</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/5620390b-ebb2-4265-bdd1-034a5dfb004f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/5620390b-ebb2-4265-bdd1-034a5dfb004f.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איפה האנרגיה שלנו מתבזבזת?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/343f1674-6c08-4a6b-8cd3-5d0b5f4ccfaa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/343f1674-6c08-4a6b-8cd3-5d0b5f4ccfaa.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם גם בבית שלכם יש "קרינה סמויה"?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/00cfea36-1957-452e-a235-1a8efd59563f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/00cfea36-1957-452e-a235-1a8efd59563f.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האויב שגר בתוך המראה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/b5af079f-fd2a-4648-8e0c-bc1008bf9ba4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/b5af079f-fd2a-4648-8e0c-bc1008bf9ba4.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה עם המנגינה?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/d72a68df-b035-4d27-aaf3-d8e7abd0e4d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/d72a68df-b035-4d27-aaf3-d8e7abd0e4d2.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך הופכים חיכוך לתיקון?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/6f3c44db-655e-4581-8dae-7cef5600174c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/6f3c44db-655e-4581-8dae-7cef5600174c.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר הגורדי - איך מקצרת האהבה תהליכים?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/d8e5ceac-3027-4c24-ba2c-5259c75b41c1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/d8e5ceac-3027-4c24-ba2c-5259c75b41c1.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הקשר בין אננס לזוגיות מאושרת?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/775d4e8a-4fdd-4ef1-8294-bf9c39f4c427.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/775d4e8a-4fdd-4ef1-8294-bf9c39f4c427.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוסן בעת מלחמה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/c1e0ed4c-813d-4cff-84a1-787e060b8b4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/c1e0ed4c-813d-4cff-84a1-787e060b8b4a.mp3</guid>
+   <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לא להישבר כשהעולם נהיה מבולגן?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/16902df3-59f1-4134-a296-28a0b8f67542.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/16902df3-59f1-4134-a296-28a0b8f67542.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה הוא כל הזמן מתרץ תירוצים?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/804aef77-b1ae-4f91-bb86-bbf8b1f43e83.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/804aef77-b1ae-4f91-bb86-bbf8b1f43e83.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תקשורת זוגית</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/98dca6f5-259a-47f4-ad7f-64299ec11402.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/98dca6f5-259a-47f4-ad7f-64299ec11402.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכל התחיל כשהוא החזיר לי סטירה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/c2227d86-a07b-4eec-b9f4-9c006d7b0c8d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/c2227d86-a07b-4eec-b9f4-9c006d7b0c8d.mp3</guid>
+   <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך עוזרים באמת?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/3e94b45d-6f93-4f84-aded-a28cbfcef809.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/3e94b45d-6f93-4f84-aded-a28cbfcef809.mp3</guid>
+   <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה היא אוכלת שטויות כל הזמן?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/ed990a28-0bfb-4e6a-94e4-1a94f6f12a6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/ed990a28-0bfb-4e6a-94e4-1a94f6f12a6e.mp3</guid>
+   <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תקשורת זוגית</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/ee16cdf3-19b6-4af5-b513-c6ed1a2183a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/ee16cdf3-19b6-4af5-b513-c6ed1a2183a4.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה עושים כשההורים מתנגדים?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/982d8d1a-9570-4fab-9ea2-2744e3e62dce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/982d8d1a-9570-4fab-9ea2-2744e3e62dce.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיבוד הורים המפתח לחיים</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/fe00b228-341d-492f-bf96-107a0c70e342.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/fe00b228-341d-492f-bf96-107a0c70e342.mp3</guid>
+   <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רוצים לחיות</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/b58bd71e-4888-47ae-979a-9867987e3067.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/b58bd71e-4888-47ae-979a-9867987e3067.mp3</guid>
+   <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שוב השארת את הכלים המלוכלכים</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/77bac458-ddc0-4151-9f21-1df744c3fa04.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/77bac458-ddc0-4151-9f21-1df744c3fa04.mp3</guid>
+   <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יש לך דקה?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/d9c1c8e7-c600-4053-9694-bbfb7f7d8244.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/d9c1c8e7-c600-4053-9694-bbfb7f7d8244.mp3</guid>
+   <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה טובה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/f078d5eb-b370-47a8-9c8e-e46167b6ddbc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/f078d5eb-b370-47a8-9c8e-e46167b6ddbc.mp3</guid>
+   <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לסבול את עצמך</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4c923332-126b-4eea-8827-2db7afa4b022.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4c923332-126b-4eea-8827-2db7afa4b022.mp3</guid>
+   <pubDate>Tue, 26 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למי למי יש יותר כבוד</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/ee92438f-46b1-41cc-81c8-a305538c3ee7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/ee92438f-46b1-41cc-81c8-a305538c3ee7.mp3</guid>
+   <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איפה אנחנו חיים?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/9668efb8-aa47-4aa8-9058-133d22efaa43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/9668efb8-aa47-4aa8-9058-133d22efaa43.mp3</guid>
+   <pubDate>Tue, 12 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי יותר חכם הוויז או האדם</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/7f706cea-023a-4505-b181-af7b8ddfb19c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/7f706cea-023a-4505-b181-af7b8ddfb19c.mp3</guid>
+   <pubDate>Tue, 05 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגיע זמן האהבה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4444ec47-64f0-49f0-8a3d-ea7dbbfdd801.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4444ec47-64f0-49f0-8a3d-ea7dbbfdd801.mp3</guid>
+   <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המתנה שלך</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/c986f628-956a-4c36-a009-8c3ea3f45585.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/c986f628-956a-4c36-a009-8c3ea3f45585.mp3</guid>
+   <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תום סויר הופך חושך לאור</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/0e81dea4-91fe-4655-9275-5f6b845d813f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/0e81dea4-91fe-4655-9275-5f6b845d813f.mp3</guid>
+   <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך הופכים חושך לאור?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/da948c8f-be28-4f9e-81cf-f5a9e894a436.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/da948c8f-be28-4f9e-81cf-f5a9e894a436.mp3</guid>
+   <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה עושים כשהכל משתנה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/ab4dcbbc-6abc-4f55-91a9-19bd8486ec92.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/ab4dcbbc-6abc-4f55-91a9-19bd8486ec92.mp3</guid>
+   <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך משתחררים מהעומס?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/3027f7d8-82e6-449d-8e27-79c0a285e31d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/3027f7d8-82e6-449d-8e27-79c0a285e31d.mp3</guid>
+   <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזון נפשי בתוך מלחמה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/0cb03ca0-bbd0-43bd-baa8-26c736f997fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/0cb03ca0-bbd0-43bd-baa8-26c736f997fb.mp3</guid>
+   <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאין יבא עזרי</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/e72c26f8-8c24-4d6d-838f-4c90b6161460.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/e72c26f8-8c24-4d6d-838f-4c90b6161460.mp3</guid>
+   <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפוך על הפוך</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/88312a07-29ef-4c13-88c1-fd33f9fdad05.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/88312a07-29ef-4c13-88c1-fd33f9fdad05.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איוון האיום או איוון הדמיון</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/6bbebbdd-f11b-46cd-9828-bfed57f24ccc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/6bbebbdd-f11b-46cd-9828-bfed57f24ccc.mp3</guid>
+   <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צפור צפור</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/b1683745-ff17-48b2-9fa0-543e94bd4631.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/b1683745-ff17-48b2-9fa0-543e94bd4631.mp3</guid>
+   <pubDate>Mon, 05 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החלקה על המידות</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/697500e0-941f-4938-838e-6c177907084f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/697500e0-941f-4938-838e-6c177907084f.mp3</guid>
+   <pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>!לכעוס או לא לכעוס- זאת השאלה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/dacfc878-0f6d-4933-870e-c4ff405f12fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/dacfc878-0f6d-4933-870e-c4ff405f12fa.mp3</guid>
+   <pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מפגש הפראיירים</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4aa7fe9a-7f21-4367-bc02-a3f366e1129b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4aa7fe9a-7f21-4367-bc02-a3f366e1129b.mp3</guid>
+   <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה כל הבעיות קורות כשלא צריך אותם??</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/cea1802d-de2f-4e6c-ae17-4f93571c54c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/cea1802d-de2f-4e6c-ae17-4f93571c54c3.mp3</guid>
+   <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>את מי אתה יותר, אוהב את אבא או את אמא?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/92685441-6d72-40a3-85aa-d40dcd322420.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/92685441-6d72-40a3-85aa-d40dcd322420.mp3</guid>
+   <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תהיה סמרטוט</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/c7e2c371-6de0-4da6-9ac3-d51f2eed6079.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/c7e2c371-6de0-4da6-9ac3-d51f2eed6079.mp3</guid>
+   <pubDate>Tue, 25 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתקעת? הרווחת!</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/41750a00-1646-4bb7-8fa8-ee0c08334675.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/41750a00-1646-4bb7-8fa8-ee0c08334675.mp3</guid>
+   <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי יותר טיפש, אדם או זבוב?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4ffcfe73-1d82-4ccc-8c75-68b034a6aee7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4ffcfe73-1d82-4ccc-8c75-68b034a6aee7.mp3</guid>
+   <pubDate>Tue, 11 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה זה כל כך מסתבך לנו?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/5d48be96-0d32-4b6c-9fa5-870f343b718d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/5d48be96-0d32-4b6c-9fa5-870f343b718d.mp3</guid>
+   <pubDate>Wed, 05 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נישואים זה לא עסק</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/681cf0bd-ec00-4dd8-b53f-4ef4513216d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/681cf0bd-ec00-4dd8-b53f-4ef4513216d7.mp3</guid>
+   <pubDate>Tue, 21 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתי גם אישתי תחשוב עלי?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/875c792b-3a69-4f13-b669-428d5574d4c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/875c792b-3a69-4f13-b669-428d5574d4c9.mp3</guid>
+   <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבה זה בידיים שלנו</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/8f521904-02a1-43b4-bff7-48ff7feaf506.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/8f521904-02a1-43b4-bff7-48ff7feaf506.mp3</guid>
+   <pubDate>Tue, 07 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפחה זה כיף או עול כבד?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/17bd3f5a-6b09-425e-8ecf-bfaf529f7cee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/17bd3f5a-6b09-425e-8ecf-bfaf529f7cee.mp3</guid>
+   <pubDate>Wed, 01 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להנות ללא הגבלה?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/a4f8af85-9bfd-4767-9862-b75ab6e5e738.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/a4f8af85-9bfd-4767-9862-b75ab6e5e738.mp3</guid>
+   <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה זו לא אהבה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/54aaa157-69fe-4302-93e6-6230f8c8720a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/54aaa157-69fe-4302-93e6-6230f8c8720a.mp3</guid>
+   <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה היא עונה לי ככה?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/3c52febb-a22a-444c-bc75-7b4371ea36ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/3c52febb-a22a-444c-bc75-7b4371ea36ab.mp3</guid>
+   <pubDate>Sun, 16 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה היא חושבת רק על עצמה?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/eb41618d-2e79-45f3-af5e-3dbea2da1ddc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/eb41618d-2e79-45f3-af5e-3dbea2da1ddc.mp3</guid>
+   <pubDate>Sun, 02 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה מכל דבר קטן היא נלחצת?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/6afc5926-f583-4b5d-a69f-16faeedbab43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/6afc5926-f583-4b5d-a69f-16faeedbab43.mp3</guid>
+   <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה תמיד פסח אצל ההורים שלך?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/2c91cd41-c8ca-4785-b3ad-7af356dcb0b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/2c91cd41-c8ca-4785-b3ad-7af356dcb0b1.mp3</guid>
+   <pubDate>Wed, 17 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב, אשתי משתגעת לפני פסח ומשגעת את כל הבית!</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/af046ac6-0717-4c67-9f79-bcc12f4a9c25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/af046ac6-0717-4c67-9f79-bcc12f4a9c25.mp3</guid>
+   <pubDate>Sun, 07 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה היא עושה דווקא?! הבנה בזוגיות - ב</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/119a67b4-23a1-4d06-9275-29cc605edb9f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/119a67b4-23a1-4d06-9275-29cc605edb9f.mp3</guid>
+   <pubDate>Mon, 25 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה היא עושה דווקא?! הבנה בזוגיות - א</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/f6b15a6e-1abc-4641-80ce-779307e3a120.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/f6b15a6e-1abc-4641-80ce-779307e3a120.mp3</guid>
+   <pubDate>Sun, 10 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך להתאהב מחדש בבן או בת הזוג חלק ג</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4d0ff5b8-5ff9-489b-9b66-90b57bc4f4e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4d0ff5b8-5ff9-489b-9b66-90b57bc4f4e2.mp3</guid>
+   <pubDate>Sun, 03 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך להתאהב מחדש בבן או בת הזוג חלק ג</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/985e286e-68d1-485f-b2ac-aa7468b78a72.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/985e286e-68d1-485f-b2ac-aa7468b78a72.mp3</guid>
+   <pubDate>Sun, 03 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך להתאהב מחדש בבן או בת הזוג? ב</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-N5EH-ojaiAo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-N5EH-ojaiAo.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך להתאהב מחדש בבן או בת הזוג</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/86b0f71d-e2fc-4282-b94b-fdebb56f416f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/86b0f71d-e2fc-4282-b94b-fdebb56f416f.mp3</guid>
+   <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תהיה צודק תהיה בן אדם</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/f1eb9f05-3f26-4406-9de4-7b9527faa6c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/f1eb9f05-3f26-4406-9de4-7b9527faa6c2.mp3</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מבקשים בצורה נכונה ומתקבלת</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/8d69f6e2-316b-46f9-8a61-6beb60b39e86.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/8d69f6e2-316b-46f9-8a61-6beb60b39e86.mp3</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לוותר בלי להרגיש סמרטוט?</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-rRxCeIZttM4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/yesmalot-yt-rRxCeIZttM4.mp3</guid>
+   <pubDate>Sun, 04 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לוותר בלי להרגיש פראייר</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/494d0b3f-43d3-47e4-b958-6b8272b066d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/494d0b3f-43d3-47e4-b958-6b8272b066d6.mp3</guid>
+   <pubDate>Sun, 28 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לנהל דיון מוצלח</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/cee8470d-847c-434e-91ec-37da5c117888.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/cee8470d-847c-434e-91ec-37da5c117888.mp3</guid>
+   <pubDate>Sun, 21 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מבקשים בצורה נכונה ומתקבלת</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/5754bdae-1626-46cb-b632-71ed20e364ae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/5754bdae-1626-46cb-b632-71ed20e364ae.mp3</guid>
+   <pubDate>Sun, 14 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה שמתחת למילים</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/82466592-f730-425c-bb20-5029426a801e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/82466592-f730-425c-bb20-5029426a801e.mp3</guid>
+   <pubDate>Mon, 08 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עצות טובות לחיים טובים - עזר כנגדו (למה היא כל כך הפוכה ממני_!)</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4f3b4eab-b343-469c-9c39-feef480f50d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/4f3b4eab-b343-469c-9c39-feef480f50d8.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא הופכים טוסטר למיחם</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/da8fef13-63e5-4615-b72e-90e8dcc9f5e7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/da8fef13-63e5-4615-b72e-90e8dcc9f5e7.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם יש ביקורת בונה</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/be788113-56a6-42fa-b54d-788826b02597.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/be788113-56a6-42fa-b54d-788826b02597.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

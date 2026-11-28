@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מתניה שטרנברג · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-6d67d971.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מתניה שטרנברג.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיעור לסוכות | מקדש, בית, סוכה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/79/27/65/372ae94898b00923d06f1caed6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/79/27/65/372ae94898b00923d06f1caed6.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקווה ישראל ה' | 3. בין שמים לקרקע - משמעות איסור מים שאובים במקווה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/85/2c/1d/62572f4e32bfa8aa4d959e5de1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/85/2c/1d/62572f4e32bfa8aa4d959e5de1.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקווה ישראל ה' | 2. אדם או מקום - משמעות שיעור ארבעים סאה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/3f/6c/a414f64fe1958582250c1e2af8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/3f/6c/a414f64fe1958582250c1e2af8.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקווה ישראל ה' | 1. מראשית ועד אחרית - המים בתנ״ך והיחס שבין מעיין ומקווה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/eb/59/ff/33824e41da89e2f8b8465610dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/eb/59/ff/33824e41da89e2f8b8465610dd.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 8. תורה של 'לעתיד לבוא' והאם מצוות בטילות | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/6a/e8/c2f2d842c28a6925959edca2c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/6a/e8/c2f2d842c28a6925959edca2c6.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 6. להוריד שכינה לתחתונים – הדור השביעי והמהפכה הנשית | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/46/e3/1f/97b356487e967ae8db6c581c23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/46/e3/1f/97b356487e967ae8db6c581c23.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 5. בת וביטול – נשיות בדור הגאולה אצל הרבי מלובביץ' | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/30/fe/a9/028b834e2b8acf57acaffd4ddc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/30/fe/a9/028b834e2b8acf57acaffd4ddc.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 4. אשת חיל ומים חיים - תיקון הנשיות באדמו"ר הזקן | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/6d/6f/3bafe44417a04245f76940f518.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/6d/6f/3bafe44417a04245f76940f518.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 3. קול חתן וקול כלה - השוויון בין האיש לאשה באדמו"ר הזקן | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f1/d4/59/b000e74c20ba44cab8246f6db7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f1/d4/59/b000e74c20ba44cab8246f6db7.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 2. קול באישה - היבטי דיבור שונים והתיקון העתידי | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/23/5b/68/12b822478595906bc262717715.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/23/5b/68/12b822478595906bc262717715.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 1. בין קול לדיבור - על נפילת הקול הנשי בזוהר | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a9/dc/5b/f2068943d8b976c964e0353eb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a9/dc/5b/f2068943d8b976c964e0353eb3.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ב' בטבת | עמנואל לוינס | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/83/4b/de/64d10f4eecaad96f2e93b15af6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/83/4b/de/64d10f4eecaad96f2e93b15af6.mp3</guid>
+   <pubDate>Sat, 24 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחד לה' ואחד לעזאזל | 4. הסליחה העליונה - מקום החטא והרע ביום כיפור | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0e/af/71/212185448b9b0a7c68fcd076cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0e/af/71/212185448b9b0a7c68fcd076cd.mp3</guid>
+   <pubDate>Sun, 02 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'אחד לה' ואחד לעזאזל | 3. עבודת השעירים בתורת החסידות | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/17/d4/f1/d62a9740d09ccfe3ee180e0917.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/17/d4/f1/d62a9740d09ccfe3ee180e0917.mp3</guid>
+   <pubDate>Sun, 02 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחד לה' ואחד לעזאזל | 2. שעיר חי ושעיר מת | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/99/a0/f8/b8f576424aa2c9465782dffffa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/99/a0/f8/b8f576424aa2c9465782dffffa.mp3</guid>
+   <pubDate>Sun, 02 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחד לה' ואחד לעזאזל | 1. הקורבן והמשתלח בתהליך כפרת המקדש | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/38/8c/5e/b03a4e400e8e9c297b4b7847eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/38/8c/5e/b03a4e400e8e9c297b4b7847eb.mp3</guid>
+   <pubDate>Sun, 02 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ג' אלול | הראי"ה קוק | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/91/cb/7d/38ea2b4d4fb2e8366a63e8c124.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/91/cb/7d/38ea2b4d4fb2e8366a63e8c124.mp3</guid>
+   <pubDate>Sun, 28 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשעה באב חלק ב | געגועי למקדש - הרב מתניה שטרנברג משתף מחשבות</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/81/28/69/f53a934905b74dd48f2ff0fc74.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/81/28/69/f53a934905b74dd48f2ff0fc74.mp3</guid>
+   <pubDate>Tue, 02 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשעה באב חלק א | געגועי למקדש - הרב אמנון דוקוב משתף מחשבות</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/1b/80/9a055c4e2cabf54e79de55bb1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/1b/80/9a055c4e2cabf54e79de55bb1d.mp3</guid>
+   <pubDate>Tue, 02 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ז בתמוז | חומות שבורות</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ad/e9/70/3453824745bde66a107cf7ab52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ad/e9/70/3453824745bde66a107cf7ab52.mp3</guid>
+   <pubDate>Thu, 14 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | נעשה ונשמע</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/04/75/a7/209f614741b2af312e4a40a43c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/04/75/a7/209f614741b2af312e4a40a43c.mp3</guid>
+   <pubDate>Thu, 02 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום ירושלים | עיר שחוברה לה יחדיו</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/4c/c2/3913f144079af0a49ae58d55ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/4c/c2/3913f144079af0a49ae58d55ec.mp3</guid>
+   <pubDate>Thu, 26 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | האידרא רבא ומקום החבורה בעבודת השם | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f6/72/01/cb3b4a4abf80fcc8dac831db69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f6/72/01/cb3b4a4abf80fcc8dac831db69.mp3</guid>
+   <pubDate>Wed, 18 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ל"ג בעומר | תורת הסוד והאש</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/29/e0/5e/18f44a490eadf5338c2bb171fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/29/e0/5e/18f44a490eadf5338c2bb171fd.mp3</guid>
+   <pubDate>Mon, 16 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום העצמאות | זה היום עשה ה'!</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/68/36/2487aa4b1a8c7b7e026663be90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/68/36/2487aa4b1a8c7b7e026663be90.mp3</guid>
+   <pubDate>Mon, 02 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספירת העומר | וספרתם לכם ממחרת השבת</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/33/cd/f2/035c6d4e25b50aa825526f33f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/33/cd/f2/035c6d4e25b50aa825526f33f4.mp3</guid>
+   <pubDate>Fri, 29 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח | החופש לצאת לחירות</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4a/3e/fd/cf08e54ca58b7a32e20a1540aa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4a/3e/fd/cf08e54ca58b7a32e20a1540aa.mp3</guid>
+   <pubDate>Fri, 08 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח | לספר ביציאת מצרים</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/51/67/a3/313b7340acbc0605b0dc426922.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/51/67/a3/313b7340acbc0605b0dc426922.mp3</guid>
+   <pubDate>Fri, 08 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | הקרנבל היהודי</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/5d/4e/2b9344400590f9ae78ce6c4563.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/5d/4e/2b9344400590f9ae78ce6c4563.mp3</guid>
+   <pubDate>Fri, 11 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיבור השנה | שנת הירח ושנת החמה</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/45/83/e0/104f9a49ba87e2a6435ea0914f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/45/83/e0/104f9a49ba87e2a6435ea0914f.mp3</guid>
+   <pubDate>Mon, 21 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | צדק צדקה וקדושה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/76/d9/a7/630abf47d99dbfc4721c7152dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/76/d9/a7/630abf47d99dbfc4721c7152dd.mp3</guid>
+   <pubDate>Wed, 09 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טו בשבט | חנטה שבנפש ותיקון האכילה</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c7/66/51/7d28ed41f481cda53907380c54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c7/66/51/7d28ed41f481cda53907380c54.mp3</guid>
+   <pubDate>Sat, 15 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשרה בטבת | תודעת החוסר</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a3/23/d4/0d13f1453b99e2b6c60c3e6276.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a3/23/d4/0d13f1453b99e2b6c60c3e6276.mp3</guid>
+   <pubDate>Sun, 12 Dec 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה | ימי הלל והודאה</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/88/25/93/0380f64ee8bd89ed5eadfc2a89.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/88/25/93/0380f64ee8bd89ed5eadfc2a89.mp3</guid>
+   <pubDate>Wed, 24 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה | להדליק נר של חנוכה</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cc/6f/09/6b5b894508947774b699bbac91.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cc/6f/09/6b5b894508947774b699bbac91.mp3</guid>
+   <pubDate>Wed, 24 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | אור מקיף, אור פנימי וכלי, שלשה רבדים בדעות חולקות | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0c/2f/c2/b15ba94cd089090ccd0f3c1558.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0c/2f/c2/b15ba94cd089090ccd0f3c1558.mp3</guid>
+   <pubDate>Thu, 28 Oct 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחת תורה | לרקוד עם התורה</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d8/33/d0/25ff354cd0a43bfa527f6b915a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d8/33/d0/25ff354cd0a43bfa527f6b915a.mp3</guid>
+   <pubDate>Sat, 25 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות | ארבעת המינים</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/37/e8/9b838f4f05bcc831da037240eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/37/e8/9b838f4f05bcc831da037240eb.mp3</guid>
+   <pubDate>Thu, 16 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום כיפור | הוידוי</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/88/14/dc/0b7a044a8f95e38715990f57a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/88/14/dc/0b7a044a8f95e38715990f57a5.mp3</guid>
+   <pubDate>Sun, 12 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה | לשמוע קול שופר</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/71/46/f9/04618f4c19be4f83b89a891334.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/71/46/f9/04618f4c19be4f83b89a891334.mp3</guid>
+   <pubDate>Wed, 25 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

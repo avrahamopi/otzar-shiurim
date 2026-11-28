@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יהודה בן חמו · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-958b81d6.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יהודה בן חמו.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מה המניע של המלחמה? | אורות המלחמה פסקה ב | אורות הנפש | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=ZktlewnSNbI</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ZktlewnSNbI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ZktlewnSNbI.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה מטרת המלחמה? – אורות המלחמה א' | אורות הנפש | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Wi0zpfB3YE4</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Wi0zpfB3YE4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Wi0zpfB3YE4.mp3</guid>
+   <pubDate>Sun, 29 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה ההבדל בין הרצון האנושי לרצון האלוקי? | אורות הנפש 19 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=01nrnqcMIZs</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/01nrnqcMIZs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/01nrnqcMIZs.mp3</guid>
+   <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הייעוד של עם ישראל? | שיעור ליום העצמאות תשפ"ה | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=mzwwmWiWNeM</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mzwwmWiWNeM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mzwwmWiWNeM.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהו עמלק ואיך מנצחים אותו? | שיעור לפורים – הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=7o_1X34Wsao</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7o_1X34Wsao.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7o_1X34Wsao.mp3</guid>
+   <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך המעשים שלי מעצבים לי את הנפש? | אורות הנפש 19 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=raqE8qevLtk</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/raqE8qevLtk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/raqE8qevLtk.mp3</guid>
+   <pubDate>Sun, 02 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הסיבה האמיתית שבגללה מתפללים כל יום? | שיעור חשוב על תפילה | אורות הנפש 18 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=BPyCUvuk3fE</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BPyCUvuk3fE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BPyCUvuk3fE.mp3</guid>
+   <pubDate>Wed, 26 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהו כח הרגש ואיך מפתחים אותו? | אורות הנפש 17 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=kIgG28pVDUE</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kIgG28pVDUE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kIgG28pVDUE.mp3</guid>
+   <pubDate>Wed, 05 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהו כוח הדמיון? ולמה ה' שם לנו אותו בנפש? | אורות הנפש 16 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=1V6p0zuRBag</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1V6p0zuRBag.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1V6p0zuRBag.mp3</guid>
+   <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הכח הכי חזק בנפש שחייבים לפתח? | אורות הנפש 15 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=UKg0nhQOlhg</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/UKg0nhQOlhg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/UKg0nhQOlhg.mp3</guid>
+   <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המצוות בונות את האמונה | אורות הנפש 15 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=w9fQAU5MHLw</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/w9fQAU5MHLw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/w9fQAU5MHLw.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לבנות אמונה פנימית ויציבה? | אורות הנפש 14 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=K4rkiR135-8</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/K4rkiR135-8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/K4rkiR135-8.mp3</guid>
+   <pubDate>Mon, 02 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך אפשר להיפגש עם אלוהים? | מהו כח האמונה? | אורות הנפש 13 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=oY4m1n2rMgc</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oY4m1n2rMgc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oY4m1n2rMgc.mp3</guid>
+   <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהו הרצן העמוק ביותר של נפש האדם? | אורות הנפש 12 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=m7IP9N5ON6o</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/m7IP9N5ON6o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/m7IP9N5ON6o.mp3</guid>
+   <pubDate>Tue, 19 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה לנפשות גדולות יש אתגרים גדולים? | אורות הנפש 11 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=ypRErfes1w8</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ypRErfes1w8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ypRErfes1w8.mp3</guid>
+   <pubDate>Mon, 11 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור הכנה חזק לראש השנה! | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=IHwbYrvSoDo</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IHwbYrvSoDo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IHwbYrvSoDo.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוקיות הגוף היא ביטוי לחוקיות שיש בנפש! | אורות הנפש 10 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=4GmPrwCNc24</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/4GmPrwCNc24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/4GmPrwCNc24.mp3</guid>
+   <pubDate>Wed, 11 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך להפריד מידה טובה ממידה רעה? | סוד הנסירה בנפש | אורות הנפש 9 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=zZgOWA1T-ws</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zZgOWA1T-ws.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zZgOWA1T-ws.mp3</guid>
+   <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך למצוא את הייעוד שלי בעולם? | חמשת הסימנים לשליחות | אורות הנפש 8 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=UE0CXjNQK8c</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/UE0CXjNQK8c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/UE0CXjNQK8c.mp3</guid>
+   <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה המאבק בין תאוות לערכים מוליד בנפש? | אורות הנפש 6 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Bhf6hxQIpzs</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Bhf6hxQIpzs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Bhf6hxQIpzs.mp3</guid>
+   <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהם הקליפות של הנפש? | אורות הנפש 5 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=eL-v6xu96cg</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/eL-v6xu96cg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/eL-v6xu96cg.mp3</guid>
+   <pubDate>Tue, 02 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה משנה את הנפש? | מומלץ! | ארבעת מרחבי הנפש ודרכי הזנתם | אורות הנפש 4 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=YDXgzcIbtkM</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/YDXgzcIbtkM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/YDXgzcIbtkM.mp3</guid>
+   <pubDate>Tue, 18 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהו העיקרון הכי חשוב בנפש? | אורות הנפש 3 | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=UGa2wHa6zHI</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/UGa2wHa6zHI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/UGa2wHa6zHI.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה ללמוד על הנפש ? | אורות הנפש 1 – מבוא ופתיחה | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=jdaWs6h9Wg8</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/jdaWs6h9Wg8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/jdaWs6h9Wg8.mp3</guid>
+   <pubDate>Tue, 28 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

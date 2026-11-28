@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב איתן קליימן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0aa87795.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב איתן קליימן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סדרת אושפיזין! משה | בין 'אמת' ל'הכלה' | הרב איתן קליימן | סוכות תשפ"ז</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560810-44100-2-3da12a5a69e08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560810-44100-2-3da12a5a69e08.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והאיכא חנוכה? | הרב איתן קלימן | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112667940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426868-44100-2-29274038ebc4e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112667940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426868-44100-2-29274038ebc4e.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב איתן קלימן | פרשת שלח | הדרך לתיקון חטא המרגלים בימינו | עם כלביא</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/104357895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F402450514-44100-2-1b3fa1761e6d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/104357895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F402450514-44100-2-1b3fa1761e6d8.mp3</guid>
+   <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב איתן קלימן - "בכל דרכיך דעהו"</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95641734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-10%2F391319847-44100-2-ff290e1e44ba3.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95641734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-10%2F391319847-44100-2-ff290e1e44ba3.m4a</guid>
+   <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב איתן קלימן - "ויחלום יעקב חלום", על החלום ושברו</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95307962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-3%2F390910023-44100-2-e51a677cf4724.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95307962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-3%2F390910023-44100-2-e51a677cf4724.m4a</guid>
+   <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אברהם העברי - להיות בתוך ולהיות מעבר | הרב איתן קליימן</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94295740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2Fbd75bde8-a196-63fe-0c52-1b02ff75c3dd.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94295740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2Fbd75bde8-a196-63fe-0c52-1b02ff75c3dd.m4a</guid>
+   <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מיוחד! חידוש מהגוש במילואים | פרשת נח | הרב איתן קליימן</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/93787595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-31%2F389027569-44100-2-bb65fded64d69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/93787595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-31%2F389027569-44100-2-bb65fded64d69.mp3</guid>
+   <pubDate>Thu, 31 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | כורך | הרב איתן קליימן | פסח תשפ"ב</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d0/ae/3f/8b70b940258fc836b50ca1100f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d0/ae/3f/8b70b940258fc836b50ca1100f.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

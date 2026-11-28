@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב עמיחי גורדין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-f8f27699.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב עמיחי גורדין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>יכול מראש חודש? הגדה של פסח בין לימוד לחוויה | הרב עמיחי גורדין והרב חיים נבון | ניסן תשפ"ו</title>
+   <description>הרב עמיחי גורדין · ישיבת הר עציון · הלכה</description>
+   <itunes:author>הרב עמיחי גורדין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117169237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-19%2F420348754-44100-2-8c80c9f42bfdd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117169237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-19%2F420348754-44100-2-8c80c9f42bfdd.mp3</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#28 קדושת ירושלים | הרב עמיחי גורדין</title>
+   <description>הרב עמיחי גורדין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב עמיחי גורדין</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/107200816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-22%2F406094332-44100-2-238d526e793c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/107200816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-22%2F406094332-44100-2-238d526e793c.mp3</guid>
+   <pubDate>Fri, 22 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#27 קדושת עיירות המוקפות חומה | הרב עמיחי גורדין</title>
+   <description>הרב עמיחי גורדין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב עמיחי גורדין</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/106853378/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405646559-44100-2-c65f82edf8317.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/106853378/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405646559-44100-2-c65f82edf8317.mp3</guid>
+   <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושת יום הכיפורים | הרב עמיחי גורדין והרב חיים נבון</title>
+   <description>הרב עמיחי גורדין · ישיבת הר עציון · הלכה</description>
+   <itunes:author>הרב עמיחי גורדין</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/102654227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400271096-44100-2-8d6d2fc42134d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/102654227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400271096-44100-2-8d6d2fc42134d.mp3</guid>
+   <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#13 קדושת שמיטה | הרב עמיחי גורדין</title>
+   <description>הרב עמיחי גורדין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב עמיחי גורדין</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/102310026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-7%2F399780201-44100-2-43cb2b0e96966.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/102310026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-7%2F399780201-44100-2-43cb2b0e96966.mp3</guid>
+   <pubDate>Wed, 07 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#4 השווה והשונה בין שבת ויו"ט | הרב עמיחי גורדין</title>
+   <description>הרב עמיחי גורדין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב עמיחי גורדין</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/99404377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-5%2F396007789-44100-2-c7098283e0206.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/99404377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-5%2F396007789-44100-2-c7098283e0206.mp3</guid>
+   <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחת 'קדושת אביב' | על השבת וקדושתה | הרב עמיחי גורדין והרב חיים נבון</title>
+   <description>הרב עמיחי גורדין · ישיבת הר עציון · הלכה</description>
+   <itunes:author>הרב עמיחי גורדין</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/98720207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2F395153706-44100-2-321397f138e8f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/98720207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2F395153706-44100-2-321397f138e8f.mp3</guid>
+   <pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

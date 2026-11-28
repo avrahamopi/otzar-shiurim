@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שאול דוד · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-96f9a535.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שאול דוד.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>איך אישה נהיית נידה ודיני הרגשה - 1</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64675428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F3a16ee70-3212-b6d8-ca6d-9b196dbc8226.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64675428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F3a16ee70-3212-b6d8-ca6d-9b196dbc8226.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גזירות רבי ורבי זירא - 2</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64679627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Fc3149fd9-ade0-726b-e12d-2a4cab5a467d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64679627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Fc3149fd9-ade0-726b-e12d-2a4cab5a467d.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דין פרישה סמוך לווסת - 3</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64679886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Ff199061f-94ac-82ca-ee23-a5dea674c85b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64679886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Ff199061f-94ac-82ca-ee23-a5dea674c85b.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני וסתות - 4</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64679931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Fcef93dbd-09fa-dd90-0280-6ebb6457fbcc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64679931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Fcef93dbd-09fa-dd90-0280-6ebb6457fbcc.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מראות הדם - 5</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64680246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F6fe64511-c17c-930b-9168-8e6f56b8a0fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64680246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F6fe64511-c17c-930b-9168-8e6f56b8a0fa.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני כתמים - 6</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64680281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Fde928bc8-8498-95b1-1eb3-e3c62a008461.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64680281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Fde928bc8-8498-95b1-1eb3-e3c62a008461.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני כלה - 7</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64680316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F3c4e4aad-13b3-266c-fcdd-6a3c195f06d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64680316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F3c4e4aad-13b3-266c-fcdd-6a3c195f06d0.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני יולדת - 8</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64680335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F17b2bda3-87a2-9856-dcd6-1f6b80e0961a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64680335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F17b2bda3-87a2-9856-dcd6-1f6b80e0961a.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים האסורים בימי הנידה - 9</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64680360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F0fbdba1c-c6c6-0ccc-0aec-bf74bf28572d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64680360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F0fbdba1c-c6c6-0ccc-0aec-bf74bf28572d.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני הפסק טהרה ושבעה נקיים - 10</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64680404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Fbc8c3289-5976-7e7b-7974-b3cba51fff60.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64680404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2Fbc8c3289-5976-7e7b-7974-b3cba51fff60.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני חציצה וטבילה - 11</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64680454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F1c687f1d-3287-cae7-c134-25ef383fb27b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64680454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F1c687f1d-3287-cae7-c134-25ef383fb27b.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני טבילה,זמנה,ברכתה ומקומה - 12</title>
+   <description>הרב שאול דוד · ישיבת היכל אליהו כוכב יעקב · הלכה</description>
+   <itunes:author>הרב שאול דוד</itunes:author>
+   <enclosure url="https://anchor.fm/s/d7f408e4/podcast/play/64680484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F104aee68-a65e-2e9a-4dad-786f6a7d5cf5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/d7f408e4/podcast/play/64680484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F104aee68-a65e-2e9a-4dad-786f6a7d5cf5.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

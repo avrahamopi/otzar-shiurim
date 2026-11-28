@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב תומר בוקובזה · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9a459c4f.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב תומר בוקובזה.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיעור לסוכות | לחתום קבע - השמחה והאמונה שבארעי | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4b/df/a1/5752a548bc8d5d2e9b6640f122.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4b/df/a1/5752a548bc8d5d2e9b6640f122.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | כוח השימור וכוח השינוי | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/47/7d/bf/d7d34248ab84f230aff33f4dd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/47/7d/bf/d7d34248ab84f230aff33f4dd2.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים יום קודם החג | דרך חירות | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f5/32/fa/d961f34a6a8a99fa4ef8b31a49.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f5/32/fa/d961f34a6a8a99fa4ef8b31a49.mp3</guid>
+   <pubDate>Fri, 24 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | משלוח מנות - אכילה מחברת | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6e/52/04/0b7ac845aaadf65a55691f8088.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6e/52/04/0b7ac845aaadf65a55691f8088.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | האתגר של חודש אדר - עם אחד מפוזר ומפורד | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/28/7b/79/46b2f840658bc18650e605e2b7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/28/7b/79/46b2f840658bc18650e605e2b7.mp3</guid>
+   <pubDate>Tue, 21 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ח בטבת | רבי משה הכהן כלפון | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8d/fc/f6/7839164a76b183adc332af0df5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8d/fc/f6/7839164a76b183adc332af0df5.mp3</guid>
+   <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 8. אמונה וחכמה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/30/6a/88/e2b2a64f6492245d22c5db68e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/30/6a/88/e2b2a64f6492245d22c5db68e2.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 7. אמונה ולימוד תורה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1f/10/02/179aa249819c4bc5c74adbf334.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1f/10/02/179aa249819c4bc5c74adbf334.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 6. האמונה כקבלה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/9d/0c/cd640e4649887a7863f923da45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/9d/0c/cd640e4649887a7863f923da45.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 5. חינוך ויצירת שייכות לאמונה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/61/6c/9e/d96e7b403195f47a4e818470fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/61/6c/9e/d96e7b403195f47a4e818470fd.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהיו ידיו אמונה| 4. תפילה וזכות אבות | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/94/c7/d65af64b6a9f1dc737ab6833c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/94/c7/d65af64b6a9f1dc737ab6833c9.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 3. התפילה כפרשנות | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/ff/53/84bd3a49d180f80552c04814be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/ff/53/84bd3a49d180f80552c04814be.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 2. "תהום אל תהום קורא" - התפילה כמעשה האמונה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dd/7a/1b/e2c7e8493d945a9a7dc8145e26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dd/7a/1b/e2c7e8493d945a9a7dc8145e26.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 1. אמונה ואריכות אפיים | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/df/82/45cc2c486b9edf08de7c98e359.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/df/82/45cc2c486b9edf08de7c98e359.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה | 5. מ"ז חלק ב. תיקון האכילה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/bf/79/5057504524b65ca955293b6bac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/bf/79/5057504524b65ca955293b6bac.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה | 4. מ"ז חלק א. תיקון האמת דרך תיקון האכילה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/60/c3/2f/fe4c5e494b8023c8562768a496.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/60/c3/2f/fe4c5e494b8023c8562768a496.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה_ 3. מתודעת בחירה למציאות של השגחה _ הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/06/e7/95/4ed0864da4baddd359f70b7262.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/06/e7/95/4ed0864da4baddd359f70b7262.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה_ 2. תורה נ_א - איך שקר נולד_ _ הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2f/c2/e6/cee8484b69bba163bf4485176d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2f/c2/e6/cee8484b69bba163bf4485176d.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה | 1. נ"א - השקר מזיק לעיניים | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cb/47/bd/37c71341c4b3654007a65e5ca2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cb/47/bd/37c71341c4b3654007a65e5ca2.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ח תשרי | רבי נחמן מברסלב | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/08/f4/96/0e4ebd46e9966254c1603f9535.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/08/f4/96/0e4ebd46e9966254c1603f9535.mp3</guid>
+   <pubDate>Wed, 12 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

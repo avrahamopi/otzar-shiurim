@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב דניאל כהן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-638b5c7b.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב דניאל כהן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>חזון הנשמות היבשות [9] | אגדות שקרו באמת | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zTpqhkyJlc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zTpqhkyJlc.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [1] | איך נדע בוודאות שיש אלוקים ושיש מלאכים? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kc2PcHUH-8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kc2PcHUH-8.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [9] | איך זה שאני מניח תפילין הופך אותי לאדם יותר מוסרי? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zuwXFBIG_s.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zuwXFBIG_s.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [5] | ברכת השיבנו וסלח לנו | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Yvh618z76o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Yvh618z76o.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [1] | איך מתכוננים לתפילה? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ip7u-nqFLM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ip7u-nqFLM.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [6] | דור הפלגה והפרוגרס העולמי | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/dXcH7BDArw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/dXcH7BDArw.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [10] | אגדות החורבן | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=6FhDhH73Sg0</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/6FhDhH73Sg0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/6FhDhH73Sg0.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [10] | בית מקדש במאה ה-21 | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=LEQObVxkyEA</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/LEQObVxkyEA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/LEQObVxkyEA.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [9] | קרח ועדתו, פנחס וקנאתו | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=785W_0moDhA</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/785W_0moDhA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/785W_0moDhA.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [8] | איך אפשר לדעת בוודאות שיש שכר ועונש ועולם הבא? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=vT7pS3K4tvE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vT7pS3K4tvE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vT7pS3K4tvE.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [7] | יעקב והמלאך, יוסף ואחיו | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=8PnKzPuCLE4</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8PnKzPuCLE4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8PnKzPuCLE4.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [8] | נבואות בלעם במאה הַ-21 | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=1BrZ9o50Gl4</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1BrZ9o50Gl4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1BrZ9o50Gl4.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [7] | איך זה שאני עושה מצוות זה הופך אותי ליותר מוסרי | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=NGIpn0xa_GE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/NGIpn0xa_GE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/NGIpn0xa_GE.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [12] | איך זה שאני שומר שבת הופך אותי ליותר מוסרי? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=U-jVDn8cT28</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/U-jVDn8cT28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/U-jVDn8cT28.mp3</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [6] | ידיעה ובחירה, חנוכה, המבול | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=IiqMaSaTHxs</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IiqMaSaTHxs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IiqMaSaTHxs.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [6] | עקדת יצחק | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=CVD16zhkIiE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CVD16zhkIiE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CVD16zhkIiE.mp3</guid>
+   <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | איך בונים במאה 21 את הלוחות הראשונים שנשברו? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=3DhyobM20Ts</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3DhyobM20Ts.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3DhyobM20Ts.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [5] | סיפור המבול – מי צריך להיכנס לתיבה היום? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=Fby08zk3UBg</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Fby08zk3UBg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Fby08zk3UBg.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [4] | תפילה – מיסטיקה או מתמטיקה? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=GFFGW6OQ0zc</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/GFFGW6OQ0zc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/GFFGW6OQ0zc.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [4] | קין והבל, תפילין ואנטישמיות | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=bS7g8j6v1-o</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bS7g8j6v1-o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bS7g8j6v1-o.mp3</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העולם הפנימי של ל"ג בעומר | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=GBXoQrG3C50</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/GBXoQrG3C50.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/GBXoQrG3C50.mp3</guid>
+   <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [3] | מה בונה בנו התורה? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Jupao1xU0w8</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Jupao1xU0w8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Jupao1xU0w8.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [3] | חטא אדם הראשון של המאה הַ-21 | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=XxvG1_mYMmc</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XxvG1_mYMmc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XxvG1_mYMmc.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [2] | אמיתות התורה והציונות הדתית | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=QMCBq_W_XVc</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/QMCBq_W_XVc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/QMCBq_W_XVc.mp3</guid>
+   <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [2] | סיפור הבריאה חלק ב' | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=TAWhqj5WwXc</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/TAWhqj5WwXc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/TAWhqj5WwXc.mp3</guid>
+   <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [1] | קיום אלוקים｜ הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=112hK2TygkE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/112hK2TygkE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/112hK2TygkE.mp3</guid>
+   <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [1] | סיפור הבריאה | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=2fAR3e-PBVc</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/2fAR3e-PBVc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/2fAR3e-PBVc.mp3</guid>
+   <pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [11] | ברכת בונה ירושלים וצמח דוד | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=lsGcQWP8-gk</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/lsGcQWP8-gk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/lsGcQWP8-gk.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות מהחיים [6] | האם שלושת השבועות שפוסקים סאטמר בטלו? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=I3appIGNhrY</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/I3appIGNhrY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/I3appIGNhrY.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [11] | איך זה שאשים ציצית הופכת אותי לאדם יותר מוסרי? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=D-GhDplznY8</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/D-GhDplznY8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/D-GhDplznY8.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [10] | ברכת על הצדיקים ועל החסידים | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=0oWSBanwKxY</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0oWSBanwKxY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0oWSBanwKxY.mp3</guid>
+   <pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות מהחיים[5] | האם הקדוש ברוך הוא נמצא איתי גם בנפילות שלי? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=XPave2kpd4I</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XPave2kpd4I.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XPave2kpd4I.mp3</guid>
+   <pubDate>Sat, 21 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [10] | איך דיני כשרות הופכים אותי לאדם מוסרי יותר? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=BIYMejvn0_8</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BIYMejvn0_8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BIYMejvn0_8.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [9] | ברכת למינים ולמלשינים | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=v5jqY65hyn8</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/v5jqY65hyn8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/v5jqY65hyn8.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות מהחיים[4] | איך מרגישים את טעם המצוות? ולמה צריך ללמוד גמרא? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=vVZJFkdb7Vk</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vVZJFkdb7Vk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vVZJFkdb7Vk.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות מהחיים[3] | איך משפיעים אמונה על הנוער? והצורך בענווה כשלומדים אמונה | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=V-Vd4VN6zH4</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/V-Vd4VN6zH4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/V-Vd4VN6zH4.mp3</guid>
+   <pubDate>Sat, 31 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל[8] | ברכת השיבה שופטינו | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=1LMSUgUVcsE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1LMSUgUVcsE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1LMSUgUVcsE.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש[8] | האם אתה באמת מאמין בתחיית המתים? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=PHJn9WzgqDI</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/PHJn9WzgqDI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/PHJn9WzgqDI.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות מהחיים [2] | מהי המוזיקה שצריך לשמוע בדור הגאולה? שמירת הברית או קיום הברית? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=z5-PDqJ76so</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/z5-PDqJ76so.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/z5-PDqJ76so.mp3</guid>
+   <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [6] | איך אלוהים יודע הכל ובכל זאת יש לנו בחירה חופשית? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=kc3pYvpe6BE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kc3pYvpe6BE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kc3pYvpe6BE.mp3</guid>
+   <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [6] | ברכת ראה ורפאנו | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=xNX9UbrgZkQ</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xNX9UbrgZkQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xNX9UbrgZkQ.mp3</guid>
+   <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות על החיים [1] | איך מפתחים שמחה תמידית בחיים? ואיך יוצרים אחדות בעמ"י? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=BAvJK0TeQr4</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BAvJK0TeQr4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BAvJK0TeQr4.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [5] | תפילה מיסתיקה או מתמטיקה | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=e8RnRjmgSR8</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/e8RnRjmgSR8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/e8RnRjmgSR8.mp3</guid>
+   <pubDate>Sat, 17 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [4] | 'מה יקרה כבר אם אני לא אלמד אמונה?' | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=ttZVvxRrCHE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ttZVvxRrCHE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ttZVvxRrCHE.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [4] | מה מכוונים בברכת אתה חונן? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=707n7N8M4HM</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/707n7N8M4HM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/707n7N8M4HM.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהושע פרק א – איך ניתן להכניס כיום את 'משה' לארץ? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · תנ"ך
+וידאו: https://www.youtube.com/watch?v=x6Ke2Ee2PG0</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/x6Ke2Ee2PG0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/x6Ke2Ee2PG0.mp3</guid>
+   <pubDate>Sun, 11 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [3] | למה אם אין לך רוח הקודש אתה בעל מום? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=EB4enOxBlCo</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/EB4enOxBlCo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/EB4enOxBlCo.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [3] | ברכת גבורות, אתה קדוש וקדושה | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=qfcnyTxMqWY</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qfcnyTxMqWY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qfcnyTxMqWY.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [2] | תוכיח לי שהתורה היא אמת | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=lujEL8nleXI</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/lujEL8nleXI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/lujEL8nleXI.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים להתפלל [2] | ברכת אבות בכוונה | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=XwfSifl_oMk</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XwfSifl_oMk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XwfSifl_oMk.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

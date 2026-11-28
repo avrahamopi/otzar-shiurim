@@ -1,0 +1,2743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>מועדים · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/moadim.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי מועדים מכל ישיבות ההסדר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>איך אדם אחד מצליח לשנות את ההיסטוריה? | שיעור לחנוכה | אגדתא - מח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76447878/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76447878/lesson.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעותו המתחדשת של סוכות</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/_______.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/_______.mp3?dest-id=410397</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהסוכה אל שמחת תורה | הרב בן ציון אלגאזי | שיחה לחג סוכות</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75433506/utf_8_b_16nxmdex15qg15zxodev15vxldeqineu16jxksdxknec15lxknew15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75433506/utf_8_b_16nxmdex15qg15zxodev15vxldeqineu16jxksdxknec15lxknew15kubxaz.mp3</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! יעקב | בין 'יעקב' ל'ישראל' | הרב ישי יסלזון | סוכות תשפ"ז</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560859-44100-2-64f248f4bb9e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560859-44100-2-64f248f4bb9e8.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! יוסף | "אם כנים אתם" | הרב יאיר קאהן | סוכות תשפ"ז</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560849-44100-2-393b08b5e3a3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560849-44100-2-393b08b5e3a3d.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! אהרון | שושבינא דמטרוניתא | הרב בני להמן | סוכות תשפ"ז</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560833-44100-2-2e913b1fa45bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560833-44100-2-2e913b1fa45bf.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! אברהם | להמשיך להדליק את הבירה | הרב ברוך גיגי | סוכות תשפ"ז</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560822-44100-2-3fbf3ac69c43d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560822-44100-2-3fbf3ac69c43d.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! משה | בין 'אמת' ל'הכלה' | הרב איתן קליימן | סוכות תשפ"ז</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560810-44100-2-3da12a5a69e08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560810-44100-2-3da12a5a69e08.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! יצחק | "גם ברוך יהיה" | הרב אביעד בר-אשר | סוכות תשפ"ז</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560850-44100-2-d6af9b3433bd1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560850-44100-2-d6af9b3433bd1.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! דוד | שלושה מבטים דרך שלושה ספרים | הרב ספי אליאש | סוכות תשפ"ז</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560860-44100-2-9612db4bf7873.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560860-44100-2-9612db4bf7873.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת סוכות - ושאבתם מים בששון</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/04b64c42-6427-4a43-9ba9-a6b6ba04ea25.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/04b64c42-6427-4a43-9ba9-a6b6ba04ea25.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג סוכות: כי האלהים בשמים ואתה על הארץ| ר' ישראל מרוז'ין | חסידים שותים מזה עם רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/126023501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432283591-44100-2-e8584736a8273.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/126023501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432283591-44100-2-e8584736a8273.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות כגן העדן של הילדות</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/5787_rigold_moadim-upsychologia_03.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/5787_rigold_moadim-upsychologia_03.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מיום כיפור לסוכות: שוברים דיסטנס עם הקב''ה | רה''י הרב אוריאל עיטם | סוכות תשפ"ז</title>
+   <description>הרב אוריאל עיטם · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב אוריאל עיטם</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/125876699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432089373-44100-2-085aebf97007.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/125876699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432089373-44100-2-085aebf97007.mp3</guid>
+   <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת שובה ויום כיפור - לבאר עניין יום כיפור</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6dea11ed-cbc5-4651-8fc8-8cbd99b5f1e0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6dea11ed-cbc5-4651-8fc8-8cbd99b5f1e0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אהרן פרידמן | הווידוי ביום הכיפורים</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/baa88033/f5368cdd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/baa88033/f5368cdd.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום הכפורים: וחנתי את אשר אחן | ר' ישראל מרוז'ין | חסידים שותים מזה עם רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/125869847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432079446-44100-2-5e990b421c03e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/125869847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432079446-44100-2-5e990b421c03e.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום כיפור: מה אתה רחום אף הוא רחום | הרב אשר וייס | ימים נוראים תשפ"ז</title>
+   <description>הרב אשר וייס · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/125805649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F431988973-44100-2-482168c83ca82.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/125805649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F431988973-44100-2-482168c83ca82.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום כיפור תשפ"ז | הרב משה בנוביץ</title>
+   <description>הרב משה בנוביץ · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב משה בנוביץ</itunes:author>
+   <enclosure url="https://media.transistor.fm/77d43549/6fba8767.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/77d43549/6fba8767.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום כיפור תשפ"ז | הרב מאיר פינקלשטיין</title>
+   <description>הרב מאיר פינקלשטיין · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב מאיר פינקלשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/46fe5d20/40ddb9f8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/46fe5d20/40ddb9f8.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתוודות ולשכוח: יום כיפור כיום התשובה השנתי | הרב עודד מיטלמן וישי מאיר | ימים נוראים תשפ"ז</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/125394763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431442065-44100-2-9b643d4fdab2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/125394763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431442065-44100-2-9b643d4fdab2.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשייה ושביתה ביום הכיפורים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/5787_rigold_moadim-upsychologia_02.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/5787_rigold_moadim-upsychologia_02.mp3?dest-id=410397</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אלי שיינפלד | אכילת ערב יום הכיפורים - תובלנה בשמחות וגיל תבואינה בהיכל המלך</title>
+   <description>הרב אלי שיינפלד · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://media.transistor.fm/734a41cb/1a1ca400.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/734a41cb/1a1ca400.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב ראש השנה - הארת פנים | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/345e59f4-9258-4d8e-8d9a-7eee608dafed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/345e59f4-9258-4d8e-8d9a-7eee608dafed/stream.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לקראת ראש השנה | הרב עזרא ביק</title>
+   <description>הרב עזרא ביק · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב עזרא ביק</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/866de947-3f34-44eb-b06a-65d809436529/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/866de947-3f34-44eb-b06a-65d809436529/stream.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"מוסף יום הזכרון הזה" | קדושת היום | הר"י הרב משה ליכטנשטיין | ראש השנה תשפ"ז</title>
+   <description>הרב משה ליכטנשטיין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה ליכטנשטיין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/125516240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431595712-44100-2-e5eb37206ac16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/125516240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431595712-44100-2-e5eb37206ac16.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"מוסף יום הזיכרון הזה" | מבנה המוסף ומלכויות | הרב עזרא ביק | ראש השנה תשפ"ז</title>
+   <description>הרב עזרא ביק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב עזרא ביק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/125516235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431595857-44100-2-216953139bb0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/125516235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431595857-44100-2-216953139bb0d.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"מוסף יום הזכרון הזה" | זכרונות | הרב אמנון בזק | ראש השנה תשפ"ז</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/125516136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431595532-44100-2-8c238cf247a55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/125516136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431595532-44100-2-8c238cf247a55.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה לחיילים | ראש השנה תשפ"ז | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/125527483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610531-44100-2-725741c9c1cc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/125527483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610531-44100-2-725741c9c1cc3.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה לחיילים | ראש השנה תשפ"ז | הרב משה טרגין</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/125527522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610584-44100-2-dc890571c1981.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/125527522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610584-44100-2-dc890571c1981.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה לחיילים | ראש השנה תשפ"ז | הרב משה טרגין</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/125527526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610588-44100-2-8d0314eeebb26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/125527526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610588-44100-2-8d0314eeebb26.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"מוסף יום הזיכרון הזה" | קדושת היום | ראש השנה תשפ"ז</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/RH5787KedushatHaYom_heb_RMLichtenstein.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/RH5787KedushatHaYom_heb_RMLichtenstein.mp3?dest-id=410397</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות התקיעות בראש השנה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a549772e-9e83-4ac0-b220-434aac9dcc2a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a549772e-9e83-4ac0-b220-434aac9dcc2a/stream.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות המשפט ומה נתבע מן האדם בראש השנה | הרב יונתן רוזין</title>
+   <description>הרב יונתן רוזין · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יונתן רוזין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/eb2f5fbe-d2e5-4fff-8fa0-431f8f523822/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/eb2f5fbe-d2e5-4fff-8fa0-431f8f523822/stream.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב איתיאל סופר | שיחת הכנה לקראת ראש השנה</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2552877e/94576ba9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2552877e/94576ba9.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה - יחיינו מיומיים</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/562f21d1-a525-4666-a214-cacf72adb9e0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/562f21d1-a525-4666-a214-cacf72adb9e0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה של הרב שטיינזלץ עם הרב ג'וזה אייזנברג על ראש השנה</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6849986d-96fe-4549-81ff-e23692d171cf.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6849986d-96fe-4549-81ff-e23692d171cf.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה: ללבוש את בגדי המלכות | ר' ישראל מרוז'ין | חסידים שותים מזה עם רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/125516277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431596391-44100-2-2953a4a96924f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/125516277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431596391-44100-2-2953a4a96924f.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לראש השנה | מלכויות, זכרונות ועיצומו של יום | רה"י הרב אוריאל עיטם</title>
+   <description>הרב אוריאל עיטם · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב אוריאל עיטם</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/125521397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431605527-44100-2-dbbdd48881be7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/125521397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431605527-44100-2-dbbdd48881be7.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת ראש השנה - להתחבר לשורשים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/8ea18588-7273-481b-bdad-92741366a55a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/8ea18588-7273-481b-bdad-92741366a55a.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לידה מחדש | שיעור לראש השנה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/47f4c6e9/9a0ae6b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/47f4c6e9/9a0ae6b4.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה תשפ"ז | הרב יצחק ג'מאל</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/419494d8/0c5caf93.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/419494d8/0c5caf93.mp3</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה תשפ"ז | הרב אבינדב אבוקרט</title>
+   <description>הרב אבינדב אבוקרט · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אבינדב אבוקרט</itunes:author>
+   <enclosure url="https://media.transistor.fm/a62e1a26/5ed30707.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a62e1a26/5ed30707.mp3</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופר בראש השנה שחל בשבת</title>
+   <description>הרב מרדכי פרומר · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מרדכי פרומר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-yt-DBSW4IbEWlM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-yt-DBSW4IbEWlM.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במוצאי מנוחה קדמנוך תחילה - שיחה לקראת סליחות אלול תשפ"ו | הרב גבריאל סרף</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/5e023748/70f24243.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5e023748/70f24243.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אהרן פרידמן | שיחה לקראת הסליחות - אלול תשפ"ו</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/ceefcb38/c8307711.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ceefcb38/c8307711.mp3</guid>
+   <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה שלנו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/9004864b-a7a8-4e90-857a-61eca90e5698.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/9004864b-a7a8-4e90-857a-61eca90e5698.mp3</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה - תקעו בחודש שופר</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/91e4c564-f2cd-40c2-a81a-3e5ec1739687.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/91e4c564-f2cd-40c2-a81a-3e5ec1739687.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקולות השונים בראש השנה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/5787_rigold_moadim-upsychologia_01.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/5787_rigold_moadim-upsychologia_01.mp3?dest-id=410397</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת בעל התפילה בימים הנוראים - סיפורים אישיים | רה"י הרב חיים וולפסון ויאיר ברנד | ימים נוראים תשפ"ז</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/125032658/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430954583-44100-2-cf249bf9d1402.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/125032658/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430954583-44100-2-cf249bf9d1402.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילות ראש השנה | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/bbcf351b/ce7be05b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bbcf351b/ce7be05b.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה אמורים להרגיש בראש השנה? | שיעור לראש השנה | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74703309/utf_8_b_15txqnerinet15xxk9ezineb15kg16rxkdev15aubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74703309/utf_8_b_15txqnerinet15xxk9ezineb15kg16rxkdev15aubxaz.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחת פתיחת זמן אלול | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/e23bcef0/ab48ba28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e23bcef0/ab48ba28.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ז</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0f153ab3/a1692b87.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0f153ab3/a1692b87.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/32018fdf/63e6f02e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/32018fdf/63e6f02e.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0f4ec46f/2f7193f7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0f4ec46f/2f7193f7.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f9f4cb7a/a0371a41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f9f4cb7a/a0371a41.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/310a9dc8/c576d4ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/310a9dc8/c576d4ca.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/73575b6f/e04a85fc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/73575b6f/e04a85fc.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/aa3b5675/b14af104.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/aa3b5675/b14af104.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלת החכם | רה"י הרב דוד פנדל | פסח</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מועדים</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Pp_g_L6ETA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Pp_g_L6ETA.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המלכת ה' – דווקא ביוה"כ! | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת שדרות – אפיקי דעת · מועדים</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9wgkd3hosQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9wgkd3hosQ.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לחיות את הגאולה [6] | האור הגנוז שבטבע הישראלי – שיעור לחנוכה | הרב צחי עטייה</title>
+   <description>הרב צחי עטייה · ישיבת שדרות – אפיקי דעת · מועדים</description>
+   <itunes:author>הרב צחי עטייה</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/4-zePwp2uk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/4-zePwp2uk.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [6] | דור הפלגה והפרוגרס העולמי | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/dXcH7BDArw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/dXcH7BDArw.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה אסור ללמוד תורה בתשעה באב? | רה"י הרב דוד פנדל</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=ETf9A7gTzbg</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ETf9A7gTzbg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ETf9A7gTzbg.mp3</guid>
+   <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בתשעה באב נולד משיח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/790aba30-491a-4749-a6a4-cd1a3c909b97.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/790aba30-491a-4749-a6a4-cd1a3c909b97.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול תשפ''ה - הרב גד - שעור ג</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869595/episode_72869595.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869595/episode_72869595.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול תשפ''ה - הרב גד - שעור ב</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869540/episode_72869540.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869540/episode_72869540.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול תשפ''ה - הרב גד - שעור א</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869525/episode_72869525.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869525/episode_72869525.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לפסח תשפ''ה - הרב גד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869390/episode_72869390.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869390/episode_72869390.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [10] | אגדות החורבן | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=6FhDhH73Sg0</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/6FhDhH73Sg0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/6FhDhH73Sg0.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [9] | קרח ועדתו, פנחס וקנאתו | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=785W_0moDhA</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/785W_0moDhA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/785W_0moDhA.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [7] | יעקב והמלאך, יוסף ואחיו | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=8PnKzPuCLE4</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8PnKzPuCLE4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8PnKzPuCLE4.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [8] | נבואות בלעם במאה הַ-21 | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=1BrZ9o50Gl4</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1BrZ9o50Gl4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1BrZ9o50Gl4.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [6] | ידיעה ובחירה, חנוכה, המבול | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=IiqMaSaTHxs</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IiqMaSaTHxs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IiqMaSaTHxs.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [6] | עקדת יצחק | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=CVD16zhkIiE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CVD16zhkIiE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CVD16zhkIiE.mp3</guid>
+   <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | איך בונים במאה 21 את הלוחות הראשונים שנשברו? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=3DhyobM20Ts</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3DhyobM20Ts.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3DhyobM20Ts.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה מעשה החסד בשש שעורים? | מגילת רות | שבועות תשפ"ו | הרב יעקב מדן והרב אמנון בזק</title>
+   <description>הרב יעקב מדן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יעקב מדן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/120286619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424550164-44100-2-b78ab1b5f2cf6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/120286619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424550164-44100-2-b78ab1b5f2cf6.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | עולם | הרב בני להמן | תשפ"ו</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120290726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555884-44100-2-4dee643b7c8c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120290726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555884-44100-2-4dee643b7c8c6.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | עבודה | הרב אסי בלנק | תשפ"ו</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120290621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555811-44100-2-a39e5dc02feff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120290621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555811-44100-2-a39e5dc02feff.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | חיים | הרב ברוך גיגי | תשפ"ו</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120290546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555643-44100-2-7cdff50218528.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120290546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555643-44100-2-7cdff50218528.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | ארכיאולוגיה | הרב אמנון בזק | תשפ"ו</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120287126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424550856-44100-2-b38f5d96df651.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120287126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424550856-44100-2-b38f5d96df651.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | מלחמה | הרב יעקב מדן | תשפ"ו</title>
+   <description>הרב יעקב מדן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יעקב מדן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120287106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424550818-44100-2-6abf83122a43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120287106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424550818-44100-2-6abf83122a43.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות תשפ"ו | הרב שאול אלעזר שנלר</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0e4cdf69/70447229.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0e4cdf69/70447229.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות תשפ"ו | הרב דניאל מן</title>
+   <description>הרב דניאל מן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב דניאל מן</itunes:author>
+   <enclosure url="https://media.transistor.fm/36a7cb52/68da05df.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/36a7cb52/68da05df.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שושביני התורה | שיעור לשבועות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72086406/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72086406/1.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג השבועות: תורה ללא מילים | ר' ישראל מרוז'ין | חסידים שותים מזה עם הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/120285354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424548839-44100-2-d31d13514b385.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/120285354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424548839-44100-2-d31d13514b385.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נעשה ונשמע | שיעור לשבועות | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/990fe072/926df5e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/990fe072/926df5e0.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור הכנה לשבועות | מגילת רות | הרב צבי קוסטינר</title>
+   <description>הרב צבי קוסטינר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2245f42a/75e76f58.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2245f42a/75e76f58.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נעשה ונשמע | שיעור לשבועות | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/41ca452f/e01133c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/41ca452f/e01133c4.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [5] | סיפור המבול – מי צריך להיכנס לתיבה היום? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=Fby08zk3UBg</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Fby08zk3UBg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Fby08zk3UBg.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקראת יום ירושלים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/ee068cb1-a699-4904-9522-28ab2967879f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/ee068cb1-a699-4904-9522-28ab2967879f.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לקראת יום ירושלים - נצח זו ירושלים | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ff0a5a1c-4027-4dc1-90d9-c1093650f1e4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ff0a5a1c-4027-4dc1-90d9-c1093650f1e4/stream.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר תשפ"ו (יום ירושלים) | הרב דוד הורדן</title>
+   <description>הרב דוד הורדן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב דוד הורדן</itunes:author>
+   <enclosure url="https://media.transistor.fm/963e7476/840d38bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/963e7476/840d38bf.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [4] | קין והבל, תפילין ואנטישמיות | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=bS7g8j6v1-o</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bS7g8j6v1-o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bS7g8j6v1-o.mp3</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [3] | חטא אדם הראשון של המאה הַ-21 | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=XxvG1_mYMmc</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XxvG1_mYMmc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XxvG1_mYMmc.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיב התשובה 45 – המילים שאנו מפחדים לומר בסליחות | פרק ו</title>
+   <description>הרב יונתן רוזין · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יונתן רוזין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5bc48e5e-bd2f-4f17-b06b-efb65a2aac87/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5bc48e5e-bd2f-4f17-b06b-efb65a2aac87/stream.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [2] | סיפור הבריאה חלק ב' | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=TAWhqj5WwXc</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/TAWhqj5WwXc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/TAWhqj5WwXc.mp3</guid>
+   <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיר והלל ביום העצמאות | הרב יהודה זולדן</title>
+   <description>הרב יהודה זולדן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יהודה זולדן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b6d35b85-594d-4d14-a3ad-82279f613fed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b6d35b85-594d-4d14-a3ad-82279f613fed/stream.mp3</guid>
+   <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה ליום העצמאות | הרב אהרן פרידמן</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/ba4e3779/e9634fcc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ba4e3779/e9634fcc.mp3</guid>
+   <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה ליום העצמאות | הרב גבריאל סרף</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/cc7672b9/e38fc461.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cc7672b9/e38fc461.mp3</guid>
+   <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה ליום העצמאות - מי חכם וישמור אלה ויתבוננו חסדי ה' | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4177c3df-7521-428a-bbcb-6c34ec4f5fe4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4177c3df-7521-428a-bbcb-6c34ec4f5fe4/stream.mp3</guid>
+   <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוקף ההלכתי ליום העצמאות | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b931a0d9/23774e6f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b931a0d9/23774e6f.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפורים כספירים [1] | סיפור הבריאה | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=2fAR3e-PBVc</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/2fAR3e-PBVc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/2fAR3e-PBVc.mp3</guid>
+   <pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום העצמאות: החום של ארץ ישראל | ר' ישראל מרוז'ין | חסידים שותים מזה עם הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/117351678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420596762-44100-2-2d9edb6ff77bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/117351678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420596762-44100-2-2d9edb6ff77bb.mp3</guid>
+   <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה נשתנה בין פורים לפסח | הרב צמח הלפרין</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/504f9c10-1a7d-4fad-9f2a-72dd003cbae3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/504f9c10-1a7d-4fad-9f2a-72dd003cbae3/stream.mp3</guid>
+   <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שביעי של פסח - ששת ימים תאכל מצות</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/10b0cec1-4916-409f-a3e0-c2a8a0cb0434.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/10b0cec1-4916-409f-a3e0-c2a8a0cb0434.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג הפסח - היכולת להיות משועבדים לה' ולא למישהו אחר</title>
+   <description>הרב מנשה וינר · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מנשה וינר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-haara/audio/b8371f91-d9d1-417d-82e8-5fdd7c7f1e10.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-haara/audio/b8371f91-d9d1-417d-82e8-5fdd7c7f1e10.mp3</guid>
+   <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח: אמונה והתחדשות | ר' ישראל מרוז'ין</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/117351415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420596266-44100-2-054d1c7f14dfb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/117351415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420596266-44100-2-054d1c7f14dfb.mp3</guid>
+   <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספיישל פסח – לחם עוני</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/117350796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420595388-44100-2-e3e8721bf2d08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/117350796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420595388-44100-2-e3e8721bf2d08.mp3</guid>
+   <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת הגדול: אין חסיד שוטה בפסח | ר' ישראל מרוז'ין | חסידים שותים מזה עם הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/117351116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420595728-44100-2-c237758f6cec3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/117351116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420595728-44100-2-c237758f6cec3.mp3</guid>
+   <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ה'על זמניות' של ליל הסדר | הרב אמנון בזק | פסח תשפ"ו</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117415051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420682030-44100-2-fa91505b03b0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117415051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420682030-44100-2-fa91505b03b0f.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולת מצרים איננה התחנה הסופית | הרב יעקב מדן | פסח תשפ"ו</title>
+   <description>הרב יעקב מדן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יעקב מדן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117415036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681999-44100-2-3544ab17024c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117415036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681999-44100-2-3544ab17024c4.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ודילוגו עלינו אהבה | הרב שלמה ברין | פסח תשפ"ו</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117415014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681972-44100-2-e7e6947058489.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117415014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681972-44100-2-e7e6947058489.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלל כ'שירה' בפסח | הרב עזרא ביק | פסח תשפ"ו</title>
+   <description>הרב עזרא ביק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב עזרא ביק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420682008-44100-2-04ff0269cc71e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420682008-44100-2-04ff0269cc71e.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבע פרספקטיבות בהלל? | הרב אסי בלנק | פסח תשפ"ו</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681910-44100-2-54eb00118faec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681910-44100-2-54eb00118faec.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'הלל' כתגובה או כחלק מהסיפור? | הרב יאיר קאהן | פסח תשפ"ו</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681886-44100-2-9630d866be416.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681886-44100-2-9630d866be416.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ה'הווה' בליל הסדר כצוהר לגאולה | הרב ברוך וינטרוב | פסח תשפ"ו</title>
+   <description>הרב ברוך וינטרוב · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך וינטרוב</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681668-44100-2-7afd9967f0734.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681668-44100-2-7afd9967f0734.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'הלל' בתורת שירה | הרב ברוך גיגי | פסח תשפ"ו</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681642-44100-2-eaa3ec0ac763b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681642-44100-2-eaa3ec0ac763b.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דלותי ולי יהושיע | הרב אוריה דור | פסח תשפ"ו</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681580-44100-2-9ab9860591ae7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681580-44100-2-9ab9860591ae7.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המפקיד חמץ אצל חבירו והגיע הפסח | הרב יהודה זולדן</title>
+   <description>הרב יהודה זולדן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יהודה זולדן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d720da53-cf36-43ef-b9f2-aa84ef3862da/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d720da53-cf36-43ef-b9f2-aa84ef3862da/stream.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח - להבין מ"ש בהגדה מצה זו</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f52c1392-ce1c-40cf-8487-d032f9e98f59.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f52c1392-ce1c-40cf-8487-d032f9e98f59.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שעת סיפור – יציאת מצרים ודורנו | ישרון פלס והרב עודד מיטלמן | פסח בישיבת ירוחם</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/117349245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420594318-44100-2-245753ea317f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/117349245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420594318-44100-2-245753ea317f5.mp3</guid>
+   <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עליית העולמות בפסח | הרב צמח הלפרין</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/bfe67fb8-557d-491d-bb3b-9514c9263236/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/bfe67fb8-557d-491d-bb3b-9514c9263236/stream.mp3</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לפסח [ד] | המהות הפנימית של ליל הסדר | הרב יצחק (צחי) עטייה</title>
+   <description>הרב יצחק · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=5LJefihj9Hc</description>
+   <itunes:author>הרב יצחק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5LJefihj9Hc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5LJefihj9Hc.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לפסח - מזמור קה, חלק ב</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/c606b2ea/24fc0d45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c606b2ea/24fc0d45.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין גאולת פורים לגאולת פסח ומלחמת "שאגת הארי" | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=0xrf9gbjnRE</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0xrf9gbjnRE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0xrf9gbjnRE.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לפסח [א] | המהות הפנימית של כל חודש ניסן | הרב צחי עטייה</title>
+   <description>הרב צחי עטייה · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=myAmZH1lLiM</description>
+   <itunes:author>הרב צחי עטייה</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/myAmZH1lLiM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/myAmZH1lLiM.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לפסח - מזמור קה, חלק א</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/1e231ffe/5af038c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1e231ffe/5af038c4.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים. בימים ההם ובזמן הזה</title>
+   <description>הרב מרדכי פרומר · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מרדכי פרומר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-yt-dkYMSZiQhQw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-yt-dkYMSZiQhQw.mp3</guid>
+   <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החיוּת הדינאמית | שיעור לפורים</title>
+   <description>רבני הישיבה · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e2f04354-b19b-4b74-b4db-ae80b69285b8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e2f04354-b19b-4b74-b4db-ae80b69285b8/stream.mp3</guid>
+   <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג הפנימיות וגילוי א-לוהים בפורים - ניגון פורים | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2c9f5ae8-e2a7-4ca1-ad76-45a3c15d4c92/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2c9f5ae8-e2a7-4ca1-ad76-45a3c15d4c92/stream.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על הניסים (ב) - מה הניע את המן? - עיון תפילה פורים | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/87d72a2f-0602-4534-adeb-20a82d1ef018/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/87d72a2f-0602-4534-adeb-20a82d1ef018/stream.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על הניסים (א) - על איזה נס מודים? - עיון תפילה פורים | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1f914826-2419-4679-8c9a-414087e9a500/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1f914826-2419-4679-8c9a-414087e9a500/stream.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פודקאסט פורימי עם ישראל יוקל ורועי ווסטרייך | פורים תשפ"ו</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/116192397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-28%2F419019240-44100-2-85e49dc8be81e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/116192397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-28%2F419019240-44100-2-85e49dc8be81e.mp3</guid>
+   <pubDate>Sat, 28 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קריאה מיוחדת במגילת אסתר | שיחה שבועית לפורים | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2ee908f9-9d4f-4912-a7b3-4a214791f38b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2ee908f9-9d4f-4912-a7b3-4a214791f38b/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהות השמחה | שיעור לחודש אדר ולפורים | עין איה שבת א פרק שני פסקה צח | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/94ca1f85/5901486c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/94ca1f85/5901486c.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהות השמחה | שיעור לחודש אדר ולפורים | עין איה שבת א פרק שני פסקה צח | מור הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/74e65f31/00ed2d4e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/74e65f31/00ed2d4e.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שומרי הסף | הרב ברוך וינטרוב | מגילת אסתר | פורים תשפ"ו</title>
+   <description>הרב ברוך וינטרוב · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך וינטרוב</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/116087062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878337-44100-2-23db8ac89b046.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/116087062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878337-44100-2-23db8ac89b046.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שרביט או טבעת | הרב משה ליכטנשטיין | מגילת אסתר | פורים תשפ"ו</title>
+   <description>הרב משה ליכטנשטיין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה ליכטנשטיין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/116087122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878445-44100-2-e29794564ad11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/116087122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878445-44100-2-e29794564ad11.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הטוב הרע והמכוער- 'המן מן התורה מניין?' | הרב אוריאל עיטם | מגילת אסתר | פורים תשפ"ו</title>
+   <description>הרב אוריאל עיטם · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריאל עיטם</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/116087219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878557-44100-2-829d61567005f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/116087219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878557-44100-2-829d61567005f.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלת מרדכי | הרב אודי שורץ | מגילת אסתר | פורים תשפ"ו</title>
+   <description>הרב אודי שורץ · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אודי שורץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/116086948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878230-44100-2-612b447a4ff48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/116086948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878230-44100-2-612b447a4ff48.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוס (או) עץ | פרופ' יונתן גרוסמן | מגילת אסתר | פורים תשפ"ו</title>
+   <description>פרופ' יונתן גרוסמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>פרופ' יונתן גרוסמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/116087290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878649-44100-2-ba17011fa7199.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/116087290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878649-44100-2-ba17011fa7199.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שר הטבעות | הרב יעקב מדן | מגילת אסתר | פורים תשפ"ו</title>
+   <description>הרב יעקב מדן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יעקב מדן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/116087255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878605-44100-2-b18d2d0361136.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/116087255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878605-44100-2-b18d2d0361136.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוחה של האחדות בפורים | שיעור לפורים | אגדתא - מא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70303716/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70303716/mp4.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים: עד דלא ידע - להרפות מהרצון להשפיע | ר' ישראל מרוז'ין | חסידים שותים מזה רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/116072180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418864613-44100-2-3437d2fcce306.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/116072180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418864613-44100-2-3437d2fcce306.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות מהחיים [6] | האם שלושת השבועות שפוסקים סאטמר בטלו? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=I3appIGNhrY</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/I3appIGNhrY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/I3appIGNhrY.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת רה"י הרב דוד פנדל | שתייה בפורים – ביטול השכל או עבודה זרה?</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=18ySKTcia9E</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/18ySKTcia9E.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/18ySKTcia9E.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים מעל השכל | הרב דוד טורנר | שיעור הכנה לפורים</title>
+   <description>הרב דוד טורנר · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דוד טורנר</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70228738/episode_70228738.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70228738/episode_70228738.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - זמן לשחוק על כל ה"המנים"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/69d736e2-37e9-421d-a51b-c4c45e423184.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/69d736e2-37e9-421d-a51b-c4c45e423184.mp3</guid>
+   <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחיית עמלק ומצוות פורים | צורבא מרבנן - קפג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70144882/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70144882/mp4.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוויכוח עם סאטמר על שלושת השבועות | הרב דני סגליס</title>
+   <description>הרב דני סגליס · ישיבת מרכז תורני נוף הגליל · מועדים</description>
+   <itunes:author>הרב דני סגליס</itunes:author>
+   <enclosure url="https://anchor.fm/s/f8efbd90/podcast/play/113102655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414985756-44100-2-25618b74f2b25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f8efbd90/podcast/play/113102655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414985756-44100-2-25618b74f2b25.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גלגולי חג החנוכה | הרב דוד סבתו</title>
+   <description>הרב דוד סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב דוד סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/dbe2e8bd-8b80-4eb6-a1e7-2c73eb1023f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/dbe2e8bd-8b80-4eb6-a1e7-2c73eb1023f2/stream.mp3</guid>
+   <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לנר ראשון של חנוכה | הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/d89060e4/25c5625b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d89060e4/25c5625b.mp3</guid>
+   <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לנר שני של חנוכה | הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/081d7cfe/b4b5e955.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/081d7cfe/b4b5e955.mp3</guid>
+   <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'מאי חנוכה' | הגאון הרב יעקב אריאל</title>
+   <description>הרב יעקב אריאל · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/ac9ccc1b/08d9dbab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ac9ccc1b/08d9dbab.mp3</guid>
+   <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדלקת נרות חנוכה בשעת השמד | הרב אב"י סילבצקי</title>
+   <description>הרב אב"י סילבצקי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אב"י סילבצקי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a9c63b6a-8753-4073-b1c1-6fd5b25529a3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a9c63b6a-8753-4073-b1c1-6fd5b25529a3/stream.mp3</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה 5786 - הרב אביגדור שילה | מפירות הכרם</title>
+   <description>הרב אביגדור שילה · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אביגדור שילה</itunes:author>
+   <enclosure url="https://media.transistor.fm/33aea2b3/9e0edc0c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/33aea2b3/9e0edc0c.mp3</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לנר שלישי של חנוכה | הרב מרדכי גרינברג, נשיא הישיבה</title>
+   <description>הרב מרדכי גרינברג · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב מרדכי גרינברג</itunes:author>
+   <enclosure url="https://media.transistor.fm/15387217/a3cfad8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/15387217/a3cfad8a.mp3</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת חנוכה: מניחה על פתח ביתו מבחוץ - פתיחות ופריצות</title>
+   <description>רבני הישיבה · ישיבת הבקעה – שדמות נריה · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/f2c235b0/podcast/play/112416233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F414107705-44100-2-ea2d315c8ba98.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f2c235b0/podcast/play/112416233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F414107705-44100-2-ea2d315c8ba98.m4a</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה מקץ - להתחבר דרך הרגלים | חסידים שותים מזה עם רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/112761693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-17%2F414548301-44100-2-7cbc8713ed278.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/112761693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-17%2F414548301-44100-2-7cbc8713ed278.mp3</guid>
+   <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'כשיבוא משיח' | הרב בני להמן והרב יעקב מדן | יום עיון 'רבבה' | חנוכה תשפ"ו</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112670573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430305-44100-2-3dbbb1895c765.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112670573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430305-44100-2-3dbbb1895c765.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולה ומשיח במדינת ישראל תשפ"ו | הרב ברוך גיגי | יום עיון 'רבבה' | חנוכה תשפ"ו</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112670529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430280-44100-2-e918bcb7acc7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112670529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430280-44100-2-e918bcb7acc7.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת כהנים ומשיחיות אצל הגר"א - מקרה מבחן הלכתי |הרב אליקים קרומביין | יום עיון 'רבבה' | חנוכה תשפ"ו</title>
+   <description>הרב אליקים קרומביין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אליקים קרומביין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112670461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430216-44100-2-064934fde153c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112670461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430216-44100-2-064934fde153c.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המספד בירושלים: הרב קוק | הרב יואל בן-נון והרב בני לאו | יום עיון 'רבבה' | חנוכה תשפ"ו</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112670438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430132-44100-2-f3bc96680d0b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112670438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430132-44100-2-f3bc96680d0b1.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפרספקטיבה המשיחית אצל הרב עמיטל | פאנל | יום עיון 'רבבה' | חנוכה תשפ"ו</title>
+   <description>הרב עמיטל · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב עמיטל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112670336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430113-44100-2-572f4227b19b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112670336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430113-44100-2-572f4227b19b3.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין בן דוד בא אלא בדור שכולו זכאי או כולו חייב | הרב משה ליכטנשטיין | יום עיון 'רבבה' | חנוכה תשפ"ו</title>
+   <description>הרב משה ליכטנשטיין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה ליכטנשטיין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112670257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414429980-44100-2-ed977c63ecab6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112670257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414429980-44100-2-ed977c63ecab6.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדלקת נרות בתל שאמס במלחמת יום כיפור | הרב יעקב מדן | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב יעקב מדן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יעקב מדן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112668114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414427076-44100-2-fca188df22dae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112668114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414427076-44100-2-fca188df22dae.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה בצבא: ברית ומסורת לאורך דורות | הרב משה ליכטנשטיין | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב משה ליכטנשטיין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה ליכטנשטיין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112668087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414427025-44100-2-11f4c8964d8d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112668087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414427025-44100-2-11f4c8964d8d9.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"על שולחנו ודיו": הארת הלב בחנוכה | הרב ברוך גיגי | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112668055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426998-44100-2-649b87c5f7b91.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112668055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426998-44100-2-649b87c5f7b91.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדלקת נרות בגבול המזרחי של סוריה | הרב יאיר קאהן | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112668028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426934-44100-2-cb71adeaccf1a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112668028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426934-44100-2-cb71adeaccf1a.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין הרצון להדר ו'נר איש וביתו' | הרב אסי בלנק | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112667999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426908-44100-2-d4c7c38f19dc5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112667999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426908-44100-2-d4c7c38f19dc5.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והאיכא חנוכה? | הרב איתן קלימן | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב איתן קליימן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב איתן קליימן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112667940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426868-44100-2-29274038ebc4e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112667940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426868-44100-2-29274038ebc4e.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עולם שנה נפש | הרב אוריה דור | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112667896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426791-44100-2-760f38a016be7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112667896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426791-44100-2-760f38a016be7.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין בית שמאי לבית הלל בהדלקת נרות | הרב ברוך וינטרוב | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב ברוך וינטרוב · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך וינטרוב</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112667765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426661-44100-2-9654d1b7b2ad6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112667765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426661-44100-2-9654d1b7b2ad6.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המלחמה הרעיונית עם יוון - שיעור הכנה לחנוכה | 117</title>
+   <description>הרב יונתן רוזין · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יונתן רוזין</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f76e548f-6017-4dbb-8236-3bc8c4ec3a32/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f76e548f-6017-4dbb-8236-3bc8c4ec3a32/stream.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על ספרים וסופרים חנוכה | ספרי מקבים מגילת אנטיוכוס וקושיית הב"י | הרב ברוך וינטרוב והרב דודי ארונובסקי</title>
+   <description>הרב ברוך וינטרוב · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך וינטרוב</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112444487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F414144297-44100-2-681697a6846b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112444487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F414144297-44100-2-681697a6846b5.mp3</guid>
+   <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה על חנוכה בישיבת תקוע, כ"ז כסלו תשס"ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8a6c11ed-cf84-4d64-985d-74aec83c4b90.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8a6c11ed-cf84-4d64-985d-74aec83c4b90.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>7320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה בישיבת מקור חיים, חנוכה תשס"א - מוסיף והולך</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a3384f1b-e019-4cf0-82eb-8a7882efb1d0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a3384f1b-e019-4cf0-82eb-8a7882efb1d0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Sat, 13 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 12 - לקראת חנוכה חלק א</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/37041812/d8355a48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/37041812/d8355a48.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 13 - לקראת חנוכה חלק ב</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bccb3c96/9e6a9c32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bccb3c96/9e6a9c32.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגבורה הישראלית | שיעור לחנוכה | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/e2e284ca/b8869459.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e2e284ca/b8869459.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקבלת נר חנוכה למצב עם ישראל | מאמרי הראיה מאמר נר חנוכה עמוד 150 | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/9ec913a6/b712d612.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9ec913a6/b712d612.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגבורה הישראלית | שיעור לחנוכה | מור הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/0de97b3d/cd27c31b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0de97b3d/cd27c31b.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקבלת נר חנוכה למצב עם ישראל | מאמרי הראיה מאמר נר חנוכה עמוד 150 | מור הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/d83421fe/317cc574.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d83421fe/317cc574.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרואה נר חנוכה מברך</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/f2b1738b-1cf6-4c5e-8d9a-b6fcf7d61278.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/f2b1738b-1cf6-4c5e-8d9a-b6fcf7d61278.mp3</guid>
+   <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה - נס או גבורה? | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/cfdabce1-1a5e-46f6-a846-24fdb539192f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/cfdabce1-1a5e-46f6-a846-24fdb539192f/stream.mp3</guid>
+   <pubDate>Wed, 03 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - בחינת אברהם בסוכות ובפסח</title>
+   <description>הרב מנשה וינר · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מנשה וינר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-iyunim-parasha/audio/a06772ff-c140-473c-908d-8c2ce6898d69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-iyunim-parasha/audio/a06772ff-c140-473c-908d-8c2ce6898d69.mp3</guid>
+   <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מאתרוג וגפילטעפיש - סוכות | חסידים שותים מזה לחגי תשרי</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/109267931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-6%2F408733974-44100-2-323d501618b52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/109267931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-6%2F408733974-44100-2-323d501618b52.mp3</guid>
+   <pubDate>Mon, 06 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אושפיזין מיוחד! | לפני ה' בסוכות</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/RMWeiner_ushpizin5786.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/RMWeiner_ushpizin5786.mp3?dest-id=410397</guid>
+   <pubDate>Sun, 05 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#33 מיוחד! קדושת קודש הקודשים | הרב אברהם סתיו | לימוד קדושת אביב- לקראת יום כיפור</title>
+   <description>הרב אברהם סתיו · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אברהם סתיו</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/109056050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-1%2F408458422-44100-2-552f7f166ded.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/109056050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-1%2F408458422-44100-2-552f7f166ded.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענין השחלת ועניין הפר | שיעור הכנה ליום הכיפורים | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cab7a626/b2d046b9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cab7a626/b2d046b9.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת יום הכיפורים | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4ffb53df/6656391b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4ffb53df/6656391b.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענין השחלת ועניין הפר | שיעור הכנה ליום הכיפורים | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/62a277e9/e52d7456.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/62a277e9/e52d7456.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת יום הכיפורים | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0572d783/1a722afe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0572d783/1a722afe.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניגון מנגנים | ועל כולם אלוה סליחות- מודז'יץ | הרב איתמר אלדר | ימים נוראים תשפ"ו</title>
+   <description>הרב איתמר אלדר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב איתמר אלדר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/109002922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408389172-44100-2-93b19f8f4526b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/109002922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408389172-44100-2-93b19f8f4526b.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום כיפור - הרב אהרן ברקוביץ'</title>
+   <description>הרב אהרן ברקוביץ · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אהרן ברקוביץ</itunes:author>
+   <enclosure url="https://media.transistor.fm/38b290e0/771a6d23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/38b290e0/771a6d23.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טהרת יום הכיפורים</title>
+   <description>רבני הישיבה · ישיבת הבקעה – שדמות נריה · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/f2c235b0/podcast/play/109003697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2Fe6945c31-42df-5e9b-6064-9feb55327723.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f2c235b0/podcast/play/109003697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2Fe6945c31-42df-5e9b-6064-9feb55327723.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה ליום כיפור | רה"י הרב דני סגליס</title>
+   <description>הרב דני סגליס · ישיבת מרכז תורני נוף הגליל · מועדים</description>
+   <itunes:author>הרב דני סגליס</itunes:author>
+   <enclosure url="https://anchor.fm/s/f8efbd90/podcast/play/109025799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408418507-44100-2-a77623294273d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f8efbd90/podcast/play/109025799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408418507-44100-2-a77623294273d.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה ועצה לחיילים | ראש השנה | הרב משה טרגין</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/108813747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145088-44100-2-47949b1d3100c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/108813747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145088-44100-2-47949b1d3100c.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה ועצה לחיילים | ראש השנה | הרב אמנון בזק</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/108813711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145047-44100-2-9eefa34fe24c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/108813711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145047-44100-2-9eefa34fe24c.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה ועצה לחיילים | ראש השנה | הרב ברוך וינטרוב</title>
+   <description>הרב ברוך וינטרוב · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך וינטרוב</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/108813729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145058-44100-2-804d38cee46ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/108813729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145058-44100-2-804d38cee46ea.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה ועצה לחיילים | ראש השנה | הרב עוזי פרידליך</title>
+   <description>הרב עוזי פרידליך · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב עוזי פרידליך</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/108813774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145028-44100-2-eb389d9570447.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/108813774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145028-44100-2-eb389d9570447.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה ועצה לחיילים | ראש השנה | הרב אוריה דור</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/108813694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145052-44100-2-89557e338a884.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/108813694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145052-44100-2-89557e338a884.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיצד נצבים לקראת ראש השנה | הרב מרדכי פייג</title>
+   <description>הרב מרדכי פייג · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב מרדכי פייג</itunes:author>
+   <enclosure url="https://media.transistor.fm/1817cc29/f221ec54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1817cc29/f221ec54.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום כיפור - "שבת שבתון"</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/563a5ebb-6eb8-4a69-bcc9-d1cb73c30371.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/563a5ebb-6eb8-4a69-bcc9-d1cb73c30371.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גילעד מינץ - ערב ראש השנה: יום ה-תשובה | באור פניך יהלכון - פודקאסט לחגי תשרי</title>
+   <description>הרב גילעד מינץ · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב גילעד מינץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/10974edd4/podcast/play/108609709/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F407880702-44100-2-e56d39d321e64.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10974edd4/podcast/play/108609709/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F407880702-44100-2-e56d39d321e64.mp3</guid>
+   <pubDate>Sun, 21 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מייאוש לשמחה - שיחת הכנה לסליחות | סליחות | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/04171c68-43fa-4c85-a51e-cc4aced532c4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/04171c68-43fa-4c85-a51e-cc4aced532c4/stream.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה - חג או דין? | הרב אריה הנדלר (ארכיון תשע"ב)</title>
+   <description>הרב אריה הנדלר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אריה הנדלר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7b06532d-ac91-415d-898b-a50c062f4b99/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7b06532d-ac91-415d-898b-a50c062f4b99/stream.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין גניבה לגזילה - בין ראש השנה ליום | שיעור לימים נוראים | אגדתא - מ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67804065/episode_67804065.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67804065/episode_67804065.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפרו מעשיכם - ראש השנה | חסידים שותים מזה לחגי תשרי</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/108471746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F407702053-44100-2-523d5c73c1e39.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/108471746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F407702053-44100-2-523d5c73c1e39.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה: לשמוע קול שופר | רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/108478170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2Fa4e307f2-cc01-5e74-7cc6-af8c61e14f16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/108478170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2Fa4e307f2-cc01-5e74-7cc6-af8c61e14f16.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לראש השנה | שיחות הרב צבי יהודה ראש השנה שיחה ב | מור הרב ציון טוויל</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/f92a903c/55b5404b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f92a903c/55b5404b.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לראש השנה | שיחות הרב צבי יהודה ראש השנה שיחה ב | מור הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/cf190e45/ec98035f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cf190e45/ec98035f.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול ר"ה א"י ותשובה מאהבה | הרב אלישע ינון | כנס תשובה ה'תשפ"ה</title>
+   <description>הרב אלישע ינון · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=F4wX2H5OE9A</description>
+   <itunes:author>הרב אלישע ינון</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/F4wX2H5OE9A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/F4wX2H5OE9A.mp3</guid>
+   <pubDate>Wed, 17 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על ספרים וסופרים - ראש השנה | פרק 5 - עשיית תשובה | הרב ברוך וינטרוב והרב דודי ארונובסקי</title>
+   <description>הרב ברוך וינטרוב · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך וינטרוב</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/108433544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-17%2F407652452-44100-2-f32d69ec46fa9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/108433544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-17%2F407652452-44100-2-f32d69ec46fa9.mp3</guid>
+   <pubDate>Wed, 17 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור התעוררות לראש השנה | הרב ציון טוויל | ערב התעוררות תשפ"ו</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/dd94bd60/2a1748e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dd94bd60/2a1748e6.mp3</guid>
+   <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת התורה מתוך אהבה לה' | הכנה לראש השנה | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/91a0a214/3779ecab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/91a0a214/3779ecab.mp3</guid>
+   <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה - ותרועת מלך בו</title>
+   <description>הרב מרדכי פרומר · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מרדכי פרומר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-yt-wkEcfdNCiyM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-shem-mishmuel/audio/yesmalot-yt-wkEcfdNCiyM.mp3</guid>
+   <pubDate>Mon, 15 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אליך כל בשר יבואו - סליחות | חסידים שותים מזה לחגי תשרי</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/108160715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-11%2F407304214-44100-2-83d285d89ed6a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/108160715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-11%2F407304214-44100-2-83d285d89ed6a.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחת פתיחה ג' באלול התשפה | הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/04da3a83/529330d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/04da3a83/529330d4.mp3</guid>
+   <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלימוד בישיבה בימינו - פתיחה לזמן אלול | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/8020859c-5e43-45c0-ab8a-423203a17de9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/8020859c-5e43-45c0-ab8a-423203a17de9/stream.mp3</guid>
+   <pubDate>Tue, 26 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשעה באב - המועד ויום האבל | 107</title>
+   <description>הרב יונתן רוזין · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יונתן רוזין</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fdd8065c-b5e9-4fff-a460-a6fba6afbce6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fdd8065c-b5e9-4fff-a460-a6fba6afbce6/stream.mp3</guid>
+   <pubDate>Sat, 02 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשעה באב שחל במוצאי שבת</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/106301979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2Fe15acff4-2cd7-0d68-661b-d420829af8fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/106301979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2Fe15acff4-2cd7-0d68-661b-d420829af8fd.mp3</guid>
+   <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/aeb0ce71/a93b0fd8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aeb0ce71/a93b0fd8.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/7d3a3671/a4af0bd5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7d3a3671/a4af0bd5.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/476eeccf/c7770f3b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/476eeccf/c7770f3b.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/05bece5e/7817b424.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/05bece5e/7817b424.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק י</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/50b4838e/3d73ce89.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/50b4838e/3d73ce89.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק ט</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/be345346/26580ea0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/be345346/26580ea0.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק ח</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/05e0c457/31994367.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/05e0c457/31994367.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק ז</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/d5499455/99ad27d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d5499455/99ad27d6.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/b4924bbe/d940515a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b4924bbe/d940515a.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/c2797011/cb87e758.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c2797011/cb87e758.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/008c09b2/06da06d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/008c09b2/06da06d7.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/f95ad572/dbc4bf1f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f95ad572/dbc4bf1f.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/eb61badd/613f34c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eb61badd/613f34c7.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסחים פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/d2904a53/d4df1b0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d2904a53/d4df1b0d.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות מה-מט</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/28/d2/a4/cbf2d74eb8834b29834d84b9fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/28/d2/a4/cbf2d74eb8834b29834d84b9fe.mp3</guid>
+   <pubDate>Wed, 18 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות לח-מד</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/ec/17/0186ec4670a8b3c64e0dfa6788.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/ec/17/0186ec4670a8b3c64e0dfa6788.mp3</guid>
+   <pubDate>Sat, 14 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך: פסח שני</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/104035446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F396f6c39-4d3a-fb69-f5f5-58b9fa17783f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/104035446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F396f6c39-4d3a-fb69-f5f5-58b9fa17783f.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך - פסח שני, ציווי מיותר או מסר נסתר? | הרב תמיר גרנות</title>
+   <description>הרב תמיר גרנות · ישיבת אורות שאול · מועדים</description>
+   <itunes:author>הרב תמיר גרנות</itunes:author>
+   <enclosure url="https://anchor.fm/s/f9079af0/podcast/play/104001099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-11%2F402002980-44100-2-c2ffbfeb7415a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f9079af0/podcast/play/104001099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-11%2F402002980-44100-2-c2ffbfeb7415a.mp3</guid>
+   <pubDate>Wed, 11 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות לו-לח</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7e/52/59/bce8ff4454b80b1c153d814eb7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7e/52/59/bce8ff4454b80b1c153d814eb7.mp3</guid>
+   <pubDate>Mon, 09 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות ל-לו</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9b/60/a4/1f7dc043fa8171cb1e36ce7ae4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9b/60/a4/1f7dc043fa8171cb1e36ce7ae4.mp3</guid>
+   <pubDate>Fri, 06 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקראת שבועות - המפגש עם התורה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/a1f0a789-485c-4293-9cf2-e7830f928210.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/a1f0a789-485c-4293-9cf2-e7830f928210.mp3</guid>
+   <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה למתן תורה | שיעור לחג השבועות | מעין איה שבת ב פרק תשיעי פסקאות כב-כה | מור רהי הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/7ff7caec/eff27754.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7ff7caec/eff27754.mp3</guid>
+   <pubDate>Fri, 30 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג השבועות | הכנה למתן תורה | הרב ניסים דעי</title>
+   <description>הרב ניסים דעי · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=Rajsd_xm9N8</description>
+   <itunes:author>הרב ניסים דעי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Rajsd_xm9N8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Rajsd_xm9N8.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג השבועות | מצוות לימוד תורה – בהרהור או בדיבור? | הרב אשר וויס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=Ro3ZiFGEM5k</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Ro3ZiFGEM5k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Ro3ZiFGEM5k.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות כ-כט ב</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bd/df/ec/cf924347289012a2e168c8644b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bd/df/ec/cf924347289012a2e168c8644b.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות כ-כט א</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1c/08/88/af878a483ea16373ec0e0215af.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1c/08/88/af878a483ea16373ec0e0215af.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רוח לחימה וסייעתא דשמיא - הרב יצחק שילת בשיחה ליום ירושלים</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ba80ea28-763d-4792-88f8-b44aebceafc6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ba80ea28-763d-4792-88f8-b44aebceafc6/stream.mp3</guid>
+   <pubDate>Mon, 26 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה ליום ירושלים | הרב גדעון מושקוביץ</title>
+   <description>הרב גדעון מושקוביץ · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=q-V7dgU5wYI</description>
+   <itunes:author>הרב גדעון מושקוביץ</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/q-V7dgU5wYI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/q-V7dgU5wYI.mp3</guid>
+   <pubDate>Sun, 25 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על ספרים וסופרים - יום ירושלים | פרק 3 - אהבת הארץ | הרב ברוך וינטרוב והרב דודי ארונובסקי</title>
+   <description>הרב ברוך וינטרוב · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך וינטרוב</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/103180009/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-25%2F400969395-44100-2-e8900a5971f0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/103180009/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-25%2F400969395-44100-2-e8900a5971f0d.mp3</guid>
+   <pubDate>Sun, 25 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות יד-יט</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/71/65/18c1014aefa6bace59a25d7afc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/71/65/18c1014aefa6bace59a25d7afc.mp3</guid>
+   <pubDate>Mon, 19 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות ז-יד</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/18/1b/1e/90819248959e859ac6fb2874d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/18/1b/1e/90819248959e859ac6fb2874d2.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור - יום הכיפורים במקדש ובמדינה</title>
+   <description>הרב מנשה וינר · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מנשה וינר</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-haara/audio/72de2101-9938-49b3-a39b-40b384d88bd1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-haara/audio/72de2101-9938-49b3-a39b-40b384d88bd1.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות ב-ו</title>
+   <description>רבני הישיבה · ישיבת ירוחם · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0f/2f/6a/4e8d544300a43c0b07e4679e50.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0f/2f/6a/4e8d544300a43c0b07e4679e50.mp3</guid>
+   <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שואה, גבורה ועצמאות - שיחה ליום העצמאות | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/95e7de8b-f0e5-40cc-88b5-8eb677907714/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/95e7de8b-f0e5-40cc-88b5-8eb677907714/stream.mp3</guid>
+   <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע מצורע- יום העצמאות- דיבורים טובים</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/102022898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-1%2F399394340-44100-2-50a59bcbd5f48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/102022898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-1%2F399394340-44100-2-50a59bcbd5f48.mp3</guid>
+   <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החיבור בין יום השואה, יום הזיכרון ויום העצמאות | הרב דרור אריה</title>
+   <description>הרב דרור אריה · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=D3DLWZM-LlU</description>
+   <itunes:author>הרב דרור אריה</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/D3DLWZM-LlU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/D3DLWZM-LlU.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"קדושת הדומייה" מביאה ל"הופעת הנבואה" | יום העצמאות | הרב שחר צבי</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=F3Ji-WyW7i8</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/F3Ji-WyW7i8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/F3Ji-WyW7i8.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הייעוד של עם ישראל? | שיעור ליום העצמאות תשפ"ה | הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=mzwwmWiWNeM</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mzwwmWiWNeM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mzwwmWiWNeM.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | וממנה יוושע - יום השואה ויום העצמאות</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מועדים</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/101977955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-30%2F399335900-44100-2-f02cb70237e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/101977955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-30%2F399335900-44100-2-f02cb70237e2.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום העצמאות מן התורה מניין | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=QHJRuUvRhcY</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/QHJRuUvRhcY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/QHJRuUvRhcY.mp3</guid>
+   <pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שביעי של פסח - "ששת ימים תאכל מצות"</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a6dea903-4649-4613-a801-af23a5a63ff2.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a6dea903-4649-4613-a801-af23a5a63ff2.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 18 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגרי"ד סולובייצ'יק על הרמב"ם | הרב חיים נבון | חוה"מ פסח תשפ"ה</title>
+   <description>הרב חיים נבון · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב חיים נבון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/101357475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-16%2F398484138-44100-2-bdfa3dd56f69.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/101357475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-16%2F398484138-44100-2-bdfa3dd56f69.m4a</guid>
+   <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוקת התורה וחוקת הפסח | יארצייט למרן הגרי"ד סולובייצ'יק | חוה"מ פסח תשפ"ה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/101357426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-16%2F398484075-44100-2-798ab58469302.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/101357426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-16%2F398484075-44100-2-798ab58469302.m4a</guid>
+   <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח | תשפ"ה | הרב אמנון בזק והרב יעקב מדן</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/100707093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397652979-44100-2-b86674b9b1c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/100707093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397652979-44100-2-b86674b9b1c9.mp3</guid>
+   <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו- איסור חמץ לא רק בפסח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f73bb095-fcf3-4f77-a60a-37193b1ec3b6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f73bb095-fcf3-4f77-a60a-37193b1ec3b6/stream.mp3</guid>
+   <pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח: בפסח נולד יצחק | מאור עיניים</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/100452151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F397331307-44100-2-9546d3dffbd8e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/100452151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F397331307-44100-2-9546d3dffbd8e.mp3</guid>
+   <pubDate>Wed, 09 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת האדמו"ר מפיאסצנא: בעבור זה עשה ה' לי בצאתי ממצרים | הרב בני להמן | פסח תשפ"ה</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100910797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-6%2F397912510-44100-2-5435dc9538944.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100910797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-6%2F397912510-44100-2-5435dc9538944.mp3</guid>
+   <pubDate>Sun, 06 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב פסח שחל בשבת | הרב יוסף צבי רימון</title>
+   <description>הרב יוסף צבי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f27c3072-902c-4724-8705-087908de12c3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f27c3072-902c-4724-8705-087908de12c3/stream.mp3</guid>
+   <pubDate>Sun, 06 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת הנצי"ב ופרשנותו פסוקי ארמי אובד אבי | הרב יאיר קאהן | פסח תשפ"ה</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100670494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606736-44100-2-8d67c659fc81b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100670494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606736-44100-2-8d67c659fc81b.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | "וירעו אותנו המצרים": הפשט של הדרש | הרב אמנון בזק | פסח תשפ"ה</title>
+   <description>הרב אמנון בזק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אמנון בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100670522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606778-44100-2-27d582c4b21ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100670522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606778-44100-2-27d582c4b21ad.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת הקיבוצים | הרב יעקב מדן | פסח תשפ"ה</title>
+   <description>הרב יעקב מדן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יעקב מדן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100781208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748426-44100-2-82670605629bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100781208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748426-44100-2-82670605629bd.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת 'תורת חיים': הא לחמא עניא | הרב אוריה דור | פסח תשפ"ה</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100781151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748323-44100-2-4a80af2d4bf1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100781151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748323-44100-2-4a80af2d4bf1c.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת הגרי"ד: בין 'זכירה' ל'סיפור' | הרב משה ליכטנשטיין | פסח תשפ"ה</title>
+   <description>הרב משה ליכטנשטיין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה ליכטנשטיין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100781064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748246-44100-2-67dade86ad1e9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100781064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748246-44100-2-67dade86ad1e9.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת גולדשמיט מול הגדה 'יחפה' | הרב אסי בלנק | פסח תשפ"ה</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100781021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748155-44100-2-b841c8658815f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100781021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748155-44100-2-b841c8658815f.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת הרמב"ם: ארמי אובד אבי | הרב ברוך גיגי | פסח תשפ"ה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100780856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397747958-44100-2-d837370427718.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100780856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397747958-44100-2-d837370427718.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח - צדיק באמונתו יחיה | והגדת לבך תשפ"ה | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a46d395c-0df2-4e87-a8f1-40986118b991/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a46d395c-0df2-4e87-a8f1-40986118b991/stream.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המהות של ליל הסדר- אהבה ואמונה | שיעור מיוחד לפסח | אגדתא - לז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/65333546/episode_65333546.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/65333546/episode_65333546.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב פסח שחל בשבת</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/100569769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-30%2F97d6841a-0ba7-7a57-c11a-d72021120242.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/100569769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-30%2F97d6841a-0ba7-7a57-c11a-d72021120242.mp3</guid>
+   <pubDate>Sun, 30 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקאות בעולת ראיה על יציאת מצרים | פסח תשפ"ה | הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/fcab53b4/9414ccae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fcab53b4/9414ccae.mp3</guid>
+   <pubDate>Fri, 28 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקאות בעולת ראיה על יציאת מצרים | פסח תשפ"ה | הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/b3d2d56f/1f13326f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b3d2d56f/1f13326f.mp3</guid>
+   <pubDate>Fri, 28 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עם מי המצה רבה? | שיעור לפסח | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/65165098/episode_65165098.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/65165098/episode_65165098.mp3</guid>
+   <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עם ישראל שמעל הזמן שמקדש את הזמן | פסח תשפ"ה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a540153c/cf41324b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a540153c/cf41324b.mp3</guid>
+   <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עם ישראל שמעל הזמן שמקדש את הזמן | פסח תשפ"ה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/45f332ca/e30935b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/45f332ca/e30935b3.mp3</guid>
+   <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אכילת מצה בערב פסח וסעודה שלישית</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f7d09704/podcast/play/100286243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-24%2F397119947-44100-2-cb075539842b4.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f7d09704/podcast/play/100286243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-24%2F397119947-44100-2-cb075539842b4.m4a</guid>
+   <pubDate>Mon, 24 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב פסח שחל בשבת | הרב יוסף צבי רימון | פסח תשפ"ה</title>
+   <description>הרב יוסף צבי · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f6380e44/d87bdb25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f6380e44/d87bdb25.mp3</guid>
+   <pubDate>Mon, 24 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אכילה בערב פסח</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f7d09704/podcast/play/100243526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-23%2F043e452c-b230-895d-f122-7c6d2f0d101b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f7d09704/podcast/play/100243526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-23%2F043e452c-b230-895d-f122-7c6d2f0d101b.m4a</guid>
+   <pubDate>Sun, 23 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | על מה צריך הכשר לפסח</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מועדים</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/100144370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-21%2F396970975-44100-2-17347074d1c63.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/100144370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-21%2F396970975-44100-2-17347074d1c63.mp3</guid>
+   <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה אנחנו לוקחים מפורים לימי השגרה? | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a36410a6-b71c-474f-b6e1-7ea13cf5aa2a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a36410a6-b71c-474f-b6e1-7ea13cf5aa2a/stream.mp3</guid>
+   <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהו עמלק ואיך מנצחים אותו? | שיעור לפורים – הרב יהודה בן חמו</title>
+   <description>הרב יהודה בן חמו · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=7o_1X34Wsao</description>
+   <itunes:author>הרב יהודה בן חמו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7o_1X34Wsao.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7o_1X34Wsao.mp3</guid>
+   <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - בן כרך בעיר ולהפך</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f7d09704/podcast/play/99733600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396421094-44100-2-1f8bf0b353048.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f7d09704/podcast/play/99733600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396421094-44100-2-1f8bf0b353048.m4a</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעשות פורים - מו"ר הרב זלמן מלמד</title>
+   <description>הרב זלמן מלמד · ישיבת בית אל · מועדים</description>
+   <itunes:author>הרב זלמן מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc01cd98/podcast/play/99744385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396434462-44100-2-4876f3daab075.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc01cd98/podcast/play/99744385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396434462-44100-2-4876f3daab075.m4a</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איש יהודי | שיעור לפורים | הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/9a288c7c/2d0c04e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9a288c7c/2d0c04e8.mp3</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפסח במדבר ולדורות | 18</title>
+   <description>הרב דוד סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב דוד סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/577a1cd1-f9dc-4151-a593-4423a0f423b4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/577a1cd1-f9dc-4151-a593-4423a0f423b4/stream.mp3</guid>
+   <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים: אקרא יומם ולא תענה | מאור עיניים</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/99716715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-11%2F396399635-44100-2-ba4257bdcb226.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/99716715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-11%2F396399635-44100-2-ba4257bdcb226.mp3</guid>
+   <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה חדשה! דמויות משנה במגילה | ממוכן | פרופ' יונתן גרוסמן | פורים תשפ"ה</title>
+   <description>פרופ' יונתן גרוסמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>פרופ' יונתן גרוסמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/99468254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F396088700-44100-2-da22cd964ff13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/99468254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F396088700-44100-2-da22cd964ff13.mp3</guid>
+   <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב הכנה לפורים | פורים תשפ"ה | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/645621a9/fac7afae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/645621a9/fac7afae.mp3</guid>
+   <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

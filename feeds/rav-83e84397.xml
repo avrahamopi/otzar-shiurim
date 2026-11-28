@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אייל אלפיה · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-83e84397.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אייל אלפיה.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיחה שבועית | מלחמת אזרחים! | הרב אייל אלפיה</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d3/f4/31/b2609c43e488bef6e976ec5cda.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d3/f4/31/b2609c43e488bef6e976ec5cda.mp3</guid>
+   <pubDate>Fri, 10 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10. עניין של מניע</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6a/f5/9a/e71ec74dbab5ed80ce7f4229cf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6a/f5/9a/e71ec74dbab5ed80ce7f4229cf.mp3</guid>
+   <pubDate>Tue, 07 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9. אופנה מהמאה ה-19</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/6c/2d/aa567e475ebad3f4078370cc76.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/6c/2d/aa567e475ebad3f4078370cc76.mp3</guid>
+   <pubDate>Sun, 29 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8. שערים אל האין | אורח: הרב פדיה נגר</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/2a/76/1074224a0bababdc9e8a50733e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/2a/76/1074224a0bababdc9e8a50733e.mp3</guid>
+   <pubDate>Sun, 22 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7. יש, אין ומה שביניהם | אורח: הרב פדיה נגר</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/bc/f3/414b134bf3aa70333aea6bdf26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/bc/f3/414b134bf3aa70333aea6bdf26.mp3</guid>
+   <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6. התבוננות והשקטה, שאיפה ונשיפה | אורח: שמוליק סמואל</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f2/84/3b/9ddbd341f4bdf7ab849f26b45e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f2/84/3b/9ddbd341f4bdf7ab849f26b45e.mp3</guid>
+   <pubDate>Sun, 11 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5. מדוע יש צורך במדיטציה?</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7c/03/fd/43961b4f0d8c29d37ce3fb972f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7c/03/fd/43961b4f0d8c29d37ce3fb972f.mp3</guid>
+   <pubDate>Sun, 04 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ט' בכסליו | האדמו"ר האמצעי | הרב אייל אלפיה</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/42/67/37/2970ce45aab53ffaff09f52a04.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/42/67/37/2970ce45aab53ffaff09f52a04.mp3</guid>
+   <pubDate>Fri, 02 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4. על אגו, פרקטיקה ועבודת ה' | אורח: דניאל רכטמן</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/a2/f7/535b5846c194df19ca012ddd03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/a2/f7/535b5846c194df19ca012ddd03.mp3</guid>
+   <pubDate>Sun, 27 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3. רוחניות שמושקעת בחיים | אורח: דניאל רכטמן</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/49/2c/c0/43975c4be7a9b99849a76c4dcb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/49/2c/c0/43975c4be7a9b99849a76c4dcb.mp3</guid>
+   <pubDate>Sun, 20 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2. בכל דרכיך דעהו | כוונה, התבוננות ומדיטציה | אורח: מיכאל ששון</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/36/55/4e/c0ef90463e9265a9b5aa8fb4ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/36/55/4e/c0ef90463e9265a9b5aa8fb4ea.mp3</guid>
+   <pubDate>Thu, 03 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1. מבוא | מדיטציה בשורשי נוף החיים היהודי</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/09/de/0d/0c735245c79f5c1289630d5286.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/09/de/0d/0c735245c79f5c1289630d5286.mp3</guid>
+   <pubDate>Tue, 01 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | הערגה | הרב אייל אלפיה</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ca/57/42/2d7e9e41c5834d988f99e7d38f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ca/57/42/2d7e9e41c5834d988f99e7d38f.mp3</guid>
+   <pubDate>Mon, 21 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | מפורסמים של שקר | הרב אייל אלפיה</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/e1/bf/887f064f75a8832c2b582f1b2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/e1/bf/887f064f75a8832c2b582f1b2c.mp3</guid>
+   <pubDate>Mon, 27 Dec 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | להתפלל באמת | הרב אייל אלפיה</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f1/13/7c/840e64467fb26a05505df9ac3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f1/13/7c/840e64467fb26a05505df9ac3d.mp3</guid>
+   <pubDate>Tue, 14 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>ישיבת רמת גן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/y-ramat-gan.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי ישיבת רמת גן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מתוך המשבר צומחת הישועה | דרכי חיים - שיעור 29 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76448080/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76448080/lesson.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך אדם אחד מצליח לשנות את ההיסטוריה? | שיעור לחנוכה | אגדתא - מח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76447878/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76447878/lesson.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת- לא מה שחשבתם! | שפת אמת לפרשת ויצא תרל"ד | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76461830/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76461830/lesson.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קטן בשבת | צורבא מרבנן - רח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76461772/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76461772/lesson.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם האמת תמיד צודקת? | שיעור לפרשת ויצא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76448459/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76448459/lesson.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסוד מאחורי גדולתו של הרב עובדיה | דרכי חיים - שיעור 28 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76316291/utf_8_b_15pxqneb15kg15fxmdez150gmjgubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76316291/utf_8_b_15pxqneb15kg15fxmdez150gmjgubxaz.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקב"ה רוצה אחרת ממך! | שפת אמת לפרשת תולדות תרל"ג | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76316308/utf_8_b_16nxpneqineq157xqi5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76316308/utf_8_b_16nxpneqineq157xqi5tcdm.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין ג' | צורבא מרבנן - רז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76316148/utf_8_b_16bxldeo15hxkcdxqtev15zxk9ev16oubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76316148/utf_8_b_16bxldeo15hxkcdxqtev15zxk9ev16oubxaz.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תנורו של עכנאי | אגדתא - מז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76286553/utf_8_b_16rxonev16jxlsdxqdecinei15vxoneq15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76286553/utf_8_b_16rxonev16jxlsdxqdecinei15vxoneq15kubxaz.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מגיעים לאהבת ישראל? | הרב יצחק שפירא | שיעור מיוחד בחסידות</title>
+   <description>הרב יצחק שפירא · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב יצחק שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76282640/utf_8_b_16gg15dxmdem15nxpydxnteq15nxpneuia_utf_8_b_15dxl9et15xxqidxntes15nxoteulm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76282640/utf_8_b_16gg15dxmdem15nxpydxnteq15nxpneuia_utf_8_b_15dxl9et15xxqidxntes15nxoteulm1wmw.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צמיחה רוחנית אקספוננציאלית | שפת אמת לפרשת חיי שרה תרלא | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76191785/utf_8_b_16bxntez15fxlcdxqnev15fxonez16og15dxpw_utf_8_b_16hxpnev16dxonem15nxknec15nxqi5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76191785/utf_8_b_16bxntez15fxlcdxqnev15fxonez16og15dxpw_utf_8_b_16hxpnev16dxonem15nxknec15nxqi5tcdm.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין ב' | צורבא מרבנן - רו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76191688/utf_8_b_16lxmdeo15xxkdez158g15enlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76191688/utf_8_b_16lxmdeo15xxkdez158g15enlm1wmw.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא צריך לצאת מעצמך | שפת אמת לפרשת וירא תרמ | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76069004/utf_8_b_16nxpneqinev15nxqneqlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76069004/utf_8_b_16nxpneqinev15nxqneqlm1wmw.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין א' | צורבא מרבנן - רה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76068965/utf_8_b_16bxldeo15hxkcdxldez16jxkc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76068965/utf_8_b_16bxldeo15hxkcdxldez16jxkc5tcdm.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה שבת ב' | צורבא מרבנן - רד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75920752/utf_8_b_16bxldeo15hxkcdxnneainec15og16txli5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75920752/utf_8_b_16bxldeo15hxkcdxnneainec15og16txli5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לחתוך ולהיות שלם? נשמע מוזר! | שפת אמת לפרשת לך-לך תרמז | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75920712/utf_8_b_16nxpneqinec15og15zxmidxpnewic5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75920712/utf_8_b_16nxpneqinec15og15zxmidxpnewic5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה שבת | צורבא מרבנן - רג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75802588/utf_8_b_16bxldeo15hxkcdxonexinekjyfxli5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75802588/utf_8_b_16bxldeo15hxkcdxonexinekjyfxli5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעזרת ה' בגיבורים | שיעור לקראת הבחירות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75920636/utf_8_b_15txqnerinet15xxk9eziner15fxmdeo15xxqi5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75920636/utf_8_b_15txqnerinet15xxk9eziner15fxmdeo15xxqi5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>!!! צו 8! | הרב יהושע שפירא | המדינה בסכנה חייבים אותך!!!</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75877837/utf_8_q_d7_a6_d7_95_8_5f1_mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75877837/utf_8_q_d7_a6_d7_95_8_5f1_mp3.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להוליד ילדים בנחת | שפת אמת לפרשת נח תרלה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75802094/utf_8_q_d7_a9_d7_a4_d7_90_d7_a0_d7_97_d7_a4_d7_96_mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75802094/utf_8_q_d7_a9_d7_a4_d7_90_d7_a0_d7_97_d7_a4_d7_96_mp3.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לראות ולהיראות לפני ה׳ | הרב יהושע שפירא | שיחה לחג סוכות</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75434174/utf_8_b_16nxmdex15qg15zxodev15vxldeqineu16jxksdxmdeu15xxqdeilm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75434174/utf_8_b_16nxmdex15qg15zxodev15vxldeqineu16jxksdxmdeu15xxqdeilm1wmw.mp3</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהסוכה אל שמחת תורה | הרב בן ציון אלגאזי | שיחה לחג סוכות</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75433506/utf_8_b_16nxmdex15qg15zxodev15vxldeqineu16jxksdxknec15lxknew15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75433506/utf_8_b_16nxmdex15qg15zxodev15vxldeqineu16jxksdxknec15lxknew15kubxaz.mp3</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חג הסוכות | צורבא מרבנן - רב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75185856/utf_8_b_16bxldeo15hxkc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75185856/utf_8_b_16bxldeo15hxkc5tcdm.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להמשיך כל מה שבארץ עד השמים | שפת אמת לפרשת האזינו תרלז | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75185742/utf_8_q_d7_a9_d7_a4_d7_90_mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75185742/utf_8_q_d7_a9_d7_a4_d7_90_mp3.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא לתקן חטא- להפוך לאדם אחר | שיעור לימים נוראים | אגדתא - מו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75118388/utf_8_q_d7_90_d7_92_d7_93_d7_aa_d7_90_2_mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75118388/utf_8_q_d7_90_d7_92_d7_93_d7_aa_d7_90_2_mp3.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים של התחלה | דרכי חיים - שיעור 27 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74867017/utf_8_b_15pxqneb15kg15fxmdez150gmjcubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74867017/utf_8_b_15pxqneb15kg15fxmdez150gmjcubxaz.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בַּכֵּסֶה לְיוֹם חַגֵּנוּ- הכוח שבהסתרה | שפת אמת לראש השנה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75047682/utf_8_b_16nxpneqineq157xqidxqneq16kg15txqdeg15qubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75047682/utf_8_b_16nxpneqineq157xqidxqneq16kg15txqdeg15qubxaz.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום כיפור | צורבא מרבנן - רא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75047430/utf_8_b_16bxldeo15hxkcdxlnec15vxldeqinez15xxnsdxm9ez16txldeolm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75047430/utf_8_b_16bxldeo15hxkcdxlnec15vxldeqinez15xxnsdxm9ez16txldeolm1wmw.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעלות בלי לאבד את הלב | שיעור לימים נוראים | אגדתא - מה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74898883/utf_8_q_d7_90_d7_92_d7_93_d7_aa_d7_90_1_mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74898883/utf_8_q_d7_90_d7_92_d7_93_d7_aa_d7_90_1_mp3.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתחילים שנה בברכה | דרכי חיים - שיעור 26 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74867014/utf_8_b_15pxqneb15kg15fxmdez150gmjyubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74867014/utf_8_b_15pxqneb15kg15fxmdez150gmjyubxaz.mp3</guid>
+   <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות רפואה בשבת- הגדרת פיקוח נפש | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74866791/utf_8_b_15dxlnec15kg15nxoten15eubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74866791/utf_8_b_15dxlnec15kg15nxoten15eubxaz.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה | צורבא מרבנן - ר | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74856212/utf_8_b_16bxldeo15hxkcdxonez16bxkdez150g15xxmdec15og16qnj9evlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74856212/utf_8_b_16bxldeo15hxkcdxonez16bxkdez150g15xxmdec15og16qnj9evlm1wmw.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה מוכנה לנו מאבותינו | שפת אמת לפרשות ניצבים וילך תרנה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74856205/utf_8_b_16nxpneqineg15nxpter15kg15xxmdec15og16qnj9evlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74856205/utf_8_b_16nxpneqineg15nxpter15kg15xxmdec15og16qnj9evlm1wmw.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצבי חירום בשבת ב | צורבא מרבנן - קצט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74713534/utf_8_b_16bxldeo15hxkcdxm9ezineq15hxldeqlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74713534/utf_8_b_16bxldeo15hxkcdxm9ezineq15hxldeqlm1wmw.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמוע תשמע – שתי מדרגות בעבודת ה׳ | שפת אמת לפרשת כי תבוא תרלז | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74713381/utf_8_b_16nxpneqineq157xqidxm9ezineq15hxldeqlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74713381/utf_8_b_16nxpneqineq157xqidxm9ezineq15hxldeqlm1wmw.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה אמורים להרגיש בראש השנה? | שיעור לראש השנה | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74703309/utf_8_b_15txqnerinet15xxk9ezineb15kg16rxkdev15aubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74703309/utf_8_b_15txqnerinet15xxk9ezineb15kg16rxkdev15aubxaz.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות רפואה בשבת - עקרונות יסוד | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74705662/utf_8_b_15dxlnec15kg15nxoten15eg15vxmsdxqtem15aubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74705662/utf_8_b_15dxlnec15kg15nxoten15eg15vxmsdxqtem15aubxaz.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לצאת מאזור הנוחות | דרכי חיים - שיעור 25 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74542156/utf_8_b_15pxqneb15kg15fxmdez150gmjuubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74542156/utf_8_b_15pxqneb15kg15fxmdez150gmjuubxaz.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקונספציה בעבודת ה' | שפת אמת לפרשת כי תצא תרלד | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74373957/utf_8_b_16nxpneqineq157xqidxm9ezineq16bxkc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74373957/utf_8_b_16nxpneqineq157xqidxm9ezineq16bxkc5tcdm.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצבי חירום בשבת | צורבא מרבנן - קצח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74373705/utf_8_b_16bxldeo15hxkcdxm9ezineq16bxkc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74373705/utf_8_b_16bxldeo15hxkcdxm9ezineq16bxkc5tcdm.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דור של גיבורים | הרב אסף נאמבורג | בכל לבבך 14</title>
+   <description>הרב אסף נאמבורג · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב אסף נאמבורג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74372266/utf_8_b_15txqnerineq16hxoy5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74372266/utf_8_b_15txqnerineq16hxoy5tcdm.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשהלב קם מחדש | הרבנית ימימה מזרחי | בכל לבבך 14</title>
+   <description>רבני הישיבה · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73858793/utf_8_b_15txqner16dxmdeqinez157xmdee15qubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73858793/utf_8_b_15txqner16dxmdeqinez157xmdee15qubxaz.mp3</guid>
+   <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אני ישנה וליבי ער | הדס לוינשטרן | בכל לבבך 14</title>
+   <description>רבני הישיבה · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73858862/utf_8_b_15txk9ehinec15xxmdeg16nxmneo158ubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73858862/utf_8_b_15txk9ehinec15xxmdeg16nxmneo158ubxaz.mp3</guid>
+   <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מן המיצר אל המרחב | אלומה לב | בכל לבבך 14</title>
+   <description>רבני הישיבה · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73858828/utf_8_b_15dxnnev157xlcdxnnerlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73858828/utf_8_b_15dxnnev157xlcdxnnerlm1wmw.mp3</guid>
+   <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש של תורה | הרב אלגאזי | בכל לבבך 14</title>
+   <description>הרב אלגאזי · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב אלגאזי</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73971002/utf_8_b_15txqnerineq15zxktew15dxms5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73971002/utf_8_b_15txqnerineq15zxktew15dxms5tcdm.mp3</guid>
+   <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת עולם אהבתנו | הרב מיכי יוספי | בכל לבבך 14</title>
+   <description>הרב מיכי יוספי · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכי יוספי</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73561609/utf_8_b_15txqnerinee15nxm9ezinez15xxodek15ltcdmubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73561609/utf_8_b_15txqnerinee15nxm9ezinez15xxodek15ltcdmubxaz.mp3</guid>
+   <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיכנס אל המלך | הרב יהושע שפירא | בכל לבבך 14</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73560738/utf_8_b_15txqnerinez15txldep16iubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73560738/utf_8_b_15txqnerinez15txldep16iubxaz.mp3</guid>
+   <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי יש ה׳ בקרבנו | הרב אברהם זרביב | בכל לבבך 14</title>
+   <description>הרב אברהם זרביב · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם זרביב</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73559975/utf_8_b_15txqnerinew16jxkdez15ftcdmubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73559975/utf_8_b_15txqnerinew16jxkdez15ftcdmubxaz.mp3</guid>
+   <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתודעת עבד לתודעת מלכות | הרב שמואל | בכל לבבך 14</title>
+   <description>הרב שמואל · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73559307/utf_8_b_15txqnerinep157xldeq15wubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73559307/utf_8_b_15txqnerinep157xldeq15wubxaz.mp3</guid>
+   <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לצאת מעצמי | הרב שניאור אשכנזי | בכל לבבך 14</title>
+   <description>הרב שניאור אשכנזי · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שניאור אשכנזי</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73558540/utf_8_b_15txqnerineq16nxm9eg16hxms5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73558540/utf_8_b_15txqnerineq16nxm9eg16hxms5tcdm.mp3</guid>
+   <pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ילדים כמלאכים | הרב יהושע שפירא | לזכר הילד עמית לייכטמן ז''ל</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73551529/episode_73551529.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73551529/episode_73551529.mp3</guid>
+   <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העולם הנסתר שבלב | הרב אליעזר קשתיאל | בכל לבבך 14</title>
+   <description>הרב אליעזר קשתיאל · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73554628/utf_8_b_15txqnerinen16nxmdeq15dxnc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73554628/utf_8_b_15txqnerinen16nxmdeq15dxnc5tcdm.mp3</guid>
+   <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השבת כמקור להתעוררות הלב | הרב דוד דודקביץ | בכל לבבך 14</title>
+   <description>הרב דוד דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דוד דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73553993/utf_8_b_15txqnerinet15xxk9ezlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73553993/utf_8_b_15txqnerinet15xxk9ezlm1wmw.mp3</guid>
+   <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"ממנו תוצאות חיים" | הרב ראובן ששון | בכל לבבך 14</title>
+   <description>הרב ראובן ששון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב ראובן ששון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73430398/utf_8_b_15hxm9ecinec15hxkdeaineu16jxksdxqneq15xxkdeflm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73430398/utf_8_b_15hxm9ecinec15hxkdeaineu16jxksdxqneq15xxkdeflm1wmw.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה (ה') | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73091590/utf_8_b_15dxlnec15kg15nxoten15eg157xmnev16og157xodei15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73091590/utf_8_b_15dxlnec15kg15nxoten15eg157xmnev16og157xodei15kubxaz.mp3</guid>
+   <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעת ערב יהיה אור | עבודת אלוקים - שיעור 47 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73091238/utf_8_b_16lxkdev15pxqidxknec15xxp9ez150gndcg15dxl9eo15xxn21wmy5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73091238/utf_8_b_16lxkdev15pxqidxknec15xxp9ez150gndcg15dxl9eo15xxn21wmy5tcdm.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב בן ציון אלגאזי | מבשר הגאולה</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73091586/utf_8_b_16nxmdei15xxqcdxlneo15eg15dxnnes15bxmsdxqdeg15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73091586/utf_8_b_16nxmdei15xxqcdxlneo15eg15dxnnes15bxmsdxqdeg15kubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב אליעזר קשתיאל | הלבוש של הגאולה</title>
+   <description>הרב אליעזר קשתיאל · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73086244/utf_8_b_15txqnerineq15zxmdei15bxqcdxp9ep16rxmdeq15wubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73086244/utf_8_b_15txqnerineq15zxmdei15bxqcdxp9ep16rxmdeq15wubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב יהושע שפירא | הלבוש של הגאולה</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73085722/utf_8_b_15txqnerinez15txldep16iubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73085722/utf_8_b_15txqnerinez15txldep16iubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב בן ציון אלגאזי | דברי פתיחה</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73084377/utf_8_b_15xxlnei16jxksdxoneqinet15hxqnezinek16rxmdexlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73084377/utf_8_b_15xxlnei16jxksdxoneqinet15hxqnezinek16rxmdexlm1wmw.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב יעקב שפירא | כשהגאולה כבר מתחילה</title>
+   <description>הרב יעקב שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב יעקב שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73084350/utf_8_b_15txqnerinez16lxp9erinep16txmdeo15aubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73084350/utf_8_b_15txqnerinez16lxp9erinep16txmdeo15aubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב יעקב אריאל | ט' באב או י' באב</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73084349/utf_8_b_15txqnerineq16jxmdeq15wubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73084349/utf_8_b_15txqnerineq16jxmdeq15wubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב שלומי שפירא | למי עוללת כה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73083842/utf_8_b_15txqnerinep15zxldee15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73083842/utf_8_b_15txqnerinep15zxldee15kubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב ראובן ששון | כולנו חסרי בית</title>
+   <description>הרב ראובן ששון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב ראובן ששון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73083462/utf_8_b_15txqnerineo15dxlder158g16hxldek15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73083462/utf_8_b_15txqnerineo15dxlder158g16hxldek15kubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב צבי קוסטינר | מתי רבי עקיבא צחק</title>
+   <description>הרב צבי קוסטינר · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73070636/utf_8_b_15xxlnei16jxksdxoneqineu16jxksdxp9ev16hxmnez16dxqc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73070636/utf_8_b_15xxlnei16jxksdxoneqineu16jxksdxp9ev16hxmnez16dxqc5tcdm.mp3</guid>
+   <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אז בשביל מה להיות טוב? | אל ה' ואל טובו - שיעור 16 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72995474/utf_8_q_d7_90_d7_9c_d7_94_d7_95_d7_90_d7_9c_utf_8_q_d7_98_d7_95_d7_91_d7_95_16_mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72995474/utf_8_q_d7_90_d7_9c_d7_94_d7_95_d7_90_d7_9c_utf_8_q_d7_98_d7_95_d7_91_d7_95_16_mp3.mp3</guid>
+   <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אתה בראש אתה אשם | שפת אמת לפרשת דברים תרלז | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73012306/utf_8_b_16nxpneqinet15hxqnez150ubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73012306/utf_8_b_16nxpneqinet15hxqnez150ubxaz.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ט' באב | צורבא מרבנן | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73012297/utf_8_b_16bxldeo15hxkcdxk9er16jxmdedlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73012297/utf_8_b_16bxldeo15hxkcdxk9er16jxmdedlm1wmw.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דור של אידאלים | עבודת אלוקים - שיעור 46 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72994301/utf_8_b_16lxkdev15pxqidxknec15xxp9ez150gndyubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72994301/utf_8_b_16lxkdev15pxqidxknec15xxp9ez150gndyubxaz.mp3</guid>
+   <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המגילה שנשרפה – והלב שנאטם | שיעור לבין המצרים | אגדתא - מד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72951621/edaffda4_0225_472b_b3e7_f48c0c94c262.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72951621/edaffda4_0225_472b_b3e7_f48c0c94c262.mp3</guid>
+   <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשאין מקום לשכינה | דרכי חיים - שיעור 24 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869754/25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869754/25.mp3</guid>
+   <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשאדם מגדיר את האלוקים | כוזרי - שיעור כג | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72856162/episode_72856162.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72856162/episode_72856162.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארץ ישראל - רוח חדשה | שפת אמת לפרשת מטות מסעי | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72885020/a881d40a_4bc7_4413_a95d_c986f47b4bc4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72885020/a881d40a_4bc7_4413_a95d_c986f47b4bc4.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני יולדת בשבת | צורבא מרבנן - קצז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72884502/9546ae54_43aa_4b6b_9cf5_d89277e1e721.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72884502/9546ae54_43aa_4b6b_9cf5_d89277e1e721.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות ימי בין המצרים | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72856419/episode_72856419.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72856419/episode_72856419.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור ט</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869972/episode_72869972.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869972/episode_72869972.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור ח</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869949/episode_72869949.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869949/episode_72869949.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור ז</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869925/episode_72869925.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869925/episode_72869925.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור ו</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869906/episode_72869906.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869906/episode_72869906.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור ה</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869901/episode_72869901.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869901/episode_72869901.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור ד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869886/episode_72869886.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869886/episode_72869886.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור ג</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869878/episode_72869878.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869878/episode_72869878.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור ב</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869870/episode_72869870.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869870/episode_72869870.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ממלך וקיסר - סיפורי מעשיות - הרב גד - שעור א</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869857/episode_72869857.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869857/episode_72869857.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול תשפ''ה - הרב גד - שעור ג</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869595/episode_72869595.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869595/episode_72869595.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול תשפ''ה - הרב גד - שעור ב</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869540/episode_72869540.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869540/episode_72869540.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול תשפ''ה - הרב גד - שעור א</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869525/episode_72869525.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869525/episode_72869525.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לפסח תשפ''ה - הרב גד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869390/episode_72869390.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869390/episode_72869390.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מחיגר - סיפורי מעשיות - הרב גד - שעור ה</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869320/episode_72869320.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869320/episode_72869320.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מחיגר - סיפורי מעשיות - הרב גד - שעור ד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869305/episode_72869305.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869305/episode_72869305.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מחיגר - סיפורי מעשיות - הרב גד - שעור ג</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869296/episode_72869296.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869296/episode_72869296.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מחיגר - סיפורי מעשיות - הרב גד - שעור ב</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869276/episode_72869276.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869276/episode_72869276.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מחיגר - סיפורי מעשיות - הרב גד - שעור א</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869254/episode_72869254.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869254/episode_72869254.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מבת קיסר ובן מלך - סיפורי מעשיות - הרב גד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869109/episode_72869109.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869109/episode_72869109.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוצר היראה - פורים תשפ''ה - הרב גד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72868217/episode_72868217.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72868217/episode_72868217.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיבורים לפני השיעור - הרב גד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72868022/episode_72868022.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72868022/episode_72868022.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מאבדת בת מלך - הרב גד - שעור ה</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72867911/episode_72867911.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72867911/episode_72867911.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מאבדת בת מלך - הרב גד - שעור ד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72867905/episode_72867905.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72867905/episode_72867905.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מאבדת בת מלך - הרב גד - שעור ג</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72867899/episode_72867899.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72867899/episode_72867899.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מאבדת בת מלך - הרב גד - שעור ב</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72867891/episode_72867891.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72867891/episode_72867891.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה מאבדת בת מלך - הרב גד - שעור א</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72867888/episode_72867888.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72867888/episode_72867888.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למען שמו באהבה | שיעור לפרשת מטות מסעי | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869355/episode_72869355.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869355/episode_72869355.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המדע והאמונה נפגשים | עבודת אלוקים - שיעור 45 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869077/45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869077/45.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסדק שהפיל את המקדש | שיעור לבין המצרים | אגדתא - מג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72855915/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72855915/2.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גבורת המחנך | דרכי חיים - שיעור 23 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72821144/24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72821144/24.mp3</guid>
+   <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין קנאות לאהבה | שפת אמת לפרשת פנחס | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72787877/episode_72787877.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72787877/episode_72787877.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ימי בין המצרים | צורבא מרבנן - קצו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72787645/episode_72787645.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72787645/episode_72787645.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה (ד) | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72776940/episode_72776940.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72776940/episode_72776940.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש של אמת | שיעור לפרשת פנחס | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72776913/episode_72776913.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72776913/episode_72776913.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד הדילוג האלוקי | עבודת אלוקים - שיעור 44 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72776757/44.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72776757/44.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבית שמחזיק את העולם | דרכי חיים - שיעור 22 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72685976/23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72685976/23.mp3</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השירה שעולה מן התהום | אל ה' ואל טובו - שיעור 15 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72686303/15.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72686303/15.mp3</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הקשר בין רעב לחורבן הבית? | שיעור לבין המצרים | אגדתא - מב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72699728/episode_72699728.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72699728/episode_72699728.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשעם סגולה נופל | כוזרי - שיעור כב | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72686084/episode_72686084.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72686084/episode_72686084.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פיקוח נפש דוחה שבת | צורבא מרבנן - קצה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72687403/episode_72687403.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72687403/episode_72687403.mp3</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט פנימי שמביא ברכה | שפת אמת לפרשת בלק תרלג | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72687274/episode_72687274.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72687274/episode_72687274.mp3</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>''בלי עין הרע'' | שיעור לפרשת בלק | הרב דודי דודקביץ''</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72678510/episode_72678510.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72678510/episode_72678510.mp3</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האבולציה של הגאולה | עבודת אלוקים - שיעור 43 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72678485/43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72678485/43.mp3</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חירותה של הנשמה | עבודת אלוקים - שיעור 42 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72622207/42.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72622207/42.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד הצמיחה ממשברים | דרכי חיים - שיעור 21 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72614355/21.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72614355/21.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דווקא בתוך החושך | אל ה' ואל טובו - שיעור 14 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72614594/14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72614594/14.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האמונה שנבראה בסיני | כוזרי - שיעור כא | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72614484/episode_72614484.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72614484/episode_72614484.mp3</guid>
+   <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חילול שבת לחולה שאין בו סכנה | צורבא מרבנן - קצד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72580304/episode_72580304.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72580304/episode_72580304.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך למצוא את באר ההתחדשות | שפת אמת לפרשת חוקת תרלד | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72580247/episode_72580247.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72580247/episode_72580247.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה כוחה של האומה | שיעור לפרשת חוקת | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72580955/episode_72580955.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72580955/episode_72580955.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה (ג) | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72567519/episode_72567519.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72567519/episode_72567519.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכפירה שנולדה מחושך רוחני | עבודת אלוקים - שיעור 41 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72536291/41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72536291/41.mp3</guid>
+   <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פוסט טראומה, זה רציני? | סיפורם האישי של הרב יהושע והרבנית נעמי שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72296990/episode_72296990.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72296990/episode_72296990.mp3</guid>
+   <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשהאידיאל נעלם | עבודת אלוקים - שיעור 40 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72535302/40.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72535302/40.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החכמה שמצילה ממחלוקת | דרכי חיים - שיעור 20 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72476586/20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72476586/20.mp3</guid>
+   <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגיהנום מומלץ בחום'' | אל ה' ואל טובו - שיעור 13 | הרב יהושע שפירא''</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72534895/13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72534895/13.mp3</guid>
+   <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על מחלוקות, אגו, פוליטיקאים ועוד... | שפת אמת לפרשת קרח תרמז | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72475994/episode_72475994.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72475994/episode_72475994.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות רפואה בשבת | צורבא מרבנן - קצג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72475997/episode_72475997.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72475997/episode_72475997.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה (ב) | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72462656/episode_72462656.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72462656/episode_72462656.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשמאמינים- עולים | שיעור לפרשת קרח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72462229/episode_72462229.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72462229/episode_72462229.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האור שמחיה הכול | עבודת אלוקים - שיעור 39 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72422229/39.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72422229/39.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב בן ציון אלגאזי מספר על הרב מרדכי אליהו זצוק''ל</title>
+   <description>הרב בן ציון · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72460303/episode_72460303.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72460303/episode_72460303.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שורש האידיאלים | עבודת אלוקים - שיעור 38 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72422143/38.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72422143/38.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסוד שבשורש הקשר | דרכי חיים - שיעור 19 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72328989/19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72328989/19.mp3</guid>
+   <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דת של התגלות | כוזרי - שיעור כ | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72329565/episode_72329565.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72329565/episode_72329565.mp3</guid>
+   <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכת כותב ומוחק (המשך) | צורבא מרבנן - קצב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72340449/episode_72340449.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72340449/episode_72340449.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלה תרומה- להרים את הארציות | שפת אמת לפרשת שלח תרמא | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72339999/episode_72339999.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72339999/episode_72339999.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72305787/episode_72305787.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72305787/episode_72305787.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין נס למעשה | שיעור לפרשת שלח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72328279/episode_72328279.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72328279/episode_72328279.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האור שמתחת לקליפה | עבודת אלוקים - שיעור 37 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72265964/37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72265964/37.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חגיגות י''ז סיוון | הרב יהושע שפירא | שנה למבצע עם כלביא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72294300/episode_72294300.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72294300/episode_72294300.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קמעא קמעא | עבודת אלוקים - שיעור 36 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72265862/0_36.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72265862/0_36.mp3</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מילים שבונות בית | דרכי חיים - שיעור 18 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72265275/18.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72265275/18.mp3</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שורש האמונה | כוזרי - שיעור יט | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72208765/episode_72208765.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72208765/episode_72208765.mp3</guid>
+   <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך להאיר הכל באור אלוקי | שפת אמת לפרשת בהעלותך תרלד | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72204432/episode_72204432.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72204432/episode_72204432.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכת כותב | צורבא מרבנן - קצא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72204437/episode_72204437.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72204437/episode_72204437.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרוש יום ירושלים | תשפ''ו | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72209662/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72209662/1.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גואלי העולם | שיעור לפרשת בהעלותך| הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72175085/episode_72175085.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72175085/episode_72175085.mp3</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>געגועי הנשמה | עבודת אלוקים - שיעור 35 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72172157/35.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72172157/35.mp3</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורת חיים | עבודת אלוקים - שיעור 34 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72141583/34.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72141583/34.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חסד שבונה בית | דרכי חיים - שיעור 17 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72141407/17.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72141407/17.mp3</guid>
+   <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשהאין־סוף נוגע בסוף | כוזרי - שיעור יח | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72140893/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72140893/1.mp3</guid>
+   <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – גוזז, כותב ובונה | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72067205/episode_72067205.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72067205/episode_72067205.mp3</guid>
+   <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שושביני התורה | שיעור לשבועות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72086406/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72086406/1.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשהשקר מתפורר | עבודת אלוקים - שיעור 33 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72066665/33.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72066665/33.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלוקות שמרימה חיים | עבודת אלוקים - שיעור 32 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72066426/32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72066426/32.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש של בית | דרכי חיים - שיעור 16 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72003925/16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72003925/16.mp3</guid>
+   <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכל מול מסורת | כוזרי - שיעור יז | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72003517/episode_72003517.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72003517/episode_72003517.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ברכות התורה בשבועות | צורבא מרבנן | הרב יהודה גולדברג</title>
+   <description>הרב יהודה גולדברג · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יהודה גולדברג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72004491/episode_72004491.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72004491/episode_72004491.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דגל מיוחד לכל אחד | שפת אמת לפרשת בהר תרלח | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72004152/episode_72004152.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72004152/episode_72004152.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר של בנים | עבודת אלוקים - שיעור 31 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72003203/31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72003203/31.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בן ולא עבד | עבודת אלוקים - שיעור 30 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71864312/30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71864312/30.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשהשכינה נכנסת לבית | דרכי חיים - שיעור 15 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72003086/14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72003086/14.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עזר כנגדו | דרכי חיים - שיעור 14 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71904433/14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71904433/14.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נס שלא נגמר | שיעור ליום ירושלים - פרשת במדבר | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71990545/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71990545/1.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האמונה שמעל ההוכחות | כוזרי - שיעור טז | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71945731/episode_71945731.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71945731/episode_71945731.mp3</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד האחדות וקבלת התורה | שפת אמת לפרשת בהר תרמ"א | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71905717/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71905717/1.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכת קושר | צורבא מרבנן - קצ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71905659/episode_71905659.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71905659/episode_71905659.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ראייה להוכחה | כוזרי - שיעור טו | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71851974/aac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71851974/aac.mp3</guid>
+   <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ונקדשתי - ע''י מסירות נפש | שפת אמת לפרשת אמור תרל"ה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71775229/episode_71775229.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71775229/episode_71775229.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קורע בשבת | צורבא מרבנן - קפט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71774393/episode_71774393.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71774393/episode_71774393.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחירות לדבקות | שיעור לפרשת אמר | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71734377/episode_71734377.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71734377/episode_71734377.mp3</guid>
+   <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השכל שבתוך האמונה | כוזרי - שיעור יד | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71653136/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71653136/mp4.mp3</guid>
+   <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תופר בשבת | צורבא מרבנן - קפח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71589835/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71589835/mp4.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושה - זה שייך אלי? | שפת אמת לפרשת קדושים תרל"א | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71589735/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71589735/mp4.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תופר בשבת | צורבא מרבנן - קפז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71366948/episode_71366948.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71366948/episode_71366948.mp3</guid>
+   <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח הלכה למעשה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70901282/episode_70901282.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70901282/episode_70901282.mp3</guid>
+   <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלב קובע | שיחה לפרשת ויקרא | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70717596/episode_70717596.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70717596/episode_70717596.mp3</guid>
+   <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למי יש סיעתא דשמייא? | הרב יהושע שפירא | ימין על מלא מלא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70691392/episode_70691392.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70691392/episode_70691392.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראה שמולידה אור | אל ד' ואל טובו - שיעור 12 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70645391/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70645391/mp3.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ליל הסדר | צורבא מרבנן - קפו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70609673/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70609673/mp4.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לראות את העומק | עבודת אלוקים - שיעור 29 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70592989/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70592989/mp4.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זיכוך האמונה בדור שלנו | עבודת אלוקים - שיעור 28 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70589480/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70589480/mp3.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסודות המשכן ויסודות הנפש | שיחה לפרשת ויקהל פקודי | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70592001/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70592001/mp4.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עזר כנגדו | דרכי חיים - שיעור 13 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70551540/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70551540/mp4.mp3</guid>
+   <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גבורה ביראת שמיים | אל ה' ואל טובו - שיעור 11 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70551847/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70551847/mp4.mp3</guid>
+   <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ההכנות לפסח | צורבא מרבנן - קפה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70479023/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70479023/mp3.mp3</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הסוד של ימי החול? | שפת אמת לפרשת כי תשא תרל"א | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70478871/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70478871/mp4.mp3</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים בצל המלחמה | הרב בן ציון אלגאזי | מבצע שאגת הארי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70374603/episode_70374603.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70374603/episode_70374603.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפריצה של תקומת ישראל | הרב יהושע שפירא | דברי חיזוק למבצע שאגת הארי</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70374132/episode_70374132.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70374132/episode_70374132.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכה ואגדה לפורים | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70373566/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70373566/mp4.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים | צורבא מרבנן - קפד | הרב בן ציון אלגאזי והרב יהושע שפירא</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70301259/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70301259/mp4.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אני שותף באור האלוקי | שפת אמת לפרשת תצוה - תרל"ב | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70297350/episode_70297350.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70297350/episode_70297350.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוחה של האחדות בפורים | שיעור לפורים | אגדתא - מא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70303716/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70303716/mp4.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסירות הנפש של אסתר | שיעור לפרשת תצוה | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70266567/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70266567/mp3.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחוכמה לענווה | עבודת אלוקים - שיעור 27 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70265132/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70265132/mp3.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בן במלאכת אביו | עבודת אלוקים - שיעור 26 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70248183/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70248183/mp4.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחדות מעל הריבוי | שיחה לפרשת תצוה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70252466/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70252466/mp3.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להביט בעין טובה | דרכי חיים - שיעור 12 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70225841/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70225841/mp3.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים מעל השכל | הרב דוד טורנר | שיעור הכנה לפורים</title>
+   <description>הרב דוד טורנר · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דוד טורנר</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70228738/episode_70228738.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70228738/episode_70228738.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דור של אהבה ושמחה | אל ה' ואל טובו - שיעור 10 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70227699/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70227699/mp3.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שורש ישראל לעולם אינו נפסק | שפת אמת לפרשת תרומה - תרמב | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70144944/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70144944/mp4.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחיית עמלק ומצוות פורים | צורבא מרבנן - קפג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70144882/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70144882/mp4.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחת חודש אדר - סוד הנתינה | שיעור לפרשת תרומה | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70131494/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70131494/mp3.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האידיאל האלוקי באדם | עבודת אלוקים - שיעור 25 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70103297/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70103297/mp3.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שותפות עם הקב"ה | עבודת אלוקים - שיעור 24 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70080683/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70080683/mp4.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור מיוחד מפי המשפיע הרב זלמן גופין שליט"א. במאמר "האמנם" תרמ"ג של הרבי הרש"ב</title>
+   <description>הרב זלמן גופין · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב זלמן גופין</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70102550/episode_70102550.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70102550/episode_70102550.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האור בגנוז באבני המשכן | שיחה לפרשת תרומה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70103889/episode_70103889.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70103889/episode_70103889.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתיקות התורה בבית | דרכי חיים - שיעור 11 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70067370/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70067370/mp3.mp3</guid>
+   <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסוד האמונה בישראל | כוזרי - שיעור יג | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70067294/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70067294/mp3.mp3</guid>
+   <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשפטים - פנימיות הדיברות | שפת אמת לפרשת משפטים- תרלה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70010302/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70010302/mp4.mp3</guid>
+   <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות כיבוס וניקיון הבגדים בשבת | צורבא מרבנן - קפב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70010110/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70010110/mp3.mp3</guid>
+   <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני ממונות בראייה רוחנית | שיעור לפרשת משפטים | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69971475/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69971475/mp4.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אנו בניך ואנו עבדיך | עבודת אלוקים - שיעור 23 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69950884/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69950884/mp4.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבעת השומרים בעבודת ה' | שיחה לפרשת משפטים | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69971249/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69971249/mp4.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תהליך ההבשלה של עבודת ה | עבודת אלוקים - שיעור 22 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69950642/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69950642/mp3.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאור פנים בבית | דרכי חיים - שיעור 10 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69873464/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69873464/mp4.mp3</guid>
+   <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראה מאירה בשמחה | אל ה' ואל טובו - שיעור 9 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69791891/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69791891/mp4.mp3</guid>
+   <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיסופים של גאולה | כוזרי - שיעור יב | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69875565/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69875565/mp4.mp3</guid>
+   <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | סוגיות בכולל הלכה - שבת | גדרי בונה וסותר - המשך | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69873809/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69873809/mp3.mp3</guid>
+   <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביאור עומק נעשה ונשמע | שפת אמת לפרשת יתרו - תרלד | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69808922/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69808922/mp4.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חשמל בשבת ג | צורבא מרבנן - קפא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69808848/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69808848/mp4.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוח השמיעה הפנימית | שיעור לפרשת יתרו | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69783609/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69783609/mp4.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתיקות הדעת האלוקית | עבודת אלוקים - שיעור 21 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69785135/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69785135/mp4.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד החיבור שבתורה | שיחה לפרשת יתרו | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69783501/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69783501/mp3.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת השם ברוממות | עבודת אלוקים - שיעור 20 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69745941/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69745941/mp3.mp3</guid>
+   <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד השלום בבית | דרכי חיים - שיעור 9 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69723729/9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69723729/9.mp3</guid>
+   <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהפכת היראה בדור | אל ה' ואל טובו - שיעור 8 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69745182/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69745182/mp4.mp3</guid>
+   <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המדרגה האלוקית באדם | כוזרי - שיעור יא | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69722713/episode_69722713.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69722713/episode_69722713.mp3</guid>
+   <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חשמל בשבת ב | צורבא מרבנן - קפ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69664097/episode_69664097.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69664097/episode_69664097.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה ניתנה לאוכלי המן | שפת אמת לפרשת בשלח - תרלו | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69663975/episode_69663975.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69663975/episode_69663975.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכות מתוך אמונה | שיעור לפרשת בשלח | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69647987/episode_69647987.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69647987/episode_69647987.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת השם וחירות האדם | עבודת אלוקים - שיעור 19 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69643638/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69643638/mp3.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכות שנולדה בשירה | שיחה לפרשת בשלח | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69644199/episode_69644199.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69644199/episode_69644199.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד התורה לדור | עבודת אלוקים - שיעור 18 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69622211/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69622211/mp3.mp3</guid>
+   <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתינה בעין טובה | דרכי חיים - שיעור 8 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69579584/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69579584/1.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראה המחיה את הנשמה | אל ה' ואל טובו - שיעור 7 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69549935/7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69549935/7.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | סוגיות בכולל הלכה - שבת | גדרי בונה וסותר | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69590568/episode_69590568.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69590568/episode_69590568.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעיין האגדה החי | עבודת אלוקים - שיעור 17 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69579358/17.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69579358/17.mp3</guid>
+   <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה: קשר והתגלות | כוזרי - שיעור י | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69510147/episode_69510147.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69510147/episode_69510147.mp3</guid>
+   <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בריאה או יציאה? | שפת אמת לפרשת בא - תרלד | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69546108/episode_69546108.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69546108/episode_69546108.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חשמל בשבת | צורבא מרבנן - קעט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69546095/episode_69546095.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69546095/episode_69546095.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבוד מלך ישראל | שיעור לפרשת בא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69533159/episode_69533159.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69533159/episode_69533159.mp3</guid>
+   <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילין ולידת האומה | שיחה לפרשת בא | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69524468/episode_69524468.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69524468/episode_69524468.mp3</guid>
+   <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המבחן של האהבה בבית | דרכי חיים - שיעור 7 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69499569/7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69499569/7.mp3</guid>
+   <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה שלא מתחילה מהוכחות | כוזרי - שיעור ט | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69496742/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69496742/2.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ו | צורבא מרבנן - קעח | הרב אוריה פלדמן</title>
+   <description>הרב אוריה פלדמן · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב אוריה פלדמן</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69454477/episode_69454477.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69454477/episode_69454477.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביטול השכל והרצון מול גילוי שם ה' | שפת אמת לפרשת וארא - תרלא | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69452153/episode_69452153.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69452153/episode_69452153.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבוד מלכות – כבוד שמים | שיעור לפרשת וארא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69439719/episode_69439719.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69439719/episode_69439719.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דור צמא לאגדה | עבודת אלוקים - שיעור 16 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69438096/16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69438096/16.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בחזרה לאגדה | עבודת אלוקים - שיעור 15 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69422138/15.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69422138/15.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה התורה עוצרת פה? | שיחה לפרשת וארא | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69424362/episode_69424362.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69424362/episode_69424362.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גיוס חרדים | סנקציות או אמון | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69403049/episode_69403049.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69403049/episode_69403049.mp3</guid>
+   <pubDate>Mon, 12 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה זה קשר | כוזרי - שיעור ח | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69391834/episode_69391834.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69391834/episode_69391834.mp3</guid>
+   <pubDate>Sun, 11 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ה | צורבא מרבנן - קעז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69353749/episode_69353749.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69353749/episode_69353749.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לבת אש של הלב הבוער | שפת אמת לפרשת שמות - תרמה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69353718/episode_69353718.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69353718/episode_69353718.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדילה מתוך החושך | שיחה לפרשת שמות | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69354447/episode_69354447.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69354447/episode_69354447.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גלות וגאולה בנפש | שיעור לפרשת שמות | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69342903/episode_69342903.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69342903/episode_69342903.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשיראה הופכת לשמחה | אל ה' ואל טובו - שיעור 6 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70248454/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70248454/mp3.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איחוד הלכה ואגדה | עבודת אלוקים - שיעור 14 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69325737/14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69325737/14.mp3</guid>
+   <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת הכוח מול יראת הטוב | אל ה' ואל טובו - שיעור 5 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69325850/5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69325850/5.mp3</guid>
+   <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשבור את המצור | דרכי חיים - שיעור 6 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69297514/6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69297514/6.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלהי יראת העונש | אל ה' ואל טובו - שיעור 4 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69402601/4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69402601/4.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תאוות האסלאם | כוזרי - שיעור ז | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69297486/episode_69297486.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69297486/episode_69297486.mp3</guid>
+   <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ד | צורבא מרבנן - קעו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69267964/episode_69267964.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69267964/episode_69267964.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לחשב את הקץ? | שפת אמת לפרשת ויחי - תרלה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69267954/episode_69267954.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69267954/episode_69267954.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה אגדה וחיוּת | עבודת אלוקים - שיעור 13 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69250530/13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69250530/13.mp3</guid>
+   <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבה שאינה תלויה | דרכי חיים - שיעור 5 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69230876/5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69230876/5.mp3</guid>
+   <pubDate>Mon, 29 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ג | צורבא מרבנן - קעה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69203455/episode_69203455.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69203455/episode_69203455.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך אעלה אל אבי שבשמים? | שפת אמת לפרשת ויגש - תרלו | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69203424/episode_69203424.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69203424/episode_69203424.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | סוגיות בכולל הלכה - שבת - א | הנאה ממעשה שבת | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69198599/episode_69198599.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69198599/episode_69198599.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו השעה פנימיות התורה | עבודת אלוקים - שיעור 12 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69184645/12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69184645/12.mp3</guid>
+   <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיבור הכלל והפרט | עבודת אלוקים - שיעור 11 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69184345/11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69184345/11.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג האיש וביתו | דרכי חיים - שיעור 4 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68994007/4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68994007/4.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עומק השבר הנוצרי | כוזרי - שיעור 6 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68993883/6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68993883/6.mp3</guid>
+   <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה | צורבא מרבנן - קעד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68990019/episode_68990019.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68990019/episode_68990019.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההפתעה שבפוסט מלחמה | שפת אמת לחנוכה - תרלו | מחנוכה למלחמת התקומה | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68990003/episode_68990003.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68990003/episode_68990003.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | סוגיות בכולל הלכה | הלכות חנוכה | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68990428/episode_68990428.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68990428/episode_68990428.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להודות ולהלל | שיעור לפרשת וישב | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68980068/episode_68980068.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68980068/episode_68980068.mp3</guid>
+   <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות אחרונים | עבודת אלוקים - שיעור 10 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68979358/10.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68979358/10.mp3</guid>
+   <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התפתחות מול עומק | עבודת אלוקים - שיעור 9 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68962915/9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68962915/9.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש שמבשלת שלום | דרכי חיים - שיעור 3 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68929056/3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68929056/3.mp3</guid>
+   <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליצנותא דעבודה זרה | כוזרי - שיעור 5 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68927751/5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68927751/5.mp3</guid>
+   <pubDate>Sun, 07 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ב | צורבא מרבנן - קעג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68879678/episode_68879678.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68879678/episode_68879678.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קטונתי - תדע שהכל תלוי בך! | שפת אמת לפרשת וישלח - תרלח | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68879593/episode_68879593.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68879593/episode_68879593.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיני ארץ ישראל | שיעור לפרשת וישלח | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68850081/episode_68850081.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68850081/episode_68850081.mp3</guid>
+   <pubDate>Wed, 03 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המלאכה השכלית | עבודת אלוקים - שיעור 8 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68822168/8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68822168/8.mp3</guid>
+   <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ממחלוקת לפריון | דרכי חיים - שיעור 2 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68759771/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68759771/2.mp3</guid>
+   <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האור הבא מן החושך | אל ה' ואל טובו - שיעור 3 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68759439/3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68759439/3.mp3</guid>
+   <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מן ההיגיון אל הסוד | כוזרי - שיעור 4 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68744749/4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68744749/4.mp3</guid>
+   <pubDate>Sun, 30 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת א | צורבא מרבנן - קעב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68769622/episode_68769622.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68769622/episode_68769622.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עצה להתדבק פנימיות החיוּת | שפת אמת לפרשת ויצא - תרלב | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68769583/episode_68769583.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68769583/episode_68769583.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לילה כיום יאיר | שיעור לפרשת ויצא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68759317/episode_68759317.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68759317/episode_68759317.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת ה' מול שינויי הזמן | עבודת אלוקים - שיעור 7 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68744711/7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68744711/7.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין מחויבות לרוממות | עבודת אלוקים - שיעור 6 | הרב יהושע שפירא</title>
+   <description>הרב יהושע שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68744552/6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68744552/6.mp3</guid>
+   <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יצחק ג'מאל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-494ceebb.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יצחק ג'מאל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרשת וישלח - מעשה שכם</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · פרשת השבוע</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/0092e369/8a278350.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0092e369/8a278350.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק ג'מאל | ויצא תשפ"ז</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/5ab38c30/027ebe30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5ab38c30/027ebe30.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא - הכי אוהב הכי כואב, יחס יעקב לרחל</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · פרשת השבוע</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/8712e94b/2568dbb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8712e94b/2568dbb3.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות - האם יצחק הכיר את עשיו</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · פרשת השבוע</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/28e2cafa/8842cd05.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/28e2cafa/8842cd05.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה - מטרת הניסיון</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · פרשת השבוע</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/1dc37241/519d9226.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1dc37241/519d9226.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת לך לך - נושא בעול עם חברו</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · פרשת השבוע</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/87f3077f/d8cf0aff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/87f3077f/d8cf0aff.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק ג'מאל | לך־לך תשפ"ז</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/afad1121/e2bc9097.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/afad1121/e2bc9097.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענייני תשובה</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/0d86cba8/27242b8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0d86cba8/27242b8a.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על מה הדין בראש השנה</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/243eb216/55b62ff7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/243eb216/55b62ff7.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה תשפ"ז | הרב יצחק ג'מאל</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/419494d8/0c5caf93.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/419494d8/0c5caf93.mp3</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארץ ישראל ותשובה במשנת הרמב"ן</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/90387888/12996e49.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/90387888/12996e49.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים במחשבת הרמב"ם | היחס לטעמי המצוות</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/4268e60e/85074386.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4268e60e/85074386.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים במשנת הרמב"ם | היחס לאסטרולוגיה וכשפים.</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/d57e1b91/c92c2d4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d57e1b91/c92c2d4d.mp3</guid>
+   <pubDate>Sat, 04 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק תשפ"ו | הרב יצחק ג'מאל</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/a4b93fd3/a4b09375.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a4b93fd3/a4b09375.mp3</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים במשנת הרמב"ם - בעיית הרע בעולם</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/96b81f40/d96afd1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/96b81f40/d96afd1c.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים במשנת הרמב"ם - השגחה פרטית (חלק ב')</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/1f68c44c/f59ffc86.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1f68c44c/f59ffc86.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים במשנת הרמב"ם - השגחה פרטית (חלק א')</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/0bef24fe/f13420a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0bef24fe/f13420a1.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים במשנת הרמב"ם - תכלית העולם, תחיית המתים ועולם הבא</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/75489f2b/4df4c150.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75489f2b/4df4c150.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק שמיני חלק ה' וסיכום 'שמונה פרקים'</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/02f30344/022cdbb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/02f30344/022cdbb3.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם הגאולה תהיה בדרך נס או טבע? מחלוקת הרמב״ם והרמב"ן. - פרק שמיני חלק ד</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/117bc1b3/e539bfba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/117bc1b3/e539bfba.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם השידוך משמיים? - פרק שמיני חלק ג'</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/1eba3246/f3faca00.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1eba3246/f3faca00.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם תמיד תהיה לנו בחירה חופשית? - פרק שמיני חלק ב</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/0af16fae/6fcc9493.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0af16fae/6fcc9493.mp3</guid>
+   <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות קדושים תשפ"ו | הרב יצחק ג'מאל</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/9b057276/03a695f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9b057276/03a695f2.mp3</guid>
+   <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם העולם דטרמיניסטי או שיש בחירה חופשית? - פרק שמיני חלק א (שיעור 21)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/49db88ad/3ae5ed38.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/49db88ad/3ae5ed38.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה נביא צריך להיות עשיר? - פרק שביעי חלק ב (שיעור 20)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/e348391e/90b0ed5b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e348391e/90b0ed5b.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה תשפ"ו - הרב יצחק ג'מאל</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/dddccdba/960a5fe7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dddccdba/960a5fe7.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם צריך להיות חכם כדי להיות נביא? - פרק שביעי חלק א (שיעור 19)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/0c2706d1/fea2e11e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0c2706d1/fea2e11e.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה התורה מתירה עבדות ופוליגמיה? - פרק שישי חלק ג (שיעור 18)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/1d075617/7b9909f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1d075617/7b9909f2.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה טעם הקרבנות? בין הרמב"ם לרמב"ן - פרק שישי חלק ב (שיעור 17)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/71bc3155/1c12ee50.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/71bc3155/1c12ee50.mp3</guid>
+   <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרך הכובש ודרך היושר - פרק שישי חלק א (שיעור 16)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/998b4773/ed82d436.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/998b4773/ed82d436.mp3</guid>
+   <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם אנחנו בטוחים שבישיבה אנו באמת עובדים את ה'? - פרק חמישי חלק ג (שיעור 15)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/02e55e56/be4286f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/02e55e56/be4286f2.mp3</guid>
+   <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא תשפ"ו - הרב יצחק ג'מאל</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/22dd05d7/96f46f75.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/22dd05d7/96f46f75.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פה קדוש - פרק חמישי חלק ב (שיעור 14)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/bf96ceba/fcfdf3c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bf96ceba/fcfdf3c3.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלית כוונת האדם - פרק חמישי חלק א (שיעור 13)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/1793f32e/256e28a7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1793f32e/256e28a7.mp3</guid>
+   <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חטא משה - מי מריבה - פרק רביעי חלק ד (שיעור 12)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/c34087af/cb0a28f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c34087af/cb0a28f4.mp3</guid>
+   <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגאווה והכעס - פרק רביעי חלק ג (שיעור 11)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/087b5eb9/048cabf5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/087b5eb9/048cabf5.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נפש האדם אחת היא - פרק ראשון חלק א (שיעור 3)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/dae60624/02ad9647.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dae60624/02ad9647.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיום פרק א' - פרק ראשון חלק ב (שיעור 4)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/cb0ccf9c/da78a475.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cb0ccf9c/da78a475.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הידיעה והבחירה - פרק שני חלק א (שיעור 5)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/1e523f33/29e77a4c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1e523f33/29e77a4c.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם יש שליטה בכח המדמה? - פרק שני חלק ב (שיעור 6)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/21b344a9/d12b4fe2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/21b344a9/d12b4fe2.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תחילת הרפואה של חולי הנפש - פרק שלישי חלק א (שיעור 7)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/7efae822/03c7876f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7efae822/03c7876f.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בחולי הנפשות - פרק שלישי חלק ב (שיעור 8)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/f05a473a/85eb0d92.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f05a473a/85eb0d92.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרך האמצע - דרך המלך - פרק רביעי חלק א (שיעור 9)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/4a3310e4/1f21ffbe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4a3310e4/1f21ffbe.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנזיר - פרק רביעי חלק ב (שיעור 10)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/4cd7c12a/3075225d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4cd7c12a/3075225d.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחת הרמב"ם (שיעור 2)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/79e74b23/8cdddf6a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/79e74b23/8cdddf6a.mp3</guid>
+   <pubDate>Wed, 10 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה מוסר טבעי ואלוקי (שיעור 1)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · מוסר</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/8576b7cf/80e4f2b7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8576b7cf/80e4f2b7.mp3</guid>
+   <pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

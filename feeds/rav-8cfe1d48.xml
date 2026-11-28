@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב ציון · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8cfe1d48.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב ציון.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מדרגת הטוב והישר | פרשת לך לך | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/3c51888b/0324fa5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3c51888b/0324fa5f.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיצומו של יום | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/194b457c/b6ea0a21.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/194b457c/b6ea0a21.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדוד ה' אורי וישעי | מדבר שור - הדרוש השמונה עשר | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/a8b1f253/a940019c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a8b1f253/a940019c.mp3</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בציפיה לישועה | צום יז בתמוז | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/6511c413/716a4d2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6511c413/716a4d2f.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת בלעם את ישראל | פרשת בלק | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/45d9e579/3e968baa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/45d9e579/3e968baa.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה האדמה פתחה את פיה | פרשת קרח | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/b1b41316/d6fa8fb6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b1b41316/d6fa8fb6.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קשיי קליטה בארץ | שיעור לפרשת שלח לך | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/9c0baa83/21c2049d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9c0baa83/21c2049d.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדלותו של חודש אייר | שיעור לחודש אייר | עין איה שבת ב פרק תשיעי פסקה נה | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/75366427/1e7edbbb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75366427/1e7edbbb.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניינו של יום העצמאות | שיעור בענייני דיומא | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/df584b08/69f56580.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/df584b08/69f56580.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהות השמחה | שיעור לחודש אדר ולפורים | עין איה שבת א פרק שני פסקה צח | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/94ca1f85/5901486c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/94ca1f85/5901486c.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדר קבלת התורה לפי רבי יוסי | שיעור לפ"ש | עין איה שבת ב פרק תשיעי פסקאות כב-כה | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/f88d0d15/d48566e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f88d0d15/d48566e0.mp3</guid>
+   <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עצמיות ישראל-סיבה לגאולה | שיעור לפרשת בא | גבורות ה סוף פרק מג | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/e4bacf95/3a53350b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e4bacf95/3a53350b.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבע לשונות של גאולה | שיעור לפרשת וארא | גבורות ה פרק ס | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/7e2890d3/8108b23b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7e2890d3/8108b23b.mp3</guid>
+   <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצלה מעין הרע | פרשת ויחי | עין איה ברכות ב פרק תשיעי פסקה סב | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/3bc705d0/6a3c8f14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3bc705d0/6a3c8f14.mp3</guid>
+   <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגבורה הישראלית | שיעור לחנוכה | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/e2e284ca/b8869459.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e2e284ca/b8869459.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקבלת נר חנוכה למצב עם ישראל | מאמרי הראיה מאמר נר חנוכה עמוד 150 | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/9ec913a6/b712d612.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9ec913a6/b712d612.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות האבות כלפינו | שיעור לפרשת חיי שרה | עין איה שבת ב פרק ט פסקאות קל"ב קל"ג | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/b707685a/c28a992b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b707685a/c28a992b.mp3</guid>
+   <pubDate>Fri, 14 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שינוי תפיסת האלילות על ידי אברהם | פרשת לך לך | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/5e2b0ce2/a5ef2647.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5e2b0ce2/a5ef2647.mp3</guid>
+   <pubDate>Thu, 30 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ציפית לישועה? | שיעור לאור המצב | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/1674c118/f111a3a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1674c118/f111a3a6.mp3</guid>
+   <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוחי ועוצם ידי עשה לי את החיל הזה | פרשת שלח לך | הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/32075e3a/e8621294.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/32075e3a/e8621294.mp3</guid>
+   <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניינו של רבי עקיבא | שיעור ללג בעומר | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/512a505e/29e1fba8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/512a505e/29e1fba8.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

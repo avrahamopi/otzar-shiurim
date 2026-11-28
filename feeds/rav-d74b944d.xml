@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יצחק · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d74b944d.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יצחק.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הכנה לפסח [ד] | המהות הפנימית של ליל הסדר | הרב יצחק (צחי) עטייה</title>
+   <description>הרב יצחק · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=5LJefihj9Hc</description>
+   <itunes:author>הרב יצחק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5LJefihj9Hc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5LJefihj9Hc.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערי ארץ ישראל [6] | מרדף האבות והאמהות אחרי ארץ ישראל (הכנה לפרשת חיי שרה) | הרב יצחק (צחי) עטיה</title>
+   <description>הרב יצחק · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=CAkOVWfNuOE</description>
+   <itunes:author>הרב יצחק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CAkOVWfNuOE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CAkOVWfNuOE.mp3</guid>
+   <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערי ארץ ישראל [5] | הסכנה בלחיות את תורת חו"ל בארץ | הרב יצחק (צחי) עטיה</title>
+   <description>הרב יצחק · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=qxMoKio30d8</description>
+   <itunes:author>הרב יצחק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qxMoKio30d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qxMoKio30d8.mp3</guid>
+   <pubDate>Sun, 09 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערי ארץ ישראל [4] | עמ"י וא"י אחד ממש! | הרב יצחק (צחי) עטיה</title>
+   <description>הרב יצחק · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=uP7UjN5-W-w</description>
+   <itunes:author>הרב יצחק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/uP7UjN5-W-w.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/uP7UjN5-W-w.mp3</guid>
+   <pubDate>Fri, 19 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערי ארץ ישראל [3] | שורש המאבק על הארץ | הרב יצחק (צחי) עטיה</title>
+   <description>הרב יצחק · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=o85uausRjd0</description>
+   <itunes:author>הרב יצחק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/o85uausRjd0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/o85uausRjd0.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערי ארץ ישראל [2] | ארץ ישראל השורש לכל המצוות חלק ב | הרב יצחק (צחי) עטיה</title>
+   <description>הרב יצחק · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=n5D9G0RxoXA</description>
+   <itunes:author>הרב יצחק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/n5D9G0RxoXA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/n5D9G0RxoXA.mp3</guid>
+   <pubDate>Tue, 09 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

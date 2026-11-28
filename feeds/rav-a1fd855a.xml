@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב חגי לונדין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a1fd855a.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב חגי לונדין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב חגי לונדין | שיעור להושענא רבה</title>
+   <description>הרב חגי לונדין · ישיבת נצר מטעי · הלכה</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://media.transistor.fm/cb7da07b/7575984f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cb7da07b/7575984f.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדר פסח עם הרב חגי לונדין והרב חיים סאסי</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7evHT4kYLU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7evHT4kYLU.mp3</guid>
+   <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין | ליל הושענא רבה | תשפ"ו</title>
+   <description>הרב חגי לונדין · ישיבת נצר מטעי · הלכה</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://media.transistor.fm/b0538de7/9bc9774b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b0538de7/9bc9774b.mp3</guid>
+   <pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אַיֶּכָּה? – קריאה פנימית ואופטימית במגילת איכה (פרק ד-ה) | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=yetF0IHSTFc</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/yetF0IHSTFc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/yetF0IHSTFc.mp3</guid>
+   <pubDate>Wed, 26 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אַיֶּכָּה? – קריאה פנימית ואופטימית במגילת איכה (פרק ב-ג) | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=gfyAeaYey2E</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/gfyAeaYey2E.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/gfyAeaYey2E.mp3</guid>
+   <pubDate>Mon, 24 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אַיֶּכָּה? – קריאה פנימית ואופטימית במגילת איכה (פרק א) | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=S3ua5Me2iL8</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/S3ua5Me2iL8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/S3ua5Me2iL8.mp3</guid>
+   <pubDate>Wed, 19 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תומר דבורה למאה 21 | שיעור 2 – לכבד כל דבר בעולם! | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=pWegM7T8UXY</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/pWegM7T8UXY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/pWegM7T8UXY.mp3</guid>
+   <pubDate>Wed, 31 May 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תומר דבורה למאה ה – 21 | שיעור 1 – להשלים עם המצב שלי בעולם! | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=rHY5ggPmTaQ</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/rHY5ggPmTaQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/rHY5ggPmTaQ.mp3</guid>
+   <pubDate>Wed, 31 May 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מטות מסעי – מעברים בחיים | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=9dyOn5YuZtM</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9dyOn5YuZtM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9dyOn5YuZtM.mp3</guid>
+   <pubDate>Sat, 10 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עצמאות בלב | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=SpQrVmwHv_Y</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/SpQrVmwHv_Y.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/SpQrVmwHv_Y.mp3</guid>
+   <pubDate>Wed, 14 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – איך זוכרים את החללים?| יום הזיכרון לחללי צה"ל ונפגעי פעולות האיבה תשפ"א</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=bJctpeCnAXk</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bJctpeCnAXk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bJctpeCnAXk.mp3</guid>
+   <pubDate>Tue, 13 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סעודת פוריםZOOM עם הרב חגי לונדין | ה'תשפ"א</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=utlteQ1UWSc</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/utlteQ1UWSc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/utlteQ1UWSc.mp3</guid>
+   <pubDate>Fri, 26 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים – השחר מפציע | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=BTICeUhFMtc</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BTICeUhFMtc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BTICeUhFMtc.mp3</guid>
+   <pubDate>Thu, 25 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התפילה – בשביל מי? | עשרה בטבת – הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Au_11j9dlWw</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Au_11j9dlWw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Au_11j9dlWw.mp3</guid>
+   <pubDate>Thu, 24 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה טובה! אז למה שהגויים לא יקיימו אותה? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=XiCrhZCYMnQ</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XiCrhZCYMnQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XiCrhZCYMnQ.mp3</guid>
+   <pubDate>Thu, 15 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין אמת = אין א-להים? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=P6CfMbZYmHc</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/P6CfMbZYmHc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/P6CfMbZYmHc.mp3</guid>
+   <pubDate>Sun, 06 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לרחם בלי לוותר – סרטון לחודש אלול | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=Dqjhbj2uZzs</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Dqjhbj2uZzs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Dqjhbj2uZzs.mp3</guid>
+   <pubDate>Thu, 03 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרבות פנאי – ביטול תורה?? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=UusnOVBdPPI</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/UusnOVBdPPI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/UusnOVBdPPI.mp3</guid>
+   <pubDate>Tue, 04 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – איך מתמודדים עם חורבן?</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=Atbyaawa8X0</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Atbyaawa8X0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Atbyaawa8X0.mp3</guid>
+   <pubDate>Tue, 28 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתי אנחנו בוכים? | קריאת כיוון על צום י"ז בתמוז מהרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=qppGVDHt9zs</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qppGVDHt9zs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qppGVDHt9zs.mp3</guid>
+   <pubDate>Thu, 09 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אומנות – ביטוי של עולם רוחני? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=i4aAlTSxNMA</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/i4aAlTSxNMA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/i4aAlTSxNMA.mp3</guid>
+   <pubDate>Sun, 28 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – עבודת ה' בחופש ובבין הזמנים</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=bc7IgJlk-jU</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bc7IgJlk-jU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bc7IgJlk-jU.mp3</guid>
+   <pubDate>Thu, 25 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלוהים במקרא מתואר לפעמים כמאיים, האם זו כל התמונה? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=Eq_8mHXDacg</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Eq_8mHXDacg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Eq_8mHXDacg.mp3</guid>
+   <pubDate>Sun, 24 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין | עשרה ניסים בירושלים</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=XFH7IAVe8_c</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XFH7IAVe8_c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XFH7IAVe8_c.mp3</guid>
+   <pubDate>Thu, 21 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראו את השלמות | הרב חגי לונדין ליום ירושלים</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=JI-HuHOwPQM</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/JI-HuHOwPQM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/JI-HuHOwPQM.mp3</guid>
+   <pubDate>Thu, 21 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין | עשרה ניסים בירושלים</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=jpAWrXxD9XA</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/jpAWrXxD9XA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/jpAWrXxD9XA.mp3</guid>
+   <pubDate>Wed, 20 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם יש לעם ישראל ייחודיות? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=fvtOZbZobG8</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/fvtOZbZobG8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/fvtOZbZobG8.mp3</guid>
+   <pubDate>Sun, 17 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת בהר – בחוקותי | אז כמה בן אדם שווה, ומה הקשר ליום ירושלים?</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=S3FuD83Na7g</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/S3FuD83Na7g.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/S3FuD83Na7g.mp3</guid>
+   <pubDate>Fri, 15 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יוצאים מהמערה | הרב חגי לונדין על ל"ג בעומר</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=eWUzz5HAMNY</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/eWUzz5HAMNY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/eWUzz5HAMNY.mp3</guid>
+   <pubDate>Mon, 11 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חמוצים או מתוקים? איפה אנחנו ביחס למימוש החזון שלנו | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=8PdKAqHMM3Q</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8PdKAqHMM3Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8PdKAqHMM3Q.mp3</guid>
+   <pubDate>Sun, 10 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיכנס לעמדה של אקטיביות | הרב חגי לונדין על ל"ג בעומר וזמן קיץ בצל נגיף הקורונה</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=vOZByF_u-wM</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vOZByF_u-wM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vOZByF_u-wM.mp3</guid>
+   <pubDate>Sun, 10 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על קללה, ל'ג בעומר ופרשת אמור | לב הפרשה עם הרב חגי לונדין – פרשת אמור</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=3o2tc4nd8OI</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3o2tc4nd8OI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3o2tc4nd8OI.mp3</guid>
+   <pubDate>Fri, 08 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם אכפת לנו מכדור הארץ? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=J31Ip-Mbb40</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/J31Ip-Mbb40.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/J31Ip-Mbb40.mp3</guid>
+   <pubDate>Sun, 03 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג העצמאות בצל הקורונה | מאת הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=PLz-YbiIKKQ</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/PLz-YbiIKKQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/PLz-YbiIKKQ.mp3</guid>
+   <pubDate>Wed, 29 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום הזיכרון | הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=TuWcifYKUdg</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/TuWcifYKUdg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/TuWcifYKUdg.mp3</guid>
+   <pubDate>Tue, 28 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עצמאות שונה | הרב חגי לונדין על יום העצמאות</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AAASyCM52k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AAASyCM52k.mp3</guid>
+   <pubDate>Tue, 28 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גלובליזציה זה טוב? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=j9WTCOUBgOc</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/j9WTCOUBgOc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/j9WTCOUBgOc.mp3</guid>
+   <pubDate>Sat, 25 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה החידוש של תפיסת הא-לוהות היהודית? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=9zYn4WqAs-A</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9zYn4WqAs-A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9zYn4WqAs-A.mp3</guid>
+   <pubDate>Sun, 19 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לים יש סוף! | הרב חגי לונדין – שביעי של פסח</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=7Qek5UO9yEQ</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7Qek5UO9yEQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7Qek5UO9yEQ.mp3</guid>
+   <pubDate>Tue, 14 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדינת הלכה, עכשיו? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=n0v3ySJQl5o</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/n0v3ySJQl5o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/n0v3ySJQl5o.mp3</guid>
+   <pubDate>Sun, 12 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – התמודדות עם אי וודאות | ימי ספירת העומר תחת ימי הקורונה</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=e9eBEWZjJTI</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/e9eBEWZjJTI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/e9eBEWZjJTI.mp3</guid>
+   <pubDate>Sun, 12 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקראת החג | ברכת הרב חגי לונדין אליכם</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=v8IslENgteo</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/v8IslENgteo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/v8IslENgteo.mp3</guid>
+   <pubDate>Wed, 08 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם אפשר לראות את סגולת ישראל? האם אין בה התנשאות? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qRcBr5IjNw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qRcBr5IjNw.mp3</guid>
+   <pubDate>Mon, 06 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה החזון היהודי לעולם? | הרב חגי לונדין // סדרת 'לדעת להאמין'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=ts_1aEhZq2w</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ts_1aEhZq2w.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ts_1aEhZq2w.mp3</guid>
+   <pubDate>Sun, 05 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – פרשת צו | סוף העולם ושבת הגדול</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=usGEDsZRKx4</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/usGEDsZRKx4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/usGEDsZRKx4.mp3</guid>
+   <pubDate>Fri, 03 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת ויקרא | הקורבן שא-לוהים מעוניין בו</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=eXWhkwbU_vk</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/eXWhkwbU_vk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/eXWhkwbU_vk.mp3</guid>
+   <pubDate>Fri, 27 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת כי תשא – סחרור טבעי // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=oAggcMKIQ1g</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oAggcMKIQ1g.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oAggcMKIQ1g.mp3</guid>
+   <pubDate>Thu, 12 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת תצווה ופורים | לחץ חיצוני // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=sXygFtcvSuU</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/sXygFtcvSuU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/sXygFtcvSuU.mp3</guid>
+   <pubDate>Thu, 05 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת תרומה | לתת כמו ילד</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=xbIgC9xfTbA</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xbIgC9xfTbA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xbIgC9xfTbA.mp3</guid>
+   <pubDate>Thu, 27 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת משפטים | אלו-הים נמצא בפרטים הקטנים</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=TAcEIg1cr-M</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/TAcEIg1cr-M.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/TAcEIg1cr-M.mp3</guid>
+   <pubDate>Thu, 20 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת יתרו – לראות את הקולות // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=zXHB2YmrrAs</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zXHB2YmrrAs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zXHB2YmrrAs.mp3</guid>
+   <pubDate>Thu, 13 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת בשלח – עלה השרף בתוכנו // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=zPqSIVpEwsk</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zPqSIVpEwsk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zPqSIVpEwsk.mp3</guid>
+   <pubDate>Thu, 06 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לבנות עמדה נפשית שלא נלחצת ממה שאחרים חושבים | הרב חגי לונדין – כנס 'חיים בריאים בדור המדיה'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=aJlUypERaoU</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/aJlUypERaoU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/aJlUypERaoU.mp3</guid>
+   <pubDate>Wed, 05 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשמיים – אדם מגיע לבד! | הרב חגי לונדין – כנס 'חיים בריאים בדור המדיה'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=7ZrAwTOWI20</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7ZrAwTOWI20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7ZrAwTOWI20.mp3</guid>
+   <pubDate>Wed, 05 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ממה אתה מתרגש?! | הרב חגי לונדין – כנס 'חיים בריאים בדור המדיה'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=5K-sFED-4SQ</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5K-sFED-4SQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5K-sFED-4SQ.mp3</guid>
+   <pubDate>Wed, 05 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כנס 'חיים בריאים בדור המדיה' | הרב חגי לונדין – מחלת התדמית – ההתמכרות של המאה ה – 21</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=Lq0e0AtNfZs</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Lq0e0AtNfZs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Lq0e0AtNfZs.mp3</guid>
+   <pubDate>Tue, 04 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת בא – מי שאוכל לבד מת לבד | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=o-s07I-wjgA</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/o-s07I-wjgA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/o-s07I-wjgA.mp3</guid>
+   <pubDate>Thu, 30 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת וארא – העולם משתנה // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=dBxQ5SsBXHQ</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/dBxQ5SsBXHQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/dBxQ5SsBXHQ.mp3</guid>
+   <pubDate>Thu, 23 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת שמות – לצאת מהשובבו"ת | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=4X5yWnNkDK4</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/4X5yWnNkDK4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/4X5yWnNkDK4.mp3</guid>
+   <pubDate>Thu, 16 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת ויחי – סגירת מעגלים | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=lCB8WNbSZlc</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/lCB8WNbSZlc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/lCB8WNbSZlc.mp3</guid>
+   <pubDate>Thu, 09 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין | איפה היה אלוהים בשואה? חלק א'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=ghycqbTwycE</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ghycqbTwycE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ghycqbTwycE.mp3</guid>
+   <pubDate>Tue, 07 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת מקץ וחנוכה – היינו כחולמים | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=cPMUMVLBK5E</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cPMUMVLBK5E.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cPMUMVLBK5E.mp3</guid>
+   <pubDate>Thu, 26 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת וישב – עין הרע בחנוכה | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=A4UJKBHmAgY</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/A4UJKBHmAgY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/A4UJKBHmAgY.mp3</guid>
+   <pubDate>Thu, 19 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת וישלח – המתמודד האמיתי | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=o6FWObX4In4</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/o6FWObX4In4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/o6FWObX4In4.mp3</guid>
+   <pubDate>Thu, 12 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת ויצא – פרשה של מלאכים | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=1Bphta2bR24</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1Bphta2bR24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1Bphta2bR24.mp3</guid>
+   <pubDate>Thu, 05 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת תולדות – פשטות | ה'תשף' // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=d-pOZP-hDhY</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/d-pOZP-hDhY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/d-pOZP-hDhY.mp3</guid>
+   <pubDate>Thu, 28 Nov 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת חיי שרה – שיחתם של עבדי – אבות | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=G_VwVW27wn8</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/G_VwVW27wn8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/G_VwVW27wn8.mp3</guid>
+   <pubDate>Thu, 21 Nov 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת וירא – גן העדן האבוד | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=mMQ0ao3Wt80</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mMQ0ao3Wt80.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mMQ0ao3Wt80.mp3</guid>
+   <pubDate>Thu, 14 Nov 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת לך לך – נגד הזרם | ה'תשף' // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=KBmDyDiQlWg</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/KBmDyDiQlWg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/KBmDyDiQlWg.mp3</guid>
+   <pubDate>Thu, 07 Nov 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת נח – שהעולם קורס | ה'תשף' // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=oyPL5qtWeo0</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oyPL5qtWeo0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oyPL5qtWeo0.mp3</guid>
+   <pubDate>Thu, 31 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת בראשית ה'תשף' // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ELVj6VnOqs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ELVj6VnOqs.mp3</guid>
+   <pubDate>Thu, 24 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת האזינו – טל, מטר, לולב וסוכה | ה'תשף'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=kemMPxMxJmo</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kemMPxMxJmo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kemMPxMxJmo.mp3</guid>
+   <pubDate>Thu, 10 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין כסה לעשור – סוגרים עשור | הרב חגי לונדין // Between Cese to Asor | HaRav Hagay Lundin</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=qV7omcmvae4</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qV7omcmvae4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qV7omcmvae4.mp3</guid>
+   <pubDate>Sun, 06 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת וילך – שיר של יום הכיפורים | ה'תשפ'</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=3ponkVJp0mM</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3ponkVJp0mM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3ponkVJp0mM.mp3</guid>
+   <pubDate>Fri, 04 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין – לב הפרשה – פרשת ניצבים וראש השנה | ה'תש'פ // HaRav Hagay Lundin – Parashath Shavua</title>
+   <description>הרב חגי לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=mGh-DC1a-fw</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mGh-DC1a-fw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mGh-DC1a-fw.mp3</guid>
+   <pubDate>Thu, 26 Sep 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה היסטורית-רוחנית לל"ג בעומר- הרב חגי לונדין</title>
+   <description>הרב חגי לונדין · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/2681.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/2681.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

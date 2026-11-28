@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שמואל גלייזר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e57fbd52.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שמואל גלייזר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>תולדות - מכירת הבכורה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/129339481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436599291-44100-2-001dc146d77878.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/129339481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436599291-44100-2-001dc146d77878.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - ויצא יצחק לשוח בשדה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/128908070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2Fdb82dce6-3670-c0a7-f080-8cbb5698e471.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/128908070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2Fdb82dce6-3670-c0a7-f080-8cbb5698e471.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - אברהם ואבימלך</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/128355065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fe5d79bd8-77f0-5260-d8c0-0ab0d0ab71c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/128355065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fe5d79bd8-77f0-5260-d8c0-0ab0d0ab71c7.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - נבואת ברית בין הבתרים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/127913162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fc0c2f4be-65c1-b2a6-c665-39fa8299b0c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/127913162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fc0c2f4be-65c1-b2a6-c665-39fa8299b0c0.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - שכרותו של נח</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/127528482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F3300771d-21d6-a1c7-f7d4-141f80983bf3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/127528482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F3300771d-21d6-a1c7-f7d4-141f80983bf3.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה להושענות: הושע נא – למען מי? | הרב שמואל גלייזר | סוכות תשפ"ז</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/126023429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432283809-44100-2-1d0de68b65608.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/126023429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432283809-44100-2-1d0de68b65608.mp3</guid>
+   <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניצבים וילך - התשובה והגאולה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/125167773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F63623c95-999a-961b-af41-20ba7c7a1eb4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/125167773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F63623c95-999a-961b-af41-20ba7c7a1eb4.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא - ארורים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/124819624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2Fa9e1f491-2f34-954b-881d-265b9a5f5bc8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/124819624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2Fa9e1f491-2f34-954b-881d-265b9a5f5bc8.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שלמה זלמן אויערבך</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/123085604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-20%2Fcf98a6d7-7677-dc77-c319-ae5672e216e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/123085604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-20%2Fcf98a6d7-7677-dc77-c319-ae5672e216e0.mp3</guid>
+   <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים - משה וישראל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/122952201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F2fc85e4f-3e84-3162-b25c-912474e8c6a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/122952201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F2fc85e4f-3e84-3162-b25c-912474e8c6a5.mp3</guid>
+   <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב משה פינשטיין</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/122778281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2Fbfa898a9-623c-15a4-d1f3-35b8fd4d44c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/122778281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2Fbfa898a9-623c-15a4-d1f3-35b8fd4d44c0.mp3</guid>
+   <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות מסעי- הורשתם את הארץ</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/122602225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2Fe241aa2b-28a8-8884-f2aa-55fcfc97fbd3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/122602225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2Fe241aa2b-28a8-8884-f2aa-55fcfc97fbd3.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השרידי אש</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/122459203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2Fbab3416c-d12d-dd2c-b797-f8b97193f290.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/122459203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2Fbab3416c-d12d-dd2c-b797-f8b97193f290.mp3</guid>
+   <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנחס - קרבן התמיד</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/122328495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-3%2Ff38ee4de-f39c-fa96-f363-d04d597bb56e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/122328495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-3%2Ff38ee4de-f39c-fa96-f363-d04d597bb56e.mp3</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החזון איש</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/122149563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-29%2F3ee16509-a21b-effb-8879-4e914b3ac0dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/122149563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-29%2F3ee16509-a21b-effb-8879-4e914b3ac0dc.mp3</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק- בלעם המלאך והאתון</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/122023944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-26%2Ffc7b5618-ec8d-8e5a-18e3-198358959b31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/122023944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-26%2Ffc7b5618-ec8d-8e5a-18e3-198358959b31.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי שלום משאש</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/121842497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-22%2F8ff45295-1c4f-1775-dbdf-020d92e5350d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/121842497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-22%2F8ff45295-1c4f-1775-dbdf-020d92e5350d.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוקת - מרים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/121661169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F4d88cdea-02c3-a78c-5414-8c52cce274eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/121661169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F4d88cdea-02c3-a78c-5414-8c52cce274eb.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עובדיה יוסף</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/121525776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-15%2Fcc3be5a8-3b7a-bc29-dafb-98c980536104.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/121525776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-15%2Fcc3be5a8-3b7a-bc29-dafb-98c980536104.mp3</guid>
+   <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח- כל העדה כולם קדושים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/121373904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-12%2Fa3c8d528-40d5-7862-adf2-64224620055a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/121373904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-12%2Fa3c8d528-40d5-7862-adf2-64224620055a.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח - המקושש</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/121044671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-5%2F193b25ca-4aa7-37a6-1e8a-b69db888984d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/121044671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-5%2F193b25ca-4aa7-37a6-1e8a-b69db888984d.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב בן ציון מאיר חי עוזיאל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/120849916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-1%2F48c6e326-8d41-dd03-8647-336b1118ad10.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/120849916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-1%2F48c6e326-8d41-dd03-8647-336b1118ad10.mp3</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ר' משה כלפון הכהן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/120517355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-25%2Fb16aba91-6bed-d529-7d82-e305144a0df8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/120517355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-25%2Fb16aba91-6bed-d529-7d82-e305144a0df8.mp3</guid>
+   <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשא - נזיר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/120322385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-21%2F9774b965-c573-1d00-5cee-3ba324a3ab1a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/120322385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-21%2F9774b965-c573-1d00-5cee-3ba324a3ab1a.mp3</guid>
+   <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי שמעון שקאפ</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/120180776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-18%2Fa3d5e9a5-6f34-e45c-0c1b-e4ed45667db0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/120180776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-18%2Fa3d5e9a5-6f34-e45c-0c1b-e4ed45667db0.mp3</guid>
+   <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר - שבט לוי</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/120112367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2Fd31bacfc-cb25-d4b7-2d3b-4fe9fb98714f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/120112367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2Fd31bacfc-cb25-d4b7-2d3b-4fe9fb98714f.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אברהם יצחק הכהן קוק</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/119833946/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F796e834d-5932-6d0f-cd86-ce66a3f51bde.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/119833946/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-11%2F796e834d-5932-6d0f-cd86-ce66a3f51bde.mp3</guid>
+   <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר בחקתי - הברכות</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/119635913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-7%2F4e735784-cfc9-1109-517f-3565dcc7f641.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/119635913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-7%2F4e735784-cfc9-1109-517f-3565dcc7f641.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ר' שמחה מאיר הכהן מדווינסק</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/119467169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-4%2Fc94d87aa-db70-8c5a-f502-a42bf8a153d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/119467169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-4%2Fc94d87aa-db70-8c5a-f502-a42bf8a153d0.mp3</guid>
+   <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור-קורבן העומר ושתי הלחם</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/119227804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-29%2F2ee5913c-57bd-2f3a-91d7-ba5df7f39385.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/119227804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-29%2F2ee5913c-57bd-2f3a-91d7-ba5df7f39385.mp3</guid>
+   <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ר' חיים הלוי מבריסק</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/119122503/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-27%2F6da646a2-9bb4-e027-68cc-b29a4106981b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/119122503/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-27%2F6da646a2-9bb4-e027-68cc-b29a4106981b.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות-קדושים – מעשה ארץ מצרים וארץ כנען</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/118921168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-23%2Fe52e578c-c12c-8c6a-e3fa-855d44ef1845.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/118921168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-23%2Fe52e578c-c12c-8c6a-e3fa-855d44ef1845.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשנה ברורה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/118744058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-20%2Fee062282-1b1b-d896-b0d6-790b175d2199.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/118744058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-20%2Fee062282-1b1b-d896-b0d6-790b175d2199.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא – מנחת נדבה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/117219618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-20%2F776c0da4-abed-218a-88b7-f37446a9472b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/117219618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-20%2F776c0da4-abed-218a-88b7-f37446a9472b.mp3</guid>
+   <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/116640885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F4d9c99b9-f003-d86f-4f97-85585d123166.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/116640885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F4d9c99b9-f003-d86f-4f97-85585d123166.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערוך השולחן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/117018922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F260c95d3-cfde-212b-55ce-cf7081020d5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/117018922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F260c95d3-cfde-212b-55ce-cf7081020d5a.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל פקודי - לא תבערו אש</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/116811208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2Ffb45c192-494a-42ce-39bf-f4e656ad41e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/116811208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2Ffb45c192-494a-42ce-39bf-f4e656ad41e1.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא: שבירת הלוחות</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/116481292/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-6%2F37c1b87d-4329-a0da-bb23-153bbee9c8dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/116481292/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-6%2F37c1b87d-4329-a0da-bb23-153bbee9c8dd.mp3</guid>
+   <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה: תכלית המשכן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/116128912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2Ff6d385b9-6b0a-50ae-91c1-76103ff56b26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/116128912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2Ff6d385b9-6b0a-50ae-91c1-76103ff56b26.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אבני נזר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/116090122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F6b9adbf5-5273-22dc-f5aa-14dd115b4e03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/116090122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F6b9adbf5-5273-22dc-f5aa-14dd115b4e03.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לקריאת מגילה | הרב שמואל גלייזר והרב גלעד פלמר | פורים תשפ"ו</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/116014021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-25%2F418787693-44100-2-436764e090bba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/116014021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-25%2F418787693-44100-2-436764e090bba.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה: ארון העדות</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/115734872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F2298dba9-c37e-6be3-7a60-616d07591633.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/115734872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F2298dba9-c37e-6be3-7a60-616d07591633.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ר' יצחק אלחנן ספקטור</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/115596576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-16%2Ffa1b9454-0639-a5cc-cbec-f41bac1cedbb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/115596576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-16%2Ffa1b9454-0639-a5cc-cbec-f41bac1cedbb.mp3</guid>
+   <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים: הנה אנוכי שולח מלאך</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/115447583/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-13%2Fd0946a02-b6b8-741b-5977-f7c709bfa50e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/115447583/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-13%2Fd0946a02-b6b8-741b-5977-f7c709bfa50e.mp3</guid>
+   <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנציב</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/115258992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-9%2F74e3593c-3053-5f09-04fc-373cfcb499b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/115258992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-9%2F74e3593c-3053-5f09-04fc-373cfcb499b6.mp3</guid>
+   <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו: זמנו של סיפור יתרו</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/115019024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-4%2F5311701c-1ab1-e323-e9a9-435d93f09663.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/115019024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-4%2F5311701c-1ab1-e323-e9a9-435d93f09663.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי יעקב אטלינגר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/114924895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F268124ce-e1bb-7bfa-e5ee-38dbfa7a9e8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/114924895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F268124ce-e1bb-7bfa-e5ee-38dbfa7a9e8a.mp3</guid>
+   <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח: מרה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/114732850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F1cd9e8f8-d839-fabc-3eeb-5f410bc5fd94.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/114732850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F1cd9e8f8-d839-fabc-3eeb-5f410bc5fd94.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המנחת חינוך</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/114587183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-26%2F9b34b4eb-0021-fe6d-2709-23e366efa8e7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/114587183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-26%2F9b34b4eb-0021-fe6d-2709-23e366efa8e7.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא: מכת ארבה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/114388934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-22%2F5f81fc64-c4b5-c77b-2fc6-58347169d82c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/114388934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-22%2F5f81fc64-c4b5-c77b-2fc6-58347169d82c.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השואל ומשיב</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/114268422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2Fa9fd5202-e927-fb68-b1d5-b114a1ceeba6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/114268422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2Fa9fd5202-e927-fb68-b1d5-b114a1ceeba6.mp3</guid>
+   <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי שלמה קלוגר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/113881838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415b7d81-7572-2669-1428-e3c11694dc1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/113881838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415b7d81-7572-2669-1428-e3c11694dc1d.mp3</guid>
+   <pubDate>Mon, 12 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות: הולדת משה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/113687003/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2Ff6ba3d3e-e7a9-e2e0-aaf1-32b1471121a8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/113687003/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2Ff6ba3d3e-e7a9-e2e0-aaf1-32b1471121a8.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנחלת דוד</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/113536124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-5%2F3eb1c17a-13e8-bf07-62f9-e2f794eede4b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/113536124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-5%2F3eb1c17a-13e8-bf07-62f9-e2f794eede4b.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי: הציווי על קבורת יעקב</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/113394260/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-2%2Ff20de6ba-2d35-dc3e-ca4a-a28509da7eda.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/113394260/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-2%2Ff20de6ba-2d35-dc3e-ca4a-a28509da7eda.mp3</guid>
+   <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהרצ חיות</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/113277064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-30%2F8345a1e9-f25a-3050-b00a-1adb19a02981.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/113277064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-30%2F8345a1e9-f25a-3050-b00a-1adb19a02981.mp3</guid>
+   <pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש: ארץ גושן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/113126350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F0dfbeac1-e976-5dff-1b1b-762624c0b4bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/113126350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F0dfbeac1-e976-5dff-1b1b-762624c0b4bd.mp3</guid>
+   <pubDate>Fri, 26 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבן איש חי</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/113073180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-24%2F32cfd1dc-2c40-f959-278d-f7ddbf59b147.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/113073180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-24%2F32cfd1dc-2c40-f959-278d-f7ddbf59b147.mp3</guid>
+   <pubDate>Wed, 24 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב: בניו של יהודה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/112531807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-12%2F6692fe2b-e9f4-1848-b618-8be09131ca9f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/112531807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-12%2F6692fe2b-e9f4-1848-b618-8be09131ca9f.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ר' יעקב שאול אלישר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/112323624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-8%2F2166751b-74f5-79aa-4012-6bd8ddc0a0af.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/112323624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-8%2F2166751b-74f5-79aa-4012-6bd8ddc0a0af.mp3</guid>
+   <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח: המפגש עם עשו</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/112177975/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-5%2F3f480c3c-a7c1-8109-2082-bad877842517.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/112177975/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-5%2F3f480c3c-a7c1-8109-2082-bad877842517.mp3</guid>
+   <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השדי חמד</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/111971495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F7e505b3b-da49-fbe9-c42b-27afa46856b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/111971495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2F7e505b3b-da49-fbe9-c42b-27afa46856b4.mp3</guid>
+   <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא: הגעת יעקב לחרן והמפגש עם רחל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/111790186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-27%2F749dc0e9-da20-e713-fe9d-28a8cb5a90ba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/111790186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-27%2F749dc0e9-da20-e713-fe9d-28a8cb5a90ba.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשמרות כהונה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/111644457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-24%2Fe2780119-b83d-8932-7e1f-0ae081c9f490.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/111644457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-24%2Fe2780119-b83d-8932-7e1f-0ae081c9f490.mp3</guid>
+   <pubDate>Mon, 24 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות: התגלויות ה' ליצחק</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/111498353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F077236fa-aba3-ec12-b9d7-ef410a62aa11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/111498353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F077236fa-aba3-ec12-b9d7-ef410a62aa11.mp3</guid>
+   <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי חיים פלאג'י</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/111310784/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-17%2F2186b9d4-9ff1-7243-91d8-cfa18b494d2a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/111310784/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-17%2F2186b9d4-9ff1-7243-91d8-cfa18b494d2a.mp3</guid>
+   <pubDate>Mon, 17 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה: עם מי להתחתן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/111168067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-14%2F142ee2a7-e953-2b65-514f-981b0b5123a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/111168067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-14%2F142ee2a7-e953-2b65-514f-981b0b5123a9.mp3</guid>
+   <pubDate>Fri, 14 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר מרדכי</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/110973958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-10%2Fa7f37af0-6c95-3e47-39e2-65c60818c59a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/110973958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-10%2Fa7f37af0-6c95-3e47-39e2-65c60818c59a.mp3</guid>
+   <pubDate>Mon, 10 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא: המכסה אני מאברהם</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/110801903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-6%2Fd2ee341c-e852-fa29-1454-df3030cd6543.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/110801903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-6%2Fd2ee341c-e852-fa29-1454-df3030cd6543.mp3</guid>
+   <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החיי אדם</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/110633523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-3%2Fd68484bf-cbd1-151c-ac74-5966b7d559da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/110633523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-3%2Fd68484bf-cbd1-151c-ac74-5966b7d559da.mp3</guid>
+   <pubDate>Mon, 03 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך: ישמעאל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/110482034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-31%2F3e6b41ef-e6d2-c2d9-03ba-23d2ce410758.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/110482034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-31%2F3e6b41ef-e6d2-c2d9-03ba-23d2ce410758.mp3</guid>
+   <pubDate>Fri, 31 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החתם סופר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/110285602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-27%2F395051c9-38c9-4422-235a-a774258a8365.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/110285602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-27%2F395051c9-38c9-4422-235a-a774258a8365.mp3</guid>
+   <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח: דמותו של נח</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/110143900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-24%2F713907f2-6608-7c46-5589-17054332bffd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/110143900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-24%2F713907f2-6608-7c46-5589-17054332bffd.mp3</guid>
+   <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שמואל גלייזר - זמנו של שמיני עצרת | באור פניך יהלכון - פודקאסט לחגי תשרי</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/10974edd4/podcast/play/109006984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408394944-44100-2-352e5999d264f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10974edd4/podcast/play/109006984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408394944-44100-2-352e5999d264f.mp3</guid>
+   <pubDate>Sun, 12 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי עקיבא איגר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/109029267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F202a5af1-eb08-5725-66fc-a98807be6b44.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/109029267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F202a5af1-eb08-5725-66fc-a98807be6b44.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וילך: הן קרבו ימיך למות</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/108842949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-26%2F34878460-8480-3c8d-b220-18e634ea689c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/108842949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-26%2F34878460-8480-3c8d-b220-18e634ea689c.mp3</guid>
+   <pubDate>Fri, 26 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נצבים: כי המצוה הזאת</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/108523964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F786e137e-21a8-ad5c-62e6-9b3042bd9748.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/108523964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F786e137e-21a8-ad5c-62e6-9b3042bd9748.mp3</guid>
+   <pubDate>Fri, 19 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות המשפט</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/108383214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-16%2Fcca8dad9-bd10-eb4c-72a3-13fb756f0e56.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/108383214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-16%2Fcca8dad9-bd10-eb4c-72a3-13fb756f0e56.mp3</guid>
+   <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא: היום הזה נהיית לעם</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/108110951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-10%2Fe0149d1e-470c-5df3-7721-d749647d87a8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/108110951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-10%2Fe0149d1e-470c-5df3-7721-d749647d87a8.mp3</guid>
+   <pubDate>Wed, 10 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קצות החושן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/108014820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-8%2F314375ea-0c2a-9c84-f726-37a309ac55a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/108014820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-8%2F314375ea-0c2a-9c84-f726-37a309ac55a9.mp3</guid>
+   <pubDate>Mon, 08 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא: ריבית</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/107881858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F08a6ec28-8089-fdd6-ce79-f534741891cc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/107881858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F08a6ec28-8089-fdd6-ce79-f534741891cc.mp3</guid>
+   <pubDate>Fri, 05 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ע הרב</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/107694375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-2%2F70613b10-b8d5-ee1c-3fba-363f13342e1e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/107694375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-2%2F70613b10-b8d5-ee1c-3fba-363f13342e1e.mp3</guid>
+   <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים: כי תצא למלחמה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/107515285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-29%2F2c4cd021-bb03-b4fd-5c61-0f068fa170fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/107515285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-29%2F2c4cd021-bb03-b4fd-5c61-0f068fa170fa.mp3</guid>
+   <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חכמי תימן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/106066104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-27%2F2e7d6ff4-87dd-fdb6-ba74-d717607d1774.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/106066104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-27%2F2e7d6ff4-87dd-fdb6-ba74-d717607d1774.mp3</guid>
+   <pubDate>Sun, 27 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות - מסעי: בני גד ובני ראובן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/105938290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F54ad0c49-6766-c79f-fa45-5c9e7bd4ffb6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/105938290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F54ad0c49-6766-c79f-fa45-5c9e7bd4ffb6.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החידא</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/105747531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-20%2F9b2f41d8-ddc7-b3ce-8711-b131581cba59.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/105747531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-20%2F9b2f41d8-ddc7-b3ce-8711-b131581cba59.mp3</guid>
+   <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנחס: בנות צלפחד</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/105578513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-16%2F9b80524d-5ca2-ab06-2738-b896d97cbbc5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/105578513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-16%2F9b80524d-5ca2-ab06-2738-b896d97cbbc5.mp3</guid>
+   <pubDate>Wed, 16 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי דוד פארדו</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/105433411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2Fa14e397c-0f9e-adef-9281-35d1ac098a9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/105433411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2Fa14e397c-0f9e-adef-9281-35d1ac098a9a.mp3</guid>
+   <pubDate>Sun, 13 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק: עם כלביא יקום</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/105263243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-9%2Fcdd1fba3-fdd7-3d00-fc39-48a85fdc9302.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/105263243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-9%2Fcdd1fba3-fdd7-3d00-fc39-48a85fdc9302.mp3</guid>
+   <pubDate>Wed, 09 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי יהודה עייאש</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/105102742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-6%2F8d4c3ff2-f069-3f68-3049-43b39b782a63.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/105102742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-6%2F8d4c3ff2-f069-3f68-3049-43b39b782a63.mp3</guid>
+   <pubDate>Sun, 06 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חקת: ישראל ואדום</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/104990454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-3%2F8783d8ef-8c0f-2c85-71c6-955d3c84ef99.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/104990454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-3%2F8783d8ef-8c0f-2c85-71c6-955d3c84ef99.mp3</guid>
+   <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי חיים בן עטר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/104791628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-29%2F5b5383cd-846b-5619-5142-6cec01396c78.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/104791628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-29%2F5b5383cd-846b-5619-5142-6cec01396c78.mp3</guid>
+   <pubDate>Sun, 29 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח: דתן ואבירם</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/104676774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-26%2F57e3d63a-4436-86b7-8c45-27902d1dcddb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/104676774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-26%2F57e3d63a-4436-86b7-8c45-27902d1dcddb.mp3</guid>
+   <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגר"א</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/104479482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-22%2F69dab669-470e-b54a-c7cf-61381523156b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/104479482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-22%2F69dab669-470e-b54a-c7cf-61381523156b.mp3</guid>
+   <pubDate>Sun, 22 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח: המעפילים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/104367059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F3cab93f1-3839-747c-1e0c-dd76223e64e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/104367059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F3cab93f1-3839-747c-1e0c-dd76223e64e5.mp3</guid>
+   <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנודע ביהודה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/104163524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-15%2F5d630796-30ae-4a14-0569-6bd32658f867.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/104163524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-15%2F5d630796-30ae-4a14-0569-6bd32658f867.mp3</guid>
+   <pubDate>Sun, 15 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך: פסח שני</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/104035446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F396f6c39-4d3a-fb69-f5f5-58b9fa17783f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/104035446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F396f6c39-4d3a-fb69-f5f5-58b9fa17783f.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשא: שילוח טמאים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/103826896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-8%2F3558f8c3-16d6-6515-097f-462e8988e738.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/103826896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-8%2F3558f8c3-16d6-6515-097f-462e8988e738.mp3</guid>
+   <pubDate>Sun, 08 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפרי מגדים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/103829812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-8%2F26b07301-3954-66dc-4d31-02f05bca6819.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/103829812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-8%2F26b07301-3954-66dc-4d31-02f05bca6819.mp3</guid>
+   <pubDate>Sun, 08 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר: יוצא צבא</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/103389441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F5e26f115-0a7a-372c-3199-776bd5382710.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/103389441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F5e26f115-0a7a-372c-3199-776bd5382710.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר - בחוקותי: בהר סיני</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/103066025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-22%2Ffd2449ee-7348-083f-9960-8a8d92945e61.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/103066025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-22%2Ffd2449ee-7348-083f-9960-8a8d92945e61.mp3</guid>
+   <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השאגת אריה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/102828944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-18%2F0b285cc7-185d-8919-a0bd-a0dff5222958.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/102828944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-18%2F0b285cc7-185d-8919-a0bd-a0dff5222958.mp3</guid>
+   <pubDate>Sun, 18 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור: המקלל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/102710114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-15%2Fa90b165a-3f50-973c-0cfa-074218267a4e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/102710114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-15%2Fa90b165a-3f50-973c-0cfa-074218267a4e.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ר' יהונתן אייבשיץ</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/102498637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-11%2Fff43f382-c629-b231-9b85-d6706eb5be20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/102498637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-11%2Fff43f382-c629-b231-9b85-d6706eb5be20.mp3</guid>
+   <pubDate>Sun, 11 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות קדושים: ערלה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/102373758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-8%2F3f6c0d93-c54c-5a73-1d0a-766628bef2e9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/102373758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-8%2F3f6c0d93-c54c-5a73-1d0a-766628bef2e9.mp3</guid>
+   <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפני יהושע</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/102195225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-5%2Fd9c263d2-76fb-67a3-9bd7-40a931b332be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/102195225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-5%2Fd9c263d2-76fb-67a3-9bd7-40a931b332be.mp3</guid>
+   <pubDate>Mon, 05 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יעקב ריישר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/100634228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-31%2Fe6bb05e6-89d7-40e2-fcde-bffec6a623ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/100634228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-31%2Fe6bb05e6-89d7-40e2-fcde-bffec6a623ac.mp3</guid>
+   <pubDate>Mon, 31 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי: וכבוד ה' מלא את המשכן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/100464813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F40c7d870-23a6-4e8f-5991-458b5bc5ef3c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/100464813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F40c7d870-23a6-4e8f-5991-458b5bc5ef3c.mp3</guid>
+   <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החכם צבי</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/100262923/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-23%2Fbbbf4c71-a43a-3854-8b53-740796b94554.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/100262923/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-23%2Fbbbf4c71-a43a-3854-8b53-740796b94554.mp3</guid>
+   <pubDate>Sun, 23 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל: בצלאל ואהליאב</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/100139698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-20%2Fc7e8a601-eff4-e4f3-7fa7-8a01f36d1bd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/100139698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-20%2Fc7e8a601-eff4-e4f3-7fa7-8a01f36d1bd2.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנה למלך</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/99947175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-16%2F02b9c1ae-6cc4-f2d5-daaa-760e386eae1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/99947175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-16%2F02b9c1ae-6cc4-f2d5-daaa-760e386eae1d.mp3</guid>
+   <pubDate>Sun, 16 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי משה בן חביב</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/99591080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-9%2F63b224ff-4d5b-73c6-c77d-77d7b8b666e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/99591080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-9%2F63b224ff-4d5b-73c6-c77d-77d7b8b666e0.mp3</guid>
+   <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המן ומרדכי: דרכה של הנהגה – הרב שמואל גלייזר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/101f134c8/podcast/play/99480159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F396104280-44100-2-2145596ec4b75.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/101f134c8/podcast/play/99480159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F396104280-44100-2-2145596ec4b75.mp3</guid>
+   <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצווה: בגדים עם מילים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/99480065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F95aef143-5411-cdb5-42cd-d8d200ec47d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/99480065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F95aef143-5411-cdb5-42cd-d8d200ec47d7.mp3</guid>
+   <pubDate>Thu, 06 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרי חדש</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/99299140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-3%2Fd02d9d97-68df-3595-aec3-dc84b2e7cc3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/99299140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-3%2Fd02d9d97-68df-3595-aec3-dc84b2e7cc3d.mp3</guid>
+   <pubDate>Mon, 03 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה: נדבת הלב</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/99125774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2Fabca9206-0a51-7a31-402c-b3695179762f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/99125774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2Fabca9206-0a51-7a31-402c-b3695179762f.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כנסת הגדולה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/98912619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-23%2F4dd62515-0ca7-a264-d0ac-a184a2b6e6c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/98912619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-23%2F4dd62515-0ca7-a264-d0ac-a184a2b6e6c2.mp3</guid>
+   <pubDate>Sun, 23 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים: גר, אלמנה, יתום ועני</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/98781634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-20%2Fcb371cb5-d0c5-a366-f818-538e7d208d46.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/98781634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-20%2Fcb371cb5-d0c5-a366-f818-538e7d208d46.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהרי"ט</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/98588581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-16%2F57457e46-c291-6d12-62b4-2fafc6b9e197.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/98588581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-16%2F57457e46-c291-6d12-62b4-2fafc6b9e197.mp3</guid>
+   <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו: סדר האירועים במעמד הר סיני</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/98451565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F5b1d5b26-f567-caf5-1413-85ccdd7390d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/98451565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F5b1d5b26-f567-caf5-1413-85ccdd7390d0.mp3</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תוספות יו"ט</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/98271661/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-10%2Fc6dfe2d5-641b-0b1c-a190-418536c5fe3e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/98271661/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-10%2Fc6dfe2d5-641b-0b1c-a190-418536c5fe3e.mp3</guid>
+   <pubDate>Mon, 10 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח: מלחמת עמלק</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/98126157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2Fc96ff495-7e50-362a-ef07-037b3f65864d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/98126157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2Fc96ff495-7e50-362a-ef07-037b3f65864d.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהרש"א</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/97907198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-2%2Fe1542bf5-75ee-6725-5b34-b8ab0188bb03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/97907198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-2%2Fe1542bf5-75ee-6725-5b34-b8ab0188bb03.mp3</guid>
+   <pubDate>Sun, 02 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא: מכת בכורות</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/97787047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-30%2F450d6966-bc53-3815-1a69-68ed1759a8dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/97787047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-30%2F450d6966-bc53-3815-1a69-68ed1759a8dd.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהר"ם מלובלין</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/97596644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-26%2F134e15ac-0f4b-147c-7087-2c07d5895b4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/97596644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-26%2F134e15ac-0f4b-147c-7087-2c07d5895b4d.mp3</guid>
+   <pubDate>Sun, 26 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא: ולא שמעו אל משה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/97468889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-23%2F4f2c6605-1eb8-8de6-271a-6eebc412c2ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/97468889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-23%2F4f2c6605-1eb8-8de6-271a-6eebc412c2ec.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המג"א</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/97263311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-19%2Fb1cb13a0-91a4-e6fe-40a7-aa89715824cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/97263311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-19%2Fb1cb13a0-91a4-e6fe-40a7-aa89715824cd.mp3</guid>
+   <pubDate>Sun, 19 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות: שנאת ישראל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/97147488/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F0d7000d5-24a3-c184-2c4d-aff80481d5c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/97147488/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F0d7000d5-24a3-c184-2c4d-aff80481d5c6.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הש"ך</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/96950272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-12%2F71285b54-3f3a-7392-0f8b-2ff3ad010952.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/96950272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-12%2F71285b54-3f3a-7392-0f8b-2ff3ad010952.mp3</guid>
+   <pubDate>Sun, 12 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי: ברכות יעקב לאפרים ומנשה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/96820234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2Ff48ff8ca-d241-303d-8ef1-835891423c2b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/96820234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2Ff48ff8ca-d241-303d-8ef1-835891423c2b.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הט"ז</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/96626534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-5%2F68b29ba4-9ea2-9937-b1aa-3252ccfb4729.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/96626534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-5%2F68b29ba4-9ea2-9937-b1aa-3252ccfb4729.mp3</guid>
+   <pubDate>Sun, 05 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש: התגלות יוסף אל אחיו</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/96520306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-2%2Ff08eeb11-066b-6fdf-059b-5a00a0decd9c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/96520306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-2%2Ff08eeb11-066b-6fdf-059b-5a00a0decd9c.mp3</guid>
+   <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הב"ח</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/95856744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-15%2F5cce859c-5710-28e8-5a8f-a0cb95bb11fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/95856744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-15%2F5cce859c-5710-28e8-5a8f-a0cb95bb11fb.mp3</guid>
+   <pubDate>Sun, 15 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח: שיפוט ערכי של מעשה שמעון ולוי</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/95746566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2Fac176028-2266-c003-1d06-200d5c5054c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/95746566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2Fac176028-2266-c003-1d06-200d5c5054c2.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נושאי כלים על השו"ע, סמ"ע</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/95573655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-9%2F8d3c46a2-16cb-38b6-9db5-858e83a540b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/95573655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-9%2F8d3c46a2-16cb-38b6-9db5-858e83a540b5.mp3</guid>
+   <pubDate>Mon, 09 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא: מראה הסולם</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/95415676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2Ff69cb462-9008-6a4b-2e4b-8c6c1a3f342a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/95415676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2Ff69cb462-9008-6a4b-2e4b-8c6c1a3f342a.mp3</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלבוש</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/95203654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-1%2Ffb6f881c-76bc-e189-c621-fd8662fa64d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/95203654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-1%2Ffb6f881c-76bc-e189-c621-fd8662fa64d3.mp3</guid>
+   <pubDate>Sun, 01 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות: הברכות</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/95058544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-27%2F90af9b5c-ea26-94ff-7bd5-f1b6f32ff8c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/95058544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-27%2F90af9b5c-ea26-94ff-7bd5-f1b6f32ff8c0.mp3</guid>
+   <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי בצלאל אשכנזי</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/94888480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F6a1a34da-0025-fc35-4d01-125ab6e8100e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/94888480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F6a1a34da-0025-fc35-4d01-125ab6e8100e.mp3</guid>
+   <pubDate>Sun, 24 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה: לספוד לשרה ולבכותה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94764219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-21%2Fc395725c-95a7-8cf8-b19a-0bb7190dacbc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94764219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-21%2Fc395725c-95a7-8cf8-b19a-0bb7190dacbc.mp3</guid>
+   <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לחם משנה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/94888465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387736-48000-2-d2e2a9e2b4c1d2f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/94888465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387736-48000-2-d2e2a9e2b4c1d2f1.mp3</guid>
+   <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא: עניין הניסיון</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94418962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-14%2F34b2b312-65b2-6e8f-b28e-2f0fc51e1f00.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94418962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-14%2F34b2b312-65b2-6e8f-b28e-2f0fc51e1f00.mp3</guid>
+   <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהרשד"ם</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/94888455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387735-48000-2-7d544ac695833f29.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/94888455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387735-48000-2-7d544ac695833f29.mp3</guid>
+   <pubDate>Sun, 10 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך: מיראה לאהבה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · מוסר</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94104336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2Ff6aec7a7-d9e2-63cf-0668-b65abbd12a26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94104336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2Ff6aec7a7-d9e2-63cf-0668-b65abbd12a26.mp3</guid>
+   <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח: יצר לב האדם</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94104176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420396-48000-2-7c64f9a5c8362825.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94104176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420396-48000-2-7c64f9a5c8362825.mp3</guid>
+   <pubDate>Thu, 31 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וזאת הברכה: ברכת משה לישראל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94104178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420400-48000-2-0aeecd0a36d57055.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94104178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420400-48000-2-0aeecd0a36d57055.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המבי"ט</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/94888466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387738-48000-1-809f2b63d3dcd782.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/94888466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387738-48000-1-809f2b63d3dcd782.m4a</guid>
+   <pubDate>Sun, 06 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בקשת מחילה מהמתים – הרב שמואל גלייזר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb6ae4c8/podcast/play/92346771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-29%2Fb7bb65ce-5e3c-30c7-738f-6496134938ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb6ae4c8/podcast/play/92346771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-29%2Fb7bb65ce-5e3c-30c7-738f-6496134938ec.mp3</guid>
+   <pubDate>Tue, 01 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרדב"ז</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/94888467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387737-48000-2-eb712cb7b7e43840.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/94888467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387737-48000-2-eb712cb7b7e43840.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניצבים וילך: הסתר פנים</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94104177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420403-44100-2-c2e49e944236a8ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94104177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420403-44100-2-c2e49e944236a8ea.mp3</guid>
+   <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המהרש"ל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/94888463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387734-48000-1-94692103f5d54e86.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/94888463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387734-48000-1-94692103f5d54e86.m4a</guid>
+   <pubDate>Wed, 25 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרמ"א</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/94888454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387733-44100-1-2252f8ab808e01fd.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/94888454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387733-44100-1-2252f8ab808e01fd.m4a</guid>
+   <pubDate>Sun, 22 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי יוסף קארו</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/94888457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387741-44100-1-c4b0d8a84140c901.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/94888457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F390387741-44100-1-c4b0d8a84140c901.mp3</guid>
+   <pubDate>Sun, 22 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא - מקרא ביכורים ווידוי מעשר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94104187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420409-48000-2-981fd306df7d349a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94104187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420409-48000-2-981fd306df7d349a.mp3</guid>
+   <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא – עמוני ומואבי, אדומי ומצרי</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94104179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420399-48000-2-162fca7410865e75.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94104179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420399-48000-2-162fca7410865e75.mp3</guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שמואל גלייזר – שבועות: לקראת מה אנחנו סופרים?</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fc/d5/f5/51af354cae8e51c80863e91d14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fc/d5/f5/51af354cae8e51c80863e91d14.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההיסטוריה חוזרת - הרב שמואל גלייזר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/b0/be/1dad7b4e5f9d8632aafeacbd4b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/b0/be/1dad7b4e5f9d8632aafeacbd4b.mp3</guid>
+   <pubDate>Mon, 11 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיטות פסיקה פרק 3 - מהרש"ל | הרב שמואל גלייזר והרב יוני כהן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/79/60/1e/caaea0452c9d137e8975ec8682.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/79/60/1e/caaea0452c9d137e8975ec8682.mp3</guid>
+   <pubDate>Mon, 15 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיטות פסיקה פרק 2 - רמ"א | הרב שמואל גלייזר והרב יוני כהן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3e/db/ba/b9d47c416283eb91c454696696.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3e/db/ba/b9d47c416283eb91c454696696.mp3</guid>
+   <pubDate>Mon, 15 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיטות פסיקה פרק 1 - רבי יוסף קארו | הרב שמואל גלייזר והרב יוני כהן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2a/38/75/f357614deb8a53cda597a96ebb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2a/38/75/f357614deb8a53cda597a96ebb.mp3</guid>
+   <pubDate>Mon, 15 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא את ענינו - הרב שמואל גלייזר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c3/d5/3c/b482f045ecbbe572e9dbd37ae6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c3/d5/3c/b482f045ecbbe572e9dbd37ae6.mp3</guid>
+   <pubDate>Fri, 08 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיטת כספים - הרב שמואל גלייזר ואבישי קופרמן</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/ec/17/00359b412f9015f330a1cab871.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/ec/17/00359b412f9015f330a1cab871.m4a</guid>
+   <pubDate>Mon, 29 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרדכי היהודי - הרב שמואל גלייזר</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/34/aa/4419e34023985293d7c85b2d83.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/34/aa/4419e34023985293d7c85b2d83.mp3</guid>
+   <pubDate>Wed, 24 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שמואל גלייזר - להסתכל על חצי הכוס המאירה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/48/4d/75/7665b54659b5a3c5b9c0a15ea5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/48/4d/75/7665b54659b5a3c5b9c0a15ea5.mp3</guid>
+   <pubDate>Thu, 10 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - רבינו חננאל</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f2c48/podcast/play/4033919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-18%2F7fb633ab2a6bf76df2749ec506d9ce21.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f2c48/podcast/play/4033919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-18%2F7fb633ab2a6bf76df2749ec506d9ce21.m4a</guid>
+   <pubDate>Tue, 30 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - רב האי גאון</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f2c48/podcast/play/3757127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139298-44100-1-10acac0f8698.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f2c48/podcast/play/3757127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139298-44100-1-10acac0f8698.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - רב סעדיה גאון</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f2c48/podcast/play/3757121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139302-44100-1-ff75683a1b7ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f2c48/podcast/play/3757121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139302-44100-1-ff75683a1b7ee.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - בעל הלכות גדולות</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f2c48/podcast/play/3757118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139269-44100-1-5acb983217cb6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f2c48/podcast/play/3757118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139269-44100-1-5acb983217cb6.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - שאלתות דרב אחאי גאון</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f2c48/podcast/play/3756971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139260-44100-1-2d5b8e016b087.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f2c48/podcast/play/3756971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139260-44100-1-2d5b8e016b087.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור פתיחה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f2c48/podcast/play/3756973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139301-44100-1-31439cd798f41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f2c48/podcast/play/3756973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18139301-44100-1-31439cd798f41.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב איתיאל סופר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e003771a.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב איתיאל סופר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיעור 5 - נזקי רעש | רעש כנזק ופסיקת ההלכה</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7c4d4abb/28204ef1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7c4d4abb/28204ef1.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - נזקי רעש | הגדרת רעש כנזק</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/998246ce/c570c2b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/998246ce/c570c2b4.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - חוזה שכירות דירה לאור סוגיית דינא דמלכותא - המשך</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/fec30015/a4035dab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fec30015/a4035dab.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - חוזה שכירות דירה לאור סוגיית דינא דמלכותא</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9636e901/be78c859.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9636e901/be78c859.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב איתיאל סופר | וירא תשפ"ז</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/c7035804/84bc84aa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c7035804/84bc84aa.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - מבוא</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cf79345f/0f116545.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cf79345f/0f116545.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 | פרק ג</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f4db6018/7690f4e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f4db6018/7690f4e4.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב איתיאל סופר | שיחת הכנה לקראת ראש השנה</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2552877e/94576ba9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2552877e/94576ba9.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 | פרק ב חלק ב</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a875d1bd/363e89b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a875d1bd/363e89b4.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 | פרק ב חלק א</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8f05e817/acb01948.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8f05e817/acb01948.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 | פרק א חלק ב</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/fe8c3331/ceb426fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fe8c3331/ceb426fb.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 | פרק א חלק א</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e8768312/4f67597e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e8768312/4f67597e.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתוחי חותם | הקדמה לשו"ת חתם סופר (יורה דעה)</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/dd5be546/3daf471b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dd5be546/3daf471b.mp3</guid>
+   <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת מרכבת המשנה לרבי שלמה מחעלמא</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8d6934e4/6d4239c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8d6934e4/6d4239c2.mp3</guid>
+   <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת רבינו יעקב בעל הטורים</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4b635490/1f8bb618.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4b635490/1f8bb618.mp3</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת הספר עמוד הימני לרבי שאול ישראלי זצ"ל</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4ffa1eb7/12128141.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4ffa1eb7/12128141.mp3</guid>
+   <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת רבי חיים מוולוז'ין לביאור הגר"א על ספרא דצניעותא</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/caea9b87/72c603b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/caea9b87/72c603b3.mp3</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה לספר פאת השולחן לרבי ישראל משקלוב</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7b869deb/38a27a25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7b869deb/38a27a25.mp3</guid>
+   <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת שו"ת בית הלוי ח"א לרבי יוסף דוב הלוי סולובייצ'יק</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/5cccede1/ec908041.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5cccede1/ec908041.mp3</guid>
+   <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת הרמח"ל לספר דרך השם</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/70f0534c/eaa80e54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/70f0534c/eaa80e54.mp3</guid>
+   <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת רבינו חיים ויטאל זצ"ל לספר עץ חיים</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8c04b4a8/5333de0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8c04b4a8/5333de0d.mp3</guid>
+   <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת רב ניסים גאון לש"ס</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/760f69f3/dd63c86a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/760f69f3/dd63c86a.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת ספר הקדו"ש לרבי שלמה אלישיב זצ"ל</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/fd1ce736/ef79a770.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fd1ce736/ef79a770.mp3</guid>
+   <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמות הב"ח וערוך השולחן</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/802a6d2f/57470ba0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/802a6d2f/57470ba0.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת רבינו אברהם אבן עזרא לפירושו על התורה</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/89d89215/526b134b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/89d89215/526b134b.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אגרת המוסר לרבי ישראל מסלנט</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · מוסר</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2b98e7eb/c36d55f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2b98e7eb/c36d55f1.mp3</guid>
+   <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת ספר פני יהושע</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/22edae4a/ecf5b93f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/22edae4a/ecf5b93f.mp3</guid>
+   <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת ספר אגלי טל - חלק ב</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/399adba8/2f25bf12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/399adba8/2f25bf12.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת ספר אגלי טל - חלק א</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8f5cbef0/76958ef5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8f5cbef0/76958ef5.mp3</guid>
+   <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת הספר 'חיי אדם'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ff7c53c7/16442ec9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ff7c53c7/16442ec9.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת הספר 'שערי יושר'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6215d84b/81e1098a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6215d84b/81e1098a.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת 'שו"ת רעק"א'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/167c6bf9/52b03969.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/167c6bf9/52b03969.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת הספר 'ים של שלמה'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/74a7b756/ac764538.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/74a7b756/ac764538.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת הספר 'פחד יצחק'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a4daf4b6/10dfb713.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a4daf4b6/10dfb713.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת שו"ת 'אגרות משה'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/51429547/500aa8d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/51429547/500aa8d9.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת 'שו''ת שואל ונשאל' לרבי כלפון משה הכהן</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/75ef3f19/b003eb85.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75ef3f19/b003eb85.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת 'שו"ת אחיעזר'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/5240ff51/1a683250.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5240ff51/1a683250.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה לפירוש המשנה של הרב פינחס קהתי</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/54eee2ca/458f8b21.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/54eee2ca/458f8b21.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמות ל'ספר החינוך' ול'מנחת חינוך'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/fb812146/af612028.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fb812146/af612028.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת הספר 'פלא יועץ'</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/5e680ea1/bfc4f541.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5e680ea1/bfc4f541.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

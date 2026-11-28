@@ -1,0 +1,2721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>גמרא · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/gemara.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי גמרא מכל ישיבות ההסדר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מסכת ערכין דף י'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b69a53e1-f92e-4b68-aba9-0d3da76f0d28.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b69a53e1-f92e-4b68-aba9-0d3da76f0d28.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 8 – מסכת שביעית - היחס לעוברי עבירה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/39918f8d-2510-4cd3-b7cb-bbf26bdfd4cf.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/39918f8d-2510-4cd3-b7cb-bbf26bdfd4cf.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י"א - שירת הלויים בכלי ובפה, ומשמעותה של השירה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/130179466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F3132b104-b43b-4fd5-1ac7-76afc52285b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/130179466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F3132b104-b43b-4fd5-1ac7-76afc52285b2.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ט'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/962992af-5432-49d6-ad49-e667b8842681.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/962992af-5432-49d6-ad49-e667b8842681.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ח'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a135010a-b2bf-4404-adc8-2358d19f5fd3.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a135010a-b2bf-4404-adc8-2358d19f5fd3.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערכין ב-ז</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c2/d9/84/69e9a346108c62d9ffa3afb4a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c2/d9/84/69e9a346108c62d9ffa3afb4a6.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י' - כלי הנגינה במקדש \ אמירת ההלל והלכותיה - בחנוכה ובכלל</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/130125284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F29727b1a-0f3e-deb1-679f-4b90cb63fe34.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/130125284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F29727b1a-0f3e-deb1-679f-4b90cb63fe34.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ט' - הלוח העברי: חודשים מלאים וחסרים, משמעותם וחישוביהם</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/130050857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Fe018e88d-f5ba-34d8-03d3-7f735afe4c2b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/130050857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Fe018e88d-f5ba-34d8-03d3-7f735afe4c2b.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ח' - בעל חוב שקדם וגבה בהקדש ובהדיוט \ פתחי נידה \ מדרש משפטיך תהום רבה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/130028623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Fae466b04-b81c-0e5d-47e0-156340e843d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/130028623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Fae466b04-b81c-0e5d-47e0-156340e843d8.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדין אמירת בפ"נ ובפ"נ בשעת נתינת הגט | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/245c4fcf/e9b911c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/245c4fcf/e9b911c9.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ז'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/14315f5a-69c9-4ae0-a507-096cb30013f9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/14315f5a-69c9-4ae0-a507-096cb30013f9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת ערכין דף ו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b1b8f046-32a6-4904-8a1a-e64ebdf5ebaa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b1b8f046-32a6-4904-8a1a-e64ebdf5ebaa/stream.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e2ce3a1a-6c61-4824-be21-23df0bd3d53f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e2ce3a1a-6c61-4824-be21-23df0bd3d53f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדף היומי | מסכת ערכין | דף ז' - ערכין בגוסס וביוצא ליהרג \ פיקוח נפש בעובר \ איסור הנאה בשיער המת</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא
+וידאו: https://www.youtube.com/watch?v=PZ6AQMO8D64</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/129920780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F6304a469-c9a6-34f7-4599-6b93267663b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/129920780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F6304a469-c9a6-34f7-4599-6b93267663b5.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת ערכין דף ה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9df150c3-3e20-4835-b518-e4807c14c9f9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9df150c3-3e20-4835-b518-e4807c14c9f9/stream.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3ae66fb8-79f9-42ea-9b5c-ea8a79532335.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3ae66fb8-79f9-42ea-9b5c-ea8a79532335.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ו' - תרומת עכו"ם לבדק הבית ולבית הכנסת \ שינוי בצדקה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/129873916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F75d05a05-ad2c-45b7-4047-accfec480ff8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/129873916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F75d05a05-ad2c-45b7-4047-accfec480ff8.mp3</guid>
+   <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ה' - הקדש וערך בדבר שהנשמה תלויה בו \ ערך פחות מבן חודש והוצאת דברים לבטלה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/129860992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F16cbf95f-b4b6-858d-f856-893ca4c21e62.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/129860992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F16cbf95f-b4b6-858d-f856-893ca4c21e62.mp3</guid>
+   <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת ערכין דפים ג-ד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2107838d-41ff-45a5-8109-56c9e876bf89/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2107838d-41ff-45a5-8109-56c9e876bf89/stream.mp3</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bb53f353-0972-42ce-9ca3-68f234ff7aba.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bb53f353-0972-42ce-9ca3-68f234ff7aba.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ד' - זימון וברכת המזון באכילת קדשים \ ערכין בכהנים והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/129773884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F8e20dc28-3aa4-23d1-0b7e-2b13999620c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/129773884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F8e20dc28-3aa4-23d1-0b7e-2b13999620c4.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת ערכין דף ב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/75078576-3c84-4b2c-9cb8-13e943ac410c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/75078576-3c84-4b2c-9cb8-13e943ac410c/stream.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/22943cd0-298f-4a28-9eed-9ca6118ca707.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/22943cd0-298f-4a28-9eed-9ca6118ca707.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 7 – מסכת כלאיים - שני מינים של איסורי כלאיים</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/044847f3-1081-42c8-b546-5d3950622ee5.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/044847f3-1081-42c8-b546-5d3950622ee5.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות נז-סא</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/58/1b/ae/767aef46aea0cdfb22ee6166a1.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/58/1b/ae/767aef46aea0cdfb22ee6166a1.m4a</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדף היומי | מסכת ערכין | דף ב' - פתיחה ומבוא למסכת ערכין \ חינוך קטנים למצוות</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא
+וידאו: https://www.youtube.com/watch?v=DUisQIsKkwc</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/129644278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F7aa4c671-a743-27fb-67f7-99545577ebfd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/129644278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F7aa4c671-a743-27fb-67f7-99545577ebfd.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ג' - חיוב נשים במקרא מגילה ובזימון \ שינה בסוכה ותשבו כעין תדורו, ועוד</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11a2d5c10/podcast/play/129719227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2Fbbef3553-1f81-8c74-ee97-c075e2bc2983.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11a2d5c10/podcast/play/129719227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2Fbbef3553-1f81-8c74-ee97-c075e2bc2983.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף סא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/73739075-6a39-43b0-b0eb-7a335d82207f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/73739075-6a39-43b0-b0eb-7a335d82207f/stream.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ס''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/af41aefb-b444-4907-ad3d-7bebbc29ba5c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/af41aefb-b444-4907-ad3d-7bebbc29ba5c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ס"א - הדרן במסכת בכורות: עשירי קודש</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129644185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2Fd5691a61-0288-d248-a333-b75f75767c23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129644185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2Fd5691a61-0288-d248-a333-b75f75767c23.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף ס</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/44499f29-31c0-45cb-a76d-2512ffe8172f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/44499f29-31c0-45cb-a76d-2512ffe8172f/stream.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עלייה לרגל בזמן שאין מקדש ובזמננו | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/7cfb7966/463bbb31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7cfb7966/463bbb31.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ס'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/16ac254e-4f74-45ff-ad80-53d35a1ed6cc.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/16ac254e-4f74-45ff-ad80-53d35a1ed6cc.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bedeab2b-8c16-4572-82af-fb87488a8663/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bedeab2b-8c16-4572-82af-fb87488a8663/stream.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d7712613-0a72-4534-bb1c-9dac68fae528.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d7712613-0a72-4534-bb1c-9dac68fae528.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ס' - טעויות בספירה: קדושת תשיעי, עשירי ואחד עשר והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129505315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F474fa511-01f1-2898-d70c-cc440d84933c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129505315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F474fa511-01f1-2898-d70c-cc440d84933c.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"ט - קדושת עשירי מאליו, מניין הראוי פוטר ועוד</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129466507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F2cf3d238-74d9-4586-773e-352826b087da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129466507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F2cf3d238-74d9-4586-773e-352826b087da.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0e2dc271-505f-4497-9785-cc4a6b6b9325/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0e2dc271-505f-4497-9785-cc4a6b6b9325/stream.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3cb7cc78-6de2-49ff-95e6-b4cf55b71990.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3cb7cc78-6de2-49ff-95e6-b4cf55b71990.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות נג_נז</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/57/09/4d/a3adeb49debcbc50e111acabff.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/57/09/4d/a3adeb49debcbc50e111acabff.m4a</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"ח - מועדי הגרנות למעשר בהמה \ אופן המניין וההפרשה של מעשר בהמה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129380914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F61acbb28-4e8c-9193-4211-9f8be1a970c1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129380914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F61acbb28-4e8c-9193-4211-9f8be1a970c1.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"ז - פסולי המוקדשין במעשר בהמה \ ג' גרנות למעשר, וגדר החיוב במעשר בהמה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129363634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2Faeb47e36-b8e5-ee8b-1373-2f2c1115b716.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129363634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2Faeb47e36-b8e5-ee8b-1373-2f2c1115b716.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f30ac262-9af8-42f7-a1e9-20f4ed7555e3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f30ac262-9af8-42f7-a1e9-20f4ed7555e3/stream.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0d3e4dca-0cc0-4b88-b6f4-8f54a9331fc0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0d3e4dca-0cc0-4b88-b6f4-8f54a9331fc0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 6 – מסכת כלאים - גדרי הרחקה בכלאי זרעים</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/dd7070c8-a2a8-413a-a158-e164248ee95b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/dd7070c8-a2a8-413a-a158-e164248ee95b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5989b050-d377-4807-9a76-0e82fde3d35a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5989b050-d377-4807-9a76-0e82fde3d35a/stream.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0f2a70ec-6b8a-4ca1-adbd-e8a0f525c1c5.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0f2a70ec-6b8a-4ca1-adbd-e8a0f525c1c5.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"ו - פטור לוקח ופטור שותפים ממעשר בהמה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129285895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F08ba22c8-86d2-82b1-9c93-fa202d3af9b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129285895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F08ba22c8-86d2-82b1-9c93-fa202d3af9b2.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"ה - נהר הירדן ונהר פרת: בהלכה ובאגדה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129240964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F028afa73-ca6e-7d83-1f2c-14ec9014f54c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129240964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F028afa73-ca6e-7d83-1f2c-14ec9014f54c.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8b94abc3-559b-4324-8485-9ead41bde64d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8b94abc3-559b-4324-8485-9ead41bde64d/stream.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - חוזה שכירות דירה לאור סוגיית דינא דמלכותא - המשך</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/fec30015/a4035dab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fec30015/a4035dab.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/21af72c0-535c-4eae-9dd0-288e14eb9917.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/21af72c0-535c-4eae-9dd0-288e14eb9917.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b30dc210-c5e5-4f8c-a597-f103f0e5acfa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b30dc210-c5e5-4f8c-a597-f103f0e5acfa/stream.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עדות קיום בגיטין וקידושין | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/cc2ea66f/f2ebfa59.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cc2ea66f/f2ebfa59.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ב-נ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/12ac3c47-bfad-4244-a12e-17c5bf5e2978:473c5d46-18a7-4bae-80e3-24702ec594a8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/12ac3c47-bfad-4244-a12e-17c5bf5e2978:473c5d46-18a7-4bae-80e3-24702ec594a8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"ד - הפרשה ממין על שאינו מינו במעשר בהמה ובמעשר הארץ</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129149631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2Fff2c3c8f-56ca-8116-a975-723072455ae1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129149631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2Fff2c3c8f-56ca-8116-a975-723072455ae1.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"ג - פתיחה לפרק מעשר בהמה, והקבלת מעשר בהמה למעשר שני ולבכור</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129090310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F742d7909-03d7-366a-84a5-dc0e95600349.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129090310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F742d7909-03d7-366a-84a5-dc0e95600349.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5b0c4aeb-aade-430b-ae44-ee1156022f65/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5b0c4aeb-aade-430b-ae44-ee1156022f65/stream.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''א-נ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2bc490d1-81c7-434b-962b-ec6daea1cb1f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2bc490d1-81c7-434b-962b-ec6daea1cb1f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות מו-נב</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3d/bc/12/6ba2144b0b8898652fd04fc3ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3d/bc/12/6ba2144b0b8898652fd04fc3ad.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2135aa81-cbdb-4718-81b5-8e7d1ad3c44c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2135aa81-cbdb-4718-81b5-8e7d1ad3c44c/stream.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3b1cc7ff-1172-4b6f-b9dc-f8f2f671e8f1.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3b1cc7ff-1172-4b6f-b9dc-f8f2f671e8f1.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"ב - הלכות ירושת בכור, והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129014012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F1f15737e-c2cf-a19b-9636-0d57562eb216.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129014012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F1f15737e-c2cf-a19b-9636-0d57562eb216.mp3</guid>
+   <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ"א - פידיון הבן בשטרות כסף מזומן ובצ'ק</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/129013895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F7b754f6f-3bb1-80d1-dc8a-83f9d61c5f06.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/129013895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F7b754f6f-3bb1-80d1-dc8a-83f9d61c5f06.mp3</guid>
+   <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c6122e53-f7b7-40d9-8d08-813724a8070e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c6122e53-f7b7-40d9-8d08-813724a8070e/stream.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/45ea42be-9f8a-4dd4-a27e-4a27dfa289cb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/45ea42be-9f8a-4dd4-a27e-4a27dfa289cb/stream.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/30b9d413-ad54-476b-b5da-2e3c77071842.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/30b9d413-ad54-476b-b5da-2e3c77071842.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 5 – מסכת דמאי - במה עוסקת מסכת דמאי?</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ce352ae1-3d92-45db-8d80-65c87c420bdf.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ce352ae1-3d92-45db-8d80-65c87c420bdf.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף נ' - חמישה סלעים לפדיון הבן, ושווים המדוייק בזמננו</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128872985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2Fed2d1930-f44d-4c5b-9529-a616d49759b0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128872985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2Fed2d1930-f44d-4c5b-9529-a616d49759b0.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פשוטו של מקרא ומחלוקת ר"מ ור"א אם עדי חתימה או מסירה כרתי | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/e231fbd5/b257a1e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e231fbd5/b257a1e0.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7d9ae7d2-eca8-43e1-a84d-f912d2a49fb8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7d9ae7d2-eca8-43e1-a84d-f912d2a49fb8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"ט - מועד פדיון הבן והמתנת כ"ט י"ב תשצ"ג \ חובת האב, הבן ובי"ד בפדיון</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128778770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2Fd7e4c3fe-607d-8ec7-3274-d107b2164ee1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128778770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2Fd7e4c3fe-607d-8ec7-3274-d107b2164ee1.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1d56e030-dff8-4acc-a2c6-c1381985cf71/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1d56e030-dff8-4acc-a2c6-c1381985cf71/stream.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - חוזה שכירות דירה לאור סוגיית דינא דמלכותא</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9636e901/be78c859.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9636e901/be78c859.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/015fbcb9-1e8a-44ed-bd99-84af97668584.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/015fbcb9-1e8a-44ed-bd99-84af97668584.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות לז-מו</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/00/92/26/7d1e334b4590f53554b55ae4d3.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/00/92/26/7d1e334b4590f53554b55ae4d3.m4a</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"ח - ביסוד מצות פדיון הבן: קדושה, פדיון וחיוב ממוני</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128715324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F9c1574eb-249f-cf23-032d-741f93404d90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128715324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F9c1574eb-249f-cf23-032d-741f93404d90.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/68049088-29b6-4853-bca9-ffad89d3450d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/68049088-29b6-4853-bca9-ffad89d3450d/stream.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9c96aa02-e3a3-48dc-bec4-26415fb4c7c0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9c96aa02-e3a3-48dc-bec4-26415fb4c7c0/stream.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8e2d2250-744c-42f2-b99a-6c7f169b0706.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8e2d2250-744c-42f2-b99a-6c7f169b0706.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"ז - פדיון הבן בנכרים שהתגיירו \ פדיון הבן בניתוח קיסרי ולידת מלקחיים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128646541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F37e4baa3-20cf-0c4f-fc8e-5ddf6a3ee17f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128646541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F37e4baa3-20cf-0c4f-fc8e-5ddf6a3ee17f.mp3</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"ו - בכור לנחלה ובכור לכהונה והלכותיהם \ זיהוי פנים בבכורה ובזיהוי חללים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128601031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F30aa010e-f5a6-4946-0cbf-467c32b0d3c1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128601031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F30aa010e-f5a6-4946-0cbf-467c32b0d3c1.mp3</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8e3cdd17-2b05-44c8-a04c-45b9a1985494.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8e3cdd17-2b05-44c8-a04c-45b9a1985494.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/945979f4-ddf6-4e0a-95e8-a6163e559ae6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/945979f4-ddf6-4e0a-95e8-a6163e559ae6/stream.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6a937516-cf11-4ae1-acdc-9b7d3539c8a6.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6a937516-cf11-4ae1-acdc-9b7d3539c8a6.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"ה - השלמת מומי הכהנים, וסוגיית רמ"ח איברים שבאדם</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128520271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-31%2F2e658e2a-cabb-8cad-6b11-438068331a48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128520271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-31%2F2e658e2a-cabb-8cad-6b11-438068331a48.mp3</guid>
+   <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"ד - מומי הכוהנים בעיניים, באוזניים ובאיברים נוספים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128412654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F3529b987-6cb6-53f2-7523-4540aef92e9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128412654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F3529b987-6cb6-53f2-7523-4540aef92e9a.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cdf02c03-e1e1-4d1c-a556-59b835b5b0e3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cdf02c03-e1e1-4d1c-a556-59b835b5b0e3/stream.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''א-מ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0b6709b1-471c-4564-913a-a9a588aaf77f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0b6709b1-471c-4564-913a-a9a588aaf77f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 4 – מסכת פאה - מה בין מתנות עניים שבשדה למעשר עני ולקופה ותמחוי?</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/69e19d7c-a805-4ea0-bb55-0480ed1060cf.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/69e19d7c-a805-4ea0-bb55-0480ed1060cf.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"ג - פתיחה לסוגיות מומי כהנים: גוף שבור ולב שבור</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128373902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fbe755dd3-05f9-08de-a91e-54c9c084e999.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128373902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fbe755dd3-05f9-08de-a91e-54c9c084e999.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"ב - טומטום ואנדרוגינוס והלכותיהם</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128338657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fe355296a-9f0b-e7d0-5302-8d706b5fbea3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128338657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Fe355296a-9f0b-e7d0-5302-8d706b5fbea3.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0e8f9e74-466c-42f7-9492-78e91f62fee9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0e8f9e74-466c-42f7-9492-78e91f62fee9/stream.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ'-מ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f6dc949c-b11d-4c4f-80dd-c760c93004a9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f6dc949c-b11d-4c4f-80dd-c760c93004a9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ"א - זקן, חולה, מזוהם ושחין; ומומים נוספים להקרבה במקדש אבל לא במדינה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128242291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F6c820648-f249-cf6f-13d4-71cdcf4cadfd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128242291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F6c820648-f249-cf6f-13d4-71cdcf4cadfd.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/74a1642a-76cc-437a-896c-21aea10cd2e2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/74a1642a-76cc-437a-896c-21aea10cd2e2/stream.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כתב ידו בגיטין בקידושין ובשטרי ממון | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/41d955b4/00c39da0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/41d955b4/00c39da0.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e067e9e6-18d5-49a4-b26c-ef91f235a180.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e067e9e6-18d5-49a4-b26c-ef91f235a180.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d0288bfb-a119-48ce-860a-2c249f6154b9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d0288bfb-a119-48ce-860a-2c249f6154b9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף מ' - מומי איברי ההולדה, הזנב והגפיים ועוד</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128159229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Fe217736d-e31c-df68-e995-b057b372a253.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128159229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Fe217736d-e31c-df68-e995-b057b372a253.mp3</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8e2d2770-51a2-4511-8667-1893584ff006/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8e2d2770-51a2-4511-8667-1893584ff006/stream.mp3</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות לא-לז</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/28/1b/fe341947718ba7018c2e1babcf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/28/1b/fe341947718ba7018c2e1babcf.mp3</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/14e745eb-a3a7-4538-94bd-f4479cc633cf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/14e745eb-a3a7-4538-94bd-f4479cc633cf/stream.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b9e53534-a05b-4d5d-94e4-45f2a9fe8ac8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b9e53534-a05b-4d5d-94e4-45f2a9fe8ac8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"ט - המשך מומי העין, ומומי החוטם, השפתיים וחלל הפה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128065238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F928774d8-cf31-c623-7e7c-927d911bf5a7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128065238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F928774d8-cf31-c623-7e7c-927d911bf5a7.mp3</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8535b4d5-bac4-4879-8308-2f2b58cfc82b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8535b4d5-bac4-4879-8308-2f2b58cfc82b/stream.mp3</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b16d7956-9a30-4a50-83fb-4f7282e129c2.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b16d7956-9a30-4a50-83fb-4f7282e129c2.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"ח - מומי האוזן והמסתעף \ מומי העין</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128014199/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2Fe274a81a-d33a-4b92-110a-d42b259b8451.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128014199/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2Fe274a81a-d33a-4b92-110a-d42b259b8451.mp3</guid>
+   <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"ז - חכם ומומחה להתרת בכור \ פתיחה לפרק "אלו מומין"
+</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/128014162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2Fef390178-c7d3-99b8-5e28-a7fc2f9eca0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/128014162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2Fef390178-c7d3-99b8-5e28-a7fc2f9eca0f.mp3</guid>
+   <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"ו - השלמת סוגיית חשד להטלת מום מכוונת בבכור</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127935206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F8ca305d7-62e1-62b4-f8b4-ff02537c4d64.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127935206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F8ca305d7-62e1-62b4-f8b4-ff02537c4d64.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/068769da-7c3c-47f9-88d1-9489ae429ca8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/068769da-7c3c-47f9-88d1-9489ae429ca8/stream.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d74ab00c-9948-4364-a9b0-9bd58dd61f4b.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d74ab00c-9948-4364-a9b0-9bd58dd61f4b.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 3 – מסכת פאה - הבדל בין מתנות עניים לתרומות ומעשרות</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e5e59030-791e-40fe-ba86-799e54bebc05.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e5e59030-791e-40fe-ba86-799e54bebc05.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/17374368-1284-4ad9-aecd-f4b086db8299/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/17374368-1284-4ad9-aecd-f4b086db8299/stream.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c2c49574-ba3d-4cff-9a52-8ffaf05a9e29.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c2c49574-ba3d-4cff-9a52-8ffaf05a9e29.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"ה - הטלת מום בבכור על ידי נכרי \ חשד להטלת מום מכוונת</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127856944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2Fc97035ed-b3c9-73b9-bfce-bc35c221674a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127856944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2Fc97035ed-b3c9-73b9-bfce-bc35c221674a.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסת בכורות דף לג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/08489f6d-a582-43ea-b29f-a81203c3cefe/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/08489f6d-a582-43ea-b29f-a81203c3cefe/stream.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f5ce9587-74cd-46b9-bacb-f361aefd1209.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f5ce9587-74cd-46b9-bacb-f361aefd1209.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"ד - הטלת מום בבכור בעל מום, בזמן המקדש ובזמן הזה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127793530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F7eb24cd2-827c-54df-8549-cac8082cc3c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127793530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F7eb24cd2-827c-54df-8549-cac8082cc3c8.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/86490d45-1124-4f0e-94e2-e453fc831b15/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/86490d45-1124-4f0e-94e2-e453fc831b15/stream.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גט בכתב ידו וביאור מעשה מרדכי ואסתר | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/46ffb265/bda38c9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/46ffb265/bda38c9a.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/821302fc-5a00-4c17-9710-8ea858212af4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/821302fc-5a00-4c17-9710-8ea858212af4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"ג - אכילת בכור בעל מום לזרים ולטמאים והמסתעף \ בכור שאחזו דם</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127741985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F13aa12ae-8c7a-b223-ca66-730f8630d835.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127741985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F13aa12ae-8c7a-b223-ca66-730f8630d835.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"ב - מדרש ההלכה על מכירת בכור ומעשר בהמה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127711993/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F329358db-33a4-a0c4-0438-a2ca39fedc68.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127711993/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F329358db-33a4-a0c4-0438-a2ca39fedc68.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bcc3007d-ef78-429c-be54-f2bcaef6f023/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bcc3007d-ef78-429c-be54-f2bcaef6f023/stream.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ca5c3524-417e-46ed-b6c6-b4c6293b3245.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ca5c3524-417e-46ed-b6c6-b4c6293b3245.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות כו-לא</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c7/e9/4d/9c2af0402897fdfcca43db76d0.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c7/e9/4d/9c2af0402897fdfcca43db76d0.m4a</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף ל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/167f2e42-21bf-4daa-9fab-bf482749a0b9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/167f2e42-21bf-4daa-9fab-bf482749a0b9/stream.mp3</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b4b9dd8a-6738-4678-84da-c565899ed473.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b4b9dd8a-6738-4678-84da-c565899ed473.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל"א - פסיקת אדם לעצמו, ונגיעה אישית בפסיקת הלכה \ מכירת בשר בכור ומעשר</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127633605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-17%2F2cbcf169-f969-f6d6-17fa-bbeae6ae5225.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127633605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-17%2F2cbcf169-f969-f6d6-17fa-bbeae6ae5225.mp3</guid>
+   <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ל' - החשוד לדבר אחד חשוד בדברים אחרים - בטהרות, בכשרות ובתחומים נוספים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127633589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-17%2F1384e0ec-8d6e-e4b5-c385-7a48cc319ebb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127633589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-17%2F1384e0ec-8d6e-e4b5-c385-7a48cc319ebb.mp3</guid>
+   <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף כח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d8713b3f-79c8-428b-89a2-1fd4f7ab812f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d8713b3f-79c8-428b-89a2-1fd4f7ab812f/stream.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ז-כ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/071a8d3e-8b79-4f99-8186-4dd08b8fac27.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/071a8d3e-8b79-4f99-8186-4dd08b8fac27.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 2 – מסכת ברכות - האם לברך באופן כללי או ספציפי?</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7340133c-2e97-4466-b8a1-bcd222584d4a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7340133c-2e97-4466-b8a1-bcd222584d4a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"ט - הנוטל שכר לדון והלכותיו</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127542739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fefc16f33-1196-4bac-bada-ba1ffa0be777.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127542739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fefc16f33-1196-4bac-bada-ba1ffa0be777.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"ח - בכור שנשחט לפני התרת חכם \ הלכות דיין שטעה בבכור ובתחומים נוספים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127514298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fae0d1f66-6602-4adf-5055-ce9a1a49bc47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127514298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fae0d1f66-6602-4adf-5055-ce9a1a49bc47.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף כז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b421a8e2-71c6-4b2e-adea-d8f42a4d2b1d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b421a8e2-71c6-4b2e-adea-d8f42a4d2b1d/stream.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7ee1f76e-4273-45f0-991d-d99d50516d07.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7ee1f76e-4273-45f0-991d-d99d50516d07.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"ז - כהן מסייע בבית הגרנות \ תרומה וחלה בחו"ל \ אכילת בכור בתוך שנתו</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127446838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F9da4b432-6381-28aa-fcc9-091d40f0bd05.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127446838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F9da4b432-6381-28aa-fcc9-091d40f0bd05.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף כו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0890cb9d-948a-426b-9805-6604aa5c1965/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0890cb9d-948a-426b-9805-6604aa5c1965/stream.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ה-כ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bcf92859-20c7-4d3c-a8a0-5458616a0b07.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bcf92859-20c7-4d3c-a8a0-5458616a0b07.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות כד-כו</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/62/ee/9ed0504ffdb3bdbdad0eb697bf.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/62/ee/9ed0504ffdb3bdbdad0eb697bf.m4a</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות יט-כד</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/20/29/11/7e2a864ebc807c96fc72da797b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/20/29/11/7e2a864ebc807c96fc72da797b.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"ו - השלמת סוגיית צמר שנתלש מבכור \ "נמסר הדבר לחכמים" בטיפול בבכור</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127406198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2Fdc589ee7-c960-37c4-a674-23d2ea988746.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127406198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2Fdc589ee7-c960-37c4-a674-23d2ea988746.mp3</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף כה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f21c655e-9f47-4a4d-95af-8343205b9a23/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f21c655e-9f47-4a4d-95af-8343205b9a23/stream.mp3</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8750b54e-b2d0-4971-a84d-b5a69a979574/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8750b54e-b2d0-4971-a84d-b5a69a979574/stream.mp3</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/dfc42265-5d08-4b0c-b539-5f973dc6ca34.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/dfc42265-5d08-4b0c-b539-5f973dc6ca34.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"ה - שער שנתלש מבכור בעל מום, והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127329662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F049ae76c-036e-6245-1612-7db01c59f1ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127329662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F049ae76c-036e-6245-1612-7db01c59f1ce.mp3</guid>
+   <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביסוד נאמנות ערעור הבעל ובגדר נעשו כמי שנחקרה עדותן בבי"ד | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/663818ff/139c03a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/663818ff/139c03a2.mp3</guid>
+   <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a884ed98-4d73-4905-bdca-e307e624e92c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a884ed98-4d73-4905-bdca-e307e624e92c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה למסכת שבועות | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/127333590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F433979811-44100-2-0c4006feb1dd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/127333590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F433979811-44100-2-0c4006feb1dd2.mp3</guid>
+   <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ב-כ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c06f8cbd-8e4b-4446-a329-df4e68fd17d2.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c06f8cbd-8e4b-4446-a329-df4e68fd17d2.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"ד - דין "מרחמת"-מאמצת בבהמה \ דבר שאינו מתכוון בגיזת בכור וביום טוב</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127262999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-10%2Fa4dbbe67-3f27-3702-44d0-87b0bb9e2948.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127262999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-10%2Fa4dbbe67-3f27-3702-44d0-87b0bb9e2948.mp3</guid>
+   <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"ג - יסוד דין חוזר וניעור: באיסורין ובטומאת מגע ומשא, והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127171679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F2d65c329-5d4a-44c0-dd3e-6a3f07e3b74b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127171679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F2d65c329-5d4a-44c0-dd3e-6a3f07e3b74b.mp3</guid>
+   <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a96886d5-0318-465d-85dc-042337a9c67d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a96886d5-0318-465d-85dc-042337a9c67d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 1 – מסכת ברכות - המבנה של פרקים א-ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/89ba5e76-f6c1-4935-a43e-58e83870006b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/89ba5e76-f6c1-4935-a43e-58e83870006b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"ב - ביטול ברוב בטומאה וטהרה, ודין מצא את מינו וחוזר וניעור</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127124754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F6881471a-e785-44cc-58b1-623eae999e9b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127124754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F6881471a-e785-44cc-58b1-623eae999e9b.mp3</guid>
+   <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ"א - הלכה ורפואה בדיני טינוף והפלה \ לפני עור במקח וממכר</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/127081115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F1d1290a5-200e-8c97-cd3f-f7acba854f59.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/127081115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F1d1290a5-200e-8c97-cd3f-f7acba854f59.mp3</guid>
+   <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/21239aaf-b58c-470d-b94b-61f656dc152c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/21239aaf-b58c-470d-b94b-61f656dc152c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות יג-יט</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/bf/14/1b10a74c1597b75d647fbffa3a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/bf/14/1b10a74c1597b75d647fbffa3a.mp3</guid>
+   <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7ca91d27-7219-4240-9fbf-f197829e18a4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7ca91d27-7219-4240-9fbf-f197829e18a4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף כ' - רוב התלוי במעשה, ועניינים נוספים בדיני רוב לפטור או לחייב בבכורה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126951798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2Fd59b850c-0027-4a87-4cdb-93d7bdea2121.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126951798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2Fd59b850c-0027-4a87-4cdb-93d7bdea2121.mp3</guid>
+   <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''ז-י''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/de7a2074-13b8-403e-a2cb-4bad59c17207.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/de7a2074-13b8-403e-a2cb-4bad59c17207.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י"ט - יוצא דופן והבא אחריו \ רובא דאיתא קמן ודליתא קמן בספק בכור</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126902346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2Fe85ebc1f-764d-a522-6c89-08d423b27873.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126902346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2Fe85ebc1f-764d-a522-6c89-08d423b27873.mp3</guid>
+   <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ט''ז-י''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/337a5d6b-b0a1-4eee-934a-bbf5aa317d01.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/337a5d6b-b0a1-4eee-934a-bbf5aa317d01.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י"ח - ספק בכור בהמה טהורה והלכותיו</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126817792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2Fa4522f74-e53f-0f32-8894-3b559bd9f6c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126817792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2Fa4522f74-e53f-0f32-8894-3b559bd9f6c8.mp3</guid>
+   <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י"ז - "אפשר לצמצם" בידי אדם ובידי שמיים, ולא ניתנה תורה למלאכי השרת</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126784013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F8f5da4bf-d0c4-0b01-67c0-58ec3a203ec4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126784013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F8f5da4bf-d0c4-0b01-67c0-58ec3a203ec4.mp3</guid>
+   <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ט''ו-ט''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8fff116b-91a1-4cf4-af59-6e8658653474.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8fff116b-91a1-4cf4-af59-6e8658653474.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ט"ז - המקבל צאן ברזל: לעניין בכורה ולעניין ריבית</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126679995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-2%2Fa96a4697-4f18-200f-a779-f5c5b29740fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126679995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-2%2Fa96a4697-4f18-200f-a779-f5c5b29740fd.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות ט-יג</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4e/1c/51/a7553c468699cf9cfbce20bbe3.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4e/1c/51/a7553c468699cf9cfbce20bbe3.m4a</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ט"ו - פסולי המוקדשין: "הקדש לכל דבריהם ואין בהם אלא היתר אכילה"</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126638601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F3289a6f2-2dad-8d85-b9f9-29e3d333d56d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126638601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F3289a6f2-2dad-8d85-b9f9-29e3d333d56d.mp3</guid>
+   <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/70ffb468-9f6f-41ca-964d-36075b9b13ce.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/70ffb468-9f6f-41ca-964d-36075b9b13ce.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י"ד - פתיחה לפסולי המוקדשין, ודין "קדושת דמים למזבח" בקדם מומם להקדשם</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126579967/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F00a7fe21-1d4a-67fc-7fdb-2b55c02b7193.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126579967/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F00a7fe21-1d4a-67fc-7fdb-2b55c02b7193.mp3</guid>
+   <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/12631209-6f9e-4d37-a8f5-0a82a5cb89a8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/12631209-6f9e-4d37-a8f5-0a82a5cb89a8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י"ג - קניין משיכה וקניין כסף בישראל ובעכו"ם</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126501850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F9119b1c3-641c-100f-e0cd-121398981c1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126501850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F9119b1c3-641c-100f-e0cd-121398981c1c.mp3</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י"ב - השלמת הפרק הראשון וענייני פדיון פטר חמור</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126411065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F8df61461-8e2e-331f-c3be-8c251f70cd4c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126411065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F8df61461-8e2e-331f-c3be-8c251f70cd4c.mp3</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י"א - מצות פדיון פטר חמור: הלכותיה ומשמעותה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126480528/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2Fad4c60f1-ff00-6024-d313-707b4f5c6f03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126480528/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2Fad4c60f1-ff00-6024-d313-707b4f5c6f03.mp3</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5a5b5932-b255-4f77-820a-ff9aad743d14.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5a5b5932-b255-4f77-820a-ff9aad743d14.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1a2f12a0-aec7-4584-9d6f-ac2621554a43.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1a2f12a0-aec7-4584-9d6f-ac2621554a43.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף י' - עריפת פטר חמור: מצוה או עבירה?</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126361007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2F8a931480-e8cf-d7b8-3d0e-8cf37d168ae7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126361007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2F8a931480-e8cf-d7b8-3d0e-8cf37d168ae7.mp3</guid>
+   <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ט'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f73876b9-3858-4c6d-9b0b-1f1159678e21.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f73876b9-3858-4c6d-9b0b-1f1159678e21.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכורות ב-ח</title>
+   <description>רבני הישיבה · ישיבת ירוחם · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f4/66/02/a14abe477abb7de8aabba6be28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f4/66/02/a14abe477abb7de8aabba6be28.mp3</guid>
+   <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ט' - ספקות בפטר חמור ו"בריחה מן הספק" \ קדושה ואיסור הנאה בפטר חמור</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126296333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-25%2F66421414-44cc-d8b0-ee95-1f294296eb9f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126296333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-25%2F66421414-44cc-d8b0-ee95-1f294296eb9f.mp3</guid>
+   <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ז'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8596b6d8-f4f9-4dcf-ab56-571fb6cce767.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8596b6d8-f4f9-4dcf-ab56-571fb6cce767.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ח' - אגדת "סבי דבי אתונה"</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126265688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F7a06595a-4cf8-7543-0372-b526ed1341e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126265688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F7a06595a-4cf8-7543-0372-b526ed1341e2.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e52cb8ff-f7a1-4707-b88f-c62441554e55.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e52cb8ff-f7a1-4707-b88f-c62441554e55.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ז' - המסך סוגיית היוצא מן הטמא, ודין מזון מלכות, קפה לואק ועוד</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126210018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F73c14c32-0cf0-c2c0-27ca-bfa1c11d4de7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126210018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F73c14c32-0cf0-c2c0-27ca-bfa1c11d4de7.mp3</guid>
+   <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ו' - היתר שתיית חלב בהמה טהורה, ואיסור שתיית חלב בהמאה טמאה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126174978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F20d15682-8de7-1dfe-3581-7b0eb471e40d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126174978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F20d15682-8de7-1dfe-3581-7b0eb471e40d.mp3</guid>
+   <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/878dfb88-0404-46ca-8f47-0b395faeee2d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/878dfb88-0404-46ca-8f47-0b395faeee2d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b1d7fa89-5e3c-4e86-a53e-82c1671cde8d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b1d7fa89-5e3c-4e86-a53e-82c1671cde8d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e0d70e42-3282-4ab1-a35c-4a604e5b22f3.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e0d70e42-3282-4ab1-a35c-4a604e5b22f3.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ה' - קדושת פטר חמור וטעמיה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126100942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2F524a664d-284d-8198-6329-c84bb17b9c6a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126100942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2F524a664d-284d-8198-6329-c84bb17b9c6a.mp3</guid>
+   <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ד' - פרשיית הלויים והבכורות במדבר, וזיקת קדושת בכורה לארץ ישראל</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126023774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F81aa312e-b71e-d898-6bf1-2ca5c7b7d4ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126023774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F81aa312e-b71e-d898-6bf1-2ca5c7b7d4ce.mp3</guid>
+   <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ג' - שותפות נוכרי בבכור, ומכירת מבכירות הלכה למעשה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/126018557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2Fdd367fa5-15ba-7840-7ca7-a95d76c55b54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/126018557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2Fdd367fa5-15ba-7840-7ca7-a95d76c55b54.mp3</guid>
+   <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קמ"ב - הדרן למסכת חולין: שכר מצוה בעולם הזה, וחיים של קדושה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125918906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2Fb7c617a1-df05-b044-7ea0-2569214b7340.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125918906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2Fb7c617a1-df05-b044-7ea0-2569214b7340.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ב' - פתיחה ומבוא למסכת, ודין מכירת עובר לנכרי</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/11761c3e0/podcast/play/125932590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2Fbd82b6fa-d980-37de-cf99-e9b158299a71.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11761c3e0/podcast/play/125932590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2Fbd82b6fa-d980-37de-cf99-e9b158299a71.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין קמא-קמב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2a7e65ae-cf88-431e-9f21-898960ba50a7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2a7e65ae-cf88-431e-9f21-898960ba50a7/stream.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קמ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2770df5e-2809-4a9b-92fb-692cd460956c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2770df5e-2809-4a9b-92fb-692cd460956c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קמ"א - לאו הניתק לעשה בשילוח הקן, ואופן קיום המצוה בפועל</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125860307/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2Ffd660cce-f5eb-a829-a8bd-5cecdbc4fd5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125860307/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2Ffd660cce-f5eb-a829-a8bd-5cecdbc4fd5f.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קמ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/807cb415-6b26-45b5-9cf4-4556b70eec45/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/807cb415-6b26-45b5-9cf4-4556b70eec45/stream.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''מ</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/aea8b33f-924e-4be8-abb8-831bf15d0599.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/aea8b33f-924e-4be8-abb8-831bf15d0599.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת יומא - חילוקי כפרה | רה"י הרב אוריאל עיטם</title>
+   <description>הרב אוריאל עיטם · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אוריאל עיטם</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/125873054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432087745-44100-2-f0f5807c4d63a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/125873054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432087745-44100-2-f0f5807c4d63a.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/43981418-5b63-4cab-8355-1f7517b138e0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/43981418-5b63-4cab-8355-1f7517b138e0/stream.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/fb20e148-7dd0-41ea-8f16-8c09b47153d0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/fb20e148-7dd0-41ea-8f16-8c09b47153d0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ק"מ - מדרש ההלכה בשילוח הקן: ציפור טהורה וטמאה והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125786906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2Fbf89d138-1d1e-f9f2-1058-e6e999f27665.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125786906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2Fbf89d138-1d1e-f9f2-1058-e6e999f27665.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/171ac11b-1c69-4ae5-b19a-13d9ad04be82/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/171ac11b-1c69-4ae5-b19a-13d9ad04be82/stream.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נאמנות האשה על עצמה ודין אישה לא שומרת דת ונאמנות רופאים לענין יו"כ | מסכת גיטין רה"י ר' אהרן פרידמן</title>
+   <description>רבני הישיבה · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/16d66dcd/403882b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/16d66dcd/403882b3.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2c1e90f4-35ff-404b-a2d7-d2edc3822ddb.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2c1e90f4-35ff-404b-a2d7-d2edc3822ddb.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קל"ח-קל"ט - פתיחה לפרק "שילוח הקן": מצווה חיובית או קיומית?</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125735331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F17e0b9fd-33e9-b73d-d71b-09848b0d510f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125735331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F17e0b9fd-33e9-b73d-d71b-09848b0d510f.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d0e60a7c-fd79-4f33-9349-cd6314c30169/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d0e60a7c-fd79-4f33-9349-cd6314c30169/stream.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3dc2944d-cb29-40a1-8af3-c396c0fbf77c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3dc2944d-cb29-40a1-8af3-c396c0fbf77c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קל"ז-קל"ח - שיעורי החיוב בראשית הגז, והשלמת הפרק</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125685530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2Fda5f4b01-0771-f734-b96a-ca85692aa69e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125685530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2Fda5f4b01-0771-f734-b96a-ca85692aa69e.mp3</guid>
+   <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קל"ו - השוואת ראשית הגז לתרומה, והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125583768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F3d4179fa-5e20-070b-e9df-3f783d6cb53f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125583768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F3d4179fa-5e20-070b-e9df-3f783d6cb53f.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קל"ה -פתיחה לפרק "ראשית הגז", ומח' המנחת חינוך והגר"ח בשותפות בראשית הגז</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125574899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F6ede4552-d6ba-93aa-a2fc-66bd7dbfcb50.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125574899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F6ede4552-d6ba-93aa-a2fc-66bd7dbfcb50.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4c276fd4-cbb2-4544-8e7b-3ce95e933cfc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4c276fd4-cbb2-4544-8e7b-3ce95e933cfc/stream.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f0738ed2-6e07-4d4c-ad1a-85c5103ebe30.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f0738ed2-6e07-4d4c-ad1a-85c5103ebe30.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/20e90c56-ffc7-45d0-bf07-22d81c13e0e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/20e90c56-ffc7-45d0-bf07-22d81c13e0e9/stream.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ef46bfd0-b92a-4613-b395-a6456bdc4e39.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ef46bfd0-b92a-4613-b395-a6456bdc4e39.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קל"ג-קל"ד - השלמת פרק הזרוע, הלחיים והקיבה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125487324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F3d9f218a-6ec6-0d60-b4a0-834a238cc273.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125487324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F3d9f218a-6ec6-0d60-b4a0-834a238cc273.mp3</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a77baf6c-cbc2-4d3d-9c3c-23f32e944e22/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a77baf6c-cbc2-4d3d-9c3c-23f32e944e22/stream.mp3</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/11659e68-2cae-415e-ae42-1d43b7afe6a1.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/11659e68-2cae-415e-ae42-1d43b7afe6a1.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קל"ב - שותפות כהן לפטור ממתנות \ פרטי הלכות זרוע לחיים וקיבה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125423541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2Fc3d17b0d-d11b-8107-41f6-3ea21a65b1d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125423541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2Fc3d17b0d-d11b-8107-41f6-3ea21a65b1d9.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קל"א - עזיבה ונתינה במתנות עניים \ כהן, כהנת ולוי במתנות \ מתנות בכוי</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125359862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F23a3860a-d7f4-2240-e35c-92e3d47e7ecc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125359862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F23a3860a-d7f4-2240-e35c-92e3d47e7ecc.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9e0f68f7-da31-416d-8e40-21664ae6ae66/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9e0f68f7-da31-416d-8e40-21664ae6ae66/stream.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדין רוב בדבר שבערוה | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/4f147c80/423b41a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4f147c80/423b41a5.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1e4456b1-00ae-46cd-ac96-272628ae512f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1e4456b1-00ae-46cd-ac96-272628ae512f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fa528839-16cc-4eda-9ed4-47dd1f8e671e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fa528839-16cc-4eda-9ed4-47dd1f8e671e/stream.mp3</guid>
+   <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ל</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/16e4e366-bd64-49af-9067-5b694c301317.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/16e4e366-bd64-49af-9067-5b694c301317.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ק"ל - "מתנות כהונה": זרוע, לחיים וקיבה, ומצות נתינתן בחו"ל ובזמן הזה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125296887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2Ffb8b0561-e046-1a03-480d-5a00d54ed6e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125296887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2Ffb8b0561-e046-1a03-480d-5a00d54ed6e6.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/526f213e-103f-4901-a9be-c3a4249de362/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/526f213e-103f-4901-a9be-c3a4249de362/stream.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a67fad26-cd73-4665-a2b2-9d365026e463.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a67fad26-cd73-4665-a2b2-9d365026e463.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"ט - טומאת איבר מן החי באדם \ סיום פרק העור והרוטב: טהרה וקדושה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125257912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F567bc4e8-4247-06af-251a-a13124af269f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125257912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F567bc4e8-4247-06af-251a-a13124af269f.mp3</guid>
+   <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"ח – הכשר לטומאה באיבר מדולדל, והמסתעף \ המקור לטומאת איבר מן החי</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125195577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2Fc920077d-368b-dc81-202e-d1a8e47e149c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125195577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2Fc920077d-368b-dc81-202e-d1a8e47e149c.mp3</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0c2d1594-fdc8-484c-bf3d-132b37f76fd7.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0c2d1594-fdc8-484c-bf3d-132b37f76fd7.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"ז - מה רבו מעשיך ה' בשרצים ובמינים נוספים \ טומעת אוכלין באיבר מדולדל</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125162007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2Ffe94b5f9-6726-7e82-2065-b9ada5a8608b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125162007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2Ffe94b5f9-6726-7e82-2065-b9ada5a8608b.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"ו - השלמת ענייני אהלות וטומאה רצוצה \ חידת עכבר שחציו בשר וחציו אדמה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125133536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F6481c43b-8184-0ca1-df98-1d389c5a6dc7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125133536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F6481c43b-8184-0ca1-df98-1d389c5a6dc7.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8b0ac0ea-8e95-4837-be21-b005acf13042/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8b0ac0ea-8e95-4837-be21-b005acf13042/stream.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5632b9e7-cd3b-4e44-897c-446ab99d33c5.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5632b9e7-cd3b-4e44-897c-446ab99d33c5.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת יומא | פרישת כהן גדול ביום הכיפורים - חלק ב' | רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/125145722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431106153-44100-2-244fdc127cedd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/125145722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431106153-44100-2-244fdc127cedd.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/308ef67b-523f-4d28-9b91-755b6835d67e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/308ef67b-523f-4d28-9b91-755b6835d67e/stream.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1ca1c41c-36ab-4c3d-86b4-6c28b77aaf9a.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1ca1c41c-36ab-4c3d-86b4-6c28b77aaf9a.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"ה - יסודות בדיני אהלות: אוהל מגע ואוהל גרידא</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125048809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F5012b383-ac02-66cc-a05e-70d92869de1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125048809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F5012b383-ac02-66cc-a05e-70d92869de1c.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e167f9fa-91d2-4cf0-850e-90f4715d225c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e167f9fa-91d2-4cf0-850e-90f4715d225c/stream.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מספר השורות בגט ומשמעותו לענין הגט והלכותיו | מסכת גיטין - הרב אהרן פרידמן, ראש הישיבה</title>
+   <description>הרב אהרן פרידמן · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב אהרן פרידמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/7b1d4569/a9d00a67.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7b1d4569/a9d00a67.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2e3a4863-aba0-46b7-afb4-19f94912134c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2e3a4863-aba0-46b7-afb4-19f94912134c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם עובר נחשב "רודף"? שיטת הרמב"ם מול רש"י בסוגיית "יצא ראשו" | עיון מ' סנהדרין | רה"י הרב דוד פנדל</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=ZO5ZQLPH8v0</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ZO5ZQLPH8v0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ZO5ZQLPH8v0.mp3</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוגיית "סימנוהו": גדר "ברור שימותו" בדעת רבי יוחנן וריש לקיש | עיון מ' סנהדרין | רה"י הרב דוד פנדל</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=kPzkEHnr9bw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kPzkEHnr9bw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kPzkEHnr9bw.mp3</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"ד - טומאת תנור שנשבר \ שני כחצאי כזית על העור, והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/125007291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F83819ce7-6565-f0f6-b8ea-0d04a266125d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/125007291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F83819ce7-6565-f0f6-b8ea-0d04a266125d.mp3</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"ג - עור שהופשט מן הבשר: מתי יוגדר כיד או כשומר?</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124966929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2Fb6f98ecc-5b2f-3034-75e9-0c1fa06838a7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124966929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2Fb6f98ecc-5b2f-3034-75e9-0c1fa06838a7.mp3</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8bfa78e4-c983-4db3-9bae-f128ed3095f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8bfa78e4-c983-4db3-9bae-f128ed3095f2/stream.mp3</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/44c5f993-9d2f-47ff-b760-57672d93f905.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/44c5f993-9d2f-47ff-b760-57672d93f905.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bbb28eb7-ee0f-42d8-b024-3c48d81913ee/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bbb28eb7-ee0f-42d8-b024-3c48d81913ee/stream.mp3</guid>
+   <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/926317e6-9cc4-4f06-8b6b-8d5a4d70dcba.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/926317e6-9cc4-4f06-8b6b-8d5a4d70dcba.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"ב - "עורותיהם כבשרם" והמסתעף \ תרומת עור לריפוי כוויות</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124914314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-29%2Fdf0dfc33-dd8c-0dac-00ed-23108286f08e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124914314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-29%2Fdf0dfc33-dd8c-0dac-00ed-23108286f08e.mp3</guid>
+   <pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קכ"א - צירוף ומחשבה בטומאת אוכלין \ ישראל ששחט בהמה טמאה והמסתעף</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124864711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F06f4dd2d-769a-48c6-8725-f2dc29b624da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124864711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F06f4dd2d-769a-48c6-8725-f2dc29b624da.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף ק"כ - מאכל מוצק שהפך לנוזל: במאכלות אסורות, בתרומות ומעשרות ובביכורים</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124845508/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F850a9e2b-f5c1-43e3-4b8d-e9242ae5aa03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124845508/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F850a9e2b-f5c1-43e3-4b8d-e9242ae5aa03.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2df644bb-6396-4225-a964-78a06a663470/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2df644bb-6396-4225-a964-78a06a663470/stream.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נתנאל גדז - ר"מ בישיבת סנהדרין ברחובות | בואו חשבון – הכנה לימים נוראים</title>
+   <description>הרב נתנאל גדז · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב נתנאל גדז</itunes:author>
+   <enclosure url="https://media.transistor.fm/d591d841/09af6546.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d591d841/09af6546.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''כ</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2040b677-bbf6-4194-810f-84700ee7a5d9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2040b677-bbf6-4194-810f-84700ee7a5d9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ca2258e1-86e8-4609-82dd-7c8e7d8e1a9e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ca2258e1-86e8-4609-82dd-7c8e7d8e1a9e/stream.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2e1f9390-9c34-4e45-86a3-b1feecae66e9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2e1f9390-9c34-4e45-86a3-b1feecae66e9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת יומא - פרישת כהן גדול ביום הכיפורים | רה"י הרב חיים וולפסון</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/124805939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430642172-44100-2-764da4e87b911.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/124805939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430642172-44100-2-764da4e87b911.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קי"ט - שיעור ליד ולשומר</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124771077/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2Fb9583b4b-9431-ead7-f430-c75f4d94c90c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124771077/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2Fb9583b4b-9431-ead7-f430-c75f4d94c90c.mp3</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cf7764c6-9bed-4232-8832-0cc9c8f73464/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cf7764c6-9bed-4232-8832-0cc9c8f73464/stream.mp3</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0802918b-df16-4bf3-b8f4-af48271ad967.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0802918b-df16-4bf3-b8f4-af48271ad967.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קי"ח - יסוד ההלכה ומדרש ההלכה בדיני יד ושומר לטומאה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124722844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F1742d45f-3513-e98a-ccb0-d77a609ca4b8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124722844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F1742d45f-3513-e98a-ccb0-d77a609ca4b8.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/beb87614-c405-440f-89b4-7c0e98ed7377/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/beb87614-c405-440f-89b4-7c0e98ed7377/stream.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהותו של גט אישה | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/10b1b4b7/67f775bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/10b1b4b7/67f775bd.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5e4e8a66-9711-49e5-a577-4f7c44e5b93d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5e4e8a66-9711-49e5-a577-4f7c44e5b93d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קי"ז - איסורי חלב ודם והיחס ביניהם \ פתיחה לפרק העור והרוטב</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124669385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-24%2Fe9b5aaa9-010b-028a-2c7f-a2399c373295.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124669385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-24%2Fe9b5aaa9-010b-028a-2c7f-a2399c373295.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קטז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/71c40036-14e5-4414-bcbc-b3f1dabc4e15/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/71c40036-14e5-4414-bcbc-b3f1dabc4e15/stream.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קט''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e301d60a-9128-40bd-8c92-461bc4e590e5.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e301d60a-9128-40bd-8c92-461bc4e590e5.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קט"ז - חלב בקיבה: "פירשא בעלמא"</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124620210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2Fcbea5ea3-05a3-1bca-e6cf-f00ea9147b6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124620210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2Fcbea5ea3-05a3-1bca-e6cf-f00ea9147b6e.mp3</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קטו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/79a1c0c4-2132-47c6-997b-000e13e556ed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/79a1c0c4-2132-47c6-997b-000e13e556ed/stream.mp3</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קט''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6eedb159-6895-4b5d-a6f1-a61cc73b54af.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6eedb159-6895-4b5d-a6f1-a61cc73b54af.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 16: מלחמת התרבויות שמאחורי גיד הנשה | טעם לאוכל | רה"י הרב אוריאל עיטם ויהונתן כהנא מעמיקים בהלכות כשרות לאור מסכת חולין</title>
+   <description>הרב אוריאל עיטם · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אוריאל עיטם</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/124603271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2F430360506-44100-2-7428d3dfe6bee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/124603271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2F430360506-44100-2-7428d3dfe6bee.mp3</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קט"ו - מניין שבשר וחלב אסור באכילה ובהנאה?</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124592809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2F6be58e63-5036-2604-6148-ed84838262c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124592809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2F6be58e63-5036-2604-6148-ed84838262c3.mp3</guid>
+   <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קי"ד -המשך מדרש ההלכה "לא תבשל גדי בחלב אימו": אחותו, בהמה ממין אחר ועוד</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124592762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2Fab521ddf-5a2a-ccf4-7dee-00a96cd66fc0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124592762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2Fab521ddf-5a2a-ccf4-7dee-00a96cd66fc0.mp3</guid>
+   <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5cd2bedd-0aaa-4168-9ec3-374efd32d664/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5cd2bedd-0aaa-4168-9ec3-374efd32d664/stream.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/93416481-b1c1-4c63-9944-d2fe33ad1fbc.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/93416481-b1c1-4c63-9944-d2fe33ad1fbc.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף קי"ג - אופן המליחה הלכה למעשה: הדחה, מליחה וניפוץ; מדרש "לא תבשל גדי"</title>
+   <description>רבני הישיבה · ישיבת הר עציון · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/1120ea8cc/podcast/play/124497465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2Fee06b64a-a5c9-871a-253c-38564a2bbdc8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/1120ea8cc/podcast/play/124497465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2Fee06b64a-a5c9-871a-253c-38564a2bbdc8.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/46d81824-a2f4-499f-af15-0f2e45fee209/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/46d81824-a2f4-499f-af15-0f2e45fee209/stream.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e849c41b-f20f-4946-aea9-387ac0487ab2.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e849c41b-f20f-4946-aea9-387ac0487ab2.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/93281e3b/78ab0a95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/93281e3b/78ab0a95.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/fcca9434/ce58cf1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/fcca9434/ce58cf1c.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/993d00f7/aad7c156.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/993d00f7/aad7c156.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/92322b7a/1c3e3bf0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/92322b7a/1c3e3bf0.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/08bc981c/04994171.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/08bc981c/04994171.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e4b48ded/db6025ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e4b48ded/db6025ed.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ז</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/51a390cd/b18f15d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/51a390cd/b18f15d5.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ח</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f01b70e3/79eed976.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f01b70e3/79eed976.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ט א-ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/6cd70c68/fdc50bf7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/6cd70c68/fdc50bf7.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ט ה-יב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8bebcdca/61bb80d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8bebcdca/61bb80d9.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק י</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e62bb7f3/80c381b8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e62bb7f3/80c381b8.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/269d7f1f/d05bfffc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/269d7f1f/d05bfffc.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ב א- ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/66b9252f/f05261a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/66b9252f/f05261a5.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ב ז- יא</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/ad51a8f4/2a5d71a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/ad51a8f4/2a5d71a2.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ג.</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8302343f/f30824f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8302343f/f30824f6.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ד א-ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/03774501/32237d8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/03774501/32237d8a.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ד ו-יב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/21826469/2b52e799.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/21826469/2b52e799.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

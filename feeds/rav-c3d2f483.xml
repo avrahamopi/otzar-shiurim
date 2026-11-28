@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב גדי שלוין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c3d2f483.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב גדי שלוין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>חלק שנים-עשר - פסקאות יב-יח</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25800304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fcf945b1f-8bef-6f39-0fd9-44cee7c7b7e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25800304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fcf945b1f-8bef-6f39-0fd9-44cee7c7b7e8.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק אחד-עשר - פסקה יא</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25800268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F4bae4d7a-32ff-d77e-6b82-86c150c4f83a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25800268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F4bae4d7a-32ff-d77e-6b82-86c150c4f83a.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק עשירי - המוסלמי(2)</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25800233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F2837d21e-09d8-c036-44f8-09378bd7889e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25800233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F2837d21e-09d8-c036-44f8-09378bd7889e.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק תשיעי- המוסלמי(1)</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25800205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F1824e352-a4e6-40a2-88d0-b49e871da531.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25800205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F1824e352-a4e6-40a2-88d0-b49e871da531.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק שמיני - הנוצרי(2)</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25800161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fa8a11fa2-b0e0-2e26-027f-858eeb74bc4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25800161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fa8a11fa2-b0e0-2e26-027f-858eeb74bc4d.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק שביעי - הנוצרי(1)</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25800114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fc398d1c9-9747-27e1-77b6-190ea642a592.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25800114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fc398d1c9-9747-27e1-77b6-190ea642a592.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק שישי - הפילוסוף(3)</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25800083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F02344d13-910c-8b12-ea5b-3f925a558901.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25800083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F02344d13-910c-8b12-ea5b-3f925a558901.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק חמישי - הפילוסוף(2)</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25800027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F678e9705-8828-f848-a96e-5ccd6e689c6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25800027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F678e9705-8828-f848-a96e-5ccd6e689c6e.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק רביעי - הפילוסוף</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25799963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fd0684b15-9057-5a0d-3aa7-b1b5d6607a01.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25799963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fd0684b15-9057-5a0d-3aa7-b1b5d6607a01.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק שלישי - החלום</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25799917/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fa7274c44-5c6b-7b4c-d0dd-c8495dda8283.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25799917/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fa7274c44-5c6b-7b4c-d0dd-c8495dda8283.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק שני - הקדמה (2)</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25799857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F60093ae3-1bdf-6e52-3b4c-4d85e9e62146.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25799857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F60093ae3-1bdf-6e52-3b4c-4d85e9e62146.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלק ראשון - הקדמה (1)</title>
+   <description>הרב גדי שלוין · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי שלוין</itunes:author>
+   <enclosure url="https://anchor.fm/s/49db44f0/podcast/play/25799835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F7beed923-b896-2e9c-31a8-c2a1cab2bd20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49db44f0/podcast/play/25799835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F7beed923-b896-2e9c-31a8-c2a1cab2bd20.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב נדב שיף · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-794a80cb.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב נדב שיף.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מקדש ישראל והזמנים | הרב נדב שיף</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=5EdK7tL0I-A</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5EdK7tL0I-A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5EdK7tL0I-A.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות לימוד אמונה | הרב נדב שיף</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=vXs6BMutVqU</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vXs6BMutVqU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vXs6BMutVqU.mp3</guid>
+   <pubDate>Wed, 24 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהי גדלות? | הרב נדב שיף</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=gIx-zPbehl0</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/gIx-zPbehl0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/gIx-zPbehl0.mp3</guid>
+   <pubDate>Tue, 04 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושת ימי הזיכרון והעצמאות | הרב נדב שיף</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=39APLUl9lEM</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/39APLUl9lEM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/39APLUl9lEM.mp3</guid>
+   <pubDate>Tue, 25 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | הדור קבלוה בימי אחשורוש | הרב נדב שיף</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=pavOaLFBItM</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/pavOaLFBItM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/pavOaLFBItM.mp3</guid>
+   <pubDate>Sun, 05 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לצבא | הרב נדב שיף</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=dEM1kbjFBjs</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/dEM1kbjFBjs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/dEM1kbjFBjs.mp3</guid>
+   <pubDate>Tue, 28 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נדב שיף – מאמרי ראיה, נחמת ישראל | שיעור ראשון</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=HMQk3YKUxPE</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/HMQk3YKUxPE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/HMQk3YKUxPE.mp3</guid>
+   <pubDate>Fri, 12 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נדב שיף – אגרות הראי"ה – אגרת ל"ב</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Kj5FfOWsmCg</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Kj5FfOWsmCg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Kj5FfOWsmCg.mp3</guid>
+   <pubDate>Thu, 21 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השגחת ה' עפ"י פרשיות יוסף ואחיו | הרב נדב שיף</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=mRb5pMZ85S0</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mRb5pMZ85S0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mRb5pMZ85S0.mp3</guid>
+   <pubDate>Fri, 25 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נדב שיף – ענינו של חשבון נפש – עצות מעשיות</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=olFaW2AI9qI</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/olFaW2AI9qI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/olFaW2AI9qI.mp3</guid>
+   <pubDate>Tue, 27 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חול המועד סוכות עם ישיבת שדרות | הרב נדב שיף – התקדשות הטבע וטבעיות הקודש בסוכות</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=QQPdqmNOCkM</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/QQPdqmNOCkM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/QQPdqmNOCkM.mp3</guid>
+   <pubDate>Mon, 05 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענינו של ל"ג בעומר | הרב נדב שיף</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=KJoViwXXpNs</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/KJoViwXXpNs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/KJoViwXXpNs.mp3</guid>
+   <pubDate>Mon, 11 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נדב שיף – טבעיות האמונה</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=ktpUvyCauOI</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ktpUvyCauOI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ktpUvyCauOI.mp3</guid>
+   <pubDate>Mon, 13 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נדב שיף – עניינה של יציאת מצרים (עולת ראיה חלק א' עמ' כו')</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=HbRaCqtZtIM</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/HbRaCqtZtIM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/HbRaCqtZtIM.mp3</guid>
+   <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נדב שיף – חירות וביעור חמץ | (מתוך מאמרי הראי"ה)</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=nYFoZuGhUv8</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/nYFoZuGhUv8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/nYFoZuGhUv8.mp3</guid>
+   <pubDate>Sun, 15 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נדב שיף | שו"ת</title>
+   <description>הרב נדב שיף · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=DG1-SONWa2o</description>
+   <itunes:author>הרב נדב שיף</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/DG1-SONWa2o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/DG1-SONWa2o.mp3</guid>
+   <pubDate>Fri, 07 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

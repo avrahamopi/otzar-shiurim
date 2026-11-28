@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יצחק לוי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1298c076.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יצחק לוי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב יצחק לוי | מתי אומרים חטא כדי שיזכה חברך</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b07fe1cf/12ccfe30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b07fe1cf/12ccfe30.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהותם של העיר שכם, הר עיבל והר גריזים, מאת הרב יצחק לוי</title>
+   <description>הרב יצחק לוי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/07_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/07_shechem-beit-el-chevron-yerushalayim-rylevy_5787.mp3?dest-id=410397</guid>
+   <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | הנחה בשבת על פלטה העתידה להידלק</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/276d68f2/bd0bdb9f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/276d68f2/bd0bdb9f.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | טעמי דין חזרה</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a4ad0aea/8e2d790b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a4ad0aea/8e2d790b.mp3</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | עיון בדין קדרה חייתא</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a976261f/1672716f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a976261f/1672716f.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | פתיחה להלכות שהייה</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f3ab802c/57b77a91.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f3ab802c/57b77a91.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | שיחת פתיחת זמן - צלם אלוקים: האדם היוצר</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/1e419be1/e8d9072d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1e419be1/e8d9072d.mp3</guid>
+   <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | בישול אחר אפייה וצלייה</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f8324ded/39e0eb36.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f8324ded/39e0eb36.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי | ערכה של תשובה</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/1c4c7bf0/b69bc68c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1c4c7bf0/b69bc68c.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק לוי, ראש בית המדרש גבעת זאב • סרבנות גט - כפיית גט</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/d77d5402/39bab255.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d77d5402/39bab255.mp3</guid>
+   <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#32 קדושת המקדש | הרב יצחק לוי</title>
+   <description>הרב יצחק לוי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/108472287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F407702469-44100-2-eaa71e3b6be42.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/108472287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F407702469-44100-2-eaa71e3b6be42.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי-תבוא - הרב יצחק לוי</title>
+   <description>הרב יצחק לוי · ישיבת כרם ביבנה · פרשת השבוע</description>
+   <itunes:author>הרב יצחק לוי</itunes:author>
+   <enclosure url="https://media.transistor.fm/115e82c5/7a3da9e7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/115e82c5/7a3da9e7.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

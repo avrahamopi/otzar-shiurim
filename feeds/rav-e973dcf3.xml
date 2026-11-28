@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שחר צבי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e973dcf3.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שחר צבי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שו"ת | תשובה וחיים – הילכו יחדיו?! | הרב שחר צבי</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=pPPJle9I588</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/pPPJle9I588.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/pPPJle9I588.mp3</guid>
+   <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"קדושת הדומייה" מביאה ל"הופעת הנבואה" | יום העצמאות | הרב שחר צבי</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=F3Ji-WyW7i8</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/F3Ji-WyW7i8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/F3Ji-WyW7i8.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בא | קידוש החודש כמפתח להשראת שכינה | הרב שחר צבי</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=BUjHKEuUkXo</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BUjHKEuUkXo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BUjHKEuUkXo.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"השנה במיוחד נשב בצילא דמהימנותא!" | לקראת סוכות עם הרב שחר צבי</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=cdbpQ1O2ASA</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cdbpQ1O2ASA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cdbpQ1O2ASA.mp3</guid>
+   <pubDate>Sat, 03 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדוע דווקא בעת שלטון ישראל – אין רגל יהודי דורכת בירושלים? | יום ירושלים עם הרב שחר צבי</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=jBLLtqRKfFo</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/jBLLtqRKfFo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/jBLLtqRKfFo.mp3</guid>
+   <pubDate>Wed, 20 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין קללה לעמל תורה | הרב שחר צבי על פרשת בהר – בחוקותי</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=pMFyCx7lz8g</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/pMFyCx7lz8g.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/pMFyCx7lz8g.mp3</guid>
+   <pubDate>Thu, 14 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבשרי הגאולה ביום העצמאות | הרב שחר צבי</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=Si6dhmBUhHQ</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Si6dhmBUhHQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Si6dhmBUhHQ.mp3</guid>
+   <pubDate>Thu, 30 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שחר צבי – בניין אישיותנו כמשרתי הגאולה</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=9UlN8eClWxU</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9UlN8eClWxU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9UlN8eClWxU.mp3</guid>
+   <pubDate>Sun, 22 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שחר צבי – ארבע כוסות</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=mYR03pKfOCA</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mYR03pKfOCA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mYR03pKfOCA.mp3</guid>
+   <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שחר צבי – 4 כוסות</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=kLKfcdiIvpA</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kLKfcdiIvpA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kLKfcdiIvpA.mp3</guid>
+   <pubDate>Tue, 17 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שחר צבי – מסילת ישרים – פרק ה'</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=ZMyinHbhdm8</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ZMyinHbhdm8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ZMyinHbhdm8.mp3</guid>
+   <pubDate>Mon, 16 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שחר צבי – מסילת ישרים פרק ד'</title>
+   <description>הרב שחר צבי · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=5YjKNAw8tuE</description>
+   <itunes:author>הרב שחר צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5YjKNAw8tuE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5YjKNAw8tuE.mp3</guid>
+   <pubDate>Sun, 15 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

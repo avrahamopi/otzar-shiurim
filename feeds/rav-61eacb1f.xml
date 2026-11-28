@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב הראל ברגר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-61eacb1f.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב הראל ברגר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | אחרי מות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/da/7d/aa/0d73e846598744eb5b648bf6f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/da/7d/aa/0d73e846598744eb5b648bf6f4.mp3</guid>
+   <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | מצורע</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/79/df/4f7acd4796a5c63f2e36710e6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/79/df/4f7acd4796a5c63f2e36710e6e.mp3</guid>
+   <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | תזריע</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b7/2a/f3/baf71c46cfbeb40a2ed28640d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b7/2a/f3/baf71c46cfbeb40a2ed28640d8.mp3</guid>
+   <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | שמיני</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/53/0e/65/3e26ea480d865f1a5123578d5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/53/0e/65/3e26ea480d865f1a5123578d5a.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | צו</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6c/ac/56/8ce5ac449bb3d47caf81cfa86b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6c/ac/56/8ce5ac449bb3d47caf81cfa86b.mp3</guid>
+   <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויקרא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/74/5b/d2/05b3b746cc88e11a26c2ee2840.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/74/5b/d2/05b3b746cc88e11a26c2ee2840.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | פקודי</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/39/5d/39/c0b06c4274a1b1a1f992ec8e14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/39/5d/39/c0b06c4274a1b1a1f992ec8e14.mp3</guid>
+   <pubDate>Wed, 13 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויקהל</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/42/50/a9/e1ec1d4f6fb6e7aa1d693cdb19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/42/50/a9/e1ec1d4f6fb6e7aa1d693cdb19.mp3</guid>
+   <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | כי תשא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/e3/d4/d6d9f642b5a6943f0f5cfc3426.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/e3/d4/d6d9f642b5a6943f0f5cfc3426.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | תצווה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f2/27/1b/bc8f6e4de693a8e8a8e0034fb6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f2/27/1b/bc8f6e4de693a8e8a8e0034fb6.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | תרומה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a8/9d/72/e76f764e4f9cb80ac4ad398da2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a8/9d/72/e76f764e4f9cb80ac4ad398da2.mp3</guid>
+   <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | משפטים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9f/43/34/384ac4451aaa8bf00938f9bdea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9f/43/34/384ac4451aaa8bf00938f9bdea.mp3</guid>
+   <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | יתרו</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/64/b5/0c/8dd835402c838ca0c9251a8c3e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/64/b5/0c/8dd835402c838ca0c9251a8c3e.mp3</guid>
+   <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | בשלח</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/db/b0/bf/1faaf64ca98ea8fdb31f837b48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/db/b0/bf/1faaf64ca98ea8fdb31f837b48.mp3</guid>
+   <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | בא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/76/cb/0c/7a75e24751b9c499baadedf434.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/76/cb/0c/7a75e24751b9c499baadedf434.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וארא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f8/a9/23/0130d5444183f94cb9b2138c88.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f8/a9/23/0130d5444183f94cb9b2138c88.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | שמות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/82/48/ae/569d3d43dea27a0a8a7bbe05eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/82/48/ae/569d3d43dea27a0a8a7bbe05eb.mp3</guid>
+   <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויחי</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/70/57/50/72e7fc40269e98b407ab38e690.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/70/57/50/72e7fc40269e98b407ab38e690.mp3</guid>
+   <pubDate>Wed, 27 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויגש</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/9f/45/c8200f4fa283b722ee60844a1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/9f/45/c8200f4fa283b722ee60844a1c.mp3</guid>
+   <pubDate>Thu, 21 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | מקץ</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a7/63/af/f2734e42fb8dc3d7f66a89dcc8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a7/63/af/f2734e42fb8dc3d7f66a89dcc8.mp3</guid>
+   <pubDate>Thu, 14 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וישב</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e0/4a/a9/15dc134dd68f8b1c72ba4837b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e0/4a/a9/15dc134dd68f8b1c72ba4837b2.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וישלח</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e8/e7/fd/bcdb61460b964f1e235b53d8d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e8/e7/fd/bcdb61460b964f1e235b53d8d8.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויצא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4c/0d/cb/889ab14b0dad751cec15604d74.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4c/0d/cb/889ab14b0dad751cec15604d74.mp3</guid>
+   <pubDate>Thu, 23 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | תולדות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/07/b1/b3/f94c4d492eaa21d19d8352cc1e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/07/b1/b3/f94c4d492eaa21d19d8352cc1e.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | חיי שרה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/96/53/d9/8ea24241b2bff3dec913065b8d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/96/53/d9/8ea24241b2bff3dec913065b8d.mp3</guid>
+   <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וירא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/56/a0/53/49b6eb41bf830d5879bc2b5075.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/56/a0/53/49b6eb41bf830d5879bc2b5075.mp3</guid>
+   <pubDate>Wed, 01 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | לך לך</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8b/7b/f7/97d63c45cb8453d3347f581a63.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8b/7b/f7/97d63c45cb8453d3347f581a63.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | נח</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7b/8b/8d/45ab2a4ea582d3fdac35788984.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7b/8b/8d/45ab2a4ea582d3fdac35788984.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | בראשית</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/04/a4/c7/67385f4a7da687f6f2d062fa82.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/04/a4/c7/67385f4a7da687f6f2d062fa82.mp3</guid>
+   <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וזאת והברכה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/09/30/f0/b66c2d400d8afd272cc451d039.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/09/30/f0/b66c2d400d8afd272cc451d039.mp3</guid>
+   <pubDate>Tue, 26 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | האזינו</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e0/89/e1/444a8f40f08c68c055c6ac475f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e0/89/e1/444a8f40f08c68c055c6ac475f.mp3</guid>
+   <pubDate>Mon, 11 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ניצבים וילך</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/f6/6b/1198c14fc285a310ea8a966493.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/f6/6b/1198c14fc285a310ea8a966493.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | כי תבוא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/be/dd/adbb314f59b67ad7d05c92ff26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/be/dd/adbb314f59b67ad7d05c92ff26.mp3</guid>
+   <pubDate>Sun, 27 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | כי תצא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0e/a3/5b/9cf63f4abd9800bcf156d4766d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0e/a3/5b/9cf63f4abd9800bcf156d4766d.mp3</guid>
+   <pubDate>Sun, 20 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | שופטים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/5e/ab/6f03fb4af080cc1d644f1aa251.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/5e/ab/6f03fb4af080cc1d644f1aa251.mp3</guid>
+   <pubDate>Sun, 13 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ראה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/70/30/37/e5907e46f885a75e71a4b523b0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/70/30/37/e5907e46f885a75e71a4b523b0.mp3</guid>
+   <pubDate>Wed, 09 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | עקב</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2c/ee/db/65d91641fea2180dc15890770e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2c/ee/db/65d91641fea2180dc15890770e.mp3</guid>
+   <pubDate>Tue, 01 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ואתחנן</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/28/b4/16/0603614446b2c03f2f4e87180e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/28/b4/16/0603614446b2c03f2f4e87180e.mp3</guid>
+   <pubDate>Mon, 24 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | דברים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6b/2f/78/d2ccf54fe78312c5e7d00f393d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6b/2f/78/d2ccf54fe78312c5e7d00f393d.mp3</guid>
+   <pubDate>Tue, 18 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | מטות מסעי</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/61/c9/8d/51b4384035b9cf492f449bc81d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/61/c9/8d/51b4384035b9cf492f449bc81d.mp3</guid>
+   <pubDate>Wed, 12 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | פנחס</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7d/f8/b7/4940af4ebaa030afa9abc84f4c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7d/f8/b7/4940af4ebaa030afa9abc84f4c.mp3</guid>
+   <pubDate>Wed, 05 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | בלק</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/17/74/7e/ca49c04ff48b67ce53dd413254.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/17/74/7e/ca49c04ff48b67ce53dd413254.mp3</guid>
+   <pubDate>Tue, 27 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | חוקת</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e6/d7/a6/b6dcbd4965b3909f94d9ad0c6d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e6/d7/a6/b6dcbd4965b3909f94d9ad0c6d.mp3</guid>
+   <pubDate>Wed, 21 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | קרח</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ce/1a/db/91897a415b902278f970fdc7d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ce/1a/db/91897a415b902278f970fdc7d7.mp3</guid>
+   <pubDate>Mon, 12 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | שלח-לך</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/09/b6/e1/ae2ecf442cbb661fe2f6a68bbc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/09/b6/e1/ae2ecf442cbb661fe2f6a68bbc.mp3</guid>
+   <pubDate>Mon, 05 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | בהעלותך</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/ab/1a/b922fd4c7aa6f77d6ac2ff4ba6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/ab/1a/b922fd4c7aa6f77d6ac2ff4ba6.mp3</guid>
+   <pubDate>Mon, 29 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | נשא-שבועות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/b0/5e/da694f474593214133fffe45aa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/b0/5e/da694f474593214133fffe45aa.mp3</guid>
+   <pubDate>Wed, 24 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | במדבר</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/4d/f4/43befb4c3a9eac940d15be51d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/4d/f4/43befb4c3a9eac940d15be51d6.mp3</guid>
+   <pubDate>Mon, 15 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | בהר בחקתי</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/09/85/d8/87710f4f9090bb9d3bd27a0996.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/09/85/d8/87710f4f9090bb9d3bd27a0996.mp3</guid>
+   <pubDate>Mon, 08 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | אמור</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/36/49/00/7e805545d785ca254324739d63.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/36/49/00/7e805545d785ca254324739d63.mp3</guid>
+   <pubDate>Mon, 01 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | אחרי מות קדושים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/db/da/4d/4bb7f0441e9a85a96eb049dea3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/db/da/4d/4bb7f0441e9a85a96eb049dea3.mp3</guid>
+   <pubDate>Mon, 24 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | תזריע מצורע</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4f/55/0e/8151024f01943d0c46ebb04aed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4f/55/0e/8151024f01943d0c46ebb04aed.mp3</guid>
+   <pubDate>Wed, 19 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | שמיני</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6f/3b/13/46aa3949679753d1c4f5d4defb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6f/3b/13/46aa3949679753d1c4f5d4defb.mp3</guid>
+   <pubDate>Tue, 04 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | צו</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/14/4a/11/78266441b19f8361e95556af36.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/14/4a/11/78266441b19f8361e95556af36.mp3</guid>
+   <pubDate>Mon, 27 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויקרא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/db/3b/34/42c9af40afbfa46ffe9dc0146d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/db/3b/34/42c9af40afbfa46ffe9dc0146d.mp3</guid>
+   <pubDate>Sun, 19 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויקהל- פקודי</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a7/cc/f0/db31c34ad0874a01a288adcf51.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a7/cc/f0/db31c34ad0874a01a288adcf51.mp3</guid>
+   <pubDate>Mon, 13 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | כי תשא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/76/44/dc/608c5346ea9bbb928b3da2deaa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/76/44/dc/608c5346ea9bbb928b3da2deaa.mp3</guid>
+   <pubDate>Mon, 06 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | תצוה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/23/ec/24/0a617e46d1a670f84c8d984c9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/23/ec/24/0a617e46d1a670f84c8d984c9a.mp3</guid>
+   <pubDate>Mon, 27 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | תרומה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/9d/6f/d8a0b14b15b90ddbe97a651a58.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/9d/6f/d8a0b14b15b90ddbe97a651a58.mp3</guid>
+   <pubDate>Mon, 20 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | משפטים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b5/4c/72/0b41e3417096cedeb53ca85e48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b5/4c/72/0b41e3417096cedeb53ca85e48.mp3</guid>
+   <pubDate>Thu, 16 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | יתרו</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/16/09/4c/6694774daf9703614d94cab70e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/16/09/4c/6694774daf9703614d94cab70e.mp3</guid>
+   <pubDate>Tue, 07 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | בשלח</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/8c/70/2a12ba4837921509632ecc186a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/8c/70/2a12ba4837921509632ecc186a.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | בא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ce/f2/6d/0076ab42fc945d2bfd79278761.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ce/f2/6d/0076ab42fc945d2bfd79278761.mp3</guid>
+   <pubDate>Wed, 25 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וארא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/42/9b/e5/c582064bb29b937a36416751d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/42/9b/e5/c582064bb29b937a36416751d6.mp3</guid>
+   <pubDate>Wed, 18 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | שמות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/1d/78/fd0a9347829c0d0cfc37832dfb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/1d/78/fd0a9347829c0d0cfc37832dfb.mp3</guid>
+   <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויחי</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/39/7b/1dbece478e80bf3454b5a69e23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/39/7b/1dbece478e80bf3454b5a69e23.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויגש</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/96/4c/ed/01a3514a06a58d4cd210b2c599.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/96/4c/ed/01a3514a06a58d4cd210b2c599.mp3</guid>
+   <pubDate>Wed, 28 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | מקץ</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/88/ba/b4/f5b42544cdb7b31dca4b50514f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/88/ba/b4/f5b42544cdb7b31dca4b50514f.mp3</guid>
+   <pubDate>Tue, 20 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וישב</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a8/ab/c4/5e881f410185b558d192c1f9cb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a8/ab/c4/5e881f410185b558d192c1f9cb.mp3</guid>
+   <pubDate>Wed, 14 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וישלח</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/de/c2/9e/50202b40c1812166f6b2c70299.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/de/c2/9e/50202b40c1812166f6b2c70299.mp3</guid>
+   <pubDate>Thu, 08 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | ויצא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3c/9a/f5/43faae4b35aaf83c261e0b7927.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3c/9a/f5/43faae4b35aaf83c261e0b7927.mp3</guid>
+   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | תולדות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/13/e4/50523c45168f7def3efef08c0c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/13/e4/50523c45168f7def3efef08c0c.mp3</guid>
+   <pubDate>Wed, 23 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | חיי שרה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7e/84/f0/557fc4410998ab0368266b30f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7e/84/f0/557fc4410998ab0368266b30f9.mp3</guid>
+   <pubDate>Thu, 17 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה בתרתי משמע | הרב הראל ברגר ושגיב זהבי | וירא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0d/e3/5b/9c98e24acf8e1d9599e440f83c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0d/e3/5b/9c98e24acf8e1d9599e440f83c.mp3</guid>
+   <pubDate>Thu, 10 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח- יתירות בתורה ובדיגיטל</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/61/ee/27/12fa2446d3b4fe6d5e6a442107.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/61/ee/27/12fa2446d3b4fe6d5e6a442107.mp3</guid>
+   <pubDate>Tue, 05 Oct 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - אור וחישוב אופטי</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2c/11/a9/6fb22f42b3a33e552d07ce292a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2c/11/a9/6fb22f42b3a33e552d07ce292a.mp3</guid>
+   <pubDate>Tue, 05 Oct 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וזאת הברכה - קבורתו של משה ומייסד ביטקוין</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a9/b3/d8/2e25684bec9c5b4396d2d4b5f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a9/b3/d8/2e25684bec9c5b4396d2d4b5f9.mp3</guid>
+   <pubDate>Thu, 30 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות - יוסיף דעת וירוסים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1b/fb/40/e832d943438eb19f3326ffc40c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1b/fb/40/e832d943438eb19f3326ffc40c.mp3</guid>
+   <pubDate>Thu, 30 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האזינו - הסטוריה מקראית וממוחשבת</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/28/52/f3/28327948e7aa75c73897980c58.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/28/52/f3/28327948e7aa75c73897980c58.mp3</guid>
+   <pubDate>Mon, 13 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום הכיפורים - קלפי ואקראיות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ec/de/d7/5a660a436c9195b2b0501b3c71.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ec/de/d7/5a660a436c9195b2b0501b3c71.mp3</guid>
+   <pubDate>Mon, 13 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וילך - הנהגה מונחית</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/bb/eb/67c0b547c89b39b72feee743f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/bb/eb/67c0b547c89b39b72feee743f4.mp3</guid>
+   <pubDate>Fri, 10 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נצבים וילך | תולעת ושורש פורה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6e/04/8d/18dc5d427fb0fe7fb506015e0e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6e/04/8d/18dc5d427fb0fe7fb506015e0e.mp3</guid>
+   <pubDate>Sun, 29 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא | ישות אשר לא תשמע לשונה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/91/ad/cb/82f84f4411ae6ce7248a066144.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/91/ad/cb/82f84f4411ae6ce7248a066144.mp3</guid>
+   <pubDate>Mon, 23 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תצא | בן חריג סורר ומורה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cf/71/03/fa395a477891a6c2449c0015f8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cf/71/03/fa395a477891a6c2449c0015f8.mp3</guid>
+   <pubDate>Mon, 16 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שופטים | סוס מלחמה וסוס טרויאני</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/6d/9e/6b1282440eb1cbbdcbb98b6724.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/6d/9e/6b1282440eb1cbbdcbb98b6724.mp3</guid>
+   <pubDate>Mon, 09 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ראה | חקירות ופורנזיקות דיגיטליות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c3/15/49/0cb8a647e8b84f112f0359f2ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c3/15/49/0cb8a647e8b84f112f0359f2ec.mp3</guid>
+   <pubDate>Sun, 01 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת עקב | עיבוד מחדש של כלים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/83/9c/d2f3af4ca4a03362ed42bc459c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/83/9c/d2f3af4ca4a03362ed42bc459c.mp3</guid>
+   <pubDate>Mon, 26 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ואתחנן | משה רבנו כשפת סף</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/87/38/fd/5772bb4ee7983127553a445b94.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/87/38/fd/5772bb4ee7983127553a445b94.mp3</guid>
+   <pubDate>Mon, 19 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשעה באב | שאלות רטוריות במגילה ובמחשב</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/45/da/71/fa22b74988bd737b30c779fb14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/45/da/71/fa22b74988bd737b30c779fb14.mp3</guid>
+   <pubDate>Fri, 16 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת דברים | ענקים היסטוריים ודיגיטליים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/d5/d9/bcc0fd4672823d8e3b86584e7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/d5/d9/bcc0fd4672823d8e3b86584e7e.mp3</guid>
+   <pubDate>Mon, 12 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות מסעי | נדר דיגיטלי</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e7/6f/37/ffbf6f4ab8bfd7005b8031d4e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e7/6f/37/ffbf6f4ab8bfd7005b8031d4e6.mp3</guid>
+   <pubDate>Tue, 06 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פנחס | התאמת יתר ותת התאמה של מנהיג</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/98/0b/6f/a31cc84853b606ab56625b2b66.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/98/0b/6f/a31cc84853b606ab56625b2b66.mp3</guid>
+   <pubDate>Sun, 27 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בלק | בלעם ומקרה קצה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/69/90/69/b2f6404b4f9b5b7bbf2753ea4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/69/90/69/b2f6404b4f9b5b7bbf2753ea4a.mp3</guid>
+   <pubDate>Sat, 19 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חקת | סנייק הנחושת</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1a/87/da/cb3a284d3293a32fd18d52d0cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1a/87/da/cb3a284d3293a32fd18d52d0cd.mp3</guid>
+   <pubDate>Mon, 14 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת קרח | בני קורח וחישוב קוונטים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/59/31/aad72d42d1ae0ce02b8c344f5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/59/31/aad72d42d1ae0ce02b8c344f5a.mp3</guid>
+   <pubDate>Sun, 06 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שלח | שליחת המרגלים לאיסוף מודיעין</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cc/c9/cb/6257b9460882c99bac741c81fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cc/c9/cb/6257b9460882c99bac741c81fd.mp3</guid>
+   <pubDate>Sat, 29 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהעלותך | יתרו כבודק תוכנה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/05/9a/78/8e1ed649ae9502bba82dde331e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/05/9a/78/8e1ed649ae9502bba82dde331e.mp3</guid>
+   <pubDate>Mon, 24 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נשא | קרבנות הנשיאים והתקפות התחמקות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d3/41/2d/9289694db3932f24edd7de9cf4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d3/41/2d/9289694db3932f24edd7de9cf4.mp3</guid>
+   <pubDate>Tue, 18 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | איש תהליכים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/da/73/06/5c0c6340c6b2f5dd7b792fb7e9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/da/73/06/5c0c6340c6b2f5dd7b792fb7e9.mp3</guid>
+   <pubDate>Tue, 18 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת במדבר | פונקציית קרואי העדה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/04/86/12/dd979a47928d8225e8d3fb5c85.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/04/86/12/dd979a47928d8225e8d3fb5c85.mp3</guid>
+   <pubDate>Wed, 12 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר-בחוקתי | איפוס הארץ</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/1f/0a/d3875648428bdc3dcf2a25d532.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/1f/0a/d3875648428bdc3dcf2a25d532.mp3</guid>
+   <pubDate>Wed, 05 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת אמור | אלגוריתם שכן קרוב וטומאת כהן</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/6a/8b/5f68344a0cb749e70de2306fc4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/6a/8b/5f68344a0cb749e70de2306fc4.mp3</guid>
+   <pubDate>Sun, 25 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי-מות קדושים | לקט סודי ביותר</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/d3/01/e3228b4d6484a8dd5de27ff49c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/d3/01/e3228b4d6484a8dd5de27ff49c.mp3</guid>
+   <pubDate>Mon, 19 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע מצורע | טהרת הספרה אחת</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3b/0c/57/3b046a4ec7b3e9baef7c9572f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3b/0c/57/3b046a4ec7b3e9baef7c9572f4.mp3</guid>
+   <pubDate>Wed, 14 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמיני | טבע, טהרה ואינטליגנציית נחיל</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ba/59/7e/4bdf7d4385b1da7a2ceab3238f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ba/59/7e/4bdf7d4385b1da7a2ceab3238f.mp3</guid>
+   <pubDate>Tue, 06 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח | שחורה אני וקופסא</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/94/61/be/77bf6f4cb9888df7ff80367cbc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/94/61/be/77bf6f4cb9888df7ff80367cbc.mp3</guid>
+   <pubDate>Mon, 29 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת צו | אש שתמיד מתוזמנת</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bd/05/2a/90bc164c4a92ec6864ac9412ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bd/05/2a/90bc164c4a92ec6864ac9412ed.mp3</guid>
+   <pubDate>Wed, 24 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקרא | על דיוג ועושק</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f2/86/5c/602e564e3db8b5e3f92c56bad6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f2/86/5c/602e564e3db8b5e3f92c56bad6.mp3</guid>
+   <pubDate>Tue, 16 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקהל פקודי | עברת קול וימי אפס</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a6/d3/c9/c1e4c747d69113ac1c5f13c987.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a6/d3/c9/c1e4c747d69113ac1c5f13c987.mp3</guid>
+   <pubDate>Mon, 08 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תשא | לוחות אבן ומכונת טיורינג</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/49/79/bc/bf5c3a45adbc4c8ec7e487b165.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/49/79/bc/bf5c3a45adbc4c8ec7e487b165.mp3</guid>
+   <pubDate>Mon, 01 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>-פרשת תצוה | חושן ו AI</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/22/1a/70/2c51f44bdc900a079166a323d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/22/1a/70/2c51f44bdc900a079166a323d6.mp3</guid>
+   <pubDate>Wed, 24 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תרומה | עצים מדור קדם</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4f/1b/af/1c16124919ab68f36b02c1cb2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4f/1b/af/1c16124919ab68f36b02c1cb2f.mp3</guid>
+   <pubDate>Mon, 15 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת משפטים | חומת אש בצורה</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/63/49/89/8a12b249a7a00bb4d53294793a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/63/49/89/8a12b249a7a00bb4d53294793a.mp3</guid>
+   <pubDate>Thu, 11 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת יתרו | בידוד תקלות בהר סיני</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/d2/2d/a4664848c3b3e5d4de0a4156ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/d2/2d/a4664848c3b3e5d4de0a4156ee.mp3</guid>
+   <pubDate>Sun, 31 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בשלח | נתיב מהיר בכביש 40 השנים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/84/78/39791a482f94adae56107486b0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/84/78/39791a482f94adae56107486b0.mp3</guid>
+   <pubDate>Sun, 24 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בא | נביחות של כלבים ורעש לבן</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/82/eb/30/8a4694435bb8eb0710506dd95a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/82/eb/30/8a4694435bb8eb0710506dd95a.mp3</guid>
+   <pubDate>Wed, 20 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פשרת וארא | משה ומיקרו גמגום</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/42/77/bc/ba53314e95bc4eb682ebd6330a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/42/77/bc/ba53314e95bc4eb682ebd6330a.mp3</guid>
+   <pubDate>Tue, 12 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמות | אנונימיות בלידתו של משה רבנו</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3e/99/ed/24ee2a46acba6733c5632092c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3e/99/ed/24ee2a46acba6733c5632092c6.mp3</guid>
+   <pubDate>Tue, 05 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי | נפתלי מול דואר ישראל</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/58/34/bb/1c6b084326b8a2f1b92aa008b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/58/34/bb/1c6b084326b8a2f1b92aa008b3.mp3</guid>
+   <pubDate>Sun, 27 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויגש | יוסף הכלכלן ועצים בינאריים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a8/e0/bb/410db14855bb5de6072bddd975.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a8/e0/bb/410db14855bb5de6072bddd975.mp3</guid>
+   <pubDate>Mon, 21 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מקץ | אחי יוסף מונעים שירות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/12/05/f0/91a9c54e33b090bfdf98ad2d25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/12/05/f0/91a9c54e33b090bfdf98ad2d25.mp3</guid>
+   <pubDate>Sun, 13 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב | יום ההולדת של פרעה והתקפת התנגשות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d8/47/e3/2c1cfb411792607adc1ab7e8c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d8/47/e3/2c1cfb411792607adc1ab7e8c8.mp3</guid>
+   <pubDate>Mon, 07 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח | עדרי צאן ועיבוד שפה טבעית</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8e/ee/3f/a0c8f949aa8feb7309f7ef0cf6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8e/ee/3f/a0c8f949aa8feb7309f7ef0cf6.mp3</guid>
+   <pubDate>Tue, 01 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא | אבני זכרון</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/26/2f/3296994a8e8873c1dea4c43ba1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/26/2f/3296994a8e8873c1dea4c43ba1.mp3</guid>
+   <pubDate>Tue, 24 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות | כתובות של בורות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f5/72/95/29518841a98ddac3ce17f5bfdd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f5/72/95/29518841a98ddac3ce17f5bfdd.mp3</guid>
+   <pubDate>Tue, 17 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה | אפליקציות הכרות ובחירות מהגיהינום</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c6/96/7d/6360d64f02b4bfabac2fd0c785.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c6/96/7d/6360d64f02b4bfabac2fd0c785.mp3</guid>
+   <pubDate>Mon, 09 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וירא | עיוורון ממוחשב</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c6/64/05/8a30104c44b5b82c04413f7e5e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c6/64/05/8a30104c44b5b82c04413f7e5e.mp3</guid>
+   <pubDate>Wed, 04 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת לך לך | מתנת חינם</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5b/6a/01/eee02d42bbaf562da54ee16ffc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5b/6a/01/eee02d42bbaf562da54ee16ffc.mp3</guid>
+   <pubDate>Wed, 28 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נח | שפה אחת ודברים אחדים</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/79/b0/97/af110a4ba998b871eb8a8dabd5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/79/b0/97/af110a4ba998b871eb8a8dabd5.mp3</guid>
+   <pubDate>Tue, 20 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בראשית | משתנים וחיות אחרות</title>
+   <description>הרב הראל ברגר · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב הראל ברגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/28/76/81/5d70734cc8aaf59242106ffdae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/28/76/81/5d70734cc8aaf59242106ffdae.mp3</guid>
+   <pubDate>Wed, 14 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

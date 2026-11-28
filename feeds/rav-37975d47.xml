@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב גבריאל סרף · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-37975d47.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב גבריאל סרף.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>בדין אמירת בפ"נ ובפ"נ בשעת נתינת הגט | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/245c4fcf/e9b911c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/245c4fcf/e9b911c9.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עדות קיום בגיטין וקידושין | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/cc2ea66f/f2ebfa59.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cc2ea66f/f2ebfa59.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כתב ידו בגיטין בקידושין ובשטרי ממון | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/41d955b4/00c39da0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/41d955b4/00c39da0.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גבריאל סרף | בגדר איסור שהייה בשבת</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/446c2f27/63711b3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/446c2f27/63711b3d.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביסוד נאמנות ערעור הבעל ובגדר נעשו כמי שנחקרה עדותן בבי"ד | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/663818ff/139c03a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/663818ff/139c03a2.mp3</guid>
+   <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גבריאל סרף | כלי ראשון וכלי שני</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/6ce5c65b/fea7d356.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6ce5c65b/fea7d356.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדין רוב בדבר שבערוה | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/4f147c80/423b41a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4f147c80/423b41a5.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במוצאי מנוחה קדמנוך תחילה - שיחה לקראת סליחות אלול תשפ"ו | הרב גבריאל סרף</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/5e023748/70f24243.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5e023748/70f24243.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גבריאל סרף | בגדר מלאכת מבשל</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/8f5eb9c4/477ca1ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8f5eb9c4/477ca1ac.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהותו של גט אישה | מסכת גיטין - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/10b1b4b7/67f775bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/10b1b4b7/67f775bd.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מורא מקדש בזמן הזה | הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/8d1f935f/363b6c60.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8d1f935f/363b6c60.mp3</guid>
+   <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדין הסבו אחד מברך לכולן | מסכת ברכות | הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/feb8f1d8/0f96a58d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/feb8f1d8/0f96a58d.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדין ברכת בורא פרי האדמה על פירות האילן | מסכת ברכות - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/9f02703e/019cfea4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9f02703e/019cfea4.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדין שיעורי אכילה לברכה אחרונה | מסכת ברכות - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/4e90fcf5/14d818e9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4e90fcf5/14d818e9.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גבריאל סרף, ראש ישיבת כרם ביבנה • מזונות האשה - חיוב ממוני או ערכי</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/5af12218/af31bc6a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5af12218/af31bc6a.mp3</guid>
+   <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בגדרי חיוב חלה ובדין עיסה העשויה להיחלק | מסכת ברכות - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/eff07301/28991998.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eff07301/28991998.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדין מזונות עיקר והשאר טפל | מסכת ברכות - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/1af1bc32/545a2486.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1af1bc32/545a2486.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לל"ג בעומר תשפ"ו | הרב גבריאל סרף</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/264066fc/363d540f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/264066fc/363d540f.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בגדרן של ברכות הנהנין – מצוה או מתיר | מסכת ברכות - הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/5b08d20d/e5142366.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5b08d20d/e5142366.mp3</guid>
+   <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה ליום העצמאות | הרב גבריאל סרף</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/cc7672b9/e38fc461.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cc7672b9/e38fc461.mp3</guid>
+   <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גבריאל סרף - בדין טיבול חרוסת</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/fb772a2f/145973ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fb772a2f/145973ef.mp3</guid>
+   <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>6360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לנר ראשון של חנוכה | הרב גבריאל סרף, ראש הישיבה</title>
+   <description>הרב גבריאל סרף · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב גבריאל סרף</itunes:author>
+   <enclosure url="https://media.transistor.fm/d89060e4/25c5625b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d89060e4/25c5625b.mp3</guid>
+   <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

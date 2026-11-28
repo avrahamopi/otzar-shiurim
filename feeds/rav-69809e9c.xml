@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב בנימין רוזנצוויג · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-69809e9c.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב בנימין רוזנצוויג.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>באחד באדר | שיעור לראש חודש אדר | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64609231/episode_64609231.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64609231/episode_64609231.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על הסלע הך | שיעור לפרשת בשלח | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64233683/episode_64233683.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64233683/episode_64233683.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אם הבנים שמחה | שיעור על מזמורי ההלל | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64048430/episode_64048430.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64048430/episode_64048430.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מיכ֥ה טפח֖א מפסיק גדו֑ל | שיעור בספר מיכה | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63968275/episode_63968275.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63968275/episode_63968275.mp3</guid>
+   <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השקה לספר שמות | פירושי הנביאים לפסוקי הפרשה | הרב בנימין רוזנצוויגהשקה לספר שמות | פירושי הנביאים לפסוקי הפרשה | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63716605/episode_63716605.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63716605/episode_63716605.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האמת מאחורי צום העשירי | שיעור על עשרה בטבת | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63689305/episode_63689305.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63689305/episode_63689305.mp3</guid>
+   <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוחה של הנבואה להחזיר את העם בתשובה | הקדמה לספר מיכה | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63048234/episode_63048234.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63048234/episode_63048234.mp3</guid>
+   <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הסיפור של בנות לוט? | שיעור לפרשת וירא | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62748630/episode_62748630.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62748630/episode_62748630.mp3</guid>
+   <pubDate>Fri, 15 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לאיפה נעלם שם הויה? | שיעור לפרשת לך לך | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62662489/episode_62662489.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62662489/episode_62662489.mp3</guid>
+   <pubDate>Fri, 08 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה אני סובל? | שיעור לספר איוב | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/61382015/episode_61382015.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/61382015/episode_61382015.mp3</guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צלצולי נחמה! | שיעור להפטרת שופטים | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/61275699/episode_61275699.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/61275699/episode_61275699.mp3</guid>
+   <pubDate>Thu, 05 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקונספציה של אחאב | שיעור לפרשת פנחס | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60803227/episode_60803227.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60803227/episode_60803227.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>5040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הבעיה איתך בלעם? | שיעור לפרשת בלק | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60731047/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60731047/mp4.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בית שני- התקווה והמימוש | שיעור להפטרת פרשת בהעלותך | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60452846/episode_60452846.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60452846/episode_60452846.mp3</guid>
+   <pubDate>Thu, 20 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זכרני נא וחזקני נא- אמונתו העזה של שמשון בה' | שיעור לפרשת נשא- הפטרת שמשון | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60381365/episode_60381365.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60381365/episode_60381365.mp3</guid>
+   <pubDate>Fri, 14 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הברית החדשה- האמיתית! | שיעור לפרשת בהר | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60152624/episode_60152624.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60152624/episode_60152624.mp3</guid>
+   <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספירת העומר או ספירת הגומר? | שיעור לפרשת אמור | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60061423/episode_60061423.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60061423/episode_60061423.mp3</guid>
+   <pubDate>Thu, 16 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כגודל האהבה- גודל התוכחה | שיעור לפרשת קדושים | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59949365/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59949365/2.mp3</guid>
+   <pubDate>Thu, 16 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משואה לתקומת ישראל | שיעור ליום השואה, יום הזכרון ויום העצמאות | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59949257/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59949257/1.mp3</guid>
+   <pubDate>Thu, 09 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדיוק המופתי בפרשות הקורבנות | שיעור לפרשת צו | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59215958/episode_59215958.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59215958/episode_59215958.mp3</guid>
+   <pubDate>Fri, 29 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגאונות של אסתר | שיעור מיוחד לפורים | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59049657/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59049657/2.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרדכי ואסתר- לא מה שחשבתם? | מגילת אסתר | שיעור מיוחד לפורים | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58967660/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58967660/1.mp3</guid>
+   <pubDate>Fri, 08 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שני אוהלי מועד? | פרשת כי תשא | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58878606/episode_58878606.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58878606/episode_58878606.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות על גדעון השופט | שיעור שאינו לפורים | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58786709/episode_58786709.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58786709/episode_58786709.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבנה המשכן | פרשת תרומה | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58697721/episode_58697721.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58697721/episode_58697721.mp3</guid>
+   <pubDate>Thu, 15 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שם הוויה ושם אדנות- שניים שהם אחד | פרשת בא | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58363126/episode_58363126.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58363126/episode_58363126.mp3</guid>
+   <pubDate>Fri, 19 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסיפור של משה | פרשת שמות | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58205611/episode_58205611.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58205611/episode_58205611.mp3</guid>
+   <pubDate>Fri, 05 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ה' קרוב, ה' טוב | שיעור לחודש אלול | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56580265/episode_56580265.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56580265/episode_56580265.mp3</guid>
+   <pubDate>Thu, 24 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המטרה- ארץ ישראל! | שיעור לפרשת דברים- חזון | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56174604/episode_56174604.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56174604/episode_56174604.mp3</guid>
+   <pubDate>Fri, 21 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשרת השבטים חזרו? | שיעור לפרשת מטות- מסעי | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56090152/episode_56090152.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56090152/episode_56090152.mp3</guid>
+   <pubDate>Thu, 13 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדוע תתנשאו- למהותה של המלוכה בישראל | שיעור לפרשת קורח | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54446696/episode_54446696.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54446696/episode_54446696.mp3</guid>
+   <pubDate>Thu, 15 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערפה לעומת רות- דין לעומת חסד | שיעור למגילת רות | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53824479/episode_53824479.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53824479/episode_53824479.mp3</guid>
+   <pubDate>Thu, 11 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שוויון בתורה | שיעור לפרשת אמור | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53824477/episode_53824477.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53824477/episode_53824477.mp3</guid>
+   <pubDate>Thu, 11 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים פרות ועגל | שיעור לפרשת כי תישא | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53155072/episode_53155072.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53155072/episode_53155072.mp3</guid>
+   <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפופיק של אחשוורוש | שיעור לפורים | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53074303/episode_53074303.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53074303/episode_53074303.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפתרון הסופי- האגרות הכפולות של מרדכי | שיעור לפורים | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52827573/episode_52827573.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52827573/episode_52827573.mp3</guid>
+   <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכרות לה ברית חדשה | שיעור לפרשת משפטים | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52757276/episode_52757276.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52757276/episode_52757276.mp3</guid>
+   <pubDate>Thu, 16 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבודו מלא עולם- אבל הוא למעלה מן העולם | שיעור לפרשת יתרו | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52684444/episode_52684444.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52684444/episode_52684444.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קריעת ים סוף- נקמת ה' במצרים | שיעור לפרשת בשלח | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52617496/episode_52617496.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52617496/episode_52617496.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שם הוויה- שם ה' המתגלה בגאולה | שיעור לפרשת בא | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52554404/episode_52554404.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52554404/episode_52554404.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסנה ושלושת הטענות | שיעור לפרשת שמות | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52424489/episode_52424489.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52424489/episode_52424489.mp3</guid>
+   <pubDate>Thu, 12 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יוסף והאחים- מאחורי הקלעים | שיעור לפרשת ויגש | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52307189/episode_52307189.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52307189/episode_52307189.mp3</guid>
+   <pubDate>Thu, 29 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה ממשיכים לחגוג את חנוכה? | תשובתו של יהודה- בעל התשובה הגדול | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52197547/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52197547/1.mp3</guid>
+   <pubDate>Thu, 15 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצב יעקב מצבה על קברתה- היא מצבת קבורת רחל | שיעור לפרשת תולדות | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52131827/episode_52131827.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52131827/episode_52131827.mp3</guid>
+   <pubDate>Thu, 08 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה אומרים הלל בראש חודש? | אבותינו היו רועי צאן- מוסריות מהאבות- פרשת תולדות | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52030919/episode_52030919.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52030919/episode_52030919.mp3</guid>
+   <pubDate>Mon, 28 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים על ההשגחה מעבד אברהם | ארץ ישראל- העיקר של ספר בראשית | פרשת חיי שרה | הרב בנימין רוזנצוויג</title>
+   <description>הרב בנימין רוזנצוויג · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בנימין רוזנצוויג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52030917/episode_52030917.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52030917/episode_52030917.mp3</guid>
+   <pubDate>Mon, 28 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

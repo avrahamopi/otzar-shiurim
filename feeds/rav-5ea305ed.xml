@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב משה טרגין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-5ea305ed.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב משה טרגין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>ברכה לחיילים | ראש השנה תשפ"ז | הרב משה טרגין</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/125527522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610584-44100-2-dc890571c1981.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/125527522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610584-44100-2-dc890571c1981.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה לחיילים | ראש השנה תשפ"ז | הרב משה טרגין</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/125527526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610588-44100-2-8d0314eeebb26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/125527526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610588-44100-2-8d0314eeebb26.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה ועצה לחיילים | ראש השנה | הרב משה טרגין</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/108813747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145088-44100-2-47949b1d3100c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/108813747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145088-44100-2-47949b1d3100c.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב משה טרגין - מידת הסובלנות של אברהם אבינו</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94546577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-17%2Fd7f1731d-bf5b-83b0-74b0-0c5f7b8716a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94546577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-17%2Fd7f1731d-bf5b-83b0-74b0-0c5f7b8716a0.mp3</guid>
+   <pubDate>Sun, 17 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לעשרת ימי תשובה | הרב משה טרגין | תשובת יחיד ותשובת רבים</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92880707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-11%2F387906094-44100-2-4847d21b47a57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92880707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-11%2F387906094-44100-2-4847d21b47a57.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מזמור לדוד | מזמור י"ט | השמים מספרים כבוד א-ל | הרב משה טרגין | שבועות תשפ"ג</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/96/9e/39/48725043f48a72443e433f4642.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/96/9e/39/48725043f48a72443e433f4642.mp3</guid>
+   <pubDate>Tue, 23 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | צפון | הרב משה טרגין | פסח תשפ"ב</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f2/1b/ee/27b99941839612476e7b7ab16e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f2/1b/ee/27b99941839612476e7b7ab16e.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צא ולמד | הרב משה טרגין</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e7/47/7b/7475bc41168e35308c2360a40e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e7/47/7b/7475bc41168e35308c2360a40e.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב משה טרגין | תשובה ישנה ותשובה חדשה</title>
+   <description>הרב משה טרגין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב משה טרגין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/70/ed/daf7464183a2f97dcfa339e4d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/70/ed/daf7464183a2f97dcfa339e4d3.mp3</guid>
+   <pubDate>Mon, 31 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב חסדאי וינר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-757c2217.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב חסדאי וינר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת בהר - בחוקותי - בהר או סיני | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ba/fd/0a/6b370842c9a7991cc20da98a6c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ba/fd/0a/6b370842c9a7991cc20da98a6c.mp3</guid>
+   <pubDate>Thu, 11 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | לקראת ל"ג בעומר - רשב"י - שר הביטחון | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/52/ad/a0/5ec8614e6baa91a0895bb573e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/52/ad/a0/5ec8614e6baa91a0895bb573e8.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת אחרי מות - קדושים - ואהבת לרעך כמוך | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b5/fe/cf/525e7d4141869f2a8cb73872a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b5/fe/cf/525e7d4141869f2a8cb73872a0.mp3</guid>
+   <pubDate>Thu, 27 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | יום העצמאות - קמעא קמעא | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/14/e0/a0eecb4345bb94c78afc61e167.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/14/e0/a0eecb4345bb94c78afc61e167.mp3</guid>
+   <pubDate>Mon, 24 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | עשור לרב מנחם פרומן | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/69/9c/c9/9a377c47ef9957d6cd10f077ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/69/9c/c9/9a377c47ef9957d6cd10f077ce.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פורים - איש שורר בביתו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/14/0e/64/b894214b67825afad07535afb6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/14/0e/64/b894214b67825afad07535afb6.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | קריאת מגילה - בימים ההם בזמן הזה | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a7/c6/74/9a042042db895749aaf4915b52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a7/c6/74/9a042042db895749aaf4915b52.mp3</guid>
+   <pubDate>Wed, 01 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת תרומה - ושכנתי בתוכם | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/88/ef/b1/ee101946ab843dff67d308ea7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/88/ef/b1/ee101946ab843dff67d308ea7e.mp3</guid>
+   <pubDate>Sat, 25 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת משפטים - עבד עברי | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b0/9b/53/c68aab4f73b5469baa542c48e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b0/9b/53/c68aab4f73b5469baa542c48e5.mp3</guid>
+   <pubDate>Thu, 16 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת יתרו - ייחוד ההפכים בהר סיני | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/d8/23/7986d44d2e96ebcfff10c3d942.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/d8/23/7986d44d2e96ebcfff10c3d942.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת בשלח - התשובה בימי השובבי"ם | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a3/2c/0f/9862b843ea8492d447d20c8916.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a3/2c/0f/9862b843ea8492d447d20c8916.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת בא - התשובה בימי השובבי"ם | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/80/45/3b/16b02f46648ceac2093c66e1ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/80/45/3b/16b02f46648ceac2093c66e1ad.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת וארא - התשובה בימי השובבי"ם | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dd/f4/96/eb8f844ef68c21ed89c13feca3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dd/f4/96/eb8f844ef68c21ed89c13feca3.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 15. הכשרת האברכים פרקים ה' - ו' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e6/87/c8/9447074b909c2b7dcdbc54c295.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e6/87/c8/9447074b909c2b7dcdbc54c295.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 14. הכשרת האברכים - פרקים ג'-ד' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8e/29/13/d884e44bd4889ee52e62a107ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8e/29/13/d884e44bd4889ee52e62a107ac.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 13. הכשרת האברכים - הקדמה ופרקים א'-ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/16/c1/dc/ba8f6b4aefa028759e0fa62236.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/16/c1/dc/ba8f6b4aefa028759e0fa62236.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 12. חובת התלמידים - מאמר שלישי | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/a6/c4/64fe914d62830faa15365384a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/a6/c4/64fe914d62830faa15365384a9.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 11. חובת התלמידים - מאמר שני | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e3/8d/ea/0cd0c44dc59b437d84c16ea4fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e3/8d/ea/0cd0c44dc59b437d84c16ea4fa.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 10. חובת התלמידים - מאמר ראשון | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/17/0c/0c/e5edc646eeba41fd5d5aa3c61c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/17/0c/0c/e5edc646eeba41fd5d5aa3c61c.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 9. חובת התלמידים פרק י"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b4/94/26/6f15264b21ab052a3ff10f8fe1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b4/94/26/6f15264b21ab052a3ff10f8fe1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 8. חובת התלמידים פרקים י"א - י"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/06/fb/3ea2a245e284c758e730777d0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/06/fb/3ea2a245e284c758e730777d0d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 7. חובת התלמידים פרקים ט' - י' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1c/51/51/1fa4b84fc99c29182b491bac4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1c/51/51/1fa4b84fc99c29182b491bac4a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 6. חובת התלמידים פרקים ז' - ח' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1f/a5/e3/0ce6ef4d3998a6437532d8cfc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1f/a5/e3/0ce6ef4d3998a6437532d8cfc3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 5. חובת התלמידים ה' - ו' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f6/f9/eb/88abec42a2a05480e3fc763c25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f6/f9/eb/88abec42a2a05480e3fc763c25.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 4. חובת התלמידים ג' - ד' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dd/80/de/1dd78e4f068046a9c888e9cabe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dd/80/de/1dd78e4f068046a9c888e9cabe.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 3. חובת התלמידים א' - ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/29/19/6d/325e1d47d79062c14f262074be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/29/19/6d/325e1d47d79062c14f262074be.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 2. הקדמת החובת התלמידים | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f8/2d/98/020d484db28db9bf1f3b51aee8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f8/2d/98/020d484db28db9bf1f3b51aee8.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 1. מבוא לחובת התלמידים | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/6c/ad/bd966b4155beabc27dcfd1c90d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/6c/ad/bd966b4155beabc27dcfd1c90d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 42. אותיות קי"ד - קט"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/62/31/81/458b98425eae4931910882ea48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/62/31/81/458b98425eae4931910882ea48.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 41. אותיות קי"ב - קי"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/68/ff/cb/831d89450a84bd91536c3e7100.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/68/ff/cb/831d89450a84bd91536c3e7100.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 40. אותיות ק"ט - קי"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/e2/01/26b5fd4dab8d8d17a583d01ed6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/e2/01/26b5fd4dab8d8d17a583d01ed6.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 39. אותיות ק"ז - ק"ח | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e6/c6/93/5a7ced4c50b5dd38cd3ef2fc0a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e6/c6/93/5a7ced4c50b5dd38cd3ef2fc0a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 38. אותיות ק"ה - ק"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8a/44/da/5e68c94ed7af167a9e66315042.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8a/44/da/5e68c94ed7af167a9e66315042.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 37. אות ק"ד - שיעור הרחבה והעמקה בנושא ערבוב טוב ורע | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/b4/62/98045d439b95949b5d024945f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/b4/62/98045d439b95949b5d024945f3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 36. אות ק"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/aa/24/1b376c4492acd0dd809a7e2e6b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/aa/24/1b376c4492acd0dd809a7e2e6b.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 35. אותיות ק"א - ק"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/21/da/30355f42d2942c1b301342d4e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/21/da/30355f42d2942c1b301342d4e1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 34. אותיות צ״ז - ק׳ | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/ca/fc/efb7514ccf83053bf2ec32b5e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/ca/fc/efb7514ccf83053bf2ec32b5e4.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 33. אות צ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/99/9a/c6edf843ab8221f349f6ff873a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/99/9a/c6edf843ab8221f349f6ff873a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 32. צ"ה - צ"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/52/07/91/19476b4376a27382f071eb2d52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/52/07/91/19476b4376a27382f071eb2d52.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 31. צ"ג - צ"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/43/97/53696048858f60a1d3cbd2ce42.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/43/97/53696048858f60a1d3cbd2ce42.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 30. פ"ט - צ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fe/bf/00/9716ec4dbdbf65881f37f78b27.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fe/bf/00/9716ec4dbdbf65881f37f78b27.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 29. פ"ה - פ"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c3/2c/96/7acba04a2895765347814fcc6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c3/2c/96/7acba04a2895765347814fcc6e.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 28. אות פ"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/de/80/72/7076dc4ce697c267af8f5da387.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/de/80/72/7076dc4ce697c267af8f5da387.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 27. פ"ב - פ"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ab/0b/db/e23add4d8d83377660d3ecea37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ab/0b/db/e23add4d8d83377660d3ecea37.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 26. ע"ט - פ"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/ef/1e/2abeec470c8a6aba291d4166d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/ef/1e/2abeec470c8a6aba291d4166d3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 25. ע"ז - ע"ח | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/f4/15/5fa1e7438f8cc6c43f85432539.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/f4/15/5fa1e7438f8cc6c43f85432539.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 24. ע"ד - ע"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7c/b1/66/336a86468bba442887d1afcc9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7c/b1/66/336a86468bba442887d1afcc9d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 23. ע"ב - ע"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c7/29/53/272cc24bff9a33538db51062fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c7/29/53/272cc24bff9a33538db51062fe.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 22. ס"ח - ע"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8f/77/a3/d92e2f4dd283b307ae4bfeb9bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8f/77/a3/d92e2f4dd283b307ae4bfeb9bd.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 21. אות ס"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/68/5c/5b/6d655f405fb7ffa47fdec3e152.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/68/5c/5b/6d655f405fb7ffa47fdec3e152.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 20. ס"ג - ס"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/44/c7/b69b3644959bb5aff910ada6eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/44/c7/b69b3644959bb5aff910ada6eb.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 19. ס' - ס"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6b/c7/12/ec6c5c43f78f827861dee9b9bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6b/c7/12/ec6c5c43f78f827861dee9b9bb.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 18. נ"ח - נ"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bd/20/15/fc4428430cbe14e2cf5edd733f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bd/20/15/fc4428430cbe14e2cf5edd733f.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 17. נ"ד - נ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/c7/01/433a8f45729aa9719161e51263.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/c7/01/433a8f45729aa9719161e51263.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 16. נ"א - נ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/4a/be/8b0ae34c328f4d58c0063d60e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/4a/be/8b0ae34c328f4d58c0063d60e2.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 15. מ"ח - נ' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/06/eb/4c/2c8b6d4eb3b0f635bb5c1d3087.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/06/eb/4c/2c8b6d4eb3b0f635bb5c1d3087.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 14. מ"ו - מ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5e/68/80/11e1464211a57ab90bf0f7ed67.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5e/68/80/11e1464211a57ab90bf0f7ed67.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 13. מ"ד - מ"ה | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8b/eb/87/85ed8e445c9a96cf155d52e2da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8b/eb/87/85ed8e445c9a96cf155d52e2da.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 12. מ"א - מ"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/83/b6/67548e4fd7a4f48c8bc1a19fe1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/83/b6/67548e4fd7a4f48c8bc1a19fe1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 11. מ' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/58/a5/de138a43cb84e18c646b723b3c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/58/a5/de138a43cb84e18c646b723b3c.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 10. ל"ב - ל"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/26/b0/5a/6db246461aa3b388666fd338f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/26/b0/5a/6db246461aa3b388666fd338f0.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 8. כ"ג - כ"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/75/cd/ef/66dcb84be087e36f6cf19e0a57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/75/cd/ef/66dcb84be087e36f6cf19e0a57.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 7. כ' - כ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/5b/04/3ce09641959c79ee325f532f61.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/5b/04/3ce09641959c79ee325f532f61.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 6. ט"ו - י"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/14/1d/259e384a39ad39580a6a9dde45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/14/1d/259e384a39ad39580a6a9dde45.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 5. י' - י"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/99/74/578ef944129a0b42ef81a1dbc5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/99/74/578ef944129a0b42ef81a1dbc5.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 4. ו' - י' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bf/5e/29/699cb4431da3e302e4fe7a3c47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bf/5e/29/699cb4431da3e302e4fe7a3c47.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 3. ג' - ה' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b6/88/54/4774af45858b894182f5e56103.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b6/88/54/4774af45858b894182f5e56103.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 2. א' - ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a6/68/2d/dea7f9426dbf9b483273bed6f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a6/68/2d/dea7f9426dbf9b483273bed6f3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת ויחי - מתי ואיך לשקר | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/91/98/5606ed4117b6d2f111366e96b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/91/98/5606ed4117b6d2f111366e96b5.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | עשרה בטבת - מלכות שבמלכות | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cd/cb/98/64612145a7955bc8acda9bbc84.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cd/cb/98/64612145a7955bc8acda9bbc84.mp3</guid>
+   <pubDate>Thu, 22 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | י"ט כסלו - חג החגים | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/da/cc/a3/5fcea44f698baf054feac94503.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/da/cc/a3/5fcea44f698baf054feac94503.mp3</guid>
+   <pubDate>Tue, 13 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת ויצא - עולים ויורדים בו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/97/1d/09/005c554f77a4aeb2d2e6af228c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/97/1d/09/005c554f77a4aeb2d2e6af228c.mp3</guid>
+   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת וירא - צחוק וזריזות | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/55/1c/63/9caaea4cda87fb8114e2bc901f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/55/1c/63/9caaea4cda87fb8114e2bc901f.mp3</guid>
+   <pubDate>Thu, 10 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת נח - למשפחותיהם יצאו מן התיבה | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/15/1d/66/eb82dd42e1a7905983d4f883dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/15/1d/66/eb82dd42e1a7905983d4f883dd.mp3</guid>
+   <pubDate>Thu, 27 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת וילך - מעמד הקהל במוצאי שביעית | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/71/06/c2e9c14b4a9e2c8ce7b7c013d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/71/06/c2e9c14b4a9e2c8ce7b7c013d3.mp3</guid>
+   <pubDate>Thu, 29 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | משמעות הסימנים בראש השנה | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/11/05/e5dd2e42819fda0ce2dfbe8e40.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/11/05/e5dd2e42819fda0ce2dfbe8e40.mp3</guid>
+   <pubDate>Thu, 22 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת כי תבוא - ארור האיש | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/c4/d6/7e7fc44094a705884b0caab244.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/c4/d6/7e7fc44094a705884b0caab244.mp3</guid>
+   <pubDate>Thu, 15 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת כי תצא - חמירא סכנתא מאיסורא | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/aa/02/ca/86bcaa443db6a20afc4214fcd7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/aa/02/ca/86bcaa443db6a20afc4214fcd7.mp3</guid>
+   <pubDate>Thu, 08 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ט' אלול | רבי צדוק הכהן מלובלין | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/08/3f/85/6b38ed4d42ba7f7a1a22cc8564.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/08/3f/85/6b38ed4d42ba7f7a1a22cc8564.mp3</guid>
+   <pubDate>Sun, 04 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת שפטים - עגלה ערופה - אז והיום | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ab/21/76/e305124aeb93c6852bf332dff7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ab/21/76/e305124aeb93c6852bf332dff7.mp3</guid>
+   <pubDate>Thu, 01 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

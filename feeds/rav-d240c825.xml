@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אליעזר מלמד · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d240c825.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אליעזר מלמד.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב אליעזר מלמד, ראש ישיבת הר ברכה • בנין עולם - גדרי מצוות פרו ורבו</title>
+   <description>הרב אליעזר מלמד · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://media.transistor.fm/00c6a8bf/2169536c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/00c6a8bf/2169536c.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות אשת יפת תואר | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55759828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F120c7466-a531-2036-1211-2abe40064be7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55759828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F120c7466-a531-2036-1211-2abe40064be7.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושת המחנה ושמירת הצניעות | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55759759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F0ca97372-9fba-d511-6322-058752feb743.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55759759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F0ca97372-9fba-d511-6322-058752feb743.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם בצבא צריך להחמיר או להקל? | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55759707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F5131d533-b5d4-275f-bb8e-a65d8127abe3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55759707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F5131d533-b5d4-275f-bb8e-a65d8127abe3.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובת הציות לפקודות הצבא והגבלת הציות לפקודות | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55759644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2Fa4a018f8-42ae-f0b5-e904-8677eccea493.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55759644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2Fa4a018f8-42ae-f0b5-e904-8677eccea493.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שירות נשים בצבא | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55759415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F564b9da5-a08f-2b84-a2e3-48360c6e499f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55759415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F564b9da5-a08f-2b84-a2e3-48360c6e499f.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר מלחמה וחתירה לניצחון | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · מוסר</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55759341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F8b99a3ad-c086-55d5-68c6-b3a9cdaf89f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55759341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F8b99a3ad-c086-55d5-68c6-b3a9cdaf89f6.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות הגיוס והאיסור לפחד במלחמה | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55758836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F17668247-e699-583c-af2b-facd859d272f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55758836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F17668247-e699-583c-af2b-facd859d272f.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות השירות בצבא | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55758533/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2Faadbbfcb-0273-c6ad-1b04-a94b6b1ac98a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55758533/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2Faadbbfcb-0273-c6ad-1b04-a94b6b1ac98a.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גנבת דעת | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54731089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F2b9efb84-c6ba-4d83-ea46-e2e93c3add30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54731089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F2b9efb84-c6ba-4d83-ea46-e2e93c3add30.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם מותר לשקר למען ערכי ענווה וצניעות ומניעת בושה | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54731025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F5de8c5f0-83d4-1693-95b1-3fd414cff95a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54731025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F5de8c5f0-83d4-1693-95b1-3fd414cff95a.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם מותר לשקר במקרה של התנגשות בין האמת והשלום | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730946/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F67114fdf-2a82-aac3-132a-fa08ec0c3947.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730946/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F67114fdf-2a82-aac3-132a-fa08ec0c3947.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמינות בעסקים | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730878/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Fadb24199-2ac2-66b5-96e3-3998ce8fd21b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730878/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Fadb24199-2ac2-66b5-96e3-3998ce8fd21b.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדבר שקר תרחק – בבית דין ובהעתקה במבחן | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · הלכה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F313fe5a1-1821-4762-df4d-78a296ac8957.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F313fe5a1-1821-4762-df4d-78a296ac8957.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערך האמת והאיסור לשקר | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Ff16f84c4-bf9b-08d9-eeb4-2e904a2f33bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Ff16f84c4-bf9b-08d9-eeb4-2e904a2f33bd.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשך, יחסו של יעקב אבינו לעשיו | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730629/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F3652d276-c37b-929f-2875-56a5d8dfc234.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730629/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F3652d276-c37b-929f-2875-56a5d8dfc234.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איסור חנופה | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F2e500241-92b8-92dd-e6b4-52894c234274.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F2e500241-92b8-92dd-e6b4-52894c234274.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האיסור להחזיק במחלוקת | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F0c713dd3-954f-4e9d-31cf-f6a8115011c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F0c713dd3-954f-4e9d-31cf-f6a8115011c8.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבוד ואחריות ודרך ארץ לזולת | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Fb988396d-1f6f-971a-4ca6-f4ee8dea6f3a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Fb988396d-1f6f-971a-4ca6-f4ee8dea6f3a.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בקשת סליחה | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F14609e8e-be9f-a676-25a7-0491235cc340.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F14609e8e-be9f-a676-25a7-0491235cc340.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האיסור לצער אדם | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54730254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F3a5a8df8-5256-b30a-418f-deb0fec2f09f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54730254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F3a5a8df8-5256-b30a-418f-deb0fec2f09f.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כללי המוסר לעיתונאי | הרב אליעזר מלמד שליט"א</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · מוסר</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54729498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F6c74d01a-0c17-097b-2585-c566401631bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54729498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F6c74d01a-0c17-097b-2585-c566401631bd.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם אפשר להיות עיתונאי ע"פ ההלכה? | הרב אליעזר מלמד שליט"א</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · הלכה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54729445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F70166691-1f62-77a0-cbac-bb140689f54c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54729445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F70166691-1f62-77a0-cbac-bb140689f54c.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התקשורת בחברה המודרנית לפי ההלכה | הרב אליעזר מלמד שליט"א</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · הלכה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54729396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Fe6ca0924-ac28-c1bb-36a1-a47d432300a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54729396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Fe6ca0924-ac28-c1bb-36a1-a47d432300a2.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איסור לשון הרע | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54729355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F7694a8bd-dd77-d1bc-f1dd-a49d872e4f19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54729355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F7694a8bd-dd77-d1bc-f1dd-a49d872e4f19.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המצווה לדון לכף זכות | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54729295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F3e67c073-687d-ba05-86ad-67eff7f4126b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54729295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F3e67c073-687d-ba05-86ad-67eff7f4126b.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות לא תיקום ולא תיטור | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54729239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F9034bd4a-4eaa-5c96-f714-3c4911a02177.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54729239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F9034bd4a-4eaa-5c96-f714-3c4911a02177.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות ואהבת לרעך כמוך | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54729184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Ffe393537-69ed-0ac9-f305-37ea7ac8ec61.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54729184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2Ffe393537-69ed-0ac9-f305-37ea7ac8ec61.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

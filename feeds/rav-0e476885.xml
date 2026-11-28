@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב תמיר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0e476885.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב תמיר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סיכום ספר שופטים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2Fa01502fe-9740-6be4-df19-3a270ce97649.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2Fa01502fe-9740-6be4-df19-3a270ce97649.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוף שמשון</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232505/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F265fd99b-8512-82a1-7948-ba7501fe8cad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232505/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F265fd99b-8512-82a1-7948-ba7501fe8cad.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמשון מחזיר כבוד</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F3f1ba39d-cc19-d456-03e7-58f827ed4a6c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F3f1ba39d-cc19-d456-03e7-58f827ed4a6c.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמשון ודוד</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2Fe7793622-0afd-ced3-9c44-ce3d78bc4577.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2Fe7793622-0afd-ced3-9c44-ce3d78bc4577.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמשון – חלק ב</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F0d142dbe-791a-31cd-9a78-c494dc7c313d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F0d142dbe-791a-31cd-9a78-c494dc7c313d.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמשון – מעז יצא מתוק</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F724a5f2c-4a13-20d9-cba6-da36280329ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F724a5f2c-4a13-20d9-cba6-da36280329ed.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מנוח אשתו ועם ישראל</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F0ceff778-316b-2208-b647-adeecdc607a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F0ceff778-316b-2208-b647-adeecdc607a9.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשך סיפור מנוח ואשתו</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F64cb6863-6053-2443-4f54-867ad4d7a4a7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F64cb6863-6053-2443-4f54-867ad4d7a4a7.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמשון</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F0230691d-6285-7cf1-10f4-5e8ade7d82be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F0230691d-6285-7cf1-10f4-5e8ade7d82be.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נדר יפתח</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F23532adf-6b71-472e-48d6-5f9aa3b2fbfa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F23532adf-6b71-472e-48d6-5f9aa3b2fbfa.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יפתח יוצא למלחמה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F155b057d-8435-444e-462d-e0a73f5dcc7a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F155b057d-8435-444e-462d-e0a73f5dcc7a.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זקני גלעד עם הבקשה ליפתח והמלאכים לעמון</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F947b2359-85a9-65d0-2b94-2e271a969d8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F947b2359-85a9-65d0-2b94-2e271a969d8a.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עלייתו של יפתח</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2Fc78b07f2-e114-1b12-70e2-9d9226d2e869.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2Fc78b07f2-e114-1b12-70e2-9d9226d2e869.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיר שכם</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F882ad1ca-01ac-af5a-984a-8ea461784ccb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F882ad1ca-01ac-af5a-984a-8ea461784ccb.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבחן המלקקים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F980f60b3-383b-ed34-3bfe-51cac46756d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F980f60b3-383b-ed34-3bfe-51cac46756d6.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות הגיזה וצמצום צבא גדעון</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F58acf195-2f04-fa4a-297f-3c874e23a43e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F58acf195-2f04-fa4a-297f-3c874e23a43e.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מזבח עבודה זרה מול מזבח ה'</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F7f629974-a4e5-0a96-412d-f61f648515f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F7f629974-a4e5-0a96-412d-f61f648515f9.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפור בניית המזבח</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F6a591649-9867-15c0-73f7-32314119bdf2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F6a591649-9867-15c0-73f7-32314119bdf2.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניינו המיוחד של גדעון מול מדיין</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F51314569-7c94-53a4-b782-82c3e335b576.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F51314569-7c94-53a4-b782-82c3e335b576.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – תיאור שלטון מדיין וגדעון כשופט</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F07aaa2bb-ee6a-8dc6-c78d-8439cf7d1ef1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F07aaa2bb-ee6a-8dc6-c78d-8439cf7d1ef1.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שירת דבורה כהמשך למעמד הר סיני</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F08ab21ca-bdac-cff2-f7e4-05b373676415.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F08ab21ca-bdac-cff2-f7e4-05b373676415.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות על דבורה ויחסיה לברק</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F4443f346-11ac-acc6-2fbb-703af9f76b0e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F4443f346-11ac-acc6-2fbb-703af9f76b0e.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד'- ברק ודבורה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F870c1928-bf2b-c35d-9dbe-36f5cc3bd395.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F870c1928-bf2b-c35d-9dbe-36f5cc3bd395.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פעולת אהוד בן גרא</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F8f1bd1f3-c422-1654-42fe-596e5c6f117c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F8f1bd1f3-c422-1654-42fe-596e5c6f117c.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מיוחדות סיפור אהוד לעומת שאר השופטים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F2f40e14b-2ee9-0ee2-139d-21921b5f675d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F2f40e14b-2ee9-0ee2-139d-21921b5f675d.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג' – עתניאל כגרעין לכל השופטים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F21455d93-0cd7-0d74-8930-5d6a88cd40b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F21455d93-0cd7-0d74-8930-5d6a88cd40b2.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג' – עתניאל בן קנז</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F7e797fe7-0cbb-61c0-bfab-8ac39079b7eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F7e797fe7-0cbb-61c0-bfab-8ac39079b7eb.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין פרק א' לפרק ב' ובין שופטים ליהושע</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F5b34fc52-2e79-1e1b-e31a-fcbd120e2646.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F5b34fc52-2e79-1e1b-e31a-fcbd120e2646.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2Ff861bac9-3a32-c10e-4194-1c8011274747.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2Ff861bac9-3a32-c10e-4194-1c8011274747.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א' כהקדמה לספר שופטים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0b524e4/podcast/play/81232041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F992c8b7f-7458-11c6-028c-6b4d3e8ef44b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0b524e4/podcast/play/81232041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-13%2F992c8b7f-7458-11c6-028c-6b4d3e8ef44b.mp3</guid>
+   <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשמעות המיוחדת של פרק כד לעומת פרק כג</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F28920212-d414-3ff6-4458-baf1258c65ba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F28920212-d414-3ff6-4458-baf1258c65ba.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק כב – סיפור ראובן גד וחצי שבט המנשה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F74143ff8-3132-203b-92a4-224f0870232e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F74143ff8-3132-203b-92a4-224f0870232e.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרקים יח-יט – נחלת בנימין והשבטים המתרפים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F17868da7-865d-86bc-079a-4fa085484740.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F17868da7-865d-86bc-079a-4fa085484740.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות שבט מנשה ותחילת פרק יח</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F7f9ffbff-85c5-5728-c961-0805b440ddb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F7f9ffbff-85c5-5728-c961-0805b440ddb3.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלוקת נחלת מנשה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F7d86b6ff-3435-ba3f-8c31-f7dbfccbb3fc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F7d86b6ff-3435-ba3f-8c31-f7dbfccbb3fc.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעיות בתיאור נחלת יוסף</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F6258d37b-bc7a-40fc-fabd-ff188e219d4b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F6258d37b-bc7a-40fc-fabd-ff188e219d4b.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הניגוד בין הכיבוש לחלוקה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F33f2b8d5-d825-755f-b5c4-1ad63ba9e4d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F33f2b8d5-d825-755f-b5c4-1ad63ba9e4d2.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק יא – גישות במלחמת מלכי הצפון והדרום</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F31408ece-76a5-ef16-9140-da85a756cb83.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F31408ece-76a5-ef16-9140-da85a756cb83.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י' – מלחמת חמשת המלכים – המשך</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149503/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F3b30f249-04ac-3a2c-ec11-047d1b1c2e15.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149503/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F3b30f249-04ac-3a2c-ec11-047d1b1c2e15.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י' – מלחמת חמשת המלכים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F0fcaacee-4ffb-55eb-6ccf-3fbf3875b054.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F0fcaacee-4ffb-55eb-6ccf-3fbf3875b054.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ט' – ברית הגבעונים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fbfcde227-e238-26fe-bdd5-4a2dc667eedb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fbfcde227-e238-26fe-bdd5-4a2dc667eedb.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעמד הר גריזים והר עיבל</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F5d53ebfe-db86-e9ab-1beb-10322da5562c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F5d53ebfe-db86-e9ab-1beb-10322da5562c.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלחמת העי השנייה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fff11efc7-0ab9-0d46-714f-b510940ac2d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fff11efc7-0ab9-0d46-714f-b510940ac2d2.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העי ומה עניינה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F261cc00f-1509-0da4-d3eb-8cc9abb55d3f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F261cc00f-1509-0da4-d3eb-8cc9abb55d3f.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז – חטא עכן</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149226/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F03cf3c59-538a-4d62-cdc7-957c1b59bb8c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149226/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F03cf3c59-538a-4d62-cdc7-957c1b59bb8c.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יריחו</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F200ab28c-aba5-2c50-55e6-4ce69133e261.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F200ab28c-aba5-2c50-55e6-4ce69133e261.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אנשים ומלאכים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F140a9b64-850a-396c-c9d3-5d84104acdc6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F140a9b64-850a-396c-c9d3-5d84104acdc6.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיבוש יריחו – המשך</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F53bfd7eb-bf3d-3905-1af3-70b816c8b815.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F53bfd7eb-bf3d-3905-1af3-70b816c8b815.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקפת יריחו</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fcd714455-ab63-9a8c-014e-c6be48491c24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fcd714455-ab63-9a8c-014e-c6be48491c24.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81149119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fc3b02cb0-68e8-a1ef-da28-2050615fedae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81149119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fc3b02cb0-68e8-a1ef-da28-2050615fedae.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניין המילה במעבר הירדן</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81148957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F861e21be-4d18-44b2-45af-ab1ae52e6758.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81148957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F861e21be-4d18-44b2-45af-ab1ae52e6758.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשך מעבר הירדן</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81148932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F72dc777b-8781-7e45-2c89-1f3c02551feb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81148932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F72dc777b-8781-7e45-2c89-1f3c02551feb.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארון ברית ה</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81148908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F574ecf63-a117-5545-c9fa-e4b5f9960df4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81148908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F574ecf63-a117-5545-c9fa-e4b5f9960df4.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חציית הירדן</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81148876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Feddf3d73-0ba7-b73d-c286-334fb9147302.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81148876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Feddf3d73-0ba7-b73d-c286-334fb9147302.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רחב וביתה בראי חזל</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81148861/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F9b1bd75a-2070-1a71-fac8-799b7f37a617.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81148861/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F9b1bd75a-2070-1a71-fac8-799b7f37a617.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב - המרגלים</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81148845/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F07913604-22b7-0a66-d708-ecdcf9cab5b0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81148845/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F07913604-22b7-0a66-d708-ecdcf9cab5b0.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א' המשך – חזק ואמץ</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81148826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffbbfdd18-2207-dd8a-7fc0-eaf5fe32542e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81148826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Ffbbfdd18-2207-dd8a-7fc0-eaf5fe32542e.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א</title>
+   <description>הרב תמיר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב תמיר</itunes:author>
+   <enclosure url="https://anchor.fm/s/f08e2484/podcast/play/81148805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F10d65140-571e-b441-d95e-8d72bde378fc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f08e2484/podcast/play/81148805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F10d65140-571e-b441-d95e-8d72bde378fc.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

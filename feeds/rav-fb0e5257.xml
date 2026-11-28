@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אליהו ליפשיץ · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-fb0e5257.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אליהו ליפשיץ.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מצוות התשובה בשיטת הרמב"ם | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/aba41ba1-1544-43f1-9ed1-9e1166f37c6f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/aba41ba1-1544-43f1-9ed1-9e1166f37c6f/stream.mp3</guid>
+   <pubDate>Sun, 21 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - תחנון וסיום התפילה</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5ade75f8-9e47-4bc5-9c32-9d6dd960d381/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5ade75f8-9e47-4bc5-9c32-9d6dd960d381/stream.mp3</guid>
+   <pubDate>Mon, 01 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - תפילת עמידה</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8a93b1ac-731e-4451-a767-e83aee69fbed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8a93b1ac-731e-4451-a767-e83aee69fbed/stream.mp3</guid>
+   <pubDate>Wed, 19 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7 - "ה' שפתי תפתח ופי יגיד תהילתך"</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/343eadf3-de9f-4c86-a44c-f15ba8c8ff20/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/343eadf3-de9f-4c86-a44c-f15ba8c8ff20/stream.mp3</guid>
+   <pubDate>Wed, 19 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - סמיכת גאולה לתפילה</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4628dd9d-0a7c-4481-93d3-b6f513b6c983/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4628dd9d-0a7c-4481-93d3-b6f513b6c983/stream.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - ברכות קריאת שמע</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6f73df80-5bf2-4a1f-ac93-5bc30b4760e0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6f73df80-5bf2-4a1f-ac93-5bc30b4760e0/stream.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - קריאת שמע</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d361a72e-bbe6-499e-931b-2000c9e8220b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d361a72e-bbe6-499e-931b-2000c9e8220b/stream.mp3</guid>
+   <pubDate>Mon, 13 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - קדיש</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/26792b86-944a-4fee-80b8-df504943a62b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/26792b86-944a-4fee-80b8-df504943a62b/stream.mp3</guid>
+   <pubDate>Mon, 27 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - פסוקי דזמרא</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4d68b124-45c5-4102-8923-0bf2c8c6aee6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4d68b124-45c5-4102-8923-0bf2c8c6aee6/stream.mp3</guid>
+   <pubDate>Mon, 20 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - פתיחה</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3aa6d3b6-9fe7-49b7-9b8e-52968805907d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3aa6d3b6-9fe7-49b7-9b8e-52968805907d/stream.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסליחות | פתח לנו שער | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e49aa575-ebf9-4072-b992-0f9d018f9fe6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e49aa575-ebf9-4072-b992-0f9d018f9fe6/stream.mp3</guid>
+   <pubDate>Wed, 28 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכויות זכרונות ושופרות | אורי וישעי תשפ"ב | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/99de7dbc-2e7c-45a0-b625-d6b5d4da5aff/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/99de7dbc-2e7c-45a0-b625-d6b5d4da5aff/stream.mp3</guid>
+   <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדה של פסח | שיעור ט - הסדר במקדש | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/302331d1-03cf-47dd-a557-878973eea72a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/302331d1-03cf-47dd-a557-878973eea72a/stream.mp3</guid>
+   <pubDate>Tue, 12 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדה של פסח | השיעור ח - מהי החוויה הרוחנית שאנו עוברים בליל הסדר? | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/77aa586a-9094-4d2f-9bf4-ab9dcec57fcb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/77aa586a-9094-4d2f-9bf4-ab9dcec57fcb/stream.mp3</guid>
+   <pubDate>Tue, 12 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדה של פסח | שיעור ו - המוטיב הרביעי: פסח, מצה ומרור | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e5381026-cce3-42f7-9138-89fdbe1ab144/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e5381026-cce3-42f7-9138-89fdbe1ab144/stream.mp3</guid>
+   <pubDate>Thu, 07 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדה של פסח | שיעור ה - המוטיב השלישי: דרשת ארמי אובד אבי | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1d5dfb5a-8c88-4026-b262-98842c59dbe9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1d5dfb5a-8c88-4026-b262-98842c59dbe9/stream.mp3</guid>
+   <pubDate>Thu, 07 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדה של פסח | פרק ד - המוטיב השני: מתחיל בגנות ומסיים בשבח | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7f73cd26-e615-4196-83fa-5ed97dea55ba/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7f73cd26-e615-4196-83fa-5ed97dea55ba/stream.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדה של פסח | שיעור ג - המוטיב הראשון : מה נשתנה | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3fe513be-c8a0-4a9e-b87d-4ffcea8c9764/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3fe513be-c8a0-4a9e-b87d-4ffcea8c9764/stream.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדה של פסח | שיעור ב - מבנה ההגדה | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/da043810-34e5-4ae5-ba1a-6cb82f1bebef/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/da043810-34e5-4ae5-ba1a-6cb82f1bebef/stream.mp3</guid>
+   <pubDate>Thu, 31 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדה של פסח | שיעור א - מצות סיפור יציאת מצרים - הגדרת המושגים והמצוות | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/cd9ca5df-4cff-4037-8377-55ad2c93455b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/cd9ca5df-4cff-4037-8377-55ad2c93455b/stream.mp3</guid>
+   <pubDate>Thu, 31 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה באתם השותלים? | אדמה וכלכלה | הרב אליהו ליפשיץ</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3581ca92-80fe-47bb-b5e5-2cb967bc2ada/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3581ca92-80fe-47bb-b5e5-2cb967bc2ada/stream.mp3</guid>
+   <pubDate>Tue, 11 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אליהו ליפשיץ - ונתנה תוקף</title>
+   <description>הרב אליהו ליפשיץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו ליפשיץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/98bda5ab-2830-4a82-80e0-6bc5ffae3853/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/98bda5ab-2830-4a82-80e0-6bc5ffae3853/stream.mp3</guid>
+   <pubDate>Mon, 30 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

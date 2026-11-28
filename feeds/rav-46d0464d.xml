@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יהושע ויצמן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-46d0464d.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יהושע ויצמן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>וערבה לה' מנחת יהודה וירושלים(מג,ו)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-6a58542e5aff4b00.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-6a58542e5aff4b00.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח - וילך אל ארץ</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/yesmalot-c27949d5aead9c53.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/yesmalot-c27949d5aead9c53.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעקבות יט כסלו - עיבור, יניקה, מוחין (הועבר על ידי הרב אהרנסון)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-ec9c38ab7bd64cb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-ec9c38ab7bd64cb3.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרצון - הבסיס לרצון</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-7cc4f33e0edcb5c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-7cc4f33e0edcb5c7.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא - שיחתן של אבות מפתח לגאולתן של בנים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/yesmalot-dc4799ea7c5893ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/yesmalot-dc4799ea7c5893ad.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדמותו של מלכיצדק מלך שלם (מג,ו)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-422cceaa370cd0a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-422cceaa370cd0a6.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות - על אודות הבאר</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/yesmalot-bec1c7d15e6a6eae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/yesmalot-bec1c7d15e6a6eae.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדרך לרצון טוב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-718684bb7c8c994c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/yesmalot-718684bb7c8c994c.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ששם השוו כל עובדי כוכבים- מג,ה (הרב מנחם ויצמן)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-5511190e76d4151e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-5511190e76d4151e.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המעבר בין תוהו לתורה (מג,ד)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-yt-8YhTG5GNI_M.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-yt-8YhTG5GNI_M.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת האזינו - משמעות התורה כשירה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/yesmalot-yt-wgcL0SX6qd4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/yesmalot-yt-wgcL0SX6qd4.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זכור ברית אברהם ועקידת יצחק</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/08ecc035-0643-4813-aa08-218ad183d048.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/08ecc035-0643-4813-aa08-218ad183d048.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסיעותיו של אברהם אבינו(מג,ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-yt-5PbNo5kXvtg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/yesmalot-yt-5PbNo5kXvtg.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת ראש השנה - להתחבר לשורשים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/8ea18588-7273-481b-bdad-92741366a55a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/8ea18588-7273-481b-bdad-92741366a55a.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"אשרי האיש ירא את ה' " (מג,א)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/df676363-7774-458d-a951-9a2456fc392e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/df676363-7774-458d-a951-9a2456fc392e.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה שלנו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/9004864b-a7a8-4e90-857a-61eca90e5698.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/9004864b-a7a8-4e90-857a-61eca90e5698.mp3</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ניצבים - גאולה ותשובה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/5dec978e-59af-49fd-a83d-b4bb266372c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/5dec978e-59af-49fd-a83d-b4bb266372c8.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלוך על כל העולם כולו בכבודך</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/33e2d158-51ca-48d4-bda7-40212a5249bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/33e2d158-51ca-48d4-bda7-40212a5249bc.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תבוא - עבדו את ה' בשמחה ובטוב לבב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/244751d0-4bc8-423a-af25-eb12bdfbe3b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/244751d0-4bc8-423a-af25-eb12bdfbe3b5.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תצא - תאמין בעצמך</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/be8bdf86-ffa2-4f0e-9932-8e627e9f91b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/be8bdf86-ffa2-4f0e-9932-8e627e9f91b2.mp3</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כותבנו בספר החיים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/1988b149-8270-4e88-8baf-8c5beff24e6b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/1988b149-8270-4e88-8baf-8c5beff24e6b.mp3</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בית שני, גאולה או תעודה?(פתיחתא איכה רבא פתיחתא כ"ב)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/460e2bb0-78de-405f-b652-1060056967ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/460e2bb0-78de-405f-b652-1060056967ee.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת דברים - אמון ואחריות שני אלפי"ן נוספים על אמונה ואהבה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/f9f987d5-f492-4207-bdfb-54926fb35a46.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/f9f987d5-f492-4207-bdfb-54926fb35a46.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בתשעה באב נולד משיח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/790aba30-491a-4749-a6a4-cd1a3c909b97.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/790aba30-491a-4749-a6a4-cd1a3c909b97.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אברהם העברי (מב,ח)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7086cb06-c695-4434-b287-137e34438172.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7086cb06-c695-4434-b287-137e34438172.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פינחס - האחריות היא עלינו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/c963fdae-966b-4dfb-b8a9-300cdf152fdb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/c963fdae-966b-4dfb-b8a9-300cdf152fdb.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זכותו של עוג (מב,ח)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0e7827c7-535f-4779-8d01-d2a4d8d415f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0e7827c7-535f-4779-8d01-d2a4d8d415f5.mp3</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחריי!!! (מב,ז)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/2ec9a0a0-3d66-4161-a5c4-56c6d18ff859.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/2ec9a0a0-3d66-4161-a5c4-56c6d18ff859.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חקת - כיצד בונים אמון</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/8857b829-5582-4281-8e0b-86249d83eb5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/8857b829-5582-4281-8e0b-86249d83eb5a.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר שלנו לתורה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/57b1ec97-2b66-4cd4-98f5-639f73c8067b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/57b1ec97-2b66-4cd4-98f5-639f73c8067b.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השקפת עולם אמונית</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/7ad9eca7-3888-45b4-8757-3a309dcc768d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/7ad9eca7-3888-45b4-8757-3a309dcc768d.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אם אינו עניין לזה, תנהו עניין לזה... (מב,ז)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f3bb41e6-b9ac-4339-bfb1-8363228cdca3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f3bb41e6-b9ac-4339-bfb1-8363228cdca3.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת קרח - "מה יקחך ליבך"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/f4f128d7-3159-4d2d-a610-c742dcc18b31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/f4f128d7-3159-4d2d-a610-c742dcc18b31.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חברות נאמנה לשם שמיים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/a27243e2-fd1a-4eea-925c-1bc401bd6a57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/a27243e2-fd1a-4eea-925c-1bc401bd6a57.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כמה חשובה ועוצמתית היא המסגרת (מב,ו)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e4bd433a-cccf-4a0a-8d20-fbad86ccdb93.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e4bd433a-cccf-4a0a-8d20-fbad86ccdb93.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שלח לך - מחלוקת ולשון הרע מחריבים את העולם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/06727fea-7f07-41b0-9223-ea4566501159.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/06727fea-7f07-41b0-9223-ea4566501159.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השם החשוב הוא השם שקונה אדם לעצמו(מב,ה)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f69c6a60-0146-4c2e-ae65-332aa15d7dbb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f69c6a60-0146-4c2e-ae65-332aa15d7dbb.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהעלותך - מצוות החצוצרות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/c467c1f5-01d3-4e32-982c-3880bdb5e310.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/c467c1f5-01d3-4e32-982c-3880bdb5e310.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אם ראית אמות מתגרות זו בזו צפה לרגלו של משיח (מב,ד)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f9992ebe-8890-4497-b99d-9a92e0e8b9ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f9992ebe-8890-4497-b99d-9a92e0e8b9ff.mp3</guid>
+   <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נשא - היציאה מן הכלל באה ללמד על הכלל</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/9d41652b-a1ae-4773-98f2-93e0b4b3c6f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/9d41652b-a1ae-4773-98f2-93e0b4b3c6f6.mp3</guid>
+   <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקראת יום ירושלים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/ee068cb1-a699-4904-9522-28ab2967879f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/ee068cb1-a699-4904-9522-28ab2967879f.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדיק באמונתו יחיה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/a18b473e-a104-43c4-a96f-4e6f731fd5dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/a18b473e-a104-43c4-a96f-4e6f731fd5dd.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרון האור מן החושך (מב,ד)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/a0ad5b47-fc41-4753-b836-00dd5ab61db4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/a0ad5b47-fc41-4753-b836-00dd5ab61db4.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת אמור - גדול קידוש ה' מחילול ה'</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/900d9eb1-21d3-42e7-b6da-5c29a3e9c0e3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/900d9eb1-21d3-42e7-b6da-5c29a3e9c0e3.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקראת "מעלות מסיימת את הש"ס בבלי וירושלמי ביום אחד"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/4d5df8b9-b713-498d-8dd6-95403e8afcc9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/4d5df8b9-b713-498d-8dd6-95403e8afcc9.mp3</guid>
+   <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהי - המהפך מעתיד לעבר, והיה - מהפך מעבר לעתיד (מב,ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/17dea0dc-0019-4e4f-95b9-c590aceb500f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/17dea0dc-0019-4e4f-95b9-c590aceb500f.mp3</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקרא - כופין אותו עד שאומר רוצה אני</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/25e385f7-2ccd-410a-bfc9-e22c5198a4ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/25e385f7-2ccd-410a-bfc9-e22c5198a4ce.mp3</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"כל מה שברא הקב"ה צריך עשייה ותיקון"(מב,ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/8a09d3e3-a942-46c1-9413-7c858874fad7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/8a09d3e3-a942-46c1-9413-7c858874fad7.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקהל פקודי - "לא תבערו אש" -באש המחלוקת הכתוב מדבר...</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/e3e3de22-0bf6-4954-806a-085a66b2752a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/e3e3de22-0bf6-4954-806a-085a66b2752a.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b4dc63f4-1043-440a-a4a1-c59f4c25c1b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b4dc63f4-1043-440a-a4a1-c59f4c25c1b5.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"יעוד הישיבה לגדל ולקדש שמו יתברך לאור תורת ארץ ישראל</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/c4afba1c-8046-4736-9128-6f282da2073e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/c4afba1c-8046-4736-9128-6f282da2073e.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההופכת עבר לעתיד ועתיד לעבר (מב,ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/00332e05-a52c-415e-8d42-643e24bc5209.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/00332e05-a52c-415e-8d42-643e24bc5209.mp3</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תשא - "אני אמרתי אלוקים אתם"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/b6542177-5e1e-4787-a9dd-ffcac69d941d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/b6542177-5e1e-4787-a9dd-ffcac69d941d.mp3</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"לא מאסתים ולא געלתים לכלותם" (אסתר רבה פתיחתא ד)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/86817277-c645-4128-9889-5df4ce696059.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/86817277-c645-4128-9889-5df4ce696059.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תצווה - רוח אפינו משיח ה'</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/25c1de48-af00-4523-94b3-c1905737d618.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/25c1de48-af00-4523-94b3-c1905737d618.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הישיבה - א</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/46507e41-7c7a-42dc-9ace-3b8bc12e8a90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/46507e41-7c7a-42dc-9ace-3b8bc12e8a90.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - זמן לשחוק על כל ה"המנים"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/69d736e2-37e9-421d-a51b-c4c45e423184.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/69d736e2-37e9-421d-a51b-c4c45e423184.mp3</guid>
+   <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"והתמכרתם ואין קונה"(אסתר רבה פתיחתא ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7e80997e-d1b7-4e87-83ed-2073eb0252ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7e80997e-d1b7-4e87-83ed-2073eb0252ea.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תרומה - מקדש מעט</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2a86080c-5c5d-4a8e-bbee-0ab19094f373.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2a86080c-5c5d-4a8e-bbee-0ab19094f373.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחילת האדם לעצמו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/82c8cf45-6d52-461b-a1ed-537e37739c69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/82c8cf45-6d52-461b-a1ed-537e37739c69.mp3</guid>
+   <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכות מדי בתוך ארבע מלכות מלכויות(אסתר רבה פתיחתא ב)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e26d88fa-d698-46a4-a83f-800a770e6ab5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e26d88fa-d698-46a4-a83f-800a770e6ab5.mp3</guid>
+   <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת משפטים - הוו מתונים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/7e17ab58-686c-48de-9a17-da7a7c52b506.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/7e17ab58-686c-48de-9a17-da7a7c52b506.mp3</guid>
+   <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תגובה נכונה, יוזמה נכונה, ותובנה נכונה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/6fc08b71-9e22-4f0a-92af-516c5052a201.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/6fc08b71-9e22-4f0a-92af-516c5052a201.mp3</guid>
+   <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"ויהי בימי אחשוורוש" - להשמיד להרוג ולאבד (מב,ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/98a8e6c9-a866-4504-afdd-3545400a3d24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/98a8e6c9-a866-4504-afdd-3545400a3d24.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת יתרו - כיבוד אב ואם - השורש לכל החיים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/dc25d3da-8d9a-47a2-8048-dc9030d0c88d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/dc25d3da-8d9a-47a2-8048-dc9030d0c88d.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דור ששופט את שופטיו (מב,ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/76038011-9141-4931-9802-42842059bf6f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/76038011-9141-4931-9802-42842059bf6f.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בשלח - ויורהו ה' עץ - להפוך ממרירו למתיקו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/87f94478-15f8-4bec-93a1-977c6253e03d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/87f94478-15f8-4bec-93a1-977c6253e03d.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"לעולם יהא אדם ענוותן כהלל"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/68fa5834-705b-4246-bd09-5850f67a30bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/68fa5834-705b-4246-bd09-5850f67a30bc.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לכבס את המדים ולכבס את המידות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8681757c-1e88-4d19-a867-1b3353912544.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8681757c-1e88-4d19-a867-1b3353912544.mp3</guid>
+   <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהי בימי יהויקים - הפרנס והציבור (מב, ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/aa560982-78da-4a9d-8382-4150d773b480.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/aa560982-78da-4a9d-8382-4150d773b480.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וארא - ארבע לשונות של גאולה ולשון אחת של עבודה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/74fe5992-68ff-41eb-9b68-74b33334cefb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/74fe5992-68ff-41eb-9b68-74b33334cefb.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמות - אם נאמין בעם ישראל עם ישראל יאמינו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/34619628-bcf0-4143-bb3a-4ffc8777a522.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/34619628-bcf0-4143-bb3a-4ffc8777a522.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התחברות רצון האדם עם רצון ה' בתפילה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/39758beb-ec4b-468f-85af-172dcd830414.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/39758beb-ec4b-468f-85af-172dcd830414.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהי בימי אחז - שאחז בתי כנסיות ובתי מדרשות (מב, ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/96ee7af0-95f5-4afd-9901-9bc44c4ab8d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/96ee7af0-95f5-4afd-9901-9bc44c4ab8d4.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי - "אין הדבר תלוי אלא בי"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/fad58bc4-1aad-4f10-9ba9-8efa82b2f15a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/fad58bc4-1aad-4f10-9ba9-8efa82b2f15a.mp3</guid>
+   <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הודאה על הגשמים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b9f3fca0-183a-4666-b434-8c1c733cea16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b9f3fca0-183a-4666-b434-8c1c733cea16.mp3</guid>
+   <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"ויהי בימי" - צרה (מב, ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/3051edbc-8ef6-490e-b647-bfb961954091.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/3051edbc-8ef6-490e-b647-bfb961954091.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"קַוֵּה לַה' וְיֹשַׁע לָךְ"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/37adb7ec-3f91-47ba-9951-8d2d149e4759.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/37adb7ec-3f91-47ba-9951-8d2d149e4759.mp3</guid>
+   <pubDate>Fri, 26 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אברהם וארבע מלכויות (מב, ב)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/57f49a9d-e47c-4919-a6be-764e41f11114.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/57f49a9d-e47c-4919-a6be-764e41f11114.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על מה נלחמים בעולם (מב, א)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/605b8b82-6f97-4719-8299-3ca0f820ba0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/605b8b82-6f97-4719-8299-3ca0f820ba0f.mp3</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מקץ - שבעים פרים ושבעים לשון</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/08ee90df-17ec-4586-b5cb-1ccce6aa6c95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/08ee90df-17ec-4586-b5cb-1ccce6aa6c95.mp3</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קום והתהלך בארץ (פרשה מא סימן י)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/496d033a-d416-4ed2-b438-ca35b8c4c757.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/496d033a-d416-4ed2-b438-ca35b8c4c757.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב - אין לאן לברוח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/1c9d7705-10b1-4b5b-90d9-ab50807c3e5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/1c9d7705-10b1-4b5b-90d9-ab50807c3e5a.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההכרח מרומם אותנו למדרגות גבוהות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8df216d3-0d31-416d-8d8e-375b97324764.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8df216d3-0d31-416d-8d8e-375b97324764.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרואה נר חנוכה מברך</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/f2b1738b-1cf6-4c5e-8d9a-b6fcf7d61278.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/f2b1738b-1cf6-4c5e-8d9a-b6fcf7d61278.mp3</guid>
+   <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העפר כמשל לעם ישראל (פרשה מא סעיף ט)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d84e240f-f129-4612-ba8c-d3ae4e59856e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d84e240f-f129-4612-ba8c-d3ae4e59856e.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח - "וילך אל ארץ מפני יעקב אחיו"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/949d51e9-5d24-4c63-865d-09275a839e1b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/949d51e9-5d24-4c63-865d-09275a839e1b.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אברהם - לכל הוא מידבק?!(מא, ח)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/07332928-e303-435d-96f3-d993f52afd4f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/07332928-e303-435d-96f3-d993f52afd4f.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא - להאמין ולעלות!!!</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/9df8b0f4-9cb8-4ad0-9582-048925dc2eda.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/9df8b0f4-9cb8-4ad0-9582-048925dc2eda.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצורך בהתבוננות פנימית</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/06c2292c-4d26-4a8c-89a2-576bb9dfba78.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/06c2292c-4d26-4a8c-89a2-576bb9dfba78.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה תפקידי בעולם? הרב יהושע ויצמן והרב אלעזר אהרנסון</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/111589748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-23%2F413012019-44100-2-49e5b630a20ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/111589748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-23%2F413012019-44100-2-49e5b630a20ea.mp3</guid>
+   <pubDate>Sun, 23 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיצד מתנהגים?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/2c0ef373-1552-4963-90ad-09da65f008b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/2c0ef373-1552-4963-90ad-09da65f008b6.mp3</guid>
+   <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לוט כתושב סדום (מא, ז - המשך)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/65f762eb-badb-45aa-8adc-1adad4256524.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/65f762eb-badb-45aa-8adc-1adad4256524.mp3</guid>
+   <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות - "ויתרוצצו... ותלך לדרוש את ה'" - בתפילה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/9126c7e5-6192-49ba-845d-8f14d8b47c73.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/9126c7e5-6192-49ba-845d-8f14d8b47c73.mp3</guid>
+   <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנסת אורחים כבוד אלוקים עצמו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/10f3043e-099e-4a89-9795-2eb30a3ea257.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/10f3043e-099e-4a89-9795-2eb30a3ea257.mp3</guid>
+   <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"וישא לוט את עיניו" - מה הוא מחפש? (מא, ז)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e6f45b3f-bbd6-4fc6-b731-99d9f4e44dcf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e6f45b3f-bbd6-4fc6-b731-99d9f4e44dcf.mp3</guid>
+   <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה - "ויקם שדה עפרון אשר במכפלה''</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/53ca9522-c8d8-4e2a-99eb-cebb84486836.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/53ca9522-c8d8-4e2a-99eb-cebb84486836.mp3</guid>
+   <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"אם השמאל ואימינה" (מא, ו)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/885da912-b37f-4150-af1f-18ecefe2e691.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/885da912-b37f-4150-af1f-18ecefe2e691.mp3</guid>
+   <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וירא - כצעקתה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/b1cd7c4f-0a4d-4266-9fd5-88fee66dcd4f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/b1cd7c4f-0a4d-4266-9fd5-88fee66dcd4f.mp3</guid>
+   <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היחס הנכון לציבור החרדי</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/c993e205-db34-4e2b-a3f8-8a926e0225b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/c993e205-db34-4e2b-a3f8-8a926e0225b1.mp3</guid>
+   <pubDate>Fri, 31 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"וְהַכְּנַעֲנִי וְהַפְּרִזִּי אָז יֹשֵׁב בָּאָרֶץ" דבר מיוחד במקומו (מא, ה)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7e3d2528-50dd-4e21-a164-8dd86a12e780.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7e3d2528-50dd-4e21-a164-8dd86a12e780.mp3</guid>
+   <pubDate>Thu, 30 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - לו ישראל יחיה לפניך!</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/551d8e90-afe7-47ba-849e-a723d264c2fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/551d8e90-afe7-47ba-849e-a723d264c2fa.mp3</guid>
+   <pubDate>Thu, 30 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היכן מוצאים? בסדום (פרשה מ"א סימן ד')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/893b75d5-7e5f-4f5a-9c79-d87172fada3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/893b75d5-7e5f-4f5a-9c79-d87172fada3d.mp3</guid>
+   <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נח - גאולה תלויה בתשובה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/970c6331-3075-47c8-bd62-c6106aefedef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/970c6331-3075-47c8-bd62-c6106aefedef.mp3</guid>
+   <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לבנות שגרת חיים עוצמתית</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d54118d2-4b2b-47e6-9373-88074b28bc00.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d54118d2-4b2b-47e6-9373-88074b28bc00.mp3</guid>
+   <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 כפול 4 (פרשה מא פסקה ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/2a9381df-2206-4c64-867d-ed423a101cd8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/2a9381df-2206-4c64-867d-ed423a101cd8.mp3</guid>
+   <pubDate>Fri, 19 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נצבים - קומה זקופה - חיובי או שלילי?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/78ef76d5-2469-433f-8b86-822a16f03c9b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/78ef76d5-2469-433f-8b86-822a16f03c9b.mp3</guid>
+   <pubDate>Fri, 19 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"נפלאותיך ומחשבותיך אלינו"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8fe7d09b-a2d9-424e-9a10-6431189cb098.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8fe7d09b-a2d9-424e-9a10-6431189cb098.mp3</guid>
+   <pubDate>Fri, 19 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"לדעת חכמה ומוסר להבין אמרי בינה" (משלי, א, ב) - פירוש הפסוק</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d9e9fd36-d934-49a5-8566-83675159096e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d9e9fd36-d934-49a5-8566-83675159096e.mp3</guid>
+   <pubDate>Fri, 12 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וילך למסעיו - בירור הקדושה שבדרך (פרשה מא פסקה ג)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/dbce73ad-9ad4-4cfd-bd5a-abb988d11691.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/dbce73ad-9ad4-4cfd-bd5a-abb988d11691.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תבוא - "יקימך ה'" - כוח העמידה הוא כוחנו!</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/fa128e79-6e8b-49cb-a72e-a4a3b3da9284.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/fa128e79-6e8b-49cb-a72e-a4a3b3da9284.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"לדעת חכמה ומוסר"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/c3286b62-2a1a-47a8-a0e3-b14ba5822e25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/c3286b62-2a1a-47a8-a0e3-b14ba5822e25.mp3</guid>
+   <pubDate>Fri, 05 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות הביטוי -על דבר שרי (פרשה מא פסקה ב)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/cbdc226f-bcf8-4ea0-aad1-764bc69403c5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/cbdc226f-bcf8-4ea0-aad1-764bc69403c5.mp3</guid>
+   <pubDate>Thu, 04 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא - כשתצא מהמלחמה על אוהביך, תצא מהמלחמה על אויביך</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/e9331174-341e-4d3b-932d-04341047d6e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/e9331174-341e-4d3b-932d-04341047d6e4.mp3</guid>
+   <pubDate>Thu, 04 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה בדורנו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/63455ff5-5e86-4bef-945f-0478d5c58d47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/63455ff5-5e86-4bef-945f-0478d5c58d47.mp3</guid>
+   <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המוסר של ספר דברים - למען תאריכו ימים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/fc24600b-6f91-40ba-9eb1-1d13ec32fc1e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/fc24600b-6f91-40ba-9eb1-1d13ec32fc1e.mp3</guid>
+   <pubDate>Wed, 20 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חציו לה' וחציו לכם האומנם?!</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/47582934-934d-49e9-a125-761dcf9419d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/47582934-934d-49e9-a125-761dcf9419d0.mp3</guid>
+   <pubDate>Sun, 10 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ואתחנן</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/f3422cc6-bd57-441d-98f5-74f79fd159b0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/f3422cc6-bd57-441d-98f5-74f79fd159b0.mp3</guid>
+   <pubDate>Thu, 07 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איכה רבה פתיחתא כ"ב - "איכה ישבה בדד" - וישבתם בה או והושבתם לבדכם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/96379f02-5ce5-4e0c-8b10-133ee794ce0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/96379f02-5ce5-4e0c-8b10-133ee794ce0d.mp3</guid>
+   <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת דברים תשובה טובה לשאלת איכה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/8b41eaf8-ef8a-436a-ba0e-2118c4572bd1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/8b41eaf8-ef8a-436a-ba0e-2118c4572bd1.mp3</guid>
+   <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהי אהבת חינם?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8c3b10a4-1382-4909-bb09-f234b32a02e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8c3b10a4-1382-4909-bb09-f234b32a02e0.mp3</guid>
+   <pubDate>Fri, 25 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"והצרוע זה בית המקדש"- הקשר בין צרעת לחורבן (איכה פתיחתא כ"א)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0d3eb492-5214-4cf1-b9b4-210749b57284.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0d3eb492-5214-4cf1-b9b4-210749b57284.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מטות-מסעי - יחס נכון לממון</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/62c41b3d-b1b4-461e-a0df-1c3e3146d79e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/62c41b3d-b1b4-461e-a0df-1c3e3146d79e.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השלום - תוכחה מתוך אהבה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/97af94f3-b0b9-42fd-9f68-407de9d95978.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/97af94f3-b0b9-42fd-9f68-407de9d95978.mp3</guid>
+   <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השכינה מעולם לא זזה מהמקדש (איכה רבה פתיחתא כ)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/39be7ae6-98d5-4501-9c17-998abf3cfb8d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/39be7ae6-98d5-4501-9c17-998abf3cfb8d.mp3</guid>
+   <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פינחס - ציונות מתוך תורה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/96548864-b508-4eef-ab2e-7c75a245c9f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/96548864-b508-4eef-ab2e-7c75a245c9f2.mp3</guid>
+   <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלום יעשה לי</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/06d7943b-b24a-4bcd-9204-6a243d44e044.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/06d7943b-b24a-4bcd-9204-6a243d44e044.mp3</guid>
+   <pubDate>Fri, 11 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתבונן בעין טובה על המציאות (פרשה מא סימן א)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7f03d46e-afeb-4b80-9cee-3bd9d698e1ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7f03d46e-afeb-4b80-9cee-3bd9d698e1ab.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בלק - החול צריך להיות בסיס לקודש ולהתרומם אליו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/65a4af22-c4ff-4b44-bd9d-f53e370cc28b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/65a4af22-c4ff-4b44-bd9d-f53e370cc28b.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השלום - מידה שאין לה מידה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/ade106ea-26ce-4dbb-b59e-5b27ac888328.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/ade106ea-26ce-4dbb-b59e-5b27ac888328.mp3</guid>
+   <pubDate>Fri, 04 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה אבות סימן לבנים (פרשה מ פסקה ו)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/91a2c0ba-dc32-40ec-a331-462a57f52be1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/91a2c0ba-dc32-40ec-a331-462a57f52be1.mp3</guid>
+   <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חקת - הנהגת ארץ ישראל בנועם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/bdf3988e-b1b3-4c8f-ab1e-6ce3e1848a30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/bdf3988e-b1b3-4c8f-ab1e-6ce3e1848a30.mp3</guid>
+   <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדול השלום</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/65cb854e-1a37-4fad-89bf-ef0fe6cf8bfd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/65cb854e-1a37-4fad-89bf-ef0fe6cf8bfd.mp3</guid>
+   <pubDate>Fri, 27 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפקידם של הגברים ושל הנשים במצרים (פרשה מ פסקה ה)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/8a351444-ff7a-4e42-82e7-302577505db7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/8a351444-ff7a-4e42-82e7-302577505db7.mp3</guid>
+   <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת קרח- איך עושים שלום?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/cd5ba8be-fb3b-4ff8-a53a-5c55b17429d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/cd5ba8be-fb3b-4ff8-a53a-5c55b17429d3.mp3</guid>
+   <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שלח לך - עזות דקדושה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/274224fd-29da-474b-9c0f-5e61f5b38120.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/274224fd-29da-474b-9c0f-5e61f5b38120.mp3</guid>
+   <pubDate>Wed, 25 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבצע עם כלביא - כי לחמנו הם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/4b72ffee-a395-4ac9-a850-b5d45b89fedb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/4b72ffee-a395-4ac9-a850-b5d45b89fedb.mp3</guid>
+   <pubDate>Fri, 20 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברק ואברהם עשו עצמם טפילה - לנשים (פרשה מ פסקה ד)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/bb5c6b3e-4936-4ea6-8f29-3cc6962df997.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/bb5c6b3e-4936-4ea6-8f29-3cc6962df997.mp3</guid>
+   <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הן עם כלביא יקום - שיחה לאור מתקפת הפתע על איראן</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/5f4b821a-3aa1-4c13-a0e7-aaef9c0befe0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/5f4b821a-3aa1-4c13-a0e7-aaef9c0befe0.mp3</guid>
+   <pubDate>Fri, 13 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"אתי משיח לאתבא לצדיקיא בתיובתא" - יבוא משיח להחזיר צדיקים בתשובה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/4e3f96d4-1430-4792-b813-57a524e7b65b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/4e3f96d4-1430-4792-b813-57a524e7b65b.mp3</guid>
+   <pubDate>Fri, 13 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעותו של הרעב (פרשה מ', פסקה ג')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/b2aa4df9-bd49-468d-8456-c445b3b9fa4b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/b2aa4df9-bd49-468d-8456-c445b3b9fa4b.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"פרשת בהעלותך- וכי תבואו מלחמה בארצכם"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/526c3c7c-c831-4d36-9b92-fcb5772493c5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/526c3c7c-c831-4d36-9b92-fcb5772493c5.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נשא - ציווי מיד ולדורות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2fe3c41a-3d0d-49ef-8630-db1f955dc7ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2fe3c41a-3d0d-49ef-8630-db1f955dc7ab.mp3</guid>
+   <pubDate>Fri, 06 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ייסורים של העבר (פרשה מ פסקה ב)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/eb4afb48-4681-4456-b71a-b49d0be53839.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/eb4afb48-4681-4456-b71a-b49d0be53839.mp3</guid>
+   <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת במדבר - ודילוגו עלי אהבה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/90ee4664-df06-4e6b-804e-12d450182b84.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/90ee4664-df06-4e6b-804e-12d450182b84.mp3</guid>
+   <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקראת שבועות - המפגש עם התורה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/a1f0a789-485c-4293-9cf2-e7830f928210.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/a1f0a789-485c-4293-9cf2-e7830f928210.mp3</guid>
+   <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נקודת אור באפלה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/090f8e4c-5d63-4157-be92-506aefafdfeb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/090f8e4c-5d63-4157-be92-506aefafdfeb.mp3</guid>
+   <pubDate>Sun, 25 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשמת התורה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/90e10e17-59a3-4661-92d3-46321ecd0e98.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/90e10e17-59a3-4661-92d3-46321ecd0e98.mp3</guid>
+   <pubDate>Sun, 18 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למייחלים לחסדו (פרשה מ פסקה א)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/4e9264a1-c3d0-4dd2-98dc-4703e49a11d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/4e9264a1-c3d0-4dd2-98dc-4703e49a11d3.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>!פרשת אמור - לחיות על קידוש השם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/c748f247-f4cf-4ab3-9c2f-bfa91d4a0528.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/c748f247-f4cf-4ab3-9c2f-bfa91d4a0528.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשורת ארץ ישראל (פרשה לט סעיף טז)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/fe534b0a-1e1d-48eb-a7cc-3dea069006c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/fe534b0a-1e1d-48eb-a7cc-3dea069006c4.mp3</guid>
+   <pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות קדושים- "ולא תקיא הארץ אתכם"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/1b69f306-d9fd-4677-bc53-4d1b7916198d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/1b69f306-d9fd-4677-bc53-4d1b7916198d.mp3</guid>
+   <pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עת לעשות לה' הפרו תורתך</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b3711e9d-5007-4fce-9e89-926a262f09d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b3711e9d-5007-4fce-9e89-926a262f09d8.mp3</guid>
+   <pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי - באלה חטאו ובאלה נתכפר להם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/55e61aec-ed00-4224-93b0-ebcf54949d04.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/55e61aec-ed00-4224-93b0-ebcf54949d04.mp3</guid>
+   <pubDate>Fri, 28 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"ואת הנפש אשר עשו בחרן" - פרשה לט פסקה יד</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/07d31919-c64a-4def-854f-3874e7d9e0d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/07d31919-c64a-4def-854f-3874e7d9e0d8.mp3</guid>
+   <pubDate>Sun, 23 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חירות המעשה והמחשבה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/3bdf9184-98bf-43d0-b79d-c9204a94abda.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/3bdf9184-98bf-43d0-b79d-c9204a94abda.mp3</guid>
+   <pubDate>Sun, 23 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל - "לא תבערו אש" - לברוח ממחלוקות כמו מאש</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2980837f-20c9-44ea-9dc5-e054fce6c904.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2980837f-20c9-44ea-9dc5-e054fce6c904.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא - "יישר כוחך ששיברת" - על מנת לתקן</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/eeed7e47-962b-4beb-8838-9ac5e891d1fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/eeed7e47-962b-4beb-8838-9ac5e891d1fe.mp3</guid>
+   <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אסתר רבה פתיחתא ב - ארבע מלכויות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e739a5a5-bb80-47f5-a237-d0c1d45ae932.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e739a5a5-bb80-47f5-a237-d0c1d45ae932.mp3</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים שמח - שמחה מתוך נתינה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/68f67faa-3ff5-4b66-b51f-2df5a357f728.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/68f67faa-3ff5-4b66-b51f-2df5a357f728.mp3</guid>
+   <pubDate>Fri, 07 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקנות חטים לשלוש שנים - להיות עצמאיים (פתיחה לאסתר רבה)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/4e82f47f-56fc-49b9-a04f-23faa9d5987d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/4e82f47f-56fc-49b9-a04f-23faa9d5987d.mp3</guid>
+   <pubDate>Thu, 06 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצווה - אני זה אני כי אני זה אני</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/062d5016-4421-47a9-80a2-7ff380441de3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/062d5016-4421-47a9-80a2-7ff380441de3.mp3</guid>
+   <pubDate>Thu, 06 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולת אברהם וגאולת אסתר - משמעות הגיל 75</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/af9cdc35-5d00-4679-a2e3-2d79b0c92c9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/af9cdc35-5d00-4679-a2e3-2d79b0c92c9d.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - סוד המשכן שלוש תרומות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/96167d2b-a078-4540-b31a-e80b67c99c34.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/96167d2b-a078-4540-b31a-e80b67c99c34.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דבר הלמד מעניינו ודבר הלמד מסופו (לט, יב)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/2624d9ef-1224-4cbb-816c-597129bb5e1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/2624d9ef-1224-4cbb-816c-597129bb5e1d.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - אין קשה יותר מלהיות ברשות אחר</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/97161c56-492d-46a9-b7d7-5db49a009234.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/97161c56-492d-46a9-b7d7-5db49a009234.mp3</guid>
+   <pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעלת השלום</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/73f8e778-cb3a-4465-89e1-bb161a1d8140.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/73f8e778-cb3a-4465-89e1-bb161a1d8140.mp3</guid>
+   <pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כריעה בריכה והשתחוויה בתפילה - פרשה לט פסקה י"ב (חלק ב')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/64daadd6-7ca2-4a8d-b102-af0a1a1378ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/64daadd6-7ca2-4a8d-b102-af0a1a1378ab.mp3</guid>
+   <pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"וישמע יתרו" - להיות איש שומע</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/296a80e7-11d2-4a18-a3ed-dbf03b889520.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/296a80e7-11d2-4a18-a3ed-dbf03b889520.mp3</guid>
+   <pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה מאהבה של יחיד ושל ציבור</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/f31720c2-db58-45eb-a1a1-0338070e2795.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/f31720c2-db58-45eb-a1a1-0338070e2795.mp3</guid>
+   <pubDate>Fri, 07 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החמיר הקדוש ברוך הוא בכבודו של צדיק יותר מכבודו- פרשה לט פסקה י"ב (חלק א')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/5b88b21b-9e83-4ace-9cf5-adb25601fde5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/5b88b21b-9e83-4ace-9cf5-adb25601fde5.mp3</guid>
+   <pubDate>Wed, 05 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח - להמשיך את "גאה גאה" גם לשגרה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/aa2d95d6-0faf-4659-a975-a481ea034444.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/aa2d95d6-0faf-4659-a975-a481ea034444.mp3</guid>
+   <pubDate>Wed, 05 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מפני מה נעצרים הגשמים?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/2a922a90-0420-4c53-b778-03fc4ca37a36.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/2a922a90-0420-4c53-b778-03fc4ca37a36.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הברכות מסורות לך! - פרשה לט פסקה יא (חלק ח')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/20fd8b2b-5b02-428e-a3d3-2db87bfb1dd4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/20fd8b2b-5b02-428e-a3d3-2db87bfb1dd4.mp3</guid>
+   <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - בכור פרעה, בכור השפחה ובכור בהמה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/69d164c5-1a47-4328-b171-dd27332b67e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/69d164c5-1a47-4328-b171-dd27332b67e0.mp3</guid>
+   <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולה תתנו לארץ - 4 לשונות הגאולה שבדורינו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/18c28a95-5500-4bb8-ac8f-e1bbd8e576bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/18c28a95-5500-4bb8-ac8f-e1bbd8e576bb.mp3</guid>
+   <pubDate>Fri, 24 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל ישעו בדברי שקר- על התמודדות עם המדיה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/6501c785-85bb-478b-9ad2-8e5d97caf5eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/6501c785-85bb-478b-9ad2-8e5d97caf5eb.mp3</guid>
+   <pubDate>Sun, 19 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והיה ברכה" קירוב הרחוקים של אברהם - פרשה לט פסקה יא (חלק ז')"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/3ecdf10a-57d3-4e02-a4c5-d774977ef8b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/3ecdf10a-57d3-4e02-a4c5-d774977ef8b2.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - דור גדול וכואב - לעילוי נשמת יאיר יעקב שושן הי"ד</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/b805994b-1acb-496c-8227-5fd9430d93a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/b805994b-1acb-496c-8227-5fd9430d93a1.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על כוחה של מחילה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/96fcea52-ce49-4ff2-86c0-5adedb05c71b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/96fcea52-ce49-4ff2-86c0-5adedb05c71b.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד היות אברהם אבינו מקור הברכה והשפע- פרשה לט פסקה יא (חלק ו')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/84a5a98a-78fc-47cb-a925-03f272d3853b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/84a5a98a-78fc-47cb-a925-03f272d3853b.mp3</guid>
+   <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - לישועתך קיויתי ה' - האם ציפית לישועה???</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/9bd2c040-4302-414d-8a10-e91232276911.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/9bd2c040-4302-414d-8a10-e91232276911.mp3</guid>
+   <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - כוחה של מחילה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/6cacc64a-c75f-4306-97b2-5e613539d599.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/6cacc64a-c75f-4306-97b2-5e613539d599.mp3</guid>
+   <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים לזכרו של הרב דרוקמן זצ"ל והודאה על הגשמים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/11e4262f-82f7-4133-b83e-14428572c543.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/11e4262f-82f7-4133-b83e-14428572c543.mp3</guid>
+   <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ וחנוכה: הלל והודאה - יוסף ויהודה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/362a8cb0-98b3-486d-9b77-5517b9ef3c74.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/362a8cb0-98b3-486d-9b77-5517b9ef3c74.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות האות ה' (לט ,יא)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0e483342-409d-4537-8410-c4a5ef361237.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0e483342-409d-4537-8410-c4a5ef361237.mp3</guid>
+   <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב- מיזוג התלמודים מביא שלום בעולם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/148e87b6-4950-4337-8f92-711f143ceb7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/148e87b6-4950-4337-8f92-711f143ceb7e.mp3</guid>
+   <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הברכה הולכת ומתעלה פרשה לט, יא (חלק ד')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/2708680c-7620-4988-802c-a4b577990537.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/2708680c-7620-4988-802c-a4b577990537.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח- כשיעקב נחוש עשו בורח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/84b45772-c94a-4d1d-ad21-e7e0d8ffb73b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/84b45772-c94a-4d1d-ad21-e7e0d8ffb73b.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עין טובה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d9e25a1b-635c-48f8-aaa0-8f3c81e6c6a7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d9e25a1b-635c-48f8-aaa0-8f3c81e6c6a7.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחריות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/68d3c1ab-e35b-4f3f-8f1b-b9f7c25ecdd5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/68d3c1ab-e35b-4f3f-8f1b-b9f7c25ecdd5.mp3</guid>
+   <pubDate>Sat, 07 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סודו של מטבע -פרשה לט פסקה יא (חלק ג')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/44882988-a56c-4a0e-a67c-8dfb78718abc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/44882988-a56c-4a0e-a67c-8dfb78718abc.mp3</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא-להאמין ולעלות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/268cbcaa-1c7f-4834-840a-7c262ec476df.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/268cbcaa-1c7f-4834-840a-7c262ec476df.mp3</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - לא כל מי שלומד תורה מתחכם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2c5f3cc0-6583-4236-aa92-65a583a963c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2c5f3cc0-6583-4236-aa92-65a583a963c0.mp3</guid>
+   <pubDate>Fri, 29 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"שֵׂכֶל אָדָם" או "נַהַם כַּכְּפִיר"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/fa8b9f7c-16f2-4301-a27c-323b1de960b9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/fa8b9f7c-16f2-4301-a27c-323b1de960b9.mp3</guid>
+   <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המקום- הוא קיומו של אברהם- פרשה לט , יא (חלק ב')</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0c3c62af-cd29-4480-9666-bc10186f760d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0c3c62af-cd29-4480-9666-bc10186f760d.mp3</guid>
+   <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - לרחוץ את רגלי עבדי אבות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/88f1e35f-492e-427a-8db1-6e6e8ad53df4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/88f1e35f-492e-427a-8db1-6e6e8ad53df4.mp3</guid>
+   <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות גדולים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/9b418018-2067-4574-9aaf-83e30bd2332e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/9b418018-2067-4574-9aaf-83e30bd2332e.mp3</guid>
+   <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא- להיות רגישים לזולת</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/81770a1b-634d-441f-9608-b9981f2549d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/81770a1b-634d-441f-9608-b9981f2549d5.mp3</guid>
+   <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ומצאת את לבבו נאמן לפניך (לט , י)</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f164fca9-7a27-4c50-8c71-2146e08b5ad5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f164fca9-7a27-4c50-8c71-2146e08b5ad5.mp3</guid>
+   <pubDate>Wed, 06 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלחמת ארבעת המלכים את החמישה - מדינה נגד טרור</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/bbd2a4da-2e0b-44d0-8914-1364d68432c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/bbd2a4da-2e0b-44d0-8914-1364d68432c9.mp3</guid>
+   <pubDate>Wed, 06 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לט פסקה ט - איך יודעים מה חביב?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e82693dc-d9e9-40fc-a0c9-8a953aca8958.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e82693dc-d9e9-40fc-a0c9-8a953aca8958.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליום הכיפורים - אין הדבר תלוי אלא בי</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/d03de1e6-be1b-47bc-a7a3-f4d9f68a652c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/d03de1e6-be1b-47bc-a7a3-f4d9f68a652c.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על משמעות האכילה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d89f0017-349c-4e8c-a574-2361cbcc0cde.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d89f0017-349c-4e8c-a574-2361cbcc0cde.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה- מחזירים את העולם למקורו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/430f3cd4-853e-43ca-9d88-78fb491c0746.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/430f3cd4-853e-43ca-9d88-78fb491c0746.mp3</guid>
+   <pubDate>Fri, 27 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך מארצך-בחירת ה' באברהם אבינו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/aa8fac4c-ccbf-4b68-aa24-a137cbc0c533.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/aa8fac4c-ccbf-4b68-aa24-a137cbc0c533.mp3</guid>
+   <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניצבים - חשיבות העמידה על העקרונות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/7f5a79e9-4edc-4663-9261-8982869a3b38.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/7f5a79e9-4edc-4663-9261-8982869a3b38.mp3</guid>
+   <pubDate>Wed, 25 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אברהם אבינו ומצוות כיבוד אב ואם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e1502b5f-6a01-4af6-9fde-b19153ab18d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/e1502b5f-6a01-4af6-9fde-b19153ab18d7.mp3</guid>
+   <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"הגדתי היום..כי באתי אל הארץ"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/4271d5a3-f028-4677-aff9-74f9fa326ee7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/4271d5a3-f028-4677-aff9-74f9fa326ee7.mp3</guid>
+   <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לתת אמון באדם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/463b28e2-a734-4273-abf9-03d78dae7c69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/463b28e2-a734-4273-abf9-03d78dae7c69.mp3</guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא - מה חשוב לזכור כשיוצאים למלחמה?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/681f4781-c8ad-4e35-aec4-9c9068f1d943.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/681f4781-c8ad-4e35-aec4-9c9068f1d943.mp3</guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים - באנו לעבוד או ליהנות?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/487af7b5-b952-49b0-9ec1-0a937c621ab4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/487af7b5-b952-49b0-9ec1-0a937c621ab4.mp3</guid>
+   <pubDate>Wed, 04 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להפוך מרירות למתיקות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/3eac98c5-da0f-4038-be8d-2c1b6cf21caf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/3eac98c5-da0f-4038-be8d-2c1b6cf21caf.mp3</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים, שבת חזון - לראות את ישראל בגדולתן</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/42a91895-9572-43cb-bbfa-ae2d2ea9727f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/42a91895-9572-43cb-bbfa-ae2d2ea9727f.mp3</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בוגדים ובגדים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/db023ad5-040c-4013-b569-a8072c817868.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/db023ad5-040c-4013-b569-a8072c817868.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות - המלחמה היא עניין לאומי</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/832df245-7975-4f63-a829-056371301cff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/832df245-7975-4f63-a829-056371301cff.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימי בין המיצרים - טוב פת חרבה ושלווה בה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/78882313-cd79-4f27-9616-de0fc0cef8bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/78882313-cd79-4f27-9616-de0fc0cef8bf.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עלייה להר הבית הרב יהושע ויצמן והרב טל חיימוביץ</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/89976584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-2%2F766050ae-b3dc-6a8e-81c4-19987f9ac6e7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/89976584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-2%2F766050ae-b3dc-6a8e-81c4-19987f9ac6e7.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צורתם של ישראל צריכה להתברר</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/59b2535b-d5a4-4fcd-9ce3-247e08fe752f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/59b2535b-d5a4-4fcd-9ce3-247e08fe752f.mp3</guid>
+   <pubDate>Thu, 27 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח לך - חיותם של ישראל</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2f519b37-2da7-4e13-b360-824c0829a81d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/2f519b37-2da7-4e13-b360-824c0829a81d.mp3</guid>
+   <pubDate>Thu, 27 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"מי יתן מציון ישועת ישראל"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/efef07fb-9417-4f46-b273-c93850914255.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/efef07fb-9417-4f46-b273-c93850914255.mp3</guid>
+   <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקב״ה הסתכל באורייתא וברא עלמא - מזה אומר לנו?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/23374d58-9597-499e-87a1-19e10295873c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/23374d58-9597-499e-87a1-19e10295873c.mp3</guid>
+   <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת לך לך -ישראל כחומה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/78899563-b96b-445e-a05d-4b4e98b273c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/78899563-b96b-445e-a05d-4b4e98b273c8.mp3</guid>
+   <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר - התורה והחיים אחוזים זה בזה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/bfe47ad6-e600-4282-9e21-51f371549a5b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/bfe47ad6-e600-4282-9e21-51f371549a5b.mp3</guid>
+   <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"לך לך"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/16df259a-6cd3-47f9-8065-833aab2a3d30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/16df259a-6cd3-47f9-8065-833aab2a3d30.mp3</guid>
+   <pubDate>Thu, 30 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בחוקותי - גם כששוממים ירושלים עומדת</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/eb232a62-6abb-443b-beba-0eda3238e7a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/eb232a62-6abb-443b-beba-0eda3238e7a4.mp3</guid>
+   <pubDate>Wed, 29 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>״וישבתם בארץ לבטח״</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/695e707c-6aed-4c3e-81b4-1468b1d06d0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/695e707c-6aed-4c3e-81b4-1468b1d06d0f.mp3</guid>
+   <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אברהם אבינו השומע הראשון</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6c319afe-d703-403c-a2e7-8db3c1819fec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6c319afe-d703-403c-a2e7-8db3c1819fec.mp3</guid>
+   <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור - לא לפחד מדרך ארוכה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/3d40f027-1e14-44e3-9e7b-1e212d2d143b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/3d40f027-1e14-44e3-9e7b-1e212d2d143b.mp3</guid>
+   <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יהושע ויצמן - איך אפשר לשמוח ביום העצמאות השנה?</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/86612616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-11%2Ff41e59e7-fea5-23c8-5d08-80e7b5b03f27.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/86612616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-11%2Ff41e59e7-fea5-23c8-5d08-80e7b5b03f27.mp3</guid>
+   <pubDate>Sat, 11 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למען נסות בם את ישראל</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/05e1ac1d-f0ef-46ca-98ff-fbe8b5bad2ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/05e1ac1d-f0ef-46ca-98ff-fbe8b5bad2ec.mp3</guid>
+   <pubDate>Thu, 09 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זריזות בדין וזריזות לפנים משורת הדין</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d9c329f3-c6be-4d2d-b63e-e000e79159ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d9c329f3-c6be-4d2d-b63e-e000e79159ca.mp3</guid>
+   <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע - מהנהגה להתנהגות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/a726826e-f823-4297-8ad2-d4bb997635ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/a726826e-f823-4297-8ad2-d4bb997635ff.mp3</guid>
+   <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיר השירים רבה פרשה א סימן א - חירות הדעת והמחשבה היא החירות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/fc3e4beb-05d3-4f2b-9e68-073284c67cda.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/fc3e4beb-05d3-4f2b-9e68-073284c67cda.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנעה, הבדלה והמתקה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/6b74253d-99a6-47bf-89eb-2ca4af64c28f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/6b74253d-99a6-47bf-89eb-2ca4af64c28f.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וכאן הבן שואל...</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/5cb6fec6-18da-45b2-8efc-aeddb4c8cbf2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/5cb6fec6-18da-45b2-8efc-aeddb4c8cbf2.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החירות האמיתית - מידות מתוקנות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/2c581f7b-1723-44af-a99e-df15c0598335.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/2c581f7b-1723-44af-a99e-df15c0598335.mp3</guid>
+   <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד פנימיות - עם הרב יהושע ויצמן</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/84558677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-26%2F7605ff9f-707c-bb0d-d965-d8bbe64af322.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/84558677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-26%2F7605ff9f-707c-bb0d-d965-d8bbe64af322.mp3</guid>
+   <pubDate>Tue, 26 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אסתר רבה פתיחתות סימן א - "והיו חייך תלואים לך מנגד"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/fb37250a-2081-4903-b1a5-001de669c9b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/fb37250a-2081-4903-b1a5-001de669c9b6.mp3</guid>
+   <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בחירת אברהם אבינו לבנות את האומה הישראלית</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/18beb520-a547-4427-b61b-fd7162fe8ab2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/18beb520-a547-4427-b61b-fd7162fe8ab2.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי - ולא יזח החושן מעל האפוד – בתשעה באב נולד המשיח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/286652c2-1105-4df0-a964-facef10ba7d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/286652c2-1105-4df0-a964-facef10ba7d5.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואלה תולדות תרח - חשיבות הדורות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/96cd37fa-387d-42e1-96c6-71bf870dcbfc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/96cd37fa-387d-42e1-96c6-71bf870dcbfc.mp3</guid>
+   <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל - השפעתו הנשמתית של האדם על העולם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/e9820213-120c-4310-bf42-a2f1eed990e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/e9820213-120c-4310-bf42-a2f1eed990e0.mp3</guid>
+   <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אור ישרים ישמח - על מהות השמחה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/07b2d5c4-952f-4d1b-bab7-ee3f966b3e51.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/07b2d5c4-952f-4d1b-bab7-ee3f966b3e51.mp3</guid>
+   <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המקום והשם גורם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/a8553da8-7933-4124-adb8-c5fe887993f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/a8553da8-7933-4124-adb8-c5fe887993f6.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא - המטוס לא נהיה מכונית</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/ff2ca50e-bf18-471d-99bc-8e15085b9d3b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/ff2ca50e-bf18-471d-99bc-8e15085b9d3b.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תנוך אוזן אהרון - כח השמיעה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/38bc239d-2a70-4633-b364-8a747dea4dcf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/38bc239d-2a70-4633-b364-8a747dea4dcf.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המגדל בשביל האנושות או האנושות בשביל המגדל</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/b6e43f2c-b66d-431a-8765-638e160af00a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/b6e43f2c-b66d-431a-8765-638e160af00a.mp3</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלית הלבושים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/b6be730c-b9af-4cd4-a756-a2d70684a19c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/b6be730c-b9af-4cd4-a756-a2d70684a19c.mp3</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקחו לי תרומה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d8c185b6-1830-4917-953e-7d51571e9ce0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d8c185b6-1830-4917-953e-7d51571e9ce0.mp3</guid>
+   <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקור הלאומיות של העמים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/040d7e70-23d6-4d61-a395-1cac1a6506e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/040d7e70-23d6-4d61-a395-1cac1a6506e8.mp3</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין כפייה ברוחניות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/c7f21f29-eac1-44ab-a302-30e31a600453.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/c7f21f29-eac1-44ab-a302-30e31a600453.mp3</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לח פסקה ח - שלוש החלוקות למגדל בבל</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/3bd13b84-f739-42b4-a4e0-6aeb598f506f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/3bd13b84-f739-42b4-a4e0-6aeb598f506f.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת יתרו- מעמד הר סיני תורה מהשמים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/6ec32f13-2c17-4d18-abd5-426a8d4cdc2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/6ec32f13-2c17-4d18-abd5-426a8d4cdc2c.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היחס לדבר קובע</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/9cb25e1b-7ff7-4baa-98d3-e37163457c35.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/9cb25e1b-7ff7-4baa-98d3-e37163457c35.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המנוע של המציאות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/379b021b-074a-412f-b783-ce1e3d774bbf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/379b021b-074a-412f-b783-ce1e3d774bbf.mp3</guid>
+   <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית רבה לח ויהי בנסעם מקדם</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/529122f4-0e6d-4f51-bff5-47fea6f96b85.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/529122f4-0e6d-4f51-bff5-47fea6f96b85.mp3</guid>
+   <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בא- נבואה ואווירא דארץ ישראל</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/697b496e-dee6-43f8-ac58-694c7bd2d2c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/697b496e-dee6-43f8-ac58-694c7bd2d2c2.mp3</guid>
+   <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עלילת דם היא חצי נחמה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b275e34c-89e3-4922-8a47-cced759cab70.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b275e34c-89e3-4922-8a47-cced759cab70.mp3</guid>
+   <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הודאה על ירידת הגשמים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/e39fabfe-366a-43f6-9dee-56ace838a5a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/e39fabfe-366a-43f6-9dee-56ace838a5a5.mp3</guid>
+   <pubDate>Fri, 12 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לח סימן ו - העניין האמיתי בדור הפלגה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/4a2fd79b-61df-47e5-8019-e1c68bc80017.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/4a2fd79b-61df-47e5-8019-e1c68bc80017.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וארא - ד_' לשונות של גאולה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/a8371b5a-c36d-4ff5-89c4-48616466ee13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/a8371b5a-c36d-4ff5-89c4-48616466ee13.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לח סימן ה - ותיהיה כל הארץ שפה אחת ודברים אחדים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d2c336f1-f6ec-47ba-8bf9-0cd736e15027.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d2c336f1-f6ec-47ba-8bf9-0cd736e15027.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהפנים אל החוץ או מהחוץ אל הפנים</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/163680eb-d5a5-4913-b408-3d18d7c6d72c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/163680eb-d5a5-4913-b408-3d18d7c6d72c.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - משה רבנו פרק במנהיגות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/81a3a599-fdae-4334-9165-bda3f74233ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/81a3a599-fdae-4334-9165-bda3f74233ca.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לח סימן ד</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/87fef4d9-53ec-4103-8270-f2450f89265e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/87fef4d9-53ec-4103-8270-f2450f89265e.mp3</guid>
+   <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי - לִישׁוּעָתְךָ קִוִּיתִי ה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/ad4e39a7-5d13-4c7d-8e8d-13f60bac2222.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/ad4e39a7-5d13-4c7d-8e8d-13f60bac2222.mp3</guid>
+   <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ה' חפץ למען צדקו יגדיל תורה ויאדיר</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/450b4f9b-ba8c-4f30-947f-29d4747844c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/450b4f9b-ba8c-4f30-947f-29d4747844c4.mp3</guid>
+   <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>?שותף או לקוח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/051b4965-bc81-4c2e-8307-65ef9aa69925.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/051b4965-bc81-4c2e-8307-65ef9aa69925.mp3</guid>
+   <pubDate>Sun, 24 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לח - סימן ב חלק ב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/bc211620-0d94-4788-831d-8dc2c6a9804b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/bc211620-0d94-4788-831d-8dc2c6a9804b.mp3</guid>
+   <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויגש</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/296f87a4-d171-47bd-9bcb-d60aedaa4b50.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/296f87a4-d171-47bd-9bcb-d60aedaa4b50.mp3</guid>
+   <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לח - סימן ב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/1104bd9e-52f9-4e98-bb44-f6902eca18a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/1104bd9e-52f9-4e98-bb44-f6902eca18a2.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/fc31765c-1173-44de-941f-262a92e37768.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/fc31765c-1173-44de-941f-262a92e37768.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לח - סימן א</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7144e85c-b024-43c5-bca3-5c19395843ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/7144e85c-b024-43c5-bca3-5c19395843ce.mp3</guid>
+   <pubDate>Sat, 02 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח - למה עשו הולך</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/f96ad1f1-de1c-4353-872d-2ee996e5c0aa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/f96ad1f1-de1c-4353-872d-2ee996e5c0aa.mp3</guid>
+   <pubDate>Sat, 02 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לז – סימן ח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f6cee264-ba06-44fd-9713-c04714206ef4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/f6cee264-ba06-44fd-9713-c04714206ef4.mp3</guid>
+   <pubDate>Tue, 28 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/33b98731-2f39-4518-9f09-c47dc862da68.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-lichyot/audio/33b98731-2f39-4518-9f09-c47dc862da68.mp3</guid>
+   <pubDate>Tue, 28 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה תפקידנו במלחמה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/7eeb7fd2-90b0-4046-92ac-7fdb58c55076.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/7eeb7fd2-90b0-4046-92ac-7fdb58c55076.mp3</guid>
+   <pubDate>Tue, 28 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לז – סימן ו-ז</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/5f0d8da3-5aed-4d85-8d9a-0a959cd889c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/5f0d8da3-5aed-4d85-8d9a-0a959cd889c7.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לז – סימן ה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6ae4b671-ea79-4531-97b0-e710390b788e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6ae4b671-ea79-4531-97b0-e710390b788e.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לז – סימן ד</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6dbabd2c-5e0c-49d1-9422-c473e11a417c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6dbabd2c-5e0c-49d1-9422-c473e11a417c.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לז – סימן ג</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d32d0c66-3bc3-4b34-8910-0b8bba1dae01.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d32d0c66-3bc3-4b34-8910-0b8bba1dae01.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לז – סימן ב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/c3620358-e1af-4406-bf3f-b693e09db77b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/c3620358-e1af-4406-bf3f-b693e09db77b.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לז – סימן א</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6bf3e045-b1db-467e-81a1-3521a2d45d5d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6bf3e045-b1db-467e-81a1-3521a2d45d5d.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לו – סימן ח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/ca145df6-0f93-4d28-a95d-d7a345caa943.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/ca145df6-0f93-4d28-a95d-d7a345caa943.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לו – סימן ז</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/ba261d56-77a4-4989-bd20-0cf9df813bcf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/ba261d56-77a4-4989-bd20-0cf9df813bcf.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחתא יח</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/45ac1ded-eb5f-493f-bac5-24c2510395ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/45ac1ded-eb5f-493f-bac5-24c2510395ab.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לו – סימן ו</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/b6250dfa-0926-49d7-8eff-58b063fc3d96.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/b6250dfa-0926-49d7-8eff-58b063fc3d96.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לו – סימן ה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/26217b53-e537-4c40-945b-d35b895ad176.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/26217b53-e537-4c40-945b-d35b895ad176.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לו – סימן ד</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/5d20ada1-6581-495d-a87e-67c8c274a21c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/5d20ada1-6581-495d-a87e-67c8c274a21c.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לו – סימן ג</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/af4fe196-e54a-4dbb-94a8-d985cf80f374.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/af4fe196-e54a-4dbb-94a8-d985cf80f374.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לה – סימן ג – חב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6b2f891a-7651-402d-acbd-1164192b9211.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/6b2f891a-7651-402d-acbd-1164192b9211.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לה – סימן ג</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/64eab52c-d097-456d-8c9e-0fa87c4fc481.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/64eab52c-d097-456d-8c9e-0fa87c4fc481.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לה – סימן ב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d3d927df-c758-49f3-b2f2-78dba0a067d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/d3d927df-c758-49f3-b2f2-78dba0a067d2.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לה – סימן א</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/b838f580-ef89-4363-8925-ac2fcd12b4a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/b838f580-ef89-4363-8925-ac2fcd12b4a1.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לד – סימן יד</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/1f47ef68-2901-4135-8f20-93cb3357392c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/1f47ef68-2901-4135-8f20-93cb3357392c.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לד – סימן יג</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/cf7be362-c2a5-403b-9852-dde2a0724e8c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/cf7be362-c2a5-403b-9852-dde2a0724e8c.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לד – סימן יב</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/bfd87b6f-ebae-4498-a8f7-f26daee3a94d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/bfd87b6f-ebae-4498-a8f7-f26daee3a94d.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לד – סימן יא</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0028b313-9f82-4bac-97de-5be51dc08c22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/0028b313-9f82-4bac-97de-5be51dc08c22.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשה לד – סימן י</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/8089445c-bb3a-40be-ad3e-fb061f8e6ed3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-midrash-raba/audio/8089445c-bb3a-40be-ad3e-fb061f8e6ed3.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

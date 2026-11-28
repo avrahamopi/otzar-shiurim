@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב נריה מנצור · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-656b0012.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב נריה מנצור.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | פתיחה - חייב אדם לברך מאה ברכות בכל יום | הרב נריה מנצור</title>
+   <description>הרב נריה מנצור · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה מנצור</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/1b/ab/4fe6cb4c098f36e4c286b2fbb4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/1b/ab/4fe6cb4c098f36e4c286b2fbb4.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | פרשת בשלח - לחם מן השמים | הרב נריה מנצור</title>
+   <description>הרב נריה מנצור · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב נריה מנצור</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2f/18/e9/72c9b3470bbbacbba4ad281d4c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2f/18/e9/72c9b3470bbbacbba4ad281d4c.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | ויצא יעקב - היציאה לעולמות החוץ | הרב נריה מנצור</title>
+   <description>הרב נריה מנצור · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה מנצור</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/e9/4f/e64ebf48f09d581295397caaf7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/e9/4f/e64ebf48f09d581295397caaf7.mp3</guid>
+   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | הנהגת עץ הדעת באדר | הרב נריה מנצור</title>
+   <description>הרב נריה מנצור · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה מנצור</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a7/da/cc/e64d2541e0bfab558bf219d244.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a7/da/cc/e64d2541e0bfab558bf219d244.mp3</guid>
+   <pubDate>Mon, 21 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | פרשת בהעלותך - על פי ה' יחנו ועל פי ה' יסעו | הרב נריה מנצור</title>
+   <description>הרב נריה מנצור · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב נריה מנצור</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f9/a9/c9/f386e243fea072cdc7fa722fbf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f9/a9/c9/f386e243fea072cdc7fa722fbf.mp3</guid>
+   <pubDate>Fri, 28 May 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

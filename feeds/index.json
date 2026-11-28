@@ -1,0 +1,1594 @@
+[
+ {
+  "slug": "all",
+  "title": "אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/all.xml",
+  "kind": "all",
+  "key": ""
+ },
+ {
+  "slug": "gemara",
+  "title": "גמרא · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/gemara.xml",
+  "kind": "topic",
+  "key": "גמרא"
+ },
+ {
+  "slug": "halacha",
+  "title": "הלכה · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/halacha.xml",
+  "kind": "topic",
+  "key": "הלכה"
+ },
+ {
+  "slug": "tanach",
+  "title": "תנ\"ך · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/tanach.xml",
+  "kind": "topic",
+  "key": "תנ\"ך"
+ },
+ {
+  "slug": "parasha",
+  "title": "פרשת השבוע · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/parasha.xml",
+  "kind": "topic",
+  "key": "פרשת השבוע"
+ },
+ {
+  "slug": "emuna",
+  "title": "אמונה ומחשבה · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/emuna.xml",
+  "kind": "topic",
+  "key": "אמונה ומחשבה"
+ },
+ {
+  "slug": "musar",
+  "title": "מוסר · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/musar.xml",
+  "kind": "topic",
+  "key": "מוסר"
+ },
+ {
+  "slug": "chasidut",
+  "title": "חסידות וקבלה · אוצר שיעורי הישיבות",
+  "n": 288,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/chasidut.xml",
+  "kind": "topic",
+  "key": "חסידות וקבלה"
+ },
+ {
+  "slug": "moadim",
+  "title": "מועדים · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/moadim.xml",
+  "kind": "topic",
+  "key": "מועדים"
+ },
+ {
+  "slug": "y-afikei-daat",
+  "title": "ישיבת שדרות – אפיקי דעת · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-afikei-daat.xml",
+  "kind": "yeshiva",
+  "key": "afikei-daat"
+ },
+ {
+  "slug": "y-akko",
+  "title": "ישיבת עכו – רוח צפונית · אוצר שיעורי הישיבות",
+  "n": 30,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-akko.xml",
+  "kind": "yeshiva",
+  "key": "akko"
+ },
+ {
+  "slug": "y-avinoam",
+  "title": "ישיבת אבינועם · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-avinoam.xml",
+  "kind": "yeshiva",
+  "key": "avinoam"
+ },
+ {
+  "slug": "y-beit-el",
+  "title": "ישיבת בית אל · אוצר שיעורי הישיבות",
+  "n": 11,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-beit-el.xml",
+  "kind": "yeshiva",
+  "key": "beit-el"
+ },
+ {
+  "slug": "y-birkat-yosef",
+  "title": "ישיבת ברכת יוסף · אוצר שיעורי הישיבות",
+  "n": 52,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-birkat-yosef.xml",
+  "kind": "yeshiva",
+  "key": "birkat-yosef"
+ },
+ {
+  "slug": "y-hakotel",
+  "title": "ישיבת הכותל · אוצר שיעורי הישיבות",
+  "n": 65,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-hakotel.xml",
+  "kind": "yeshiva",
+  "key": "hakotel"
+ },
+ {
+  "slug": "y-har-bracha",
+  "title": "ישיבת הר ברכה · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-har-bracha.xml",
+  "kind": "yeshiva",
+  "key": "har-bracha"
+ },
+ {
+  "slug": "y-har-etzion",
+  "title": "ישיבת הר עציון · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-har-etzion.xml",
+  "kind": "yeshiva",
+  "key": "har-etzion"
+ },
+ {
+  "slug": "y-heichal-eliyahu",
+  "title": "ישיבת היכל אליהו כוכב יעקב · אוצר שיעורי הישיבות",
+  "n": 12,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-heichal-eliyahu.xml",
+  "kind": "yeshiva",
+  "key": "heichal-eliyahu"
+ },
+ {
+  "slug": "y-kerem-byavneh",
+  "title": "ישיבת כרם ביבנה · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-kerem-byavneh.xml",
+  "kind": "yeshiva",
+  "key": "kerem-byavneh"
+ },
+ {
+  "slug": "y-maalot",
+  "title": "ישיבת מעלות יעקב הרצוג · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-maalot.xml",
+  "kind": "yeshiva",
+  "key": "maalot"
+ },
+ {
+  "slug": "y-netivot",
+  "title": "ישיבת אהבת ישראל נתיבות · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-netivot.xml",
+  "kind": "yeshiva",
+  "key": "netivot"
+ },
+ {
+  "slug": "y-netzer-mattai",
+  "title": "ישיבת נצר מטעי · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-netzer-mattai.xml",
+  "kind": "yeshiva",
+  "key": "netzer-mattai"
+ },
+ {
+  "slug": "y-nof-hagalil",
+  "title": "ישיבת מרכז תורני נוף הגליל · אוצר שיעורי הישיבות",
+  "n": 233,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-nof-hagalil.xml",
+  "kind": "yeshiva",
+  "key": "nof-hagalil"
+ },
+ {
+  "slug": "y-or-etzion",
+  "title": "ישיבת אור עציון · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-or-etzion.xml",
+  "kind": "yeshiva",
+  "key": "or-etzion"
+ },
+ {
+  "slug": "y-orot-shaul",
+  "title": "ישיבת אורות שאול · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-orot-shaul.xml",
+  "kind": "yeshiva",
+  "key": "orot-shaul"
+ },
+ {
+  "slug": "y-otniel",
+  "title": "ישיבת בית ועד הר חברון – עתניאל · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-otniel.xml",
+  "kind": "yeshiva",
+  "key": "otniel"
+ },
+ {
+  "slug": "y-ramat-gan",
+  "title": "ישיבת רמת גן · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-ramat-gan.xml",
+  "kind": "yeshiva",
+  "key": "ramat-gan"
+ },
+ {
+  "slug": "y-sdemot-neria",
+  "title": "ישיבת הבקעה – שדמות נריה · אוצר שיעורי הישיבות",
+  "n": 186,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-sdemot-neria.xml",
+  "kind": "yeshiva",
+  "key": "sdemot-neria"
+ },
+ {
+  "slug": "y-tekoa",
+  "title": "ישיבת תקוע · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-tekoa.xml",
+  "kind": "yeshiva",
+  "key": "tekoa"
+ },
+ {
+  "slug": "y-ybm",
+  "title": "ישיבת ברכת משה מעלה אדומים · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-ybm.xml",
+  "kind": "yeshiva",
+  "key": "ybm"
+ },
+ {
+  "slug": "y-yeruham",
+  "title": "ישיבת ירוחם · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/y-yeruham.xml",
+  "kind": "yeshiva",
+  "key": "yeruham"
+ },
+ {
+  "slug": "rav-16cabb53",
+  "title": "הרב אביעד בר אשר · אוצר שיעורי הישיבות",
+  "n": 7,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-16cabb53.xml",
+  "kind": "rabbi",
+  "key": "הרב אביעד בר אשר"
+ },
+ {
+  "slug": "rav-06e49bd0",
+  "title": "הרב אביעד תפוחי · אוצר שיעורי הישיבות",
+  "n": 84,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-06e49bd0.xml",
+  "kind": "rabbi",
+  "key": "הרב אביעד תפוחי"
+ },
+ {
+  "slug": "rav-14e6594d",
+  "title": "הרב אברהם וולפסון · אוצר שיעורי הישיבות",
+  "n": 8,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-14e6594d.xml",
+  "kind": "rabbi",
+  "key": "הרב אברהם וולפסון"
+ },
+ {
+  "slug": "rav-e60d1b5a",
+  "title": "הרב אברהם שילר · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e60d1b5a.xml",
+  "kind": "rabbi",
+  "key": "הרב אברהם שילר"
+ },
+ {
+  "slug": "rav-8bf306d0",
+  "title": "הרב אהרון בק · אוצר שיעורי הישיבות",
+  "n": 168,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8bf306d0.xml",
+  "kind": "rabbi",
+  "key": "הרב אהרון בק"
+ },
+ {
+  "slug": "rav-1bf7a2c6",
+  "title": "הרב אהרן פרידמן · אוצר שיעורי הישיבות",
+  "n": 45,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1bf7a2c6.xml",
+  "kind": "rabbi",
+  "key": "הרב אהרן פרידמן"
+ },
+ {
+  "slug": "rav-e6c84cc5",
+  "title": "הרב אודי שורץ · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e6c84cc5.xml",
+  "kind": "rabbi",
+  "key": "הרב אודי שורץ"
+ },
+ {
+  "slug": "rav-1eef62cb",
+  "title": "הרב אורי הכהן · אוצר שיעורי הישיבות",
+  "n": 33,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1eef62cb.xml",
+  "kind": "rabbi",
+  "key": "הרב אורי הכהן"
+ },
+ {
+  "slug": "rav-c7b45152",
+  "title": "הרב אורי יעקב · אוצר שיעורי הישיבות",
+  "n": 24,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c7b45152.xml",
+  "kind": "rabbi",
+  "key": "הרב אורי יעקב"
+ },
+ {
+  "slug": "rav-634d3b04",
+  "title": "הרב אוריאל עיטם · אוצר שיעורי הישיבות",
+  "n": 95,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-634d3b04.xml",
+  "kind": "rabbi",
+  "key": "הרב אוריאל עיטם"
+ },
+ {
+  "slug": "rav-2a6ed38c",
+  "title": "הרב אוריה דור · אוצר שיעורי הישיבות",
+  "n": 12,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-2a6ed38c.xml",
+  "kind": "rabbi",
+  "key": "הרב אוריה דור"
+ },
+ {
+  "slug": "rav-cb0ae120",
+  "title": "הרב אזרד · אוצר שיעורי הישיבות",
+  "n": 20,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-cb0ae120.xml",
+  "kind": "rabbi",
+  "key": "הרב אזרד"
+ },
+ {
+  "slug": "rav-bc3e6683",
+  "title": "הרב אחיה בן פזי · אוצר שיעורי הישיבות",
+  "n": 6,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bc3e6683.xml",
+  "kind": "rabbi",
+  "key": "הרב אחיה בן פזי"
+ },
+ {
+  "slug": "rav-83e84397",
+  "title": "הרב אייל אלפיה · אוצר שיעורי הישיבות",
+  "n": 15,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-83e84397.xml",
+  "kind": "rabbi",
+  "key": "הרב אייל אלפיה"
+ },
+ {
+  "slug": "rav-44b816bc",
+  "title": "הרב איתיאל גולד · אוצר שיעורי הישיבות",
+  "n": 48,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-44b816bc.xml",
+  "kind": "rabbi",
+  "key": "הרב איתיאל גולד"
+ },
+ {
+  "slug": "rav-e003771a",
+  "title": "הרב איתיאל סופר · אוצר שיעורי הישיבות",
+  "n": 40,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e003771a.xml",
+  "kind": "rabbi",
+  "key": "הרב איתיאל סופר"
+ },
+ {
+  "slug": "rav-6a3cb3e0",
+  "title": "הרב איתמר אלדר · אוצר שיעורי הישיבות",
+  "n": 113,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-6a3cb3e0.xml",
+  "kind": "rabbi",
+  "key": "הרב איתמר אלדר"
+ },
+ {
+  "slug": "rav-0aa87795",
+  "title": "הרב איתן קליימן · אוצר שיעורי הישיבות",
+  "n": 8,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0aa87795.xml",
+  "kind": "rabbi",
+  "key": "הרב איתן קליימן"
+ },
+ {
+  "slug": "rav-bb6da9d0",
+  "title": "הרב אלחנן סמט · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bb6da9d0.xml",
+  "kind": "rabbi",
+  "key": "הרב אלחנן סמט"
+ },
+ {
+  "slug": "rav-a379f720",
+  "title": "הרב אלחנן שרלו · אוצר שיעורי הישיבות",
+  "n": 32,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a379f720.xml",
+  "kind": "rabbi",
+  "key": "הרב אלחנן שרלו"
+ },
+ {
+  "slug": "rav-7c37ed3b",
+  "title": "הרב אלי שיינפלד · אוצר שיעורי הישיבות",
+  "n": 7,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7c37ed3b.xml",
+  "kind": "rabbi",
+  "key": "הרב אלי שיינפלד"
+ },
+ {
+  "slug": "rav-59a7a575",
+  "title": "הרב אליאב פלהיימר · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-59a7a575.xml",
+  "kind": "rabbi",
+  "key": "הרב אליאב פלהיימר"
+ },
+ {
+  "slug": "rav-2619214e",
+  "title": "הרב אליהו בלומנצוויג · אוצר שיעורי הישיבות",
+  "n": 43,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-2619214e.xml",
+  "kind": "rabbi",
+  "key": "הרב אליהו בלומנצוויג"
+ },
+ {
+  "slug": "rav-fb0e5257",
+  "title": "הרב אליהו ליפשיץ · אוצר שיעורי הישיבות",
+  "n": 22,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-fb0e5257.xml",
+  "kind": "rabbi",
+  "key": "הרב אליהו ליפשיץ"
+ },
+ {
+  "slug": "rav-d240c825",
+  "title": "הרב אליעזר מלמד · אוצר שיעורי הישיבות",
+  "n": 28,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d240c825.xml",
+  "kind": "rabbi",
+  "key": "הרב אליעזר מלמד"
+ },
+ {
+  "slug": "rav-32a49b52",
+  "title": "הרב אליעזר קשתיאל · אוצר שיעורי הישיבות",
+  "n": 35,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-32a49b52.xml",
+  "kind": "rabbi",
+  "key": "הרב אליעזר קשתיאל"
+ },
+ {
+  "slug": "rav-b5c050a9",
+  "title": "הרב אליקים שריר · אוצר שיעורי הישיבות",
+  "n": 8,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-b5c050a9.xml",
+  "kind": "rabbi",
+  "key": "הרב אליקים שריר"
+ },
+ {
+  "slug": "rav-e81f4449",
+  "title": "הרב אלישע אבינר · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e81f4449.xml",
+  "kind": "rabbi",
+  "key": "הרב אלישע אבינר"
+ },
+ {
+  "slug": "rav-dd478a15",
+  "title": "הרב אלעזר גולדשטיין · אוצר שיעורי הישיבות",
+  "n": 23,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-dd478a15.xml",
+  "kind": "rabbi",
+  "key": "הרב אלעזר גולדשטיין"
+ },
+ {
+  "slug": "rav-9c6b3e12",
+  "title": "הרב אלקנה שרלו · אוצר שיעורי הישיבות",
+  "n": 32,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9c6b3e12.xml",
+  "kind": "rabbi",
+  "key": "הרב אלקנה שרלו"
+ },
+ {
+  "slug": "rav-adb42012",
+  "title": "הרב אמיתי בר תקווה · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-adb42012.xml",
+  "kind": "rabbi",
+  "key": "הרב אמיתי בר תקווה"
+ },
+ {
+  "slug": "rav-b342a31c",
+  "title": "הרב אמנון בזק · אוצר שיעורי הישיבות",
+  "n": 69,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-b342a31c.xml",
+  "kind": "rabbi",
+  "key": "הרב אמנון בזק"
+ },
+ {
+  "slug": "rav-bf877ea4",
+  "title": "הרב אמנון דוקוב · אוצר שיעורי הישיבות",
+  "n": 60,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bf877ea4.xml",
+  "kind": "rabbi",
+  "key": "הרב אמנון דוקוב"
+ },
+ {
+  "slug": "rav-6aaab5a9",
+  "title": "הרב אסי בלנק · אוצר שיעורי הישיבות",
+  "n": 36,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-6aaab5a9.xml",
+  "kind": "rabbi",
+  "key": "הרב אסי בלנק"
+ },
+ {
+  "slug": "rav-5f4b8136",
+  "title": "הרב אסף נאמבורג · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-5f4b8136.xml",
+  "kind": "rabbi",
+  "key": "הרב אסף נאמבורג"
+ },
+ {
+  "slug": "rav-7351737e",
+  "title": "הרב אפי ולץ · אוצר שיעורי הישיבות",
+  "n": 78,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7351737e.xml",
+  "kind": "rabbi",
+  "key": "הרב אפי ולץ"
+ },
+ {
+  "slug": "rav-af8bc941",
+  "title": "הרב אריאל בראלי · אוצר שיעורי הישיבות",
+  "n": 118,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-af8bc941.xml",
+  "kind": "rabbi",
+  "key": "הרב אריאל בראלי"
+ },
+ {
+  "slug": "rav-54fa2af3",
+  "title": "הרב אריאל רקובר · אוצר שיעורי הישיבות",
+  "n": 61,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-54fa2af3.xml",
+  "kind": "rabbi",
+  "key": "הרב אריאל רקובר"
+ },
+ {
+  "slug": "rav-9b217150",
+  "title": "הרב אריאל שרשבסקי · אוצר שיעורי הישיבות",
+  "n": 165,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9b217150.xml",
+  "kind": "rabbi",
+  "key": "הרב אריאל שרשבסקי"
+ },
+ {
+  "slug": "rav-8b80101e",
+  "title": "הרב אריה כץ · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8b80101e.xml",
+  "kind": "rabbi",
+  "key": "הרב אריה כץ"
+ },
+ {
+  "slug": "rav-bfb73364",
+  "title": "הרב אשר וייס · אוצר שיעורי הישיבות",
+  "n": 75,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bfb73364.xml",
+  "kind": "rabbi",
+  "key": "הרב אשר וייס"
+ },
+ {
+  "slug": "rav-309eefb8",
+  "title": "הרב בזק · אוצר שיעורי הישיבות",
+  "n": 72,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-309eefb8.xml",
+  "kind": "rabbi",
+  "key": "הרב בזק"
+ },
+ {
+  "slug": "rav-70af5bbf",
+  "title": "הרב בן ציון · אוצר שיעורי הישיבות",
+  "n": 273,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-70af5bbf.xml",
+  "kind": "rabbi",
+  "key": "הרב בן ציון"
+ },
+ {
+  "slug": "rav-9cc24298",
+  "title": "הרב בני להמן · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9cc24298.xml",
+  "kind": "rabbi",
+  "key": "הרב בני להמן"
+ },
+ {
+  "slug": "rav-35a203f1",
+  "title": "הרב בני קלמנזון · אוצר שיעורי הישיבות",
+  "n": 63,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-35a203f1.xml",
+  "kind": "rabbi",
+  "key": "הרב בני קלמנזון"
+ },
+ {
+  "slug": "rav-69809e9c",
+  "title": "הרב בנימין רוזנצוויג · אוצר שיעורי הישיבות",
+  "n": 46,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-69809e9c.xml",
+  "kind": "rabbi",
+  "key": "הרב בנימין רוזנצוויג"
+ },
+ {
+  "slug": "rav-06dcf4a9",
+  "title": "הרב בנימין תבורי · אוצר שיעורי הישיבות",
+  "n": 29,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-06dcf4a9.xml",
+  "kind": "rabbi",
+  "key": "הרב בנימין תבורי"
+ },
+ {
+  "slug": "rav-deb6e42b",
+  "title": "הרב בצלאל דניאל · אוצר שיעורי הישיבות",
+  "n": 21,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-deb6e42b.xml",
+  "kind": "rabbi",
+  "key": "הרב בצלאל דניאל"
+ },
+ {
+  "slug": "rav-735affd8",
+  "title": "הרב ברוך גיגי · אוצר שיעורי הישיבות",
+  "n": 21,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-735affd8.xml",
+  "kind": "rabbi",
+  "key": "הרב ברוך גיגי"
+ },
+ {
+  "slug": "rav-9b6c067a",
+  "title": "הרב ברוך וינטרוב · אוצר שיעורי הישיבות",
+  "n": 28,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9b6c067a.xml",
+  "kind": "rabbi",
+  "key": "הרב ברוך וינטרוב"
+ },
+ {
+  "slug": "rav-37975d47",
+  "title": "הרב גבריאל סרף · אוצר שיעורי הישיבות",
+  "n": 22,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-37975d47.xml",
+  "kind": "rabbi",
+  "key": "הרב גבריאל סרף"
+ },
+ {
+  "slug": "rav-483a0f27",
+  "title": "הרב גד ונקרט · אוצר שיעורי הישיבות",
+  "n": 148,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-483a0f27.xml",
+  "kind": "rabbi",
+  "key": "הרב גד ונקרט"
+ },
+ {
+  "slug": "rav-fe5a00f3",
+  "title": "הרב גדי · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-fe5a00f3.xml",
+  "kind": "rabbi",
+  "key": "הרב גדי"
+ },
+ {
+  "slug": "rav-c3d2f483",
+  "title": "הרב גדי שלוין · אוצר שיעורי הישיבות",
+  "n": 12,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c3d2f483.xml",
+  "kind": "rabbi",
+  "key": "הרב גדי שלוין"
+ },
+ {
+  "slug": "rav-eae5241a",
+  "title": "הרב גדעון מושקוביץ · אוצר שיעורי הישיבות",
+  "n": 17,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-eae5241a.xml",
+  "kind": "rabbi",
+  "key": "הרב גדעון מושקוביץ"
+ },
+ {
+  "slug": "rav-c2abfee2",
+  "title": "הרב גילעד מינץ · אוצר שיעורי הישיבות",
+  "n": 6,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c2abfee2.xml",
+  "kind": "rabbi",
+  "key": "הרב גילעד מינץ"
+ },
+ {
+  "slug": "rav-1bef4766",
+  "title": "הרב דוד סבתו · אוצר שיעורי הישיבות",
+  "n": 188,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1bef4766.xml",
+  "kind": "rabbi",
+  "key": "הרב דוד סבתו"
+ },
+ {
+  "slug": "rav-74eae59e",
+  "title": "הרב דוד פיאלקוף · אוצר שיעורי הישיבות",
+  "n": 145,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-74eae59e.xml",
+  "kind": "rabbi",
+  "key": "הרב דוד פיאלקוף"
+ },
+ {
+  "slug": "rav-6d303fe0",
+  "title": "הרב דוד פנדל · אוצר שיעורי הישיבות",
+  "n": 224,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-6d303fe0.xml",
+  "kind": "rabbi",
+  "key": "הרב דוד פנדל"
+ },
+ {
+  "slug": "rav-7eae45c5",
+  "title": "הרב דודי דודקביץ · אוצר שיעורי הישיבות",
+  "n": 123,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7eae45c5.xml",
+  "kind": "rabbi",
+  "key": "הרב דודי דודקביץ"
+ },
+ {
+  "slug": "rav-9f971582",
+  "title": "הרב דני סגליס · אוצר שיעורי הישיבות",
+  "n": 158,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9f971582.xml",
+  "kind": "rabbi",
+  "key": "הרב דני סגליס"
+ },
+ {
+  "slug": "rav-638b5c7b",
+  "title": "הרב דניאל כהן · אוצר שיעורי הישיבות",
+  "n": 50,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-638b5c7b.xml",
+  "kind": "rabbi",
+  "key": "הרב דניאל כהן"
+ },
+ {
+  "slug": "rav-aa35c451",
+  "title": "הרב דרור אריה · אוצר שיעורי הישיבות",
+  "n": 24,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-aa35c451.xml",
+  "kind": "rabbi",
+  "key": "הרב דרור אריה"
+ },
+ {
+  "slug": "rav-1c1e699f",
+  "title": "הרב דרור טוויל · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1c1e699f.xml",
+  "kind": "rabbi",
+  "key": "הרב דרור טוויל"
+ },
+ {
+  "slug": "rav-26a844bd",
+  "title": "הרב הבר · אוצר שיעורי הישיבות",
+  "n": 13,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-26a844bd.xml",
+  "kind": "rabbi",
+  "key": "הרב הבר"
+ },
+ {
+  "slug": "rav-92741c2a",
+  "title": "הרב הדרי · אוצר שיעורי הישיבות",
+  "n": 22,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-92741c2a.xml",
+  "kind": "rabbi",
+  "key": "הרב הדרי"
+ },
+ {
+  "slug": "rav-7c49eeda",
+  "title": "הרב הראל אלעדי · אוצר שיעורי הישיבות",
+  "n": 17,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7c49eeda.xml",
+  "kind": "rabbi",
+  "key": "הרב הראל אלעדי"
+ },
+ {
+  "slug": "rav-61eacb1f",
+  "title": "הרב הראל ברגר · אוצר שיעורי הישיבות",
+  "n": 130,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-61eacb1f.xml",
+  "kind": "rabbi",
+  "key": "הרב הראל ברגר"
+ },
+ {
+  "slug": "rav-8fad8fef",
+  "title": "הרב הראל קצין · אוצר שיעורי הישיבות",
+  "n": 20,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8fad8fef.xml",
+  "kind": "rabbi",
+  "key": "הרב הראל קצין"
+ },
+ {
+  "slug": "rav-a1f8d8da",
+  "title": "הרב וינר · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a1f8d8da.xml",
+  "kind": "rabbi",
+  "key": "הרב וינר"
+ },
+ {
+  "slug": "rav-89ddd681",
+  "title": "הרב ויצמן · אוצר שיעורי הישיבות",
+  "n": 147,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-89ddd681.xml",
+  "kind": "rabbi",
+  "key": "הרב ויצמן"
+ },
+ {
+  "slug": "rav-18dee96e",
+  "title": "הרב ויצמן נועם · אוצר שיעורי הישיבות",
+  "n": 6,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-18dee96e.xml",
+  "kind": "rabbi",
+  "key": "הרב ויצמן נועם"
+ },
+ {
+  "slug": "rav-c098df27",
+  "title": "הרב ויצן · אוצר שיעורי הישיבות",
+  "n": 64,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c098df27.xml",
+  "kind": "rabbi",
+  "key": "הרב ויצן"
+ },
+ {
+  "slug": "rav-1bfa38a8",
+  "title": "הרב זקס · אוצר שיעורי הישיבות",
+  "n": 8,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1bfa38a8.xml",
+  "kind": "rabbi",
+  "key": "הרב זקס"
+ },
+ {
+  "slug": "rav-a1fd855a",
+  "title": "הרב חגי לונדין · אוצר שיעורי הישיבות",
+  "n": 76,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a1fd855a.xml",
+  "kind": "rabbi",
+  "key": "הרב חגי לונדין"
+ },
+ {
+  "slug": "rav-ef3e40ed",
+  "title": "הרב חיים דרוקמן · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-ef3e40ed.xml",
+  "kind": "rabbi",
+  "key": "הרב חיים דרוקמן"
+ },
+ {
+  "slug": "rav-5e7991c6",
+  "title": "הרב חיים וולפסון · אוצר שיעורי הישיבות",
+  "n": 293,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-5e7991c6.xml",
+  "kind": "rabbi",
+  "key": "הרב חיים וולפסון"
+ },
+ {
+  "slug": "rav-af212f23",
+  "title": "הרב חיים סבתו · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-af212f23.xml",
+  "kind": "rabbi",
+  "key": "הרב חיים סבתו"
+ },
+ {
+  "slug": "rav-757c2217",
+  "title": "הרב חסדאי וינר · אוצר שיעורי הישיבות",
+  "n": 80,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-757c2217.xml",
+  "kind": "rabbi",
+  "key": "הרב חסדאי וינר"
+ },
+ {
+  "slug": "rav-6207416a",
+  "title": "הרב טוביה ליפשיץ · אוצר שיעורי הישיבות",
+  "n": 25,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-6207416a.xml",
+  "kind": "rabbi",
+  "key": "הרב טוביה ליפשיץ"
+ },
+ {
+  "slug": "rav-5c017617",
+  "title": "הרב טל · אוצר שיעורי הישיבות",
+  "n": 14,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-5c017617.xml",
+  "kind": "rabbi",
+  "key": "הרב טל"
+ },
+ {
+  "slug": "rav-918eea61",
+  "title": "הרב יאיר הילר · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-918eea61.xml",
+  "kind": "rabbi",
+  "key": "הרב יאיר הילר"
+ },
+ {
+  "slug": "rav-ecad50e3",
+  "title": "הרב יאיר קאהן · אוצר שיעורי הישיבות",
+  "n": 13,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-ecad50e3.xml",
+  "kind": "rabbi",
+  "key": "הרב יאיר קאהן"
+ },
+ {
+  "slug": "rav-958b81d6",
+  "title": "הרב יהודה בן חמו · אוצר שיעורי הישיבות",
+  "n": 24,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-958b81d6.xml",
+  "kind": "rabbi",
+  "key": "הרב יהודה בן חמו"
+ },
+ {
+  "slug": "rav-c6f6f602",
+  "title": "הרב יהושע · אוצר שיעורי הישיבות",
+  "n": 15,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c6f6f602.xml",
+  "kind": "rabbi",
+  "key": "הרב יהושע"
+ },
+ {
+  "slug": "rav-df0be9c4",
+  "title": "הרב יהושע וידר · אוצר שיעורי הישיבות",
+  "n": 287,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-df0be9c4.xml",
+  "kind": "rabbi",
+  "key": "הרב יהושע וידר"
+ },
+ {
+  "slug": "rav-46d0464d",
+  "title": "הרב יהושע ויצמן · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-46d0464d.xml",
+  "kind": "rabbi",
+  "key": "הרב יהושע ויצמן"
+ },
+ {
+  "slug": "rav-a9e542f3",
+  "title": "הרב יהושע שפירא · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a9e542f3.xml",
+  "kind": "rabbi",
+  "key": "הרב יהושע שפירא"
+ },
+ {
+  "slug": "rav-8c03531a",
+  "title": "הרב יואב פלדמן · אוצר שיעורי הישיבות",
+  "n": 122,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8c03531a.xml",
+  "kind": "rabbi",
+  "key": "הרב יואב פלדמן"
+ },
+ {
+  "slug": "rav-0a03e8aa",
+  "title": "הרב יואל בן נון · אוצר שיעורי הישיבות",
+  "n": 10,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0a03e8aa.xml",
+  "kind": "rabbi",
+  "key": "הרב יואל בן נון"
+ },
+ {
+  "slug": "rav-996864e3",
+  "title": "הרב יובל שרלו · אוצר שיעורי הישיבות",
+  "n": 28,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-996864e3.xml",
+  "kind": "rabbi",
+  "key": "הרב יובל שרלו"
+ },
+ {
+  "slug": "rav-c75cec92",
+  "title": "הרב יוני קירש · אוצר שיעורי הישיבות",
+  "n": 8,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c75cec92.xml",
+  "kind": "rabbi",
+  "key": "הרב יוני קירש"
+ },
+ {
+  "slug": "rav-0d3617b3",
+  "title": "הרב יונתן רוזין · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0d3617b3.xml",
+  "kind": "rabbi",
+  "key": "הרב יונתן רוזין"
+ },
+ {
+  "slug": "rav-39312192",
+  "title": "הרב יוסף צבי · אוצר שיעורי הישיבות",
+  "n": 8,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-39312192.xml",
+  "kind": "rabbi",
+  "key": "הרב יוסף צבי"
+ },
+ {
+  "slug": "rav-de94c9fb",
+  "title": "הרב יושי פרג'ון · אוצר שיעורי הישיבות",
+  "n": 96,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-de94c9fb.xml",
+  "kind": "rabbi",
+  "key": "הרב יושי פרג'ון"
+ },
+ {
+  "slug": "rav-39543582",
+  "title": "הרב יחזקאל קופלד · אוצר שיעורי הישיבות",
+  "n": 69,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-39543582.xml",
+  "kind": "rabbi",
+  "key": "הרב יחזקאל קופלד"
+ },
+ {
+  "slug": "rav-1e69682a",
+  "title": "הרב יעקב אריאל · אוצר שיעורי הישיבות",
+  "n": 17,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1e69682a.xml",
+  "kind": "rabbi",
+  "key": "הרב יעקב אריאל"
+ },
+ {
+  "slug": "rav-a34bdbe9",
+  "title": "הרב יעקב מדן · אוצר שיעורי הישיבות",
+  "n": 254,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a34bdbe9.xml",
+  "kind": "rabbi",
+  "key": "הרב יעקב מדן"
+ },
+ {
+  "slug": "rav-268e11dc",
+  "title": "הרב יעקב נגן · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-268e11dc.xml",
+  "kind": "rabbi",
+  "key": "הרב יעקב נגן"
+ },
+ {
+  "slug": "rav-d74b944d",
+  "title": "הרב יצחק · אוצר שיעורי הישיבות",
+  "n": 6,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d74b944d.xml",
+  "kind": "rabbi",
+  "key": "הרב יצחק"
+ },
+ {
+  "slug": "rav-604418aa",
+  "title": "הרב יצחק בזק · אוצר שיעורי הישיבות",
+  "n": 10,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-604418aa.xml",
+  "kind": "rabbi",
+  "key": "הרב יצחק בזק"
+ },
+ {
+  "slug": "rav-494ceebb",
+  "title": "הרב יצחק ג'מאל · אוצר שיעורי הישיבות",
+  "n": 46,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-494ceebb.xml",
+  "kind": "rabbi",
+  "key": "הרב יצחק ג'מאל"
+ },
+ {
+  "slug": "rav-7ea284d1",
+  "title": "הרב יצחק דעי · אוצר שיעורי הישיבות",
+  "n": 46,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7ea284d1.xml",
+  "kind": "rabbi",
+  "key": "הרב יצחק דעי"
+ },
+ {
+  "slug": "rav-1298c076",
+  "title": "הרב יצחק לוי · אוצר שיעורי הישיבות",
+  "n": 12,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1298c076.xml",
+  "kind": "rabbi",
+  "key": "הרב יצחק לוי"
+ },
+ {
+  "slug": "rav-693b225e",
+  "title": "הרב יצחק שילת · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-693b225e.xml",
+  "kind": "rabbi",
+  "key": "הרב יצחק שילת"
+ },
+ {
+  "slug": "rav-0919bf18",
+  "title": "הרב ישי אנגלמן · אוצר שיעורי הישיבות",
+  "n": 22,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0919bf18.xml",
+  "kind": "rabbi",
+  "key": "הרב ישי אנגלמן"
+ },
+ {
+  "slug": "rav-f805f7a2",
+  "title": "הרב ישי יסלזון · אוצר שיעורי הישיבות",
+  "n": 300,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-f805f7a2.xml",
+  "kind": "rabbi",
+  "key": "הרב ישי יסלזון"
+ },
+ {
+  "slug": "rav-ff48a96c",
+  "title": "הרב לונדין · אוצר שיעורי הישיבות",
+  "n": 12,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-ff48a96c.xml",
+  "kind": "rabbi",
+  "key": "הרב לונדין"
+ },
+ {
+  "slug": "rav-d73bf395",
+  "title": "הרב מאור · אוצר שיעורי הישיבות",
+  "n": 14,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d73bf395.xml",
+  "kind": "rabbi",
+  "key": "הרב מאור"
+ },
+ {
+  "slug": "rav-d64c5ca7",
+  "title": "הרב מאיר בזק · אוצר שיעורי הישיבות",
+  "n": 80,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d64c5ca7.xml",
+  "kind": "rabbi",
+  "key": "הרב מאיר בזק"
+ },
+ {
+  "slug": "rav-57587029",
+  "title": "הרב מאיר פינקלשטיין · אוצר שיעורי הישיבות",
+  "n": 6,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-57587029.xml",
+  "kind": "rabbi",
+  "key": "הרב מאיר פינקלשטיין"
+ },
+ {
+  "slug": "rav-a7db0b9c",
+  "title": "הרב מאיר רביבו · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a7db0b9c.xml",
+  "kind": "rabbi",
+  "key": "הרב מאיר רביבו"
+ },
+ {
+  "slug": "rav-c86e4dd2",
+  "title": "הרב מדן · אוצר שיעורי הישיבות",
+  "n": 24,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c86e4dd2.xml",
+  "kind": "rabbi",
+  "key": "הרב מדן"
+ },
+ {
+  "slug": "rav-42126bff",
+  "title": "הרב מדן בזק · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-42126bff.xml",
+  "kind": "rabbi",
+  "key": "הרב מדן בזק"
+ },
+ {
+  "slug": "rav-f885fd08",
+  "title": "הרב מוטי גוטמן · אוצר שיעורי הישיבות",
+  "n": 6,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-f885fd08.xml",
+  "kind": "rabbi",
+  "key": "הרב מוטי גוטמן"
+ },
+ {
+  "slug": "rav-56d72ee8",
+  "title": "הרב מיכאל אדרעי · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-56d72ee8.xml",
+  "kind": "rabbi",
+  "key": "הרב מיכאל אדרעי"
+ },
+ {
+  "slug": "rav-549be054",
+  "title": "הרב מיכאל אזרד · אוצר שיעורי הישיבות",
+  "n": 53,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-549be054.xml",
+  "kind": "rabbi",
+  "key": "הרב מיכאל אזרד"
+ },
+ {
+  "slug": "rav-cb7b20fc",
+  "title": "הרב מנשה וינר · אוצר שיעורי הישיבות",
+  "n": 275,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-cb7b20fc.xml",
+  "kind": "rabbi",
+  "key": "הרב מנשה וינר"
+ },
+ {
+  "slug": "rav-41bf4747",
+  "title": "הרב מרדכי גרינברג · אוצר שיעורי הישיבות",
+  "n": 7,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-41bf4747.xml",
+  "kind": "rabbi",
+  "key": "הרב מרדכי גרינברג"
+ },
+ {
+  "slug": "rav-604c4b6c",
+  "title": "הרב מרדכי פרומר · אוצר שיעורי הישיבות",
+  "n": 117,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-604c4b6c.xml",
+  "kind": "rabbi",
+  "key": "הרב מרדכי פרומר"
+ },
+ {
+  "slug": "rav-5ea305ed",
+  "title": "הרב משה טרגין · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-5ea305ed.xml",
+  "kind": "rabbi",
+  "key": "הרב משה טרגין"
+ },
+ {
+  "slug": "rav-665e5720",
+  "title": "הרב משה ליכטנשטיין · אוצר שיעורי הישיבות",
+  "n": 120,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-665e5720.xml",
+  "kind": "rabbi",
+  "key": "הרב משה ליכטנשטיין"
+ },
+ {
+  "slug": "rav-6d67d971",
+  "title": "הרב מתניה שטרנברג · אוצר שיעורי הישיבות",
+  "n": 40,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-6d67d971.xml",
+  "kind": "rabbi",
+  "key": "הרב מתניה שטרנברג"
+ },
+ {
+  "slug": "rav-794a80cb",
+  "title": "הרב נדב שיף · אוצר שיעורי הישיבות",
+  "n": 16,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-794a80cb.xml",
+  "kind": "rabbi",
+  "key": "הרב נדב שיף"
+ },
+ {
+  "slug": "rav-270eca7b",
+  "title": "הרב נועם אוסטר · אוצר שיעורי הישיבות",
+  "n": 6,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-270eca7b.xml",
+  "kind": "rabbi",
+  "key": "הרב נועם אוסטר"
+ },
+ {
+  "slug": "rav-67f8785d",
+  "title": "הרב ניסים דעי · אוצר שיעורי הישיבות",
+  "n": 81,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-67f8785d.xml",
+  "kind": "rabbi",
+  "key": "הרב ניסים דעי"
+ },
+ {
+  "slug": "rav-0df9dee5",
+  "title": "הרב נפתלי וייס · אוצר שיעורי הישיבות",
+  "n": 7,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0df9dee5.xml",
+  "kind": "rabbi",
+  "key": "הרב נפתלי וייס"
+ },
+ {
+  "slug": "rav-2867eca7",
+  "title": "הרב נריה טייץ · אוצר שיעורי הישיבות",
+  "n": 25,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-2867eca7.xml",
+  "kind": "rabbi",
+  "key": "הרב נריה טייץ"
+ },
+ {
+  "slug": "rav-656b0012",
+  "title": "הרב נריה מנצור · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-656b0012.xml",
+  "kind": "rabbi",
+  "key": "הרב נריה מנצור"
+ },
+ {
+  "slug": "rav-caddda6c",
+  "title": "הרב נריה פופר · אוצר שיעורי הישיבות",
+  "n": 30,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-caddda6c.xml",
+  "kind": "rabbi",
+  "key": "הרב נריה פופר"
+ },
+ {
+  "slug": "rav-8fb83762",
+  "title": "הרב ספי אליאש · אוצר שיעורי הישיבות",
+  "n": 90,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8fb83762.xml",
+  "kind": "rabbi",
+  "key": "הרב ספי אליאש"
+ },
+ {
+  "slug": "rav-52be7d36",
+  "title": "הרב עודד מיטלמן · אוצר שיעורי הישיבות",
+  "n": 12,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-52be7d36.xml",
+  "kind": "rabbi",
+  "key": "הרב עודד מיטלמן"
+ },
+ {
+  "slug": "rav-04c7d6aa",
+  "title": "הרב עוז בלומן · אוצר שיעורי הישיבות",
+  "n": 34,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-04c7d6aa.xml",
+  "kind": "rabbi",
+  "key": "הרב עוז בלומן"
+ },
+ {
+  "slug": "rav-282d795b",
+  "title": "הרב עומרי קראוס · אוצר שיעורי הישיבות",
+  "n": 10,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-282d795b.xml",
+  "kind": "rabbi",
+  "key": "הרב עומרי קראוס"
+ },
+ {
+  "slug": "rav-9042da17",
+  "title": "הרב עזרא ביק · אוצר שיעורי הישיבות",
+  "n": 32,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9042da17.xml",
+  "kind": "rabbi",
+  "key": "הרב עזרא ביק"
+ },
+ {
+  "slug": "rav-4aa8ba78",
+  "title": "הרב עידו הבר · אוצר שיעורי הישיבות",
+  "n": 7,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-4aa8ba78.xml",
+  "kind": "rabbi",
+  "key": "הרב עידו הבר"
+ },
+ {
+  "slug": "rav-f8f27699",
+  "title": "הרב עמיחי גורדין · אוצר שיעורי הישיבות",
+  "n": 7,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-f8f27699.xml",
+  "kind": "rabbi",
+  "key": "הרב עמיחי גורדין"
+ },
+ {
+  "slug": "rav-933e1c8d",
+  "title": "הרב ערן טמיר · אוצר שיעורי הישיבות",
+  "n": 67,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-933e1c8d.xml",
+  "kind": "rabbi",
+  "key": "הרב ערן טמיר"
+ },
+ {
+  "slug": "rav-93ba3d6b",
+  "title": "הרב פרומר · אוצר שיעורי הישיבות",
+  "n": 44,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-93ba3d6b.xml",
+  "kind": "rabbi",
+  "key": "הרב פרומר"
+ },
+ {
+  "slug": "rav-59ce9011",
+  "title": "הרב צבי הבר · אוצר שיעורי הישיבות",
+  "n": 37,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-59ce9011.xml",
+  "kind": "rabbi",
+  "key": "הרב צבי הבר"
+ },
+ {
+  "slug": "rav-b98b948e",
+  "title": "הרב צבי קוסטינר · אוצר שיעורי הישיבות",
+  "n": 8,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-b98b948e.xml",
+  "kind": "rabbi",
+  "key": "הרב צבי קוסטינר"
+ },
+ {
+  "slug": "rav-37c9b6a9",
+  "title": "הרב צבי שמשוני · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-37c9b6a9.xml",
+  "kind": "rabbi",
+  "key": "הרב צבי שמשוני"
+ },
+ {
+  "slug": "rav-ed1d424d",
+  "title": "הרב צחי עטייה · אוצר שיעורי הישיבות",
+  "n": 21,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-ed1d424d.xml",
+  "kind": "rabbi",
+  "key": "הרב צחי עטייה"
+ },
+ {
+  "slug": "rav-8cfe1d48",
+  "title": "הרב ציון · אוצר שיעורי הישיבות",
+  "n": 21,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8cfe1d48.xml",
+  "kind": "rabbi",
+  "key": "הרב ציון"
+ },
+ {
+  "slug": "rav-d357fce1",
+  "title": "הרב ציון טוויל · אוצר שיעורי הישיבות",
+  "n": 146,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d357fce1.xml",
+  "kind": "rabbi",
+  "key": "הרב ציון טוויל"
+ },
+ {
+  "slug": "rav-2d6e5efe",
+  "title": "הרב צמח הלפרין · אוצר שיעורי הישיבות",
+  "n": 31,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-2d6e5efe.xml",
+  "kind": "rabbi",
+  "key": "הרב צמח הלפרין"
+ },
+ {
+  "slug": "rav-1162106e",
+  "title": "הרב רא\"ם הכהן · אוצר שיעורי הישיבות",
+  "n": 188,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1162106e.xml",
+  "kind": "rabbi",
+  "key": "הרב רא\"ם הכהן"
+ },
+ {
+  "slug": "rav-9a931a67",
+  "title": "הרב רן כלילי · אוצר שיעורי הישיבות",
+  "n": 162,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9a931a67.xml",
+  "kind": "rabbi",
+  "key": "הרב רן כלילי"
+ },
+ {
+  "slug": "rav-3839500d",
+  "title": "הרב שאול אלעזר · אוצר שיעורי הישיבות",
+  "n": 31,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-3839500d.xml",
+  "kind": "rabbi",
+  "key": "הרב שאול אלעזר"
+ },
+ {
+  "slug": "rav-96f9a535",
+  "title": "הרב שאול דוד · אוצר שיעורי הישיבות",
+  "n": 12,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-96f9a535.xml",
+  "kind": "rabbi",
+  "key": "הרב שאול דוד"
+ },
+ {
+  "slug": "rav-e973dcf3",
+  "title": "הרב שחר צבי · אוצר שיעורי הישיבות",
+  "n": 12,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e973dcf3.xml",
+  "kind": "rabbi",
+  "key": "הרב שחר צבי"
+ },
+ {
+  "slug": "rav-4983fb1c",
+  "title": "הרב שי גניזי · אוצר שיעורי הישיבות",
+  "n": 55,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-4983fb1c.xml",
+  "kind": "rabbi",
+  "key": "הרב שי גניזי"
+ },
+ {
+  "slug": "rav-33460300",
+  "title": "הרב שי סבג · אוצר שיעורי הישיבות",
+  "n": 58,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-33460300.xml",
+  "kind": "rabbi",
+  "key": "הרב שי סבג"
+ },
+ {
+  "slug": "rav-650b1802",
+  "title": "הרב שילה טובי · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-650b1802.xml",
+  "kind": "rabbi",
+  "key": "הרב שילה טובי"
+ },
+ {
+  "slug": "rav-08ae73e7",
+  "title": "הרב שילת · אוצר שיעורי הישיבות",
+  "n": 7,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-08ae73e7.xml",
+  "kind": "rabbi",
+  "key": "הרב שילת"
+ },
+ {
+  "slug": "rav-dd04bdac",
+  "title": "הרב שלומי בן יאיר · אוצר שיעורי הישיבות",
+  "n": 8,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-dd04bdac.xml",
+  "kind": "rabbi",
+  "key": "הרב שלומי בן יאיר"
+ },
+ {
+  "slug": "rav-989a2a6d",
+  "title": "הרב שלומי שפירא · אוצר שיעורי הישיבות",
+  "n": 282,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-989a2a6d.xml",
+  "kind": "rabbi",
+  "key": "הרב שלומי שפירא"
+ },
+ {
+  "slug": "rav-bc739ea9",
+  "title": "הרב שלמה ברין · אוצר שיעורי הישיבות",
+  "n": 17,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bc739ea9.xml",
+  "kind": "rabbi",
+  "key": "הרב שלמה ברין"
+ },
+ {
+  "slug": "rav-09b1f336",
+  "title": "הרב שמואל · אוצר שיעורי הישיבות",
+  "n": 53,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-09b1f336.xml",
+  "kind": "rabbi",
+  "key": "הרב שמואל"
+ },
+ {
+  "slug": "rav-45ed384e",
+  "title": "הרב שמואל אריאל · אוצר שיעורי הישיבות",
+  "n": 67,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-45ed384e.xml",
+  "kind": "rabbi",
+  "key": "הרב שמואל אריאל"
+ },
+ {
+  "slug": "rav-e57fbd52",
+  "title": "הרב שמואל גלייזר · אוצר שיעורי הישיבות",
+  "n": 170,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e57fbd52.xml",
+  "kind": "rabbi",
+  "key": "הרב שמואל גלייזר"
+ },
+ {
+  "slug": "rav-7194b2c8",
+  "title": "הרב שמעון ישראלי · אוצר שיעורי הישיבות",
+  "n": 6,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7194b2c8.xml",
+  "kind": "rabbi",
+  "key": "הרב שמעון ישראלי"
+ },
+ {
+  "slug": "rav-d74fbf17",
+  "title": "הרב שרון יוסט · אוצר שיעורי הישיבות",
+  "n": 5,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d74fbf17.xml",
+  "kind": "rabbi",
+  "key": "הרב שרון יוסט"
+ },
+ {
+  "slug": "rav-9a459c4f",
+  "title": "הרב תומר בוקובזה · אוצר שיעורי הישיבות",
+  "n": 20,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9a459c4f.xml",
+  "kind": "rabbi",
+  "key": "הרב תומר בוקובזה"
+ },
+ {
+  "slug": "rav-0e476885",
+  "title": "הרב תמיר · אוצר שיעורי הישיבות",
+  "n": 58,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0e476885.xml",
+  "kind": "rabbi",
+  "key": "הרב תמיר"
+ },
+ {
+  "slug": "rav-4cb2d46e",
+  "title": "הרב תמיר גרנות · אוצר שיעורי הישיבות",
+  "n": 174,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-4cb2d46e.xml",
+  "kind": "rabbi",
+  "key": "הרב תמיר גרנות"
+ },
+ {
+  "slug": "rav-b79707ed",
+  "title": "הרב תני בדנרש · אוצר שיעורי הישיבות",
+  "n": 9,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-b79707ed.xml",
+  "kind": "rabbi",
+  "key": "הרב תני בדנרש"
+ },
+ {
+  "slug": "rav-e7a00deb",
+  "title": "פרופ' יונתן גרוסמן · אוצר שיעורי הישיבות",
+  "n": 11,
+  "url": "https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e7a00deb.xml",
+  "kind": "rabbi",
+  "key": "פרופ' יונתן גרוסמן"
+ }
+]

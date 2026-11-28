@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב ספי אליאש · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8fb83762.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב ספי אליאש.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מלכים א' פרק י"ד | הנבואה על הכרתת בית ירבעם | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/130206999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F6b35ed5c-0225-cd2f-bec7-3b19020e1e70.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/130206999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F6b35ed5c-0225-cd2f-bec7-3b19020e1e70.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק י"ג | תוכחת איש הא-להים לירבעם | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/130206998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2Fa0858078-4e36-756b-8422-4ac42dbbf533.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/130206998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2Fa0858078-4e36-756b-8422-4ac42dbbf533.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק י"ב | פיצול הממלכה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/130179226/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F429a477b-beb0-7ce9-5d10-dc0ce476abc8.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/130179226/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F429a477b-beb0-7ce9-5d10-dc0ce476abc8.m4a</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק י"א | חטאי שלמה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/130180356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2Fdf620a8c-3658-3858-91bd-cc3e55636406.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/130180356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2Fdf620a8c-3658-3858-91bd-cc3e55636406.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק י' | מלכת שבא ועושר ממלכת שלמה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/130125063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F1045304f-009b-0445-effd-2f986b6b3a9c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/130125063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F1045304f-009b-0445-effd-2f986b6b3a9c.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק ט' | המשך מפעלי הבניה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/130125023/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2Fe426aa42-4bca-113c-fe7e-04650591b1e3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/130125023/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2Fe426aa42-4bca-113c-fe7e-04650591b1e3.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק ח' | חנוכת המקדש | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/130028800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F386305d7-7f93-1eea-3675-aaa9ff71a8f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/130028800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F386305d7-7f93-1eea-3675-aaa9ff71a8f1.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק ז' | בניית בית המלך ותיאור כלי המקדש | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129906059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2Ff7146a8d-e946-c54f-1c92-775984a2c381.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129906059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2Ff7146a8d-e946-c54f-1c92-775984a2c381.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק ו' | בניין בית המקדש | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129905882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F24024210-5ad4-e98f-24b7-f720dceff6d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129905882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F24024210-5ad4-e98f-24b7-f720dceff6d8.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק ה' | שגשוג ממלכת שלמה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129905874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F475c9902-428a-be7d-0efa-2452ecbde831.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129905874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F475c9902-428a-be7d-0efa-2452ecbde831.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק ד' | ארגונה של ממלכת שלמה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129901548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F4bd1b811-aec8-24d4-dcc9-1f7c6c3a63a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129901548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F4bd1b811-aec8-24d4-dcc9-1f7c6c3a63a4.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק ג' | חכמת שלמה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129795010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fa992d544-dc0c-70ff-c4a5-c94fae34aad7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129795010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fa992d544-dc0c-70ff-c4a5-c94fae34aad7.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק ב' | צוואת דוד וביסוס מלכות שלמה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129795011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fcee9166e-a234-063b-9e66-5c89580e0d69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129795011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fcee9166e-a234-063b-9e66-5c89580e0d69.mp3</guid>
+   <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכים א' פרק א' | המלכת שלמה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129752223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F689bd525-d64f-d5fa-8442-4a2895321421.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129752223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F689bd525-d64f-d5fa-8442-4a2895321421.mp3</guid>
+   <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק כ"ד | מהמפקד והמגיפה לגורן ארוונה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129752220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F68406f02-c23a-509b-84d0-96c27c921c27.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129752220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F68406f02-c23a-509b-84d0-96c27c921c27.mp3</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק כ"ג | דברי דוד האחרונים וגיבורי דוד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129752219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2Fd1fee713-a1f5-13cb-2cba-e92d9b9faa73.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129752219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2Fd1fee713-a1f5-13cb-2cba-e92d9b9faa73.mp3</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק כ"ב | שירת דוד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129752214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2Fb38dce2a-fb5d-7a18-6c82-696448a49fba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129752214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2Fb38dce2a-fb5d-7a18-6c82-696448a49fba.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק כ"א | הוקעת בני שאול ומלחמות גיבורי דוד בענקים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129625586/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F9f6ecb2a-c398-bcdf-9044-66bfa781eac9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129625586/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F9f6ecb2a-c398-bcdf-9044-66bfa781eac9.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק כ' | מרד שבע בן בכרי | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129625584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F18997c0c-ed5b-aac1-4552-bdf01c96ec28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129625584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F18997c0c-ed5b-aac1-4552-bdf01c96ec28.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק י"ט | השבת דוד למלכותו | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129625581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2Facb32e4a-b0e3-18d8-9d45-3a1f703d746b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129625581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2Facb32e4a-b0e3-18d8-9d45-3a1f703d746b.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק י"ח | מות אבשלום וכישלון המרד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129560108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F69090775-8b59-3c7d-9281-63cc583d83d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129560108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F69090775-8b59-3c7d-9281-63cc583d83d0.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק י"ז | הפרת עצת אחיתופל | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129560111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2Fca3e279d-7afd-5528-dc87-661b23ae6897.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129560111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2Fca3e279d-7afd-5528-dc87-661b23ae6897.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ט"ז | דוד בדרכו מירושלים ואבשלום בירושלים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129560118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F615d7d5a-bbac-fc6b-0350-303af1ca9a0a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129560118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F615d7d5a-bbac-fc6b-0350-303af1ca9a0a.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ט"ו | מרד אבשלום ועזיבת דוד את ירושלים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129471328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F38eef1bc-2c58-71d9-a940-8c13ecd82341.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129471328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F38eef1bc-2c58-71d9-a940-8c13ecd82341.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרד י"ד | משל האישה מתקוע | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129471302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Feee12694-483b-bdb2-feb1-f0eaf05dbec5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129471302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Feee12694-483b-bdb2-feb1-f0eaf05dbec5.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק י"ג | אמנון ותמר | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129364906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F85beaa75-219a-837e-b2f5-7f4c12a72471.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129364906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F85beaa75-219a-837e-b2f5-7f4c12a72471.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק י"ב | משל כבשת הרש וחזרת דוד בתשובה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129364903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F87b5ac17-d59c-62b6-b3d3-05f8b236484b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129364903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F87b5ac17-d59c-62b6-b3d3-05f8b236484b.mp3</guid>
+   <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק י"א | חטא דוד ובת שבע | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129364900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2Fab4f3142-3ff7-393a-67be-8e7f9ee1f6c5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129364900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2Fab4f3142-3ff7-393a-67be-8e7f9ee1f6c5.mp3</guid>
+   <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק י' | המלחמה בבני עמון ובארם | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129328613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F5c7224dc-2070-27ab-2848-974f830c0b3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129328613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F5c7224dc-2070-27ab-2848-974f830c0b3d.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ט' | החסד עם מפיבשת | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129328604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2Fc59c61c1-5760-a578-36b3-df9bc9c0fec8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129328604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2Fc59c61c1-5760-a578-36b3-df9bc9c0fec8.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ח' | כיבושי דוד וביסוס הממלכה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129249809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F18bed689-db11-c404-06e6-8105395f145b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129249809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F18bed689-db11-c404-06e6-8105395f145b.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ז' | בית ה' ובית דוד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129249803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2Fe7c8887a-a820-1ef3-6826-7c9b9b7d3aef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129249803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2Fe7c8887a-a820-1ef3-6826-7c9b9b7d3aef.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ו' | העלאת הארון לירושלים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129249799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F79031e66-8f52-c93a-f9c8-a24af29308cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129249799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F79031e66-8f52-c93a-f9c8-a24af29308cd.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ה' | איחוד הממלכה בירושלים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129192022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2Fb853d3ee-c199-6d8b-f26e-720e2a18b51c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129192022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2Fb853d3ee-c199-6d8b-f26e-720e2a18b51c.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ד' | ההתנקשות באיש בושת | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129192017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F3a4eaac3-c4f6-74b5-9b1f-ca3c52e36ec1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129192017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F3a4eaac3-c4f6-74b5-9b1f-ca3c52e36ec1.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ג' | מות אבנר | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129097316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F642691ad-2fc7-1d50-7381-fc41dd664848.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129097316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F642691ad-2fc7-1d50-7381-fc41dd664848.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פרק ב' | דוד מולך בחברון והמאבק והקרב בגבעון | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129097259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F67e9e487-1cd8-b807-2cf3-85a8014ebd90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129097259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F67e9e487-1cd8-b807-2cf3-85a8014ebd90.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל ב' פארק א' | הבשורה על מות שאול וקינת דוד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129097194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F077768fc-0994-6ef0-f3ef-fb62f5f3d68c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129097194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F077768fc-0994-6ef0-f3ef-fb62f5f3d68c.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ל' | דוד מציל את שבויי ציקלג | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/129095935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F436277000-44100-2-12daa3a529292.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/129095935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F436277000-44100-2-12daa3a529292.m4a</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"ט | שרי פלשתים לא סומכים על דוד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128918513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052677-44100-2-9a81a37d0dd24.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128918513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052677-44100-2-9a81a37d0dd24.m4a</guid>
+   <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"ח | שאול ובעלת האוב | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128918487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052930-44100-2-4e3775e4dcee1.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128918487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052930-44100-2-4e3775e4dcee1.m4a</guid>
+   <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"ז | דוד בארץ פלשתים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128918367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052496-44100-2-b573636109211.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128918367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052496-44100-2-b573636109211.m4a</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"ו | פעם שנייה שדוד נמנע מלהרוג את שאול | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128831019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435941810-44100-2-4aaf4b84f8c51.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128831019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435941810-44100-2-4aaf4b84f8c51.m4a</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"ה | "מנעך ה' מבוא בדמים" | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128831064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435941867-44100-2-35fdccae775fb.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128831064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435941867-44100-2-35fdccae775fb.m4a</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"ד | דוד ושאול במערה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128665014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F801f019c-7d3a-83b9-00b1-53454e65634a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128665014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F801f019c-7d3a-83b9-00b1-53454e65634a.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"ג | דוד שואל בה' | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128665003/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2Fe8d8c423-248a-2e1d-4418-e3d0d3e15cc7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128665003/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2Fe8d8c423-248a-2e1d-4418-e3d0d3e15cc7.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"ב | הריגת נב עיר הכהנים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128665010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2Fe92bd00f-fd26-0026-f64b-e65ba161fa4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128665010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2Fe92bd00f-fd26-0026-f64b-e65ba161fa4a.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ"א | דוד נמלט לנוב ולאכיש | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128604437/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F09cddbe6-4999-4899-e440-e5e6dc9ae22b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128604437/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F09cddbe6-4999-4899-e440-e5e6dc9ae22b.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק כ' | דוד נפרד מיהונתן | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128604432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F1976605b-3e59-8118-ceaa-bc5dd0290e2a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128604432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F1976605b-3e59-8118-ceaa-bc5dd0290e2a.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק י"ט | דוד בורח מבית שאול |הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128553449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fb5d8403e-b994-cee4-6ec6-42611b346340.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128553449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fb5d8403e-b994-cee4-6ec6-42611b346340.mp3</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק י"ח | קנאת שאול בדוד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128553448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fdf2277b2-36d6-89ee-e743-0e9c8e572b3f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128553448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fdf2277b2-36d6-89ee-e743-0e9c8e572b3f.mp3</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק י"ז | דוד וגלית | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128553136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fc74e5b18-5c22-238a-7486-20a2d0891878.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128553136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2Fc74e5b18-5c22-238a-7486-20a2d0891878.m4a</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ט"ז | משיחת דוד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128545210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435572472-44100-2-647ba90f28f68.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128545210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435572472-44100-2-647ba90f28f68.m4a</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ט"ו | מלחמת שאול בעמלק | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128545162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435572405-44100-2-9687a8df52607.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128545162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435572405-44100-2-9687a8df52607.m4a</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק י"ד | המלחמה בפלשתים והשבועה שלא לאכול | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128338027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F7c346f7e-c2c6-5582-08e1-f42fba0639c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128338027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F7c346f7e-c2c6-5582-08e1-f42fba0639c9.mp3</guid>
+   <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק י"ג | תחילת המרד בפלשתים והניסיון בגלגל | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128338025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F455e90f0-cb6e-7d58-9755-5a4b22059647.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128338025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F455e90f0-cb6e-7d58-9755-5a4b22059647.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק י"ב | המלכת שאול מחדש | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128338024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F2eb0b1b5-b405-489e-9ebb-3ad8232205dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128338024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F2eb0b1b5-b405-489e-9ebb-3ad8232205dd.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק י"א | הצלת יבש גלעד מנחש העמוני | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128338021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F677e5004-3546-9b4d-40fc-54ff40dfe985.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128338021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F677e5004-3546-9b4d-40fc-54ff40dfe985.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק י' | המלכת שאול | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128221634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Ff82a3ecd-fe81-6fd8-d72d-402afefaf23c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128221634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Ff82a3ecd-fe81-6fd8-d72d-402afefaf23c.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ט' | שאול מחפש אתונות ומוצא מלוכה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128221631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Fca2f6950-2ed0-4924-c336-e46841c8c0d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128221631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2Fca2f6950-2ed0-4924-c336-e46841c8c0d8.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ח' | בקשת המלוכה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128221629/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F788e2f82-1f93-77d1-8ce9-b021fee66d1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128221629/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F788e2f82-1f93-77d1-8ce9-b021fee66d1c.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ז' | שמואל מוביל לתיקון וניצחון על הפלשתים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128221623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F68c79068-1d02-f01c-af68-d7a7d8784301.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128221623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F68c79068-1d02-f01c-af68-d7a7d8784301.mp3</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ו' | החזרת הארון לישראל | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128050497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F74f94a6a-43ac-8fa6-42f3-ebe27a8aa0cf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128050497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F74f94a6a-43ac-8fa6-42f3-ebe27a8aa0cf.mp3</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ה' | ארון ה' מכה בפלשתים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/128050450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F25789c18-c479-9a02-3b72-513475ba1be5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/128050450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F25789c18-c479-9a02-3b72-513475ba1be5.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ד' | המלחמה באבן העזר ונפילת ארון הא-להים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127936187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F472542a9-6e2e-a970-8a51-d64c986ed430.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127936187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F472542a9-6e2e-a970-8a51-d64c986ed430.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ג' | תחילת נבואתו של שמואל | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127936183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F501a4a3a-0e6a-4aa7-673a-9bb98afe8450.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127936183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F501a4a3a-0e6a-4aa7-673a-9bb98afe8450.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק ב' | תפילת חנה וחטאי בני עלי | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127936180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2Fc7a89804-427f-0f67-6983-51adcbc9caa4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127936180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2Fc7a89804-427f-0f67-6983-51adcbc9caa4.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמואל א' פרק א' | נדר חנה והולדת שמואל | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127936178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2Fb23c5f77-b387-d85d-4758-bcef9ee07993.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127936178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2Fb23c5f77-b387-d85d-4758-bcef9ee07993.mp3</guid>
+   <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק כ"א | חתימת ספר שופטים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127839159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F4881bd88-90af-99a4-1e52-4c262dd90bd4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127839159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F4881bd88-90af-99a4-1e52-4c262dd90bd4.mp3</guid>
+   <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק כ' | המלחמה בבני בנימין | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127839147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F1fea5a54-9bd8-00a7-88ba-a61f6a82600c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127839147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F1fea5a54-9bd8-00a7-88ba-a61f6a82600c.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק י"ט | פילגש בגבעה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127773016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F0fdf77b0-e9d2-8f9d-3ce4-009ef3c0a7ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127773016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F0fdf77b0-e9d2-8f9d-3ce4-009ef3c0a7ec.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק י"ח | בני דן ופסל מיכה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127772999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F8f6c65cd-ecb7-4ad1-482f-b1519a9305f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127772999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F8f6c65cd-ecb7-4ad1-482f-b1519a9305f5.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק י"ז | חטיבת אין מלך בישראל | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127772996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F020c5587-d08a-501a-b2a2-cf3670f46e12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127772996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F020c5587-d08a-501a-b2a2-cf3670f46e12.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ט"ז | סופו של שמשון | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127708843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434483703-44100-2-486c98ec52c58.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127708843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434483703-44100-2-486c98ec52c58.m4a</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ט"ו | נקמות שמשון בפלשתים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127708797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434483630-44100-2-3703121994aee.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127708797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434483630-44100-2-3703121994aee.m4a</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק י"ד | שמשון והאישה מתמנה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127708671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434483470-44100-2-c06112238638e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127708671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434483470-44100-2-c06112238638e.m4a</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק י"ג | השעבוד הפלשתי והבשורה על הולדת שמשון | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127662354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2F05ed8cf5-1758-bb13-b6b0-30dc2836e52b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127662354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2F05ed8cf5-1758-bb13-b6b0-30dc2836e52b.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק י" ב | מלחמת האחים של יפתח בבני אפרים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127662352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2F2240749a-9f7a-7f71-e585-9b5d8ba55e12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127662352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2F2240749a-9f7a-7f71-e585-9b5d8ba55e12.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק י"א | השופט יפתח | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127662347/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Fbc723d20-30f2-0d14-bdac-24896dab714a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127662347/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Fbc723d20-30f2-0d14-bdac-24896dab714a.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק י' | ותקצר נפשו בעמל ישראל | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127662343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Fdb8c6b95-e291-80ff-5702-1e3a12f6fe12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127662343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Fdb8c6b95-e291-80ff-5702-1e3a12f6fe12.mp3</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ט' | מלוכת האטד | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127662338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2F475bcad7-9817-9ffa-80fb-2ad2bcc110b7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127662338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2F475bcad7-9817-9ffa-80fb-2ad2bcc110b7.mp3</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ח' | ה' ימשול בכם | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127530073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Ff86b5db4-ee0d-1bac-3a78-e10c731c2895.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127530073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2Ff86b5db4-ee0d-1bac-3a78-e10c731c2895.mp3</guid>
+   <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ז' | חרב לה' ולגדעון | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127530069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fbcf7fb5d-ef1a-35cb-d491-d9d237e861f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127530069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fbcf7fb5d-ef1a-35cb-d491-d9d237e861f0.mp3</guid>
+   <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ו' | מינוי גדעון לשופט | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127530068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F20687646-855d-8484-b5bd-14d38c8beb60.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127530068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F20687646-855d-8484-b5bd-14d38c8beb60.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ה' | שירת דבורה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127530064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fee47f725-2eec-f1d0-c5f9-93ee3ea4bdb2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127530064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Fee47f725-2eec-f1d0-c5f9-93ee3ea4bdb2.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ד' | המלחמה ביבין מלך כנען | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127530080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F1434b9be-0b8c-f3f4-ee05-49860d4b4bd6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127530080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F1434b9be-0b8c-f3f4-ee05-49860d4b4bd6.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ג' | סיפורי השופטים הראשונים | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127530058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F12c182f2-6ecc-92c0-cea0-d2526fc09b3c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127530058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F12c182f2-6ecc-92c0-cea0-d2526fc09b3c.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק ב' | פסקאות המבוא לספר | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127504989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F06951d41-6568-998b-2dfc-ebddca109020.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127504989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F06951d41-6568-998b-2dfc-ebddca109020.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים פרק א' | רשימת חוסר ההורשה | הרב ספי אליאש</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/11890f060/podcast/play/127504948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Ffb69613f-968c-9070-512e-f9c0f83d694d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/11890f060/podcast/play/127504948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2Ffb69613f-968c-9070-512e-f9c0f83d694d.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! דוד | שלושה מבטים דרך שלושה ספרים | הרב ספי אליאש | סוכות תשפ"ז</title>
+   <description>הרב ספי אליאש · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ספי אליאש</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560860-44100-2-9612db4bf7873.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560860-44100-2-9612db4bf7873.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

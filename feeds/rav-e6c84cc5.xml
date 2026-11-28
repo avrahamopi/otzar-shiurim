@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אודי שורץ · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e6c84cc5.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אודי שורץ.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>'לדרכו של החייל הדתי במלחמת הקוממיות' | הרב אודי שוורץ | יום השנה ה16 לפטירתו של הרב עמיטל</title>
+   <description>הרב אודי שורץ · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אודי שורץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/123798475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-5%2F429259003-44100-2-43bcfa5b4023d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/123798475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-5%2F429259003-44100-2-43bcfa5b4023d.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלת מרדכי | הרב אודי שורץ | מגילת אסתר | פורים תשפ"ו</title>
+   <description>הרב אודי שורץ · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אודי שורץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/116086948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878230-44100-2-612b447a4ff48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/116086948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878230-44100-2-612b447a4ff48.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#3 העמקה באופי ההבדלים בין שבת ליום טוב | הרב אודי שוורץ</title>
+   <description>הרב אודי שורץ · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אודי שורץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/99005554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-25%2F395510051-44100-2-8ba671427d9a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/99005554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-25%2F395510051-44100-2-8ba671427d9a1.mp3</guid>
+   <pubDate>Wed, 26 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא תבערו אש | הרב אודי שוורץ#2</title>
+   <description>הרב אודי שורץ · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אודי שורץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/98350000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-11%2F394692200-44100-2-d14cadc5be8d1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/98350000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-11%2F394692200-44100-2-d14cadc5be8d1.mp3</guid>
+   <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#1 קדושת השבת | הרב אודי שוורץ</title>
+   <description>הרב אודי שורץ · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אודי שורץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/98349931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-11%2F394692103-44100-2-b4749415ad178.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/98349931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-11%2F394692103-44100-2-b4749415ad178.mp3</guid>
+   <pubDate>Tue, 11 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

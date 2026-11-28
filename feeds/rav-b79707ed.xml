@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב תני בדנרש · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-b79707ed.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב תני בדנרש.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סימן קצ"ט | זימון נשים | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/130204412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F3ade4156-dfb1-c2a5-35da-0bdf3ce5d5d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/130204412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F3ade4156-dfb1-c2a5-35da-0bdf3ce5d5d0.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קצ"ב - קצ"ד | מבוא לדיני זימון | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · הלכה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/130106028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2Fdf0481d4-6938-234f-4888-d34672b664f7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/130106028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2Fdf0481d4-6938-234f-4888-d34672b664f7.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קפ"ח | הוספות בברכת המזון | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/130009736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437496397-44100-2-0f6e64084b859.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/130009736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437496397-44100-2-0f6e64084b859.m4a</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ג מסימן ח' - קפ"ד | כבוד הברכה וכמות האוכל עליה צריך לברך | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129754427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F6d1a64a6-10bb-40fd-0f66-164b349a9f4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129754427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F6d1a64a6-10bb-40fd-0f66-164b349a9f4d.mp3</guid>
+   <pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים ק"פ - קפ"א | מים אחרונים | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129752046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437145325-44100-2-5e9fa2df5e9eb.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129752046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437145325-44100-2-5e9fa2df5e9eb.m4a</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ח קע"ט | שינוי מקום באמצע הסעודה | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129732366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F046fbe61-a1f0-67a9-936a-d1c46572a9ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129732366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F046fbe61-a1f0-67a9-936a-d1c46572a9ad.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ו - קע"ז | ברכת המוציא | ברכת הסעודה | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129625246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436973880-44100-2-0508cbedd0923.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129625246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436973880-44100-2-0508cbedd0923.m4a</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קס"ט - ק"ע בסעיף י' | האם מותר לתת אוכל למי שלא יברך עליו? | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129364798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F436631742-44100-2-2093e1a3eca88.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129364798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F436631742-44100-2-2093e1a3eca88.m4a</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ז סעיפים יא' - כ' | ברכת "המוציא" עבור אנשים אחרים | הרב תני בדנרש</title>
+   <description>הרב תני בדנרש · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב תני בדנרש</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129250112/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436477599-44100-2-f3d995d85cc7b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129250112/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436477599-44100-2-f3d995d85cc7b.m4a</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

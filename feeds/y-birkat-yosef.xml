@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>ישיבת ברכת יוסף · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/y-birkat-yosef.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי ישיבת ברכת יוסף.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>איפה מדליקים</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7107.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7107.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדלקה בקערת שמן</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7106.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7106.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מספר הנרות</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · תנ"ך</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7105.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7105.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ריבוי סעודות בחנוכה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7104.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7104.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · הלכה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7103.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7103.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ד2+ה1- הטוב בדיעבד | למהלך האידאות בישראל | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7101.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7101.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5- סיפור ההסטוריה | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7100.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7100.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד תורה בשכר פרק 2</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7099.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7099.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו גיבור הכובש את יצרו</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7098.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7098.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ג3+ פסקה ד1- אהבת ה’ בישראל | למהלך האידאות בישראל | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7092.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7092.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4- ישראל אור לעמים | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7091.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7091.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רחל אמנו- גדולת הפאדיחה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7090.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7090.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · הלכה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7086.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7086.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם נידה יכולה להתפלל</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7085.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7085.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד תורה בשכר פרק 1</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7084.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7084.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעל קרי בתפילה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7083.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7083.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | פרק ו’ | פסקאות ו חלק 4 וז חלק א</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7082.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7082.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכת בונה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6418.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6418.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסיק רישא באיסור דרבנן</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6417.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6417.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני מקח טעות</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · הלכה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6523.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6523.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבוא למלאכת בונה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6399.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6399.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשיית פתח בכלים</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6433.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6433.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6806.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6806.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/5563.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/5563.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/4970.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/4970.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/4407.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/4407.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3875.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3875.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3737.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3737.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3523.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3523.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/2999.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/2999.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3905.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3905.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3891.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3891.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3844.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3844.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3857.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3857.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/5306.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/5306.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3477.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3477.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/1986.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/1986.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/1774.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/1774.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3717.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3717.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6355.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6355.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/3512.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/3512.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבית המדרש</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/5971.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/5971.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עין טובה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7077.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7077.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו גיבור הכובש את יצרו</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7079.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7079.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3- מוסלמי+ פנייה לחבר | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7081.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7081.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3- מוסלמי+ פנייה לחבר | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7080.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7080.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"תתן אמת ליעקב" - האמנם??</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7076.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7076.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד מקרא ותהלים בלילה</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · תנ"ך</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7071.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7071.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בית המרחץ</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · הלכה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7074.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7074.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | פרק ו’ | פסקה ו’</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7060.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7060.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדרך אל האושר</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7109.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7109.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>באיזה גובה מדליקים נרות</title>
+   <description>רבני הישיבה · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7108.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7108.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

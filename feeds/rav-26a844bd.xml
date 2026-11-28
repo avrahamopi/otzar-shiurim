@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב הבר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-26a844bd.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב הבר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מעמד האישה (ד) - בין חזון למציאות - שוויון, מיצוי עצמי ומבט לעתיד | 13</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e2d1b5f6-9063-420d-8603-39b25097a683/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e2d1b5f6-9063-420d-8603-39b25097a683/stream.mp3</guid>
+   <pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעמד האישה (ג) - בין חזון למציאות - במישור הציבורי | 12</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9e826bfc-8bae-4706-a350-6a8f7ec51f22/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9e826bfc-8bae-4706-a350-6a8f7ec51f22/stream.mp3</guid>
+   <pubDate>Tue, 21 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעמד האישה (ב) - בין חזון למציאות - המעמד האישי | 11</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/eeab6d4d-4c01-4ae1-97ce-d1afca2bddeb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/eeab6d4d-4c01-4ae1-97ce-d1afca2bddeb/stream.mp3</guid>
+   <pubDate>Tue, 21 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעמד האישה (א) - איש ואישה קודם החטא ולאחריו | 10</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9fd980a5-b327-4d50-9836-079ff1eb2e8f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9fd980a5-b327-4d50-9836-079ff1eb2e8f/stream.mp3</guid>
+   <pubDate>Tue, 21 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותן חלקנו בתורתך (5) - חשיבות הרצון החופשי בימינו</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/fe8d68ca-9df7-4cd3-9b21-c89d20696427/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/fe8d68ca-9df7-4cd3-9b21-c89d20696427/stream.mp3</guid>
+   <pubDate>Mon, 10 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותן חלקנו בתורתך (4) - תורה לאמיתה</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/18de19ef-045c-4e00-914a-4eea8bc7d679/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/18de19ef-045c-4e00-914a-4eea8bc7d679/stream.mp3</guid>
+   <pubDate>Sun, 09 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותן חלקנו בתורתך (3) - כתר תורה</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/94fc9e80-03bb-4e66-ae55-661f74f690fe/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/94fc9e80-03bb-4e66-ae55-661f74f690fe/stream.mp3</guid>
+   <pubDate>Sun, 09 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותן חלקנו בתורתך (2) - שני סוגי החכמות</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/feaa9c3d-78a0-4b9f-ad5c-c09132686b54/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/feaa9c3d-78a0-4b9f-ad5c-c09132686b54/stream.mp3</guid>
+   <pubDate>Sun, 09 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותן חלקנו בתורתך (1) - כוח הבחירה</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/31feed42-674e-4b30-a51d-bf92b09285e3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/31feed42-674e-4b30-a51d-bf92b09285e3/stream.mp3</guid>
+   <pubDate>Sun, 09 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונת חכמים ודעת תורה (4) - דעת תורה בימינו</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/54999c9a-b3a0-4707-ac77-a6becf891a22/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/54999c9a-b3a0-4707-ac77-a6becf891a22/stream.mp3</guid>
+   <pubDate>Sun, 02 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונת חכמים ודעת תורה (3) - דרכי הכרעה מתוך חתירה לאמת</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4b58f745-9ccb-4288-b1f0-49e01d9d66b5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4b58f745-9ccb-4288-b1f0-49e01d9d66b5/stream.mp3</guid>
+   <pubDate>Sun, 02 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונת חכמים ודעת תורה (2) - החתירה לאמת</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c6c1409e-bc62-475d-9fc6-7f1442913957/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c6c1409e-bc62-475d-9fc6-7f1442913957/stream.mp3</guid>
+   <pubDate>Sun, 02 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונת חכמים ודעת תורה (1) - מה בין נבואה לבין חכמה</title>
+   <description>הרב הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a931c80e-f6b1-4a3d-b6cf-399a871784e5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a931c80e-f6b1-4a3d-b6cf-399a871784e5/stream.mp3</guid>
+   <pubDate>Sun, 02 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

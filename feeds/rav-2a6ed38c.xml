@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אוריה דור · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-2a6ed38c.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אוריה דור.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>דלותי ולי יהושיע | הרב אוריה דור | פסח תשפ"ו</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681580-44100-2-9ab9860591ae7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681580-44100-2-9ab9860591ae7.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עולם שנה נפש | הרב אוריה דור | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112667896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426791-44100-2-760f38a016be7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112667896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426791-44100-2-760f38a016be7.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה ועצה לחיילים | ראש השנה | הרב אוריה דור</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/108813694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145052-44100-2-89557e338a884.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/108813694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F408145052-44100-2-89557e338a884.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת 'תורת חיים': הא לחמא עניא | הרב אוריה דור | פסח תשפ"ה</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100781151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748323-44100-2-4a80af2d4bf1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100781151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748323-44100-2-4a80af2d4bf1c.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה | הרב אוריה דור | מזמור שיר חנוכת הבית לדוד</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/96259815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-25%2F392095780-44100-2-0b4aae8622491.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/96259815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-25%2F392095780-44100-2-0b4aae8622491.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אוריה דור - אילו יהודי היה יודע</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95905544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-16%2F391649522-44100-2-cb74d09f23865.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95905544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-16%2F391649522-44100-2-cb74d09f23865.m4a</guid>
+   <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אוריה דור - קטנתי מכל החסדים - הדדיות בעבודת ה'</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95583192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-9%2F391248457-44100-2-6de9a6e1c99c8.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95583192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-9%2F391248457-44100-2-6de9a6e1c99c8.m4a</guid>
+   <pubDate>Mon, 09 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אוריה דור - "והיה ה' לי לא-להים"- מה יעקב מבקש?</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95249519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-2%2F390838470-44100-2-4e9bff830c0e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95249519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-2%2F390838470-44100-2-4e9bff830c0e.m4a</guid>
+   <pubDate>Mon, 02 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אוריה דור - "מה' יצא הדבר, לא נוכל..."</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94708968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-20%2Fdd981ff3-4fed-e5e9-af29-03e57c550fcc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94708968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-20%2Fdd981ff3-4fed-e5e9-af29-03e57c550fcc.mp3</guid>
+   <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"הנה נא ידעתי" - איך יופי מתגלה? | הרב אוריה דור</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94295643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2F1125e525-7d08-5201-5618-23327d2fecbf.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94295643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2F1125e525-7d08-5201-5618-23327d2fecbf.m4a</guid>
+   <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה כמעשה הלכתי | יום עיון עשרת ימי תשובה תשפ"ה | הרב אוריה דור</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92850952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387869720-44100-2-48bc46eff77bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92850952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387869720-44100-2-48bc46eff77bc.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מזמור לדוד | מזמור מ"ח | א-לוקים בארמנותיה נודע למשגב | הרב אוריה דור | שבועות תשפ"ג</title>
+   <description>הרב אוריה דור · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אוריה דור</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0f/cc/ea/8dac96442a85c53c093bb305a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0f/cc/ea/8dac96442a85c53c093bb305a4.mp3</guid>
+   <pubDate>Tue, 23 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

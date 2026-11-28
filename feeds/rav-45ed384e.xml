@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שמואל אריאל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-45ed384e.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שמואל אריאל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הלכות קריאת התורה חלק רביעי</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/129495864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436804972-44100-2-9cd731fec46708.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/129495864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436804972-44100-2-9cd731fec46708.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קריאת התורה חלק שלישי</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/128916076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052034-44100-2-5166ccd54083d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/128916076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436052034-44100-2-5166ccd54083d.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קריאת התורה חלק שני</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/128045676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434941185-44100-2-bbf3687c9066.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/128045676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434941185-44100-2-bbf3687c9066.mp3</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קריאת התורה</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/127563051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434291532-44100-2-663cae0ec38a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/127563051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434291532-44100-2-663cae0ec38a4.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות סוכה - חלק ג</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/125585353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431688448-44100-2-a0fdb2d1d2cd9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/125585353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431688448-44100-2-a0fdb2d1d2cd9.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות סוכה - חלק ב</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/125191950/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F431251830-44100-2-b362974fd9608.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/125191950/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F431251830-44100-2-b362974fd9608.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות סוכה א</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/124531952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-21%2F430267355-44100-2-aa7d2e38ce282.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/124531952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-21%2F430267355-44100-2-aa7d2e38ce282.mp3</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תשעת הימים - חלק שני</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/122953597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F428120693-44100-2-153a6c8cfa135.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/122953597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F428120693-44100-2-153a6c8cfa135.mp3</guid>
+   <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דור של גאולה, תפילות של גלות? | הרב שמואל אריאל וחיימי וויספר | מדברים על החורבן</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/122710687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F427792829-44100-2-24ff30bd3bae4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/122710687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F427792829-44100-2-24ff30bd3bae4.mp3</guid>
+   <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תשעת הימים</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/122331066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-3%2F427285911-44100-2-3504e471119c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/122331066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-3%2F427285911-44100-2-3504e471119c7.mp3</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בין המצרים</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/122075797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F426943552-44100-2-4d1cf44a4e19a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/122075797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F426943552-44100-2-4d1cf44a4e19a.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלב נכרים</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/121389965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-12%2F426023746-44100-2-3e8f28f9bb93.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/121389965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-12%2F426023746-44100-2-3e8f28f9bb93.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול נוכרים - המשך</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/121214027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-9%2F425788947-44100-2-e1086dd0c24b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/121214027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-9%2F425788947-44100-2-e1086dd0c24b2.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירוב תבשילין</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/120325427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-21%2F424604615-44100-2-e01a23fb06d4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/120325427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-21%2F424604615-44100-2-e01a23fb06d4d.mp3</guid>
+   <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול נוכרים</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/119405675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-3%2F423361738-44100-2-27f5495653e3c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/119405675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-3%2F423361738-44100-2-27f5495653e3c.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פת נוכרים</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/119038384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2F422865773-44100-2-dd699a033ab99.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/119038384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2F422865773-44100-2-dd699a033ab99.mp3</guid>
+   <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ליל הסדר | מרור, כורך</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/117219184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-20%2F420423724-44100-2-64eefd2336889.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/117219184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-20%2F420423724-44100-2-64eefd2336889.mp3</guid>
+   <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ליל הסדר | מגיד</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/116482350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-6%2F419414855-44100-2-b168e6ec201e7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/116482350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-6%2F419414855-44100-2-b168e6ec201e7.mp3</guid>
+   <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים: מתנות לאביונים ומשלוח מנות</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/116131773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2F418940047-44100-2-3f61625f9cb95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/116131773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2F418940047-44100-2-3f61625f9cb95.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים: זכר למחצית השקל, ומתנות לאביונים</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/115448608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-13%2F418031298-44100-2-9d709dc94c6fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/115448608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-13%2F418031298-44100-2-9d709dc94c6fa.mp3</guid>
+   <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חימום מאכלי השבת | חלק ו</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/113395933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-2%2F415358421-44100-2-441e83afed07e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/113395933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-2%2F415358421-44100-2-441e83afed07e.mp3</guid>
+   <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חימום מאכלי השבת | חלק ה</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/113126906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F415017347-44100-2-cf2cf392aeb2e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/113126906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F415017347-44100-2-cf2cf392aeb2e.mp3</guid>
+   <pubDate>Fri, 26 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות הדלקת נרות חנוכה באירוח | חלק ב</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/112537073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-12%2F414265051-44100-2-579d1e6dd351c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/112537073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-12%2F414265051-44100-2-579d1e6dd351c.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות הדלקת נרות חנוכה באירוח | חלק א</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/112179187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-5%2F413802538-44100-2-d1385389f961.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/112179187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-5%2F413802538-44100-2-d1385389f961.mp3</guid>
+   <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חימום מאכלי השבת | חלק ד</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/111499173/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F67bb140e-8ef3-9db0-8901-82ffff1ae91b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/111499173/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F67bb140e-8ef3-9db0-8901-82ffff1ae91b.mp3</guid>
+   <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חימום מאכלי השבת | חלק ג</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/111168213/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-14%2F5c906441-7c90-5913-180a-0044e1cb7d4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/111168213/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-14%2F5c906441-7c90-5913-180a-0044e1cb7d4d.mp3</guid>
+   <pubDate>Fri, 14 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חימום מאכלי השבת | חלק ב</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/110482103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-31%2Fbf7ca6d0-20de-a15f-2f79-60c2a23e3793.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/110482103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-31%2Fbf7ca6d0-20de-a15f-2f79-60c2a23e3793.mp3</guid>
+   <pubDate>Fri, 31 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חימום מאכלי השבת | חלק א</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/110143323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-24%2Ff7e4ab17-ef7d-52a6-a79f-f456a0040b63.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/110143323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-24%2Ff7e4ab17-ef7d-52a6-a79f-f456a0040b63.mp3</guid>
+   <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום הכיפורים חלק ב</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/108838390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-26%2Ff9a246d5-cda9-8829-e8f8-418f2bc0438b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/108838390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-26%2Ff9a246d5-cda9-8829-e8f8-418f2bc0438b.mp3</guid>
+   <pubDate>Fri, 26 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום הכיפורים חלק א</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/108524346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2Fc28b0a1a-5596-8e4e-ff7d-1fc037a91fa5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/108524346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2Fc28b0a1a-5596-8e4e-ff7d-1fc037a91fa5.mp3</guid>
+   <pubDate>Fri, 19 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה ב'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/107882666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F6a8f9bda-e442-b2b8-6286-a1e9f2e5948d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/107882666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F6a8f9bda-e442-b2b8-6286-a1e9f2e5948d.mp3</guid>
+   <pubDate>Fri, 05 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'הלכות ראש השנה א</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/107515624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-29%2Fc2d27466-6859-ed25-246e-e57d4c22eac8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/107515624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-29%2Fc2d27466-6859-ed25-246e-e57d4c22eac8.mp3</guid>
+   <pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשעה באב שחל במוצאי שבת</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/106301979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2Fe15acff4-2cd7-0d68-661b-d420829af8fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/106301979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2Fe15acff4-2cd7-0d68-661b-d420829af8fd.mp3</guid>
+   <pubDate>Fri, 01 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומות ומעשרות ה'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/105970020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-25%2Fc7f35248-ea13-4a5f-bafb-149017880b9f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/105970020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-25%2Fc7f35248-ea13-4a5f-bafb-149017880b9f.mp3</guid>
+   <pubDate>Fri, 25 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומות ומעשרות ד'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/105354898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-11%2Fa85a4ec4-8f4c-58bc-1599-9e52e24cc247.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/105354898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-11%2Fa85a4ec4-8f4c-58bc-1599-9e52e24cc247.mp3</guid>
+   <pubDate>Fri, 11 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומות ומעשרות ג'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/105023186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-4%2F0e29be8d-d568-25c6-6466-662a2bfdc014.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/105023186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-4%2F0e29be8d-d568-25c6-6466-662a2bfdc014.mp3</guid>
+   <pubDate>Fri, 04 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומות ומעשרות ב'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/104475022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-22%2Fe7a0c23c-9c29-6b64-6c80-5514935908b7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/104475022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-22%2Fe7a0c23c-9c29-6b64-6c80-5514935908b7.mp3</guid>
+   <pubDate>Sun, 22 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומות ומעשרות א'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/104474820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-22%2Fcd830d5e-8334-0f99-ec87-faa83f322879.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/104474820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-22%2Fcd830d5e-8334-0f99-ec87-faa83f322879.mp3</guid>
+   <pubDate>Sun, 22 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קידוש ח'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/103417527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-30%2F718addbb-427d-d2d1-66b3-60444b94854f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/103417527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-30%2F718addbb-427d-d2d1-66b3-60444b94854f.mp3</guid>
+   <pubDate>Fri, 30 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קידוש ז'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/103089028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-23%2F676e968c-8362-1d77-7cf0-648db158d00a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/103089028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-23%2F676e968c-8362-1d77-7cf0-648db158d00a.mp3</guid>
+   <pubDate>Fri, 23 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'הלכות קידוש ו</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/102508916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-11%2F325fa350-52bb-d11e-0a52-af70f981f7ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/102508916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-11%2F325fa350-52bb-d11e-0a52-af70f981f7ee.mp3</guid>
+   <pubDate>Sun, 11 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'הלכות קידוש ה</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/102075135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-2%2F66440ffe-98d9-9165-e2da-32e6d4a75842.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/102075135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-2%2F66440ffe-98d9-9165-e2da-32e6d4a75842.mp3</guid>
+   <pubDate>Fri, 02 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב פסח שחל בשבת</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/100569769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-30%2F97d6841a-0ba7-7a57-c11a-d72021120242.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/100569769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-30%2F97d6841a-0ba7-7a57-c11a-d72021120242.mp3</guid>
+   <pubDate>Sun, 30 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים שחל בשישי ובשבת</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/99503420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2F127307ed-f99c-07c2-221d-58f4bae3ac4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/99503420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2F127307ed-f99c-07c2-221d-58f4bae3ac4d.mp3</guid>
+   <pubDate>Fri, 07 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המן ומניעי האנטישמיות – הרב שמואל אריאל</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/101f134c8/podcast/play/99315727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-3%2F395895722-44100-2-989472e0f19ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/101f134c8/podcast/play/99315727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-3%2F395895722-44100-2-989472e0f19ec.mp3</guid>
+   <pubDate>Mon, 03 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קידוש ד'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/98814895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-21%2F3a8cbbbf-5d80-27f5-6c8b-7786d1ab435b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/98814895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-21%2F3a8cbbbf-5d80-27f5-6c8b-7786d1ab435b.mp3</guid>
+   <pubDate>Fri, 21 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קידוש ג'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/97498031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-24%2F23e32134-f3ab-6564-f4a3-09e96a1bfcce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/97498031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-24%2F23e32134-f3ab-6564-f4a3-09e96a1bfcce.mp3</guid>
+   <pubDate>Fri, 24 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קידוש ב'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/96854416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-10%2Ff439dd07-a030-3d2f-53c2-b8e0025306ba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/96854416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-10%2Ff439dd07-a030-3d2f-53c2-b8e0025306ba.mp3</guid>
+   <pubDate>Fri, 10 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קידוש א'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/96548004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-3%2F5e9151a3-da34-899b-fedb-5735223d0449.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/96548004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-3%2F5e9151a3-da34-899b-fedb-5735223d0449.mp3</guid>
+   <pubDate>Fri, 03 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נר רביעי: והדליקו נרות בחצרות קדשך – הרב שמואל אריאל</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fef5e3cc/podcast/play/96228302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-24%2F392057195-44100-2-ddd751893d6c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fef5e3cc/podcast/play/96228302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-24%2F392057195-44100-2-ddd751893d6c6.mp3</guid>
+   <pubDate>Sat, 28 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה - מנהגי הדלקת נרות לאשכנזים וספרדים ב'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/96077211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-20%2F91111106-8744-2189-596e-5b7aa1ba2618.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/96077211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-20%2F91111106-8744-2189-596e-5b7aa1ba2618.mp3</guid>
+   <pubDate>Fri, 20 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה – ענייני חנוכה, מנהגי הדלקת נרות לאשכנזים וספרדים א'</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/95845647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-15%2F1a7a02da-227e-faf1-270b-e440540be31d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/95845647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-15%2F1a7a02da-227e-faf1-270b-e440540be31d.mp3</guid>
+   <pubDate>Sun, 15 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טעויות בתפילה</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/94801343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F8781596a-b4a5-9eff-21f4-945238ae91c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/94801343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F8781596a-b4a5-9eff-21f4-945238ae91c4.mp3</guid>
+   <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלת והזכרת גשמים - ב</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/94137199/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2F70d69376-8ddc-f950-851d-662a94b1b90b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/94137199/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-8%2F70d69376-8ddc-f950-851d-662a94b1b90b.mp3</guid>
+   <pubDate>Fri, 08 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאילת והזכרת גשמים 1</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/93829014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-1%2F8dcf5039-6557-8f03-1aa7-9447aab11d61.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/93829014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-1%2F8dcf5039-6557-8f03-1aa7-9447aab11d61.mp3</guid>
+   <pubDate>Fri, 01 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות סוכה ד' – דיני ישיבה בסוכה (מתוך יום עיון לקראת סוכות תשפ"ה)</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/93125547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-16%2Fc8030385-3748-1ca2-bd56-d20434c988f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/93125547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-16%2Fc8030385-3748-1ca2-bd56-d20434c988f6.mp3</guid>
+   <pubDate>Wed, 16 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>6180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות סוכה ג – דיני הסכך, פרגולות</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb9137b8/podcast/play/92265388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-27%2Ff686b136-fea6-467e-f98f-f1702a98e28a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb9137b8/podcast/play/92265388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-27%2Ff686b136-fea6-467e-f98f-f1702a98e28a.mp3</guid>
+   <pubDate>Fri, 27 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שמואל אריאל – יום ירושלים: הארה רוחנית בתוך מציאות היסטורית</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/42/35/e399d148f08bf3797767a26821.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/42/35/e399d148f08bf3797767a26821.mp3</guid>
+   <pubDate>Tue, 04 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלחמת אין ברירה - הרב שמואל אריאל</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/d3/c0/1839eb454a9dbee871aee07add.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/d3/c0/1839eb454a9dbee871aee07add.mp3</guid>
+   <pubDate>Mon, 11 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שמואל אריאל: ירידה צורך עליה היא | נהפוך הוא</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1c/bf/3e/94378348c99604893e1dcaa5f8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1c/bf/3e/94378348c99604893e1dcaa5f8.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח מצה ומרור - הרב שמואל אריאל</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f7/4a/f0/c0cb1c4569a72ea8f16e6efe9e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f7/4a/f0/c0cb1c4569a72ea8f16e6efe9e.mp3</guid>
+   <pubDate>Fri, 08 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושת שביעית: במה היא נוהגת וכיצד מקיימים אותה? - הרב שמואל אריאל</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ac/1c/95/75a386480db1b8aa7698699d23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ac/1c/95/75a386480db1b8aa7698699d23.mp3</guid>
+   <pubDate>Wed, 29 Dec 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 3: לימוד עיון מול לימוד הלכה | הרב שמואל אריאל והרב עידו הבר</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/90/57/4a/944ba0451ba09c01303ad7f73e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/90/57/4a/944ba0451ba09c01303ad7f73e.mp3</guid>
+   <pubDate>Sun, 26 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שמואל אריאל - ארמי אובד אבי</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/bd/b9/977b544b46b7e213f8f2890be8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/bd/b9/977b544b46b7e213f8f2890be8.mp3</guid>
+   <pubDate>Sun, 14 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עמלק והבחירה - הרב שמואל אריאל</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/bb/e5/729ec74e8dbc6bf4d03d41fd19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/bb/e5/729ec74e8dbc6bf4d03d41fd19.mp3</guid>
+   <pubDate>Wed, 24 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שמואל אריאל - אור מהרחובות</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1a/b9/60/316a5d456aa7bfde42dc761f71.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1a/b9/60/316a5d456aa7bfde42dc761f71.mp3</guid>
+   <pubDate>Thu, 10 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שמואל אריאל - במשנה ובתלמוד</title>
+   <description>הרב שמואל אריאל · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שמואל אריאל</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/73/b5/b96c9543339fddaafc98e9f6a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/73/b5/b96c9543339fddaafc98e9f6a2.mp3</guid>
+   <pubDate>Thu, 03 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

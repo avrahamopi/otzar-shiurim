@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אליקים שריר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-b5c050a9.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אליקים שריר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>נר שלישי: ועל הגבורות – הרב אליקים שריר</title>
+   <description>הרב אליקים שריר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליקים שריר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fef5e3cc/podcast/play/96178624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-23%2F391994792-44100-2-b2ede1c8fd49d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fef5e3cc/podcast/play/96178624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-23%2F391994792-44100-2-b2ede1c8fd49d.mp3</guid>
+   <pubDate>Fri, 27 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קבע ועראי במלחמה – הרב אליקים שריר והרב גילעד מינץ</title>
+   <description>הרב אליקים שריר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליקים שריר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc62dae8/podcast/play/93122134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-16%2F388199227-44100-2-f11bd65064f37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc62dae8/podcast/play/93122134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-16%2F388199227-44100-2-f11bd65064f37.mp3</guid>
+   <pubDate>Wed, 16 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כלים שבורים – הרב אליקים שריר</title>
+   <description>הרב אליקים שריר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליקים שריר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb6ae4c8/podcast/play/92100030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-23%2Fc5e1972a-5323-fc45-c2c8-6f3b4c37d715.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb6ae4c8/podcast/play/92100030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-23%2Fc5e1972a-5323-fc45-c2c8-6f3b4c37d715.mp3</guid>
+   <pubDate>Sat, 28 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אליקים שריר: בין יציבות למהפכנות | נהפוך הוא</title>
+   <description>הרב אליקים שריר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליקים שריר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/5b/d8/bc591a4cde99d2b03bfc254d5d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/5b/d8/bc591a4cde99d2b03bfc254d5d.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שתי פתיחות להגדה - הרב אליקים שריר</title>
+   <description>הרב אליקים שריר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליקים שריר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7e/31/af/72c16543548638ff0d9ff3ddd7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7e/31/af/72c16543548638ff0d9ff3ddd7.mp3</guid>
+   <pubDate>Fri, 08 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המן - הרב אליקים שריר</title>
+   <description>הרב אליקים שריר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליקים שריר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cd/27/62/c2c0ba4114879c583a3f818cc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cd/27/62/c2c0ba4114879c583a3f818cc3.mp3</guid>
+   <pubDate>Wed, 24 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אליקים שריר - ההארה שלי</title>
+   <description>הרב אליקים שריר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליקים שריר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a5/41/2d/6c592a4241818a0f1d15b51e67.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a5/41/2d/6c592a4241818a0f1d15b51e67.mp3</guid>
+   <pubDate>Thu, 10 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אליקים שריר - אוהב את הבריות</title>
+   <description>הרב אליקים שריר · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליקים שריר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/99/a8/85/a3635c47a0bf1ce510cb236cd5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/99/a8/85/a3635c47a0bf1ce510cb236cd5.mp3</guid>
+   <pubDate>Thu, 26 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

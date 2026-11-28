@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב הראל אלעדי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7c49eeda.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב הראל אלעדי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרשת מקץ | חנוכה | הקשר בין חנוכה לעיניים | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=3YPxORS9Vb0</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3YPxORS9Vb0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3YPxORS9Vb0.mp3</guid>
+   <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב | משמעות המילה צדיק | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=wnAOCShU28s</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/wnAOCShU28s.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/wnAOCShU28s.mp3</guid>
+   <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח | הרעיון החינוכי של עין הרע | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=raTXbvn8nMY</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/raTXbvn8nMY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/raTXbvn8nMY.mp3</guid>
+   <pubDate>Tue, 10 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא | הרב הראל אלעדי | מעלת הכרת הטוב</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=vwEAlwbWTMw</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vwEAlwbWTMw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vwEAlwbWTMw.mp3</guid>
+   <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות | אמת ושקר ברוח התורה| הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=jIaU8qz4z1Y</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/jIaU8qz4z1Y.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/jIaU8qz4z1Y.mp3</guid>
+   <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה | שליחות דרך הפרשה | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=mohrayRo9us</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mohrayRo9us.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mohrayRo9us.mp3</guid>
+   <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וירא | הרב הראל אלעדי | מדוע סדום נענשה בגופרית ומלח?</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=fIfasjv5t7g</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/fIfasjv5t7g.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/fIfasjv5t7g.mp3</guid>
+   <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת האזינו | שיחת הכנה לראש השנה | עקדת יצחק | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=0q_QPdknuXY</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0q_QPdknuXY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0q_QPdknuXY.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ניצבים וילך | קלותה של תשובה | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=W3vQGV7O6vA</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/W3vQGV7O6vA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/W3vQGV7O6vA.mp3</guid>
+   <pubDate>Mon, 23 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תבוא | ג עצות לראש השנה | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=PnShWyqT1f4</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/PnShWyqT1f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/PnShWyqT1f4.mp3</guid>
+   <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תצא | 3 דרכים בתשובה דרך אלישע בן אבויה ורבי מאיר | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=dKf1B5dd6H8</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/dKf1B5dd6H8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/dKf1B5dd6H8.mp3</guid>
+   <pubDate>Wed, 11 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ואתחנן | על לבבך – שלא יבא לבך חלוק על המקום | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=z06dUHBIYPM</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/z06dUHBIYPM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/z06dUHBIYPM.mp3</guid>
+   <pubDate>Mon, 12 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשות מטות מסעי | גנות הכעס | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=MugHvYuOFx8</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/MugHvYuOFx8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/MugHvYuOFx8.mp3</guid>
+   <pubDate>Mon, 29 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פינחס | הדמיון שבין פינחס לאליהו | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=cIqUKgjH3fg</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cIqUKgjH3fg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cIqUKgjH3fg.mp3</guid>
+   <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בלק | האם אפשר לנצח את שנאת ישראל? | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=N7-wlk4rUVs</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/N7-wlk4rUVs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/N7-wlk4rUVs.mp3</guid>
+   <pubDate>Tue, 16 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת קרח | מחלוקת לא לשם שמים| הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=rxPb7h8BZIU</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/rxPb7h8BZIU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/rxPb7h8BZIU.mp3</guid>
+   <pubDate>Mon, 01 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שלח | וימאסו בארץ חמדה | הרב הראל אלעדי</title>
+   <description>הרב הראל אלעדי · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=JZvdtbsBO0M</description>
+   <itunes:author>הרב הראל אלעדי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/JZvdtbsBO0M.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/JZvdtbsBO0M.mp3</guid>
+   <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

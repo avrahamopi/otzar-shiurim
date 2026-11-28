@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שילת · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-08ae73e7.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שילת.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>תשובה משמחה (יג, ט ויד, יא, טו-טז) | 8</title>
+   <description>הרב שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9bbcdb2f-9234-4e2b-8a07-39a29c35721e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9bbcdb2f-9234-4e2b-8a07-39a29c35721e/stream.mp3</guid>
+   <pubDate>Mon, 07 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרע שבטוב (יב, ה) | 7</title>
+   <description>הרב שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/78347a4e-ce80-4192-a579-dc0a6353e10e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/78347a4e-ce80-4192-a579-dc0a6353e10e/stream.mp3</guid>
+   <pubDate>Mon, 07 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זדונות נעשים כזכויות | 6</title>
+   <description>הרב שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/090da257-957a-47aa-9250-aa0ba0c69023/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/090da257-957a-47aa-9250-aa0ba0c69023/stream.mp3</guid>
+   <pubDate>Wed, 02 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ריפוי התשובה (ה, א-ה) | 5</title>
+   <description>הרב שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7ad67eb9-5681-46bd-965f-4f589e72d5f4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7ad67eb9-5681-46bd-965f-4f589e72d5f4/stream.mp3</guid>
+   <pubDate>Wed, 25 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד תורה כחלק מהתשובה (ו, א-ג) | 4</title>
+   <description>הרב שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fd3d61cd-854f-44c3-b227-bdea43af2d57/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fd3d61cd-854f-44c3-b227-bdea43af2d57/stream.mp3</guid>
+   <pubDate>Sat, 21 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה הכללית ותשובה ההדרגית (ב - ג) | 3</title>
+   <description>הרב שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d0521f57-30d4-4ca8-84b7-be58e02777e8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d0521f57-30d4-4ca8-84b7-be58e02777e8/stream.mp3</guid>
+   <pubDate>Sat, 21 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מערכות התשובה (א) | 2</title>
+   <description>הרב שילת · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c2aed263-414e-4c7e-87ec-80f76f1875ba/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c2aed263-414e-4c7e-87ec-80f76f1875ba/stream.mp3</guid>
+   <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

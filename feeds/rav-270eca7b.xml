@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב נועם אוסטר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-270eca7b.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב נועם אוסטר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>המלחמה האמיתית של ימינו - הרב נועם אוסטר ור' איתמר דויטש</title>
+   <description>הרב נועם אוסטר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב נועם אוסטר</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/114518794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-25%2F416787802-44100-2-5f13ca04c5607.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/114518794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-25%2F416787802-44100-2-5f13ca04c5607.mp3</guid>
+   <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה אתה עצבני</title>
+   <description>הרב נועם אוסטר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב נועם אוסטר</itunes:author>
+   <enclosure url="https://anchor.fm/s/effcb47c/podcast/play/81172670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-12%2F363157571-44100-2-b0055e589ee67.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effcb47c/podcast/play/81172670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-12%2F363157571-44100-2-b0055e589ee67.m4a</guid>
+   <pubDate>Fri, 12 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>?על מי אתה עובד</title>
+   <description>הרב נועם אוסטר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב נועם אוסטר</itunes:author>
+   <enclosure url="https://anchor.fm/s/effcb47c/podcast/play/80772510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F7b86e0be-a99c-1243-239d-f2b5ad19476c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effcb47c/podcast/play/80772510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F7b86e0be-a99c-1243-239d-f2b5ad19476c.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוח הרצון חלק ג - אם תרצו אין זו אגדה</title>
+   <description>הרב נועם אוסטר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב נועם אוסטר</itunes:author>
+   <enclosure url="https://anchor.fm/s/effcb47c/podcast/play/80719123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2Fd6e1ca12-91d0-ee46-466c-9e00d2c8b6ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effcb47c/podcast/play/80719123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2Fd6e1ca12-91d0-ee46-466c-9e00d2c8b6ad.mp3</guid>
+   <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>?כוח הרצון חלק ב - איך עושים ניסים</title>
+   <description>הרב נועם אוסטר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב נועם אוסטר</itunes:author>
+   <enclosure url="https://anchor.fm/s/effcb47c/podcast/play/80719088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2F11a9e5af-1333-0ad9-83bf-d0e34a69e4cc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effcb47c/podcast/play/80719088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2F11a9e5af-1333-0ad9-83bf-d0e34a69e4cc.mp3</guid>
+   <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוח הרצון - חלק א - פלא ושמו רצון</title>
+   <description>הרב נועם אוסטר · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב נועם אוסטר</itunes:author>
+   <enclosure url="https://anchor.fm/s/effcb47c/podcast/play/80719044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2Ff8bd0f63-1b86-341d-0a65-385aeb1ccec0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effcb47c/podcast/play/80719044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2Ff8bd0f63-1b86-341d-0a65-385aeb1ccec0.mp3</guid>
+   <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

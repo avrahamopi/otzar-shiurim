@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב גילעד מינץ · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c2abfee2.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב גילעד מינץ.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>להצטרף לאבלו של הקב"ה | הרב גילעד מינץ ויהונתן לואיס | מדברים על החורבן</title>
+   <description>הרב גילעד מינץ · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב גילעד מינץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/123019986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428209811-44100-2-c05b14d8deee7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/123019986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428209811-44100-2-c05b14d8deee7.mp3</guid>
+   <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גילעד מינץ - ערב ראש השנה: יום ה-תשובה | באור פניך יהלכון - פודקאסט לחגי תשרי</title>
+   <description>הרב גילעד מינץ · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב גילעד מינץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/10974edd4/podcast/play/108609709/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F407880702-44100-2-e56d39d321e64.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10974edd4/podcast/play/108609709/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F407880702-44100-2-e56d39d321e64.mp3</guid>
+   <pubDate>Sun, 21 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נר שמיני: דנת את דינם – הרב גילעד מינץ</title>
+   <description>הרב גילעד מינץ · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב גילעד מינץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/fef5e3cc/podcast/play/96228705/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-24%2F392057820-44100-2-8f9abac1fd643.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fef5e3cc/podcast/play/96228705/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-24%2F392057820-44100-2-8f9abac1fd643.mp3</guid>
+   <pubDate>Wed, 01 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גילעד מינץ – פסח שני: כנות הברית עם הקב"ה ועם עם ישראל</title>
+   <description>הרב גילעד מינץ · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב גילעד מינץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/99/a6/7f/51ed8346f1bfe3c32a520561cb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/99/a6/7f/51ed8346f1bfe3c32a520561cb.mp3</guid>
+   <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גילעד מינץ: תענית של שמחה | נהפוך הוא</title>
+   <description>הרב גילעד מינץ · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב גילעד מינץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/e3/f7/2409d9427da3d9b2ca3dec621e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/e3/f7/2409d9427da3d9b2ca3dec621e.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התעוררות מלמטה ומלמעה - הרב גילעד מינץ</title>
+   <description>הרב גילעד מינץ · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב גילעד מינץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/02/3a/b3/780c4246808585085723cd76bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/02/3a/b3/780c4246808585085723cd76bd.mp3</guid>
+   <pubDate>Thu, 22 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

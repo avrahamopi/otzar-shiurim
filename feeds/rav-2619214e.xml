@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אליהו בלומנצוויג · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-2619214e.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אליהו בלומנצוויג.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>האדם בשבועה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/130155982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437695265-44100-2-2873ffbfa140a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/130155982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F437695265-44100-2-2873ffbfa140a.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועת שווא | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/129749139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437142979-44100-2-debb3da6c68b68.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/129749139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437142979-44100-2-debb3da6c68b68.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להרע או להיטיב ב' | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/129319855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436573742-44100-2-b64da70f8a009.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/129319855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436573742-44100-2-b64da70f8a009.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להרע או להיטיב | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/128878323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F436005307-44100-2-68df7b3cd6f228.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/128878323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F436005307-44100-2-68df7b3cd6f228.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזכרת שם בשבועה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/127888608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434733729-44100-2-a9d122314f669.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/127888608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434733729-44100-2-a9d122314f669.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה למסכת שבועות | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/127333590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F433979811-44100-2-0c4006feb1dd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/127333590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F433979811-44100-2-0c4006feb1dd2.mp3</guid>
+   <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מַתְנֶה ע"מ שכתוב בתורה - בממון | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/116080852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878462-44100-2-de0682a96e52b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/116080852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-26%2F418878462-44100-2-de0682a96e52b.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מַתְנֶה על מה שכתוב בתורה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/115731217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418408270-44100-2-4f31840c3912e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/115731217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418408270-44100-2-4f31840c3912e.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כפיית גט באמצעים אחרים | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/115402208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-12%2F417969434-44100-2-97b3e9d909d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/115402208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-12%2F417969434-44100-2-97b3e9d909d2.mp3</guid>
+   <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כפיית גט ע”י ממון וקנסות | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/115066283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-5%2F417520525-44100-2-8e81ae169d5c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/115066283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-5%2F417520525-44100-2-8e81ae169d5c.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גט מעושה (המשך) - שיטת הרמב"ם | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/114385000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-22%2F416617430-44100-2-364a8b563804b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/114385000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-22%2F416617430-44100-2-364a8b563804b.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גט מעושה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/114035173/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-15%2F416170121-44100-2-b2f1427b10cd8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/114035173/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-15%2F416170121-44100-2-b2f1427b10cd8.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השלמה לדין 'מאיס' ופתיחה לגט מעושה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · הלכה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/113684282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F415723444-44100-2-11e9219a85332.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/113684282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F415723444-44100-2-11e9219a85332.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טענת "מאיס עלי" | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/113362358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-1%2F415315513-44100-2-7cd737ab8282d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/113362358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-1%2F415315513-44100-2-7cd737ab8282d.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מורדת: בקשת גירושין מצד האישה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/113105350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414990361-44100-2-c7e33bb43ddb7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/113105350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414990361-44100-2-c7e33bb43ddb7.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עדות ידיעה ללא ראייה בגירושין וקידושין | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/112480240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-11%2F414192791-44100-2-d6f38657e7705.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/112480240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-11%2F414192791-44100-2-d6f38657e7705.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עדות ידיעה ללא ראייה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/112130136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-4%2F413740257-44100-2-cc84af344b6ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/112130136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-4%2F413740257-44100-2-cc84af344b6ad.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר כריתות - גט כשטר | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/111122157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-13%2Fc1277356-3d61-11df-c2a2-53c86d124b28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/111122157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-13%2Fc1277356-3d61-11df-c2a2-53c86d124b28.mp3</guid>
+   <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרישה וחקירה בשטרות שיטת ר' חיים | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/110787067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-6%2Ffd261d3e-35e7-1f0f-2884-36189afe0732.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/110787067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-6%2Ffd261d3e-35e7-1f0f-2884-36189afe0732.mp3</guid>
+   <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרישה וחקירה בשטרות | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/110435126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-30%2F1ba28ea1-e5e8-e9d6-92cc-e52f8e901e2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/110435126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-30%2F1ba28ea1-e5e8-e9d6-92cc-e52f8e901e2c.mp3</guid>
+   <pubDate>Thu, 30 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרישה וחקירה בקידושין ובגירושין | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/110098487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-23%2F3384458f-22d5-e970-fba6-116ae0c9048d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/110098487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-23%2F3384458f-22d5-e970-fba6-116ae0c9048d.mp3</guid>
+   <pubDate>Thu, 23 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת גיטין - פתיחה למסכת | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/107367069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-26%2F609964eb-6c80-ace6-4463-cf428519d285.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/107367069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-26%2F609964eb-6c80-ace6-4463-cf428519d285.mp3</guid>
+   <pubDate>Tue, 26 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שביתת הקב"ה בשבת | הרב אליהו בלומצוייג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/100081433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-19%2F396858790-44100-2-88d74428ce406.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/100081433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-19%2F396858790-44100-2-88d74428ce406.mp3</guid>
+   <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת - ממצוא חפצך ודבר דבר | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/99454736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F1fd77a92-677a-836a-3509-0407e7b241ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/99454736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-6%2F1fd77a92-677a-836a-3509-0407e7b241ef.mp3</guid>
+   <pubDate>Thu, 06 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת- אמירה לנכרי | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/99111263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2Fdca87866-0b22-1ccb-c6be-9e670ea4520f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/99111263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2Fdca87866-0b22-1ccb-c6be-9e670ea4520f.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת - שביתת כלים ב | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/98791738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-20%2F0b1747f7-4bd5-be54-63ac-67b13b090775.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/98791738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-20%2F0b1747f7-4bd5-be54-63ac-67b13b090775.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת - שביתת כלים | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/98439892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F8e4fdaff-cccf-5656-2d99-192867d51a2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/98439892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F8e4fdaff-cccf-5656-2d99-192867d51a2c.mp3</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת - שביתת קטן | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/97777558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-30%2F2127beeb-01e8-38a9-b71a-2c99fcdc8247.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/97777558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-30%2F2127beeb-01e8-38a9-b71a-2c99fcdc8247.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת – מחמר ושביתת בהמה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/97455304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-23%2F7ca9699a-e010-c79e-a072-ae91f18865a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/97455304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-23%2F7ca9699a-e010-c79e-a072-ae91f18865a6.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת - תוספת שבת: המשך | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/97138701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F113000af-49f1-e95b-e2a5-d49d66144b9e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/97138701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F113000af-49f1-e95b-e2a5-d49d66144b9e.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת – תוספת שבת | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/96808574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F824c31e1-328b-599d-a6ad-5e3f64021525.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/96808574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F824c31e1-328b-599d-a6ad-5e3f64021525.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת - כרמלית ומקום פטור | הרב אליהו בלומצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/96033670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-19%2F1067b03c-581c-362f-6c4d-c7d8fdcce542.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/96033670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-19%2F1067b03c-581c-362f-6c4d-c7d8fdcce542.mp3</guid>
+   <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת – כרמלית | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/95746765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F1718f4cb-b6ca-ee09-f3ca-6541902d6655.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/95746765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F1718f4cb-b6ca-ee09-f3ca-6541902d6655.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת – חורי רשות היחיד ורשות הרבים | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/95407209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2F6f8752f4-364d-4e83-cecb-a7d471f58b22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/95407209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2F6f8752f4-364d-4e83-cecb-a7d471f58b22.mp3</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת - ס' ריבוא ברשות הרבים | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/94751662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-21%2Fc9bfc556-5e74-5de0-17a5-81bb7b161b48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/94751662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-21%2Fc9bfc556-5e74-5de0-17a5-81bb7b161b48.mp3</guid>
+   <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת – גדרי רשות הרבים | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/94419527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-14%2Fb3f78ae9-3d01-900d-76fb-6cbe14878ef4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/94419527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-14%2Fb3f78ae9-3d01-900d-76fb-6cbe14878ef4.mp3</guid>
+   <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת – דיני מחיצות בשבת וסוכה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/94093737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F6300a7c7-ea72-cd6d-efd0-f74e8430800a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/94093737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F6300a7c7-ea72-cd6d-efd0-f74e8430800a.mp3</guid>
+   <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת – פתיחה לד' רשויות ולגדר רה"י | הרב אליהו בלומצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/93906081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-3%2Fb0e57f48-ca92-f195-dcbd-955926e31ea9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/93906081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-3%2Fb0e57f48-ca92-f195-dcbd-955926e31ea9.mp3</guid>
+   <pubDate>Sun, 03 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת שבת – פתיחה | הרב אליהו בלומנצויג</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · גמרא</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb89a5d4/podcast/play/92232859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F3b56112e-fc4b-6494-d358-060e16981b0b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb89a5d4/podcast/play/92232859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F3b56112e-fc4b-6494-d358-060e16981b0b.mp3</guid>
+   <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>5340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 4: תלמוד ומעשה | מו"ר הרב אליהו בלומנצוויג והרב מאיר כהנא</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/f9/34/09bdb842d8b586415a90299f2e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/f9/34/09bdb842d8b586415a90299f2e.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיטה ממלכתית (חלק ב) - מו"ר הרב אליהו בלומנצוויג והרב זאב וייטמן</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bf/69/78/0a251b434bae6a10a2180e878c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bf/69/78/0a251b434bae6a10a2180e878c.mp3</guid>
+   <pubDate>Mon, 29 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיטה ממלכתית (חלק א) - מו"ר הרב אליהו בלומנצוויג והרב זאב וייטמן</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a0/3b/38/b3eaa94ab397d875a37984b3ae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a0/3b/38/b3eaa94ab397d875a37984b3ae.mp3</guid>
+   <pubDate>Mon, 29 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מו"ר, הרב אליהו בלומנצוויג - יחץ, בין גנות לשבח</title>
+   <description>הרב אליהו בלומנצוויג · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליהו בלומנצוויג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ee/eb/41/5a20ac4a00952488165cdcf3cf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ee/eb/41/5a20ac4a00952488165cdcf3cf.mp3</guid>
+   <pubDate>Mon, 15 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

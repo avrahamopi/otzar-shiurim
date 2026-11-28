@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב הראל קצין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8fad8fef.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב הראל קצין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>כמה ממתינים בין בשר לחלב | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · הלכה</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/U-POZofllE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/U-POZofllE.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנוסח של התורה | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=3zp6HSzTFrA</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3zp6HSzTFrA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3zp6HSzTFrA.mp3</guid>
+   <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשמל ביום טוב | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=kXyfG-W2QPg</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kXyfG-W2QPg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kXyfG-W2QPg.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום העצמאות מן התורה מניין | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=QHJRuUvRhcY</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/QHJRuUvRhcY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/QHJRuUvRhcY.mp3</guid>
+   <pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עוצמתה של חזרה בתשובה | פרשת יתרו | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=FLO79wOFCzo</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/FLO79wOFCzo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/FLO79wOFCzo.mp3</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שורשי שנאת היהודים- לפי חומש שמות הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Y2fnEAJ2JBg</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Y2fnEAJ2JBg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Y2fnEAJ2JBg.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשמותיהן דישראל | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Etbu5QJrJbQ</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Etbu5QJrJbQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Etbu5QJrJbQ.mp3</guid>
+   <pubDate>Tue, 21 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב הראל קצין | פרשת ויחי</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=j3qRIokRjN8</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/j3qRIokRjN8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/j3qRIokRjN8.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה | בימים ההם בזמן הזה חרבות ברזל | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=5aAgkHD_HlI</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5aAgkHD_HlI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5aAgkHD_HlI.mp3</guid>
+   <pubDate>Mon, 30 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה בהלכה | שיעור 2 | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=qu8W_VwUQOc</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qu8W_VwUQOc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qu8W_VwUQOc.mp3</guid>
+   <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה בהלכה | שיעור 1 | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=wySIJFoH2bQ</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/wySIJFoH2bQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/wySIJFoH2bQ.mp3</guid>
+   <pubDate>Mon, 09 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוגיות בהלכה | האם יש להקפיד על כלים חלביים ובשריים? | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=zfGUU2kSiuk</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zfGUU2kSiuk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zfGUU2kSiuk.mp3</guid>
+   <pubDate>Sun, 04 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיעת מוזיקה בבין המצרים | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=h1YJgaFSrTg</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/h1YJgaFSrTg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/h1YJgaFSrTg.mp3</guid>
+   <pubDate>Mon, 22 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם מותר לאכול חלב נוכרי? | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=0iwEVV_LXWQ</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0iwEVV_LXWQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0iwEVV_LXWQ.mp3</guid>
+   <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה – בין יום הזיכרון ליום העצמאות | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=hQ4MGcPHQmg</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/hQ4MGcPHQmg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/hQ4MGcPHQmg.mp3</guid>
+   <pubDate>Sun, 12 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות כתיבת תורה – המצווה ה613, קיימת היום? | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Xx_ijd2dTik</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Xx_ijd2dTik.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Xx_ijd2dTik.mp3</guid>
+   <pubDate>Tue, 03 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעת נישואין בהלכה | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=ugUfY9KTYc4</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ugUfY9KTYc4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ugUfY9KTYc4.mp3</guid>
+   <pubDate>Sun, 03 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ימים נוראים | איסור אמונות תפלות | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Lo6rwkI7Jy4</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Lo6rwkI7Jy4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Lo6rwkI7Jy4.mp3</guid>
+   <pubDate>Tue, 11 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהותו של חג הפורים | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=1HkJVzjSLFs</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1HkJVzjSLFs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1HkJVzjSLFs.mp3</guid>
+   <pubDate>Mon, 27 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3. פיקוח נפש | הכנה לצבא | הרב הראל קצין</title>
+   <description>הרב הראל קצין · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=8iPBAKAp43I</description>
+   <itunes:author>הרב הראל קצין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8iPBAKAp43I.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8iPBAKAp43I.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

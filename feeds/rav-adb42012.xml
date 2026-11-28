@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אמיתי בר תקווה · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-adb42012.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אמיתי בר תקווה.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סימנים קצ"ה - קצ"ח | מה צריך לאכול כדי להצטרף לזימון ודין זימון בעשרה | הרב אמיתי בר תקוה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · הלכה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/130046477/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Fa0805f87-c494-652f-427c-5a87a2e7e3f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/130046477/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Fa0805f87-c494-652f-427c-5a87a2e7e3f4.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ט - קצ"א | ברכת הטוב והמיטיב, הרחמנים וסיום ברכת המזון | הרב אמיתי בר תקוה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/130046427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Ff3046f69-0103-138a-aafd-5938c95713d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/130046427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2Ff3046f69-0103-138a-aafd-5938c95713d3.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ה - קפ"ז | השוואה בין ברכת המזון לתפילה ודין השיכור | הרב אמיתי בר תקוה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · הלכה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129907136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F61b8c190-a1a0-4320-4ba7-68f1091230de.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129907136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F61b8c190-a1a0-4320-4ba7-68f1091230de.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קפ"ב - קפ"ג בסעיף ז' | כוס של ברכה | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129795261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fe3195469-e3f6-ee11-0fed-cd2dfb886fac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129795261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2Fe3195469-e3f6-ee11-0fed-cd2dfb886fac.mp3</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"ד - קע"ה | ברכת היין ומשקים נוספים תוך כדי הסעודה | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129560271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F6ac9a2ab-b59c-d269-5e49-4d1fd7289395.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129560271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F6ac9a2ab-b59c-d269-5e49-4d1fd7289395.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים קע"א - קע"ג | מה יעשה מי ששכח לברך על האוכל | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129505143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F18818747-2c17-10c0-afdc-b6339330d304.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129505143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F18818747-2c17-10c0-afdc-b6339330d304.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן ק"ע סעיפים י"א - כ"ב | הלכות דרך ארץ בסעודה | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · הלכה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129466346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Fe32241e8-4d55-920d-6024-38093b65c87f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129466346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Fe32241e8-4d55-920d-6024-38093b65c87f.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ח | פת הבאה בכיסנין | הרב אמיתי בר תקווה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129328600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F49a0a4dd-190d-9646-0fbc-7b8debfdc406.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129328600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F49a0a4dd-190d-9646-0fbc-7b8debfdc406.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן קס"ז סעיפים א'-י' | בציעת הפת והמלח | הרב אמיתי בר תקוה</title>
+   <description>הרב אמיתי בר תקווה · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אמיתי בר תקווה</itunes:author>
+   <enclosure url="https://anchor.fm/s/119f7e8dc/podcast/play/129205958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436418089-44100-2-8c48aa7aa159e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/119f7e8dc/podcast/play/129205958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436418089-44100-2-8c48aa7aa159e.m4a</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

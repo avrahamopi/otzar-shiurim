@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב ברוך גיגי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-735affd8.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב ברוך גיגי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סדרת אושפיזין! אברהם | להמשיך להדליק את הבירה | הרב ברוך גיגי | סוכות תשפ"ז</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560822-44100-2-3fbf3ac69c43d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560822-44100-2-3fbf3ac69c43d.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | חיים | הרב ברוך גיגי | תשפ"ו</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120290546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555643-44100-2-7cdff50218528.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120290546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555643-44100-2-7cdff50218528.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'הלל' בתורת שירה | הרב ברוך גיגי | פסח תשפ"ו</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681642-44100-2-eaa3ec0ac763b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681642-44100-2-eaa3ec0ac763b.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולה ומשיח במדינת ישראל תשפ"ו | הרב ברוך גיגי | יום עיון 'רבבה' | חנוכה תשפ"ו</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112670529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430280-44100-2-e918bcb7acc7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112670529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430280-44100-2-e918bcb7acc7.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"על שולחנו ודיו": הארת הלב בחנוכה | הרב ברוך גיגי | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112668055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426998-44100-2-649b87c5f7b91.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112668055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426998-44100-2-649b87c5f7b91.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אושפיזין | אברהם אבינו - הרב ברוך גיגי</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/109398334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2F4f3c5ea4-d72d-2b80-3240-b56372b56b16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/109398334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2F4f3c5ea4-d72d-2b80-3240-b56372b56b16.mp3</guid>
+   <pubDate>Wed, 08 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ברוך גיגי: דברי חיזוק לקראת הכניסה לעזה ל"ג בעומר תשפ"ה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/102723502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-15%2F400364140-44100-2-6d9381fbc42f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/102723502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-15%2F400364140-44100-2-6d9381fbc42f6.mp3</guid>
+   <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחת 'קדושת אביב' | קידוש ועמידת האדם מול ה' | הרב ברוך גיגי</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/101660317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-23%2F398868768-44100-2-3485e7a3fcf7b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/101660317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-23%2F398868768-44100-2-3485e7a3fcf7b.mp3</guid>
+   <pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת הרמב"ם: ארמי אובד אבי | הרב ברוך גיגי | פסח תשפ"ה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100780856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397747958-44100-2-d837370427718.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100780856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397747958-44100-2-d837370427718.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה מיוחד בי' בטבת שחל בערב שבת | הרב ברוך גיגי | עשרה בטבת תשפ"ה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/96772939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-8%2F392731592-44100-2-46d4af5db3a87.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/96772939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-8%2F392731592-44100-2-46d4af5db3a87.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעגל השנה האנושי והתורני | רה"י הרב ברוך גיגי | ליל לימוד הושענא רבה תשפ"ה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/93334925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-21%2F388462199-44100-2-0688f444678bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/93334925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-21%2F388462199-44100-2-0688f444678bb.mp3</guid>
+   <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותאזרני חיל למלחמה | חיזוק לחיילי הסדיר ומשרתי המילואים לקראת יוה"כ | רה"י הרב ברוך גיגי</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92828789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387843106-44100-2-a98d8aef4a4b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92828789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387843106-44100-2-a98d8aef4a4b5.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ולתפלתם שעה | אורי וישעי | הרב ברוך גיגי | ימים נוראים תשפ"ה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92394477/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387299249-44100-2-a942c38ae41d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92394477/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387299249-44100-2-a942c38ae41d2.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מזמור לדוד | מזמורים י"ט | לשמש שם אוהל בהם והוא כחתן | הרב ברוך גיגי | שבועות תשפ"ג</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8e/25/fc/c0daf3497eb0d8164244875d9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8e/25/fc/c0daf3497eb0d8164244875d9d.mp3</guid>
+   <pubDate>Tue, 23 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | יחץ | הרב ברוך גיגי | פסח תשפ"ב</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2e/c8/70/28962543d5ba1e5f4f0b5be182.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2e/c8/70/28962543d5ba1e5f4f0b5be182.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דור ודור | הרב ברוך גיגי</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/70/d1/fe/557ab04a71b6ae6b722cd324f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/70/d1/fe/557ab04a71b6ae6b722cd324f0.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ברוך גיגי (א) | חנוכה וסוכות - עמוד האש והנס</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ce/50/ad/608269404bad12e583506170dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ce/50/ad/608269404bad12e583506170dd.mp3</guid>
+   <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ברוך גיגי (ב) | בין כהונה למלוכה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/95/5b/da/720c704cec85fbe62366ffa619.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/95/5b/da/720c704cec85fbe62366ffa619.mp3</guid>
+   <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ברוך גיגי (ג) | גאולת ימי החנוכה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cc/83/ec/3f46074fefa30ae8d525320e0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cc/83/ec/3f46074fefa30ae8d525320e0d.mp3</guid>
+   <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אברהם אבינו | הרב ברוך גיגי</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0e/09/22/17702e48afa800fe7bf802c849.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0e/09/22/17702e48afa800fe7bf802c849.mp3</guid>
+   <pubDate>Wed, 30 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ברוך גיגי | גילו ברעדה</title>
+   <description>הרב ברוך גיגי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב ברוך גיגי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/8c/e2/ba568546429266276af5df067d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/8c/e2/ba568546429266276af5df067d.mp3</guid>
+   <pubDate>Mon, 07 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

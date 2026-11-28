@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב צבי הבר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-59ce9011.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב צבי הבר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>אהרון הכהן - שלום ואחדות | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9247dee8-3863-43f9-8f34-c7271125b84b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9247dee8-3863-43f9-8f34-c7271125b84b/stream.mp3</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ונהפוך הוא - המהפך של אסתר | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/84a8e8f0-31ca-465e-8711-206cd72b01b6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/84a8e8f0-31ca-465e-8711-206cd72b01b6/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק שלושה עשר | הנצר האחרון - מתתיהו אנטיגונוס</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2710db54-0a8d-443b-9324-34e1f5ce9df3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2710db54-0a8d-443b-9324-34e1f5ce9df3/stream.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק שנים עשר | מלחמת אחים וקץ העצמאות - הורקנוס ואריסטובולוס</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7832f057-e4f3-4bb6-89aa-911b437c0dde/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7832f057-e4f3-4bb6-89aa-911b437c0dde/stream.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק אחד עשר | תור הזהב - שלומציון המלכה</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/548d30f9-8fb1-4707-97a3-0f60d56f554a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/548d30f9-8fb1-4707-97a3-0f60d56f554a/stream.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק עשירי | ההידרדרות - אלכסנדר ינאי</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6b28fdc3-60e7-44f0-81e4-4c1326881855/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6b28fdc3-60e7-44f0-81e4-4c1326881855/stream.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק תשיעי | השליט שהתהפך - יוחנן הורקנוס</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/90d4aa3a-6142-4dba-8523-f483399ed562/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/90d4aa3a-6142-4dba-8523-f483399ed562/stream.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>12 - שירת המלחמות</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3a138d36-21f7-4c2c-83ce-448f5bb0eedf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3a138d36-21f7-4c2c-83ce-448f5bb0eedf/stream.mp3</guid>
+   <pubDate>Wed, 06 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>11 - חתימת המלחמות וסילוק בני הענק</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f1c99cad-4c87-40d9-abe6-018e722247d4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f1c99cad-4c87-40d9-abe6-018e722247d4/stream.mp3</guid>
+   <pubDate>Wed, 06 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10 - מלחמת מי מרום והשתלשלותה</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/98b867f0-bddc-4171-9978-f20a6e4cf3e2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/98b867f0-bddc-4171-9978-f20a6e4cf3e2/stream.mp3</guid>
+   <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - היום שאחרי מלחמת חמשת העמים</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6c82d7cc-8a68-4058-ac93-64914620ce1f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6c82d7cc-8a68-4058-ac93-64914620ce1f/stream.mp3</guid>
+   <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - מיטוט חמשת העמים</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b7878c2b-d1f7-4d7f-a01c-04f7f0b1db86/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b7878c2b-d1f7-4d7f-a01c-04f7f0b1db86/stream.mp3</guid>
+   <pubDate>Fri, 01 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7 - הצלת אנשי גבעון</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/80999409-379b-4623-9d78-bd24d05591e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/80999409-379b-4623-9d78-bd24d05591e9/stream.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - הקרב שלא התרחש</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f309dae8-96bc-4812-adf1-dbb701089368/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f309dae8-96bc-4812-adf1-dbb701089368/stream.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - הברית בהר עיבל</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/af58a376-3a2f-46a9-a6f3-292422b73516/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/af58a376-3a2f-46a9-a6f3-292422b73516/stream.mp3</guid>
+   <pubDate>Thu, 23 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - מלחמת העי - הסבב השני</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d81d9391-7596-4bd8-8d3c-f421feec61ac/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d81d9391-7596-4bd8-8d3c-f421feec61ac/stream.mp3</guid>
+   <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - מלחמת העי - החטא והעונש</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/319ef3a1-a408-48f4-9855-8c8816bb8401/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/319ef3a1-a408-48f4-9855-8c8816bb8401/stream.mp3</guid>
+   <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - יעדים במלחמת יריחו</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/05fcde31-efee-48c8-9c0f-6102c1e9f210/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/05fcde31-efee-48c8-9c0f-6102c1e9f210/stream.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - מלחמת יריחו - הופעת המלאך</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e18eaae8-f28a-46a9-8c60-3d0d748f3053/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e18eaae8-f28a-46a9-8c60-3d0d748f3053/stream.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על איזה נס צריך לברך? - הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/efa102c9-4c67-4c51-ae16-6ce30d61f0ab/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/efa102c9-4c67-4c51-ae16-6ce30d61f0ab/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם יש מצוות הקהל בימינו? | אורי וישעי תשפ"ב | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9a903c20-4fa1-43f8-aef5-0fc597fcb9ed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9a903c20-4fa1-43f8-aef5-0fc597fcb9ed/stream.mp3</guid>
+   <pubDate>Sat, 24 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לאן נעלמה האהבה? | זכור ברית | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/00533f2b-2c6d-4fb8-a660-d30544a82d2e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/00533f2b-2c6d-4fb8-a660-d30544a82d2e/stream.mp3</guid>
+   <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונת חכמים ודעת תורה | ד - דעת תורה בימינו | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/136d5326-cb03-4852-b00d-422bcfbee9ff/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/136d5326-cb03-4852-b00d-422bcfbee9ff/stream.mp3</guid>
+   <pubDate>Sat, 14 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונת חכמים ודעת תורה | ג - דרכי הכרעה מתוך חתירה לאמת | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/75be2de0-6c65-4106-a9c8-96818b338b69/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/75be2de0-6c65-4106-a9c8-96818b338b69/stream.mp3</guid>
+   <pubDate>Sat, 14 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונת חכמים ודעת תורה | ב - החתירה לאמת | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2279162f-97dc-4de5-a800-6c986332842e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2279162f-97dc-4de5-a800-6c986332842e/stream.mp3</guid>
+   <pubDate>Thu, 12 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונת חכמים ודעת תורה | א - מה בין נבואה לבין חכמה | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/62422c8f-02e3-47f0-bd3c-b0917101dabb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/62422c8f-02e3-47f0-bd3c-b0917101dabb/stream.mp3</guid>
+   <pubDate>Thu, 12 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשפ"ב | סיפור יציאת מצרים - עיצובה של מצווה ברמב"ם | הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2f5f5460-47ba-4d06-b9ee-dd63cd946191/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2f5f5460-47ba-4d06-b9ee-dd63cd946191/stream.mp3</guid>
+   <pubDate>Mon, 04 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשע"ח | מתחיל בגנות ומסיים בשבח - הרב צבי הבר</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2cea2e0f-41b9-49e5-9905-84206828d779/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2cea2e0f-41b9-49e5-9905-84206828d779/stream.mp3</guid>
+   <pubDate>Wed, 30 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק שמיני | בשולי החשמונאים – סיפור יהודית</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/aa774af2-c7d3-4c81-b8d9-5574e9ba314a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/aa774af2-c7d3-4c81-b8d9-5574e9ba314a/stream.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק שביעי | במבט לאחור - השפעת סיפור מרד החשמונאים לדורות</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a6c17eb8-9fc2-4715-8750-0b11c4118e43/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a6c17eb8-9fc2-4715-8750-0b11c4118e43/stream.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק שישי | ממשיכי הדרך – שלטון יונתן ושלטון שמעון</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2872fbd2-ce7f-4210-b44e-5c228e21b17a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2872fbd2-ce7f-4210-b44e-5c228e21b17a/stream.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק חמישי | הקרבות האחרונים של יהודה המכבי</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/675e64dd-6eba-4be4-976c-2cc5f2630e3e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/675e64dd-6eba-4be4-976c-2cc5f2630e3e/stream.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק רביעי | טיהור המקדש ונס פך השמן</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a0533335-b154-4af3-b615-78017f29f533/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a0533335-b154-4af3-b615-78017f29f533/stream.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק שלישי | מרד החשמונאים</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3cf2e272-7b87-49f5-a769-a520f8f8728b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3cf2e272-7b87-49f5-a769-a520f8f8728b/stream.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק שני | מזמן יורשי אלכסנדר עד ימי אנטיוכוס אפיפנס</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/16e36fe6-36a0-40c1-82a2-cfa35290c8bf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/16e36fe6-36a0-40c1-82a2-cfa35290c8bf/stream.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ראשון | פתיחה - מהתקופה הפרסית ועד אלכסנדר מוקדון</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3d75f41a-0b5f-47ef-9b96-b2903109846a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3d75f41a-0b5f-47ef-9b96-b2903109846a/stream.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב צבי הבר - ברכת מלכויות</title>
+   <description>הרב צבי הבר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי הבר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6b7c6dfd-cdef-4fad-b93e-36949298c9eb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6b7c6dfd-cdef-4fad-b93e-36949298c9eb/stream.mp3</guid>
+   <pubDate>Wed, 01 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

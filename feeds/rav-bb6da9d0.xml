@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אלחנן סמט · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bb6da9d0.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אלחנן סמט.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרק ד - על הגאולה | מגילת רות | הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4abacb69-88f5-420a-a6fd-24cfc6fe7a90/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4abacb69-88f5-420a-a6fd-24cfc6fe7a90/stream.mp3</guid>
+   <pubDate>Mon, 30 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג - תכניתה של נעמי והפרתה | מגילת רות | הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6573b2ac-0729-42dd-b5a7-185bbeb4892f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6573b2ac-0729-42dd-b5a7-185bbeb4892f/stream.mp3</guid>
+   <pubDate>Mon, 30 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבוא ופרק א - השיבה המאוחרת | מגילת רות | הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cd549987-2073-4202-abdf-f2338009cd20/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cd549987-2073-4202-abdf-f2338009cd20/stream.mp3</guid>
+   <pubDate>Mon, 30 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב - איפה עושים דייט? | מגילת רות | הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/24a77955-964a-4c43-bff6-4cb355baba43/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/24a77955-964a-4c43-bff6-4cb355baba43/stream.mp3</guid>
+   <pubDate>Mon, 30 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדוע חג השבועות תלוי בספירת העומר? - הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2f4ac1ac-2fba-4438-9ef4-3486c51fbc02/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2f4ac1ac-2fba-4438-9ef4-3486c51fbc02/stream.mp3</guid>
+   <pubDate>Mon, 30 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדוע נכנסה מגילת רות לתנ"ך? | מגילת רות | הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/03d86156-64d2-48e3-a331-a70d5e4b29ec/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/03d86156-64d2-48e3-a331-a70d5e4b29ec/stream.mp3</guid>
+   <pubDate>Sun, 29 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | דילמות מוסריות בסיפור מגילת אסתר - חלק שלישי - הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/de9cd000-73dd-4e3f-9429-dd283dce166c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/de9cd000-73dd-4e3f-9429-dd283dce166c/stream.mp3</guid>
+   <pubDate>Tue, 08 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | דילמות מוסריות בסיפור מגילת אסתר - חלק שני - הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bba155b0-7f36-4eb4-8186-bbe9725dd1c9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bba155b0-7f36-4eb4-8186-bbe9725dd1c9/stream.mp3</guid>
+   <pubDate>Tue, 08 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | דילמות מוסריות בסיפור מגילת אסתר - חלק ראשון - הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/521c96b1-086b-4cb6-a51b-cd53372f2566/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/521c96b1-086b-4cb6-a51b-cd53372f2566/stream.mp3</guid>
+   <pubDate>Tue, 08 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

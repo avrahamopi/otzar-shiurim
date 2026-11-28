@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אביעד בר אשר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-16cabb53.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אביעד בר אשר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סימן ל"ד | ברכת אירוסין | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/129625900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F7f6dae32-5e90-556e-71f1-5dbe4539bcc6.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/129625900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F7f6dae32-5e90-556e-71f1-5dbe4539bcc6.m4a</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן כ"ט - מתנה ע״מ להחזיר, ערב ועבד עברי | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/128870530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435991860-44100-2-f1b98cd35856d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/128870530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435991860-44100-2-f1b98cd35856d.m4a</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן כ"ז - פרוטה ואמירה | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/128420400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F7df3760a-d07d-0a32-f85c-2bdfad57b2b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/128420400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F7df3760a-d07d-0a32-f85c-2bdfad57b2b3.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אבן העזר סימן כ"ו - סיכום השולחן ערוך | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · הלכה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/127779880/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F2918ba7a-669a-df1f-20d1-50f5bd4fedff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/127779880/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F2918ba7a-669a-df1f-20d1-50f5bd4fedff.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אבן העזר סימן כ"ו - החלק העיוני | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/118d58694/podcast/play/127779630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F85613b7c-80e0-109b-dc80-58c1ad06944e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118d58694/podcast/play/127779630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F85613b7c-80e0-109b-dc80-58c1ad06944e.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרת אושפיזין! יצחק | "גם ברוך יהיה" | הרב אביעד בר-אשר | סוכות תשפ"ז</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560850-44100-2-d6af9b3433bd1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560850-44100-2-d6af9b3433bd1.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה לחיילים | ראש השנה תשפ"ז | הרב אביעד בר אשר</title>
+   <description>הרב אביעד בר אשר · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אביעד בר אשר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/125527483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610531-44100-2-725741c9c1cc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/125527483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431610531-44100-2-725741c9c1cc3.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

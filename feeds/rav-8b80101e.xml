@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אריה כץ · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8b80101e.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אריה כץ.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>7 - הפריה אחרי המוות</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2077c73c-bfb8-499e-b9b1-cc11a33a86a9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2077c73c-bfb8-499e-b9b1-cc11a33a86a9/stream.mp3</guid>
+   <pubDate>Tue, 11 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - הקמת משפחה על ידי גבר עקר</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/56c7d145-3ed2-4673-b1a9-e4474418bbe6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/56c7d145-3ed2-4673-b1a9-e4474418bbe6/stream.mp3</guid>
+   <pubDate>Sun, 09 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - קביעת אמהות בפונדקאות ובתרומת ביצית (2)</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5314062a-17e9-4113-81a2-e1ae0e9c5496/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5314062a-17e9-4113-81a2-e1ae0e9c5496/stream.mp3</guid>
+   <pubDate>Sun, 09 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - קביעת אמהות בפונדקאות ובתרומת ביצית (1)</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/31478605-0049-4c5b-acb8-314992e732bd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/31478605-0049-4c5b-acb8-314992e732bd/stream.mp3</guid>
+   <pubDate>Thu, 29 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - הפריה חוץ גופית ומתן זרע למטרת בדיקה</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e5318980-926a-48f6-a849-f73b6f9ac74c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e5318980-926a-48f6-a849-f73b6f9ac74c/stream.mp3</guid>
+   <pubDate>Thu, 29 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - מתן זרע בטיפולי פוריות</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/69539960-63f9-4196-b8bc-7f20ae9e7a4c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/69539960-63f9-4196-b8bc-7f20ae9e7a4c/stream.mp3</guid>
+   <pubDate>Thu, 29 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - מבוא לטיפולי פוריות - הזרעה מלאכותית</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/84211394-a101-48be-b018-22a8f1faee3f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/84211394-a101-48be-b018-22a8f1faee3f/stream.mp3</guid>
+   <pubDate>Thu, 29 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעמד העובר בהלכה ואיסור הפלות | שיעור כללי - סנהדרין | הרב אריה כץ</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2f4c6827-a844-430f-93cb-23ee7fa4f232/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2f4c6827-a844-430f-93cb-23ee7fa4f232/stream.mp3</guid>
+   <pubDate>Wed, 29 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריה כץ - קדושת היום</title>
+   <description>הרב אריה כץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אריה כץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/44a73e04-7e53-40f5-8b6f-523081b1902f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/44a73e04-7e53-40f5-8b6f-523081b1902f/stream.mp3</guid>
+   <pubDate>Sun, 05 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

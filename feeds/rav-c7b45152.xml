@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אורי יעקב · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c7b45152.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אורי יעקב.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>אות כ"ט | עולם-עולם, את סודך איני יודע</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/84/80/9a/0814de477e88d69914574c9ba1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/84/80/9a/0814de477e88d69914574c9ba1.mp3</guid>
+   <pubDate>Wed, 31 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות כ"ח | אליו יתברך אשר למעלה מהם הסתכלת ונפחדת</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/f9/fe/e9936442c7ae46cdfa10a0450e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/f9/fe/e9936442c7ae46cdfa10a0450e.mp3</guid>
+   <pubDate>Thu, 25 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות כ"ז | אם בריאה יברא האיש ישראל מקרבו</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e6/07/4f/71aa6c4e5c8f2c13789a6591eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e6/07/4f/71aa6c4e5c8f2c13789a6591eb.mp3</guid>
+   <pubDate>Fri, 19 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות כ"ו | סעודה שלישית כ'כל נדרי'</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cb/eb/04/b662df47ecbe13131fde602696.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cb/eb/04/b662df47ecbe13131fde602696.mp3</guid>
+   <pubDate>Wed, 10 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות כ"ה | בכו בכה גם להולך ומת</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1c/23/0e/cd6c3e47ac8e584748b7345f1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1c/23/0e/cd6c3e47ac8e584748b7345f1d.mp3</guid>
+   <pubDate>Wed, 03 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אותיות כ"ב-כ"ד | צייר בעצמך - שאתה צדיק"</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/64/9b/6f/e62a5a46cdb37fb917f268a478.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/64/9b/6f/e62a5a46cdb37fb917f268a478.mp3</guid>
+   <pubDate>Wed, 24 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות כ' | להיות גיבור בעצם</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/91/2c/062e9f4565bc354d1cc77c4aee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/91/2c/062e9f4565bc354d1cc77c4aee.mp3</guid>
+   <pubDate>Wed, 17 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שנת 1929 | המשבר הכללי והאישי והצמיחה</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/f9/a4/dad6c649c3a486c89d8a4e4ac6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/f9/a4/dad6c649c3a486c89d8a4e4ac6.mp3</guid>
+   <pubDate>Thu, 11 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות יט | ברוך ה' נכנסתי כבר בשנת הארבעים</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/36/90/58514346a384234b688e0a0c74.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/36/90/58514346a384234b688e0a0c74.mp3</guid>
+   <pubDate>Wed, 03 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות יח | טעם התפילה הנקייה מבקשות</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e5/0a/f6/2d3c864b28bcfa169728172bec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e5/0a/f6/2d3c864b28bcfa169728172bec.mp3</guid>
+   <pubDate>Thu, 28 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות יז | מה היה באם חס ושלום הגיע קצי עתה</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/33/25/fc/b3850d4655898236162919ce6a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/33/25/fc/b3850d4655898236162919ce6a.mp3</guid>
+   <pubDate>Wed, 20 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות יד | הסתכל ברצונך ולא בברכתך</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/83/03/35/6e98704d5bb5e5031d87c4728c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/83/03/35/6e98704d5bb5e5031d87c4728c.mp3</guid>
+   <pubDate>Wed, 13 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות יג | למה לך ראיות מחוץ לעצמך על מציאותו יתברך?!</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/44/5c/b865d64470a0fd51489478f993.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/44/5c/b865d64470a0fd51489478f993.mp3</guid>
+   <pubDate>Thu, 07 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות י | שיהיה איש פרטי ונבדל לעצמו</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/11/f8/48/1686714462bd6af748e204ef4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/11/f8/48/1686714462bd6af748e204ef4a.mp3</guid>
+   <pubDate>Wed, 30 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות ט | נפש האדם אוהבת להתרגש</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/8a/ef/9b6748464896407170e538f5e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/8a/ef/9b6748464896407170e538f5e2.mp3</guid>
+   <pubDate>Wed, 23 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אותיות ו-ח | הרגשה גדולה שמביאה לידי מעשה</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/20/36/f2/ee9e8c4fbdaa8163467954dcb8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/20/36/f2/ee9e8c4fbdaa8163467954dcb8.mp3</guid>
+   <pubDate>Thu, 17 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות ז | איך לא להסחף בזרם דעות הדור</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4b/ca/38/ea407c42d29dfd6fb29833724b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4b/ca/38/ea407c42d29dfd6fb29833724b.mp3</guid>
+   <pubDate>Wed, 09 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות ד (2) | להיות גיבור ולשתף את ה'</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7f/6d/db/257a814d57963fc0ecdf2eacee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7f/6d/db/257a814d57963fc0ecdf2eacee.mp3</guid>
+   <pubDate>Wed, 02 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות ד | הצורך והיכולת לרפא את הנפש</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/65/af/90/d43ffd47bb8b2d8a03ac8d73c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/65/af/90/d43ffd47bb8b2d8a03ac8d73c8.mp3</guid>
+   <pubDate>Wed, 25 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות ג | ההזדמנות החד פעמית שיש בלב נשבר</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/5f/c4/36f3ed4af888a38996664aff99.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/5f/c4/36f3ed4af888a38996664aff99.mp3</guid>
+   <pubDate>Wed, 18 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות ב | לדמיין את עצמי בעוד שנה</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5b/02/8d/b1824b4a34a6e8da25d75e2e54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5b/02/8d/b1824b4a34a6e8da25d75e2e54.mp3</guid>
+   <pubDate>Wed, 11 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אות א | לחיות חיי נצח בקרב אוכליה ובולעיה</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/31/d0/49/4ef5d842a383e17bb6cdcef72b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/31/d0/49/4ef5d842a383e17bb6cdcef72b.mp3</guid>
+   <pubDate>Wed, 04 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה ב | על הקונטרס צו וזרוז, זמן כתיבתו, עריכתו, שמו ומטרתו</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/95/95/1b/bf754c495ba0bc4e988b45b1fc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/95/95/1b/bf754c495ba0bc4e988b45b1fc.mp3</guid>
+   <pubDate>Wed, 28 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה א | שורשיו חייו וכתביו של האדמו"ר מפיאסצ'נה</title>
+   <description>הרב אורי יעקב · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי יעקב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2e/b6/78/dfd3234ea4ae0e522c085a5c19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2e/b6/78/dfd3234ea4ae0e522c085a5c19.mp3</guid>
+   <pubDate>Wed, 21 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

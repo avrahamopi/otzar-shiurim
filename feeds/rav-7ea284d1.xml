@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יצחק דעי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7ea284d1.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יצחק דעי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 9</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4e484020/8ba06797.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4e484020/8ba06797.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 8</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/5495b1f2/f1e900e7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5495b1f2/f1e900e7.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 7</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7c9d0e53/77ff2fb2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7c9d0e53/77ff2fb2.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 6</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a382973b/a400c5f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a382973b/a400c5f3.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק דעי | נח תשפ"ז</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2824ce6e/be1f178b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2824ce6e/be1f178b.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 5</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/466cd788/1ca28653.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/466cd788/1ca28653.mp3</guid>
+   <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 4</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/632a1753/ebb25d06.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/632a1753/ebb25d06.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 3</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/75de761e/f6967a1e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75de761e/f6967a1e.mp3</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 2</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0b358da4/ec1636c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0b358da4/ec1636c3.mp3</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי-תבוא תשפ"ו | הרב יצחק דעי</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7ca1024e/17f67048.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7ca1024e/17f67048.mp3</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפארת ישראל למהר"ל | שיעור 1</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/980dab5c/b524f603.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/980dab5c/b524f603.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 32 | כל החכמה היא מעם ישראל | פסקאות סד | סח</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a6a88ea9/2458d220.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a6a88ea9/2458d220.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 31 - פסקאות נז - סג</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/75c29a62/a0fc7e9e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75c29a62/a0fc7e9e.mp3</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 30 - מה הדבר המרשים ביותר בעולם? - פסקאות נ - נו</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/fa6a1bc8/8433315c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fa6a1bc8/8433315c.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 29 - פסקאות מה - נ</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/bf5726e2/0cc04ba0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bf5726e2/0cc04ba0.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח תשפ"ו | הרב יצחק דעי</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/31057122/0f1fe150.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/31057122/0f1fe150.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 28 - הפרק האסור בתנ"ך! - מאמר ב פסקאות לג - מד</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · תנ"ך</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/1c562840/16624910.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1c562840/16624910.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 27 - גוף האדם כנגד בית המקדש - מאמר ב פסקאות כו - לב</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/18d37e1b/4c0f3eb8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/18d37e1b/4c0f3eb8.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 26 - איך להשתפר בלימוד גמרא בעיון! - מאמר ב פסקאות כד - כו</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · גמרא</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/81f0e15f/0a182b5d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/81f0e15f/0a182b5d.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור תשפ"ו | הרב יצחק דעי</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6b062a2e/bc2d6e91.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6b062a2e/bc2d6e91.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 25 - עדיף לגור באום אל פאחם ולא לגור בברוקלין! - מאמר ב פסקאות יד - כג</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/395be477/bafd55e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/395be477/bafd55e5.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 24 - מאמר ב פסקאות ה - יד</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6db4b230/4ce47f1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6db4b230/4ce47f1c.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 23 - האם י"ג מידות הרחמים הן הגשמה? - מאמר ב פסקאות ב - ד</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · מוסר</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/34e1fd55/c65f1a1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/34e1fd55/c65f1a1d.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 22 - ה' הוא לא מה שאתה חושב! - מאמר ב פסקאות א - ב</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/d5c20bae/6709eb3a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d5c20bae/6709eb3a.mp3</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 21 - פת במלח תאכל? - מאמר א פסקאות קיב - סוף המאמר</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6228c8d8/c2c1a58d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6228c8d8/c2c1a58d.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה תשפ"ו - הרב יצחק דעי</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ac63fa74/a79e0cb0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ac63fa74/a79e0cb0.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 20 - שקרי הנצרות והאיסלם! - מאמר א פסקאות קט - קיא</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/dee9913a/6cd056ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dee9913a/6cd056ff.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 19 - עולם הבא, לא בתורה שלי! - מאמר א פסקאות קג - קח</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2f669606/a50c939d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2f669606/a50c939d.mp3</guid>
+   <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 18 - האם אני עובד את עצמי או את הקב"ה? - מאמר א פסקאות צח - קג</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/1abad9ac/14e69095.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1abad9ac/14e69095.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 17 - האם אנחנו עדיין חוטאים בחטא העגל? - מאמר א פסקה צז</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/39259296/48d2d70d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/39259296/48d2d70d.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 16 - מאמר א פסקאות צ - צו</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b35a36e4/478fffca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b35a36e4/478fffca.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 15 - מאמר א פסקאות פז - צ</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2598cebf/3948c65f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2598cebf/3948c65f.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 - מאמר א פסקאות פ - פו</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4b725e9c/afe3ae55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4b725e9c/afe3ae55.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 13 - מאמר א פסקאות עז - פ</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ac3e318a/dfc4cab9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ac3e318a/dfc4cab9.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 12 - מאמר א פסקאות סב - עז</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8533b4c7/2f096d97.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8533b4c7/2f096d97.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 11 - מאמר א פסקאות מח - סא</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/891587e7/b292abe9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/891587e7/b292abe9.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 10 - מאמר א פסקאות ל - מז</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/252803d6/97e2d351.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/252803d6/97e2d351.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 - מאמר א פסקאות כג - כט</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/9c12b2b4/0da263ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9c12b2b4/0da263ea.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 - מאמר א פסקאות יא - כב</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f56d7060/6678360a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f56d7060/6678360a.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 - מאמר א פסקאות ה - י</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6d1bb996/37ac032c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6d1bb996/37ac032c.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 -מאמר א פסקה ד (חלק ג)</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/44b470f7/5ea05deb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/44b470f7/5ea05deb.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - מאמר א פסקה ד (חלק ב)</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/869a715b/76377e3e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/869a715b/76377e3e.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - מאמר א פסקה ד (חלק א)</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7dcbcd0b/f886cb3b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7dcbcd0b/f886cb3b.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - מאמר א פסקאות א - ד</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/e831d6b2/540e012a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e831d6b2/540e012a.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - מאמר א פסקה א</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/18192314/fbbe69ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/18192314/fbbe69ed.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - הקדמה</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/fa544141/a862dd70.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fa544141/a862dd70.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

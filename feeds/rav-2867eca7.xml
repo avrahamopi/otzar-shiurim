@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב נריה טייץ · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-2867eca7.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב נריה טייץ.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | סודן של הברכות במשנת הראי"ה קוק | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a2/96/ca/4adbaf4afa8b424991cf2082ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a2/96/ca/4adbaf4afa8b424991cf2082ed.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | חודש שבט - תיקון חטא העץ והאדם | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e7/f7/c2/1b364c4949b5c5c6c27d56f06a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e7/f7/c2/1b364c4949b5c5c6c27d56f06a.mp3</guid>
+   <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 21. מצוות עשה בשבת - הבדלה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a5/ac/09/21c8914b9abd60d24e9f4e1873.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a5/ac/09/21c8914b9abd60d24e9f4e1873.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 20. מצוות עשה בשבת - הדלקת נרות שבת וברכת הילדים | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/22/a6/70d877416997248dd9d591a68e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/22/a6/70d877416997248dd9d591a68e.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 19. מצוות עשה בשבת - עונג שבת | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b8/b1/88/0b000d4c08bd474a62dc11bf5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b8/b1/88/0b000d4c08bd474a62dc11bf5a.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 18. מצוות עשה בשבת - קידוש | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f8/0d/5a/f9ed6a4bb08a8259d008b6965b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f8/0d/5a/f9ed6a4bb08a8259d008b6965b.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 17. ספירת העומר חלק ב' - מנהגי אבלות | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a4/b4/db/425d1b4a3a8783961c6e999d8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a4/b4/db/425d1b4a3a8783961c6e999d8a.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 16. ספירת העומר חלק א' - מצוות הספירה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ad/6a/bf/9971634999aaf93ffd3c3feae7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ad/6a/bf/9971634999aaf93ffd3c3feae7.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 15. פורים - מצוות מתנות לאביונים ומשלוח מנות | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/77/a6/d3f9a045b281a51c3f30f9f5ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/77/a6/d3f9a045b281a51c3f30f9f5ef.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 14. פורים - דיני ארבע הפרשיות | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/53/02/90/08c9ab456fb4225e8e88c20694.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/53/02/90/08c9ab456fb4225e8e88c20694.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 13. שיטות הקשירה והכריכות בציצית התכלת | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/12/e8/d8/9275734133b10724734bf5cdf2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/12/e8/d8/9275734133b10724734bf5cdf2.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 12. זיהוי התכלת וחובת הטלתו בציצית | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/37/18/5c/49baa04114b5cd3c8229e1ba23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/37/18/5c/49baa04114b5cd3c8229e1ba23.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 11. מצוות הציצית - בגד הציצית ודרך לבושו | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/63/4b/6b/2e247a44a18a53687a72b5031e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/63/4b/6b/2e247a44a18a53687a72b5031e.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 10. מצוות ציצית | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a4/93/6d/486f2048c196aadb194398c473.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a4/93/6d/486f2048c196aadb194398c473.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 9. עשרה בטבת - דיניו ועניינו | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/97/80/86ab134287b525f635e1cc9028.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/97/80/86ab134287b525f635e1cc9028.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 8. מהות ימי חנוכה וזמן הדלקת נרות | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/df/7f/cb/bcbca3415c973525da9cad8fd7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/df/7f/cb/bcbca3415c973525da9cad8fd7.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 7. מצוות נר חנוכה ומקום ההדלקה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3c/7d/8b/e24e07488eb48ba3b250137652.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3c/7d/8b/e24e07488eb48ba3b250137652.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 6. חובת התפילה - תשלומין ונדבה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7a/93/51/68d3e34dc586bd91065dab74c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7a/93/51/68d3e34dc586bd91065dab74c2.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 5. ברכת התורה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c5/86/4f/d65b6540ffb459dfce705ad732.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c5/86/4f/d65b6540ffb459dfce705ad732.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 4. נטילת ידיים קודם אכילה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/18/a6/7feb724849a3da0eefc572eaf7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/18/a6/7feb724849a3da0eefc572eaf7.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 3. נטילת ידיים של שחרית | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b2/c5/0e/540f32477aa3122a78016c3cc4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b2/c5/0e/540f32477aa3122a78016c3cc4.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 2. חמשת עינויי יום הכיפורים | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9b/fe/ea/50ba674559a25b2f5ebbccd4bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9b/fe/ea/50ba674559a25b2f5ebbccd4bc.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 1. מנהגי חודש אלול | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a4/17/33/a36d574e2796ea182d07413cc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a4/17/33/a36d574e2796ea182d07413cc3.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | מצוות הקדושה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b6/3b/fb/319db7418e8ec7b8c735910873.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b6/3b/fb/319db7418e8ec7b8c735910873.mp3</guid>
+   <pubDate>Sat, 05 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | שפת האמונה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1b/15/d3/9af2ef4f15b630dd01bd757c1e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1b/15/d3/9af2ef4f15b630dd01bd757c1e.mp3</guid>
+   <pubDate>Thu, 14 Oct 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

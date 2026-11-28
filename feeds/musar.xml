@@ -1,0 +1,2861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>מוסר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/musar.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי מוסר מכל ישיבות ההסדר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מוסר אביך | סיום פרק ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/24a73183/2dbcabaf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/24a73183/2dbcabaf.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך | סיום פרק ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d711bd0a/f30eaa0a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d711bd0a/f30eaa0a.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המצווה השבועית | ויצא | קדושת המקדש ויראתו</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit06_Vayetze_5767_87_Tabory.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/HaMitzvaHaShevuit06_Vayetze_5767_87_Tabory.mp3?dest-id=410397</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אידאל ומציאות | מוסר אביך פרק ד פסקאות ג-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/630ad23e/a721ba52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/630ad23e/a721ba52.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אידאל ומציאות | מוסר אביך פרק ד פסקאות ג-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/c97e0c32/c68dc0b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c97e0c32/c68dc0b3.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך | פרק ד פסקאות א-ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b62cfee3/cfcfd70a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b62cfee3/cfcfd70a.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך | פרק ד פסקאות א-ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/de3d8927/a786f7d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/de3d8927/a786f7d4.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידת הגאווה הראויה | מוסר אביך ג ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0fa8e4e5/aa084c87.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0fa8e4e5/aa084c87.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידת הגאווה הראויה | מוסר אביך ג ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d0930ff3/e842bffe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d0930ff3/e842bffe.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ימי יראה או ימי אהבה | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/930ff339-4fda-4a4f-bba4-c1a95e4dcfcc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/930ff339-4fda-4a4f-bba4-c1a95e4dcfcc/stream.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 | סדר החובות המוסריות</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · מוסר</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/fd91891c/73a63045.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fd91891c/73a63045.mp3</guid>
+   <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא - המוסריות של חיילי צה"ל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9b04d16e-3f90-4474-84e8-44d473b195fa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9b04d16e-3f90-4474-84e8-44d473b195fa/stream.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרכיבי ושורשי הגאווה | מוסר אביך ג ב-ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4085ed17/108eaca5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4085ed17/108eaca5.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרכיבי ושורשי הגאווה | מוסר אביך ג ב-ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9e477e92/eee54933.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9e477e92/eee54933.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדום | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oMP8BF-nLk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oMP8BF-nLk.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [2] | חובת הלימוד השכלי במידות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Qq5UjJPbQ4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Qq5UjJPbQ4.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [9] | איך זה שאני מניח תפילין הופך אותי לאדם יותר מוסרי? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zuwXFBIG_s.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zuwXFBIG_s.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לג' בעומר – גבורה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/yfKfaLeXqY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/yfKfaLeXqY.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | טז' לעומר – פחד א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/svkbD-ywY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/svkbD-ywY.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכרת טובה עליונה | מוסר אביך, פרק ב' ה' | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ad1c5e16/0cf1afec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ad1c5e16/0cf1afec.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכרת טובה עליונה | מוסר אביך, פרק ב' ה' | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d1694bf2/7bda4084.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d1694bf2/7bda4084.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוצר היראה - פורים תשפ''ה - הרב גד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72868217/episode_72868217.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72868217/episode_72868217.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיב התשובה 46 – מעביר על מידותיו: איך משתחררים מהאגו? | פרק ז</title>
+   <description>הרב יונתן רוזין · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יונתן רוזין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/56a1f1db-74ca-4f0f-ac16-37ca619258eb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/56a1f1db-74ca-4f0f-ac16-37ca619258eb/stream.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות כלי לרצון האלוקי | מוסר אביך תשפו , ב ה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3a3ae61c/b17f43ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3a3ae61c/b17f43ac.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות כלי לרצון האלוקי | מוסר אביך תשפו , ב ה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b960af4d/f88f1de4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b960af4d/f88f1de4.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדעת שורש הרגש והצורך בעולם ההתפתחותי | מוסר אביך | השלמות לפרק ב-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/84ab7460/1669316f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/84ab7460/1669316f.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדעת שורש הרגש והצורך בעולם ההתפתחותי | מוסר אביך | השלמות לפרק ב-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bd8de219/cf3e8699.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bd8de219/cf3e8699.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזכות לעשות את רצון ה' | מוסר אביך | ב-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/c41ea994/4c53fe5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c41ea994/4c53fe5a.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזכות לעשות את רצון ה' | מוסר אביך | ב-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/291beded/696d40de.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/291beded/696d40de.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [14] | חופש הדעות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=FIYyge9VkfU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/FIYyge9VkfU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/FIYyge9VkfU.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון הנשמות היבשות [7] | איך זה שאני עושה מצוות זה הופך אותי ליותר מוסרי | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=NGIpn0xa_GE</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/NGIpn0xa_GE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/NGIpn0xa_GE.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [12] | איך זה שאני שומר שבת הופך אותי ליותר מוסרי? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=U-jVDn8cT28</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/U-jVDn8cT28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/U-jVDn8cT28.mp3</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המידות המיוחדות (ב, ג) | 7</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4e12484e-7757-4541-871b-3d9f947e11f7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4e12484e-7757-4541-871b-3d9f947e11f7/stream.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מא' לעומר – חופש ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Tfj6nlzAFQU</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Tfj6nlzAFQU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Tfj6nlzAFQU.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מ' לעומר – חופש א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=XUtjzvligeg</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XUtjzvligeg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XUtjzvligeg.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לט' לעומר – אכילה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/LrhfVpgxEds-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/LrhfVpgxEds-1.mp3</guid>
+   <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסוד היראה בשיטת הרמב"ם | 22</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e163b5e6-90d0-439d-ad0e-a81b2af9d22d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e163b5e6-90d0-439d-ad0e-a81b2af9d22d/stream.mp3</guid>
+   <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לח' לעומר – אכילה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/U-ozYR5Kd7k-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/U-ozYR5Kd7k-1.mp3</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לז' לעומר – אכילה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/FD7985qb23U-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/FD7985qb23U-1.mp3</guid>
+   <pubDate>Sat, 09 May 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכיך דעהו והכרת הטוב | מוסר אביך פרק א פסקה ב , ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bad9c154/8a34a813.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bad9c154/8a34a813.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכיך דעהו והכרת הטוב | מוסר אביך פרק א פסקה ב ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/615396a8/97a8f80a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/615396a8/97a8f80a.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b4dc63f4-1043-440a-a4a1-c59f4c25c1b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/b4dc63f4-1043-440a-a4a1-c59f4c25c1b5.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכך דעהו | מוסר אביך | פרק ב - ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3b6936fe/186e852a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3b6936fe/186e852a.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכך דעהו | מוסר אביך | פרק ב - ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e7f0eb94/62cc095a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e7f0eb94/62cc095a.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 23 - האם י"ג מידות הרחמים הן הגשמה? - מאמר ב פסקאות ב - ד</title>
+   <description>הרב יצחק דעי · ישיבת כרם ביבנה · מוסר</description>
+   <itunes:author>הרב יצחק דעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/34e1fd55/c65f1a1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/34e1fd55/c65f1a1d.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיב התשובה 43 – חתימת י"ג מידות של רחמים | פרק ו</title>
+   <description>הרב יונתן רוזין · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יונתן רוזין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/cb1a6db3-4da6-46c0-a9af-514da322a652/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/cb1a6db3-4da6-46c0-a9af-514da322a652/stream.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאמין מחדש [11] | איך זה שאשים ציצית הופכת אותי לאדם יותר מוסרי? | הרב דניאל כהן</title>
+   <description>הרב דניאל כהן · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=D-GhDplznY8</description>
+   <itunes:author>הרב דניאל כהן</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/D-GhDplznY8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/D-GhDplznY8.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כנס "דרכה של תורה" | יראת שמיים = דרך ארץ | הרב רפאל ג'יאמי</title>
+   <description>הרב רפאל ג'יאמי · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=i_sw-d6Cu4o</description>
+   <itunes:author>הרב רפאל ג'יאמי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/i_sw-d6Cu4o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/i_sw-d6Cu4o.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השמחה | למוסר אביך א, ח | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bdc90bf0/a1aa874f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bdc90bf0/a1aa874f.mp3</guid>
+   <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השמחה | למוסר אביך א, ח | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/efa4e10f/fa0d028e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/efa4e10f/fa0d028e.mp3</guid>
+   <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אגרת המוסר לרבי ישראל מסלנט</title>
+   <description>הרב איתיאל סופר · ישיבת כרם ביבנה · מוסר</description>
+   <itunes:author>הרב איתיאל סופר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2b98e7eb/c36d55f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2b98e7eb/c36d55f1.mp3</guid>
+   <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יהושוע וידר | מוסר אביך תשפו | פרק א ג עד ו</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/13823ce4/0df15446.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/13823ce4/0df15446.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יהושוע וידר | מוסר אביך תשפו | פרק א ג עד ו</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/433fd670/16b0a3cb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/433fd670/16b0a3cb.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [11] | איך מגיעים לבהירות? | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=43pXJH5iIJ4</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/43pXJH5iIJ4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/43pXJH5iIJ4.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מגיעים לאהבת ה' ויראתו | 10</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/84b38b4e-fb53-49f0-b67b-eb36a818a856/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/84b38b4e-fb53-49f0-b67b-eb36a818a856/stream.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לכבס את המדים ולכבס את המידות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8681757c-1e88-4d19-a867-1b3353912544.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/8681757c-1e88-4d19-a867-1b3353912544.mp3</guid>
+   <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [10] | אמונה = חלות האומן באומנות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=IU_m-52lEas</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IU_m-52lEas.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IU_m-52lEas.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [9] | בין האהבה ל- שנאת הרשעה והרשעים | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cMpxkF1FddI</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cMpxkF1FddI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cMpxkF1FddI.mp3</guid>
+   <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [8] | אהבת ה' השוכנת בנשמה | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=8EVpX-a2c_Q</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8EVpX-a2c_Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8EVpX-a2c_Q.mp3</guid>
+   <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [7] | אהבת ה' בשלמות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=4hbaco_TjyU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/4hbaco_TjyU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/4hbaco_TjyU.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המוסר הטבעי לעומת מצוות התורה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d637e63b-b2dd-45e4-ae49-30518d2364d1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d637e63b-b2dd-45e4-ae49-30518d2364d1/stream.mp3</guid>
+   <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה זכה ודבקות א-לוהית | מידות הראיה תשפ"ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2ac7c4ef/cef953d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2ac7c4ef/cef953d2.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך תשפ"ו | מעין הקדמה ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0f530249/c6da87ae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0f530249/c6da87ae.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה זכה ודבקות א-לוהית | מידות הראיה תשפ"ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d47eeebb/38001a47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d47eeebb/38001a47.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך תשפ"ו | מעין הקדמה ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/5da0d33b/9067c29e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5da0d33b/9067c29e.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [6] | אהבת ה' בפועל | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=BWWMzMOeWG8</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BWWMzMOeWG8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BWWMzMOeWG8.mp3</guid>
+   <pubDate>Sun, 30 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [5] | קדימות כמותית וקדימות מהותית | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Wcq-JuEqPJA</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Wcq-JuEqPJA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Wcq-JuEqPJA.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [4] | אהבת ישראל – תמצית אהבת הכל | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=AD5Q5_T5UeY</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AD5Q5_T5UeY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AD5Q5_T5UeY.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [3] | אהבת כל הבריות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=oGlfIG44iK4</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oGlfIG44iK4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oGlfIG44iK4.mp3</guid>
+   <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כרך א אמונה ומצוותיה ב', ה - הפרדה בין המוסר לכוח</title>
+   <description>רבני הישיבה · ישיבת הר ברכה · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/85f786b0/podcast/play/110218598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-26%2F7e52d2bb-c452-dd1d-1088-2db2566171ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/85f786b0/podcast/play/110218598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-26%2F7e52d2bb-c452-dd1d-1088-2db2566171ad.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יחסי אהבה ויראה בראש השנה | הרב אסף נאמבורג | כנס תשובה ה'תשפ"ה</title>
+   <description>הרב אסף נאמבורג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cxOMweI_o-4</description>
+   <itunes:author>הרב אסף נאמבורג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cxOMweI_o-4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cxOMweI_o-4.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה מאהבה ותשובה מיראה | הרב בועז כהנא | כנס תשובה תשפ"ה</title>
+   <description>הרב בועז כהנא · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=8imIFQcZjLI</description>
+   <itunes:author>הרב בועז כהנא</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8imIFQcZjLI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8imIFQcZjLI.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך ג' ותחילת מידת האהבה</title>
+   <description>רבני הישיבה · ישיבת הר עציון · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://traffic.libsyn.com/secure/torah/02midot-haraaya5785_rnraanan.mp3?dest-id=410397" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://traffic.libsyn.com/secure/torah/02midot-haraaya5785_rnraanan.mp3?dest-id=410397</guid>
+   <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"לדעת חכמה ומוסר להבין אמרי בינה" (משלי, א, ב) - פירוש הפסוק</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d9e9fd36-d934-49a5-8566-83675159096e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/d9e9fd36-d934-49a5-8566-83675159096e.mp3</guid>
+   <pubDate>Fri, 12 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"לדעת חכמה ומוסר"</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/c3286b62-2a1a-47a8-a0e3-b14ba5822e25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/c3286b62-2a1a-47a8-a0e3-b14ba5822e25.mp3</guid>
+   <pubDate>Fri, 05 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה מוסר טבעי ואלוקי (שיעור 1)</title>
+   <description>הרב יצחק ג'מאל · ישיבת כרם ביבנה · מוסר</description>
+   <itunes:author>הרב יצחק ג'מאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/8576b7cf/80e4f2b7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8576b7cf/80e4f2b7.mp3</guid>
+   <pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יג מידות של רחמים | הרב אריק אוריאל</title>
+   <description>הרב אריק אוריאל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=dV7HVUVX5kU</description>
+   <itunes:author>הרב אריק אוריאל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/dV7HVUVX5kU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/dV7HVUVX5kU.mp3</guid>
+   <pubDate>Mon, 01 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת שמיים בסתר כבגלוי כשלמות אחת | רה"י – הרב דוד פנדל | תפילה</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=PaUsThvyBr8</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/PaUsThvyBr8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/PaUsThvyBr8.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מט' לעומר – מידות טובות ומידות רעות | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bhVxEotKzd8-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bhVxEotKzd8-1.mp3</guid>
+   <pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חכמה ומוסר (א, יז) | 18</title>
+   <description>רבני הישיבה · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/38537a62-bdaf-4c58-abef-bde808c0508f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/38537a62-bdaf-4c58-abef-bde808c0508f/stream.mp3</guid>
+   <pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מח' לעומר – להדבק במידותיו | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/aZ52uY7NTdU-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/aZ52uY7NTdU-1.mp3</guid>
+   <pubDate>Sat, 31 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מז' לעומר – חמדת הממון | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1u9vZ8u9jXo-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1u9vZ8u9jXo-1.mp3</guid>
+   <pubDate>Fri, 30 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מו' לעומר – זריזות | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/m7CrxXIWmDs-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/m7CrxXIWmDs-1.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מה' לעומר – זהירות | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/NTCozBVvPzU-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/NTCozBVvPzU-1.mp3</guid>
+   <pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מד' לעומר – שמחה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kCBcJldLHYk-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kCBcJldLHYk-1.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת שמיים | נתיבות עולם ב | נתיב יראה פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0586649e/fcc7fed1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0586649e/fcc7fed1.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת שמיים | נתיבות עולם ב | נתיב יראה פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7aec96b6/2298ae09.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7aec96b6/2298ae09.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מג' לעומר – שמחה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/jmWboiJkni4-1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/jmWboiJkni4-1.mp3</guid>
+   <pubDate>Mon, 26 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | מב' לעומר – שמחה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=IZxAcAC4jJ0</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IZxAcAC4jJ0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IZxAcAC4jJ0.mp3</guid>
+   <pubDate>Sun, 25 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לו' לעומר – צניעות ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Mp8-_futRaI</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Mp8-_futRaI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Mp8-_futRaI.mp3</guid>
+   <pubDate>Mon, 19 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לה' לעומר – צניעות א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Vxa9bpbEKdo</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Vxa9bpbEKdo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Vxa9bpbEKdo.mp3</guid>
+   <pubDate>Sun, 18 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לד' לעומר – גבורה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=oSm7wj9JgRw</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oSm7wj9JgRw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oSm7wj9JgRw.mp3</guid>
+   <pubDate>Sat, 17 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לב' לעומר – גבורה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=OOlKYAa9YR8</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/OOlKYAa9YR8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/OOlKYAa9YR8.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | לא' לעומר – נקימה ונטירה | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=WWUafEHHzzg</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/WWUafEHHzzg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/WWUafEHHzzg.mp3</guid>
+   <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ל' לעומר – תמימות ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=DXoLMHtCpzA</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/DXoLMHtCpzA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/DXoLMHtCpzA.mp3</guid>
+   <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כט' לעומר – תמימות א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=wjs-rj4esbw</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/wjs-rj4esbw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/wjs-rj4esbw.mp3</guid>
+   <pubDate>Mon, 12 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כח' לעומר – ענווה-גאווה ד' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=mcItQ_nEBGc</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mcItQ_nEBGc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mcItQ_nEBGc.mp3</guid>
+   <pubDate>Sun, 11 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כז' לעומר – ענווה-גאווה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=z9N3ywkFiS4</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/z9N3ywkFiS4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/z9N3ywkFiS4.mp3</guid>
+   <pubDate>Sat, 10 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כו' לעומר – ענווה-גאווה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=kzBWkUeMRVQ</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kzBWkUeMRVQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kzBWkUeMRVQ.mp3</guid>
+   <pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כה' לעומר – ענווה-גאווה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=CJc5yScExOY</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CJc5yScExOY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CJc5yScExOY.mp3</guid>
+   <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כד' לעומר – דיבור ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=k2vJYeK25zI</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/k2vJYeK25zI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/k2vJYeK25zI.mp3</guid>
+   <pubDate>Wed, 07 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כג' לעומר – דיבור ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=eNWlShIMdM4</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/eNWlShIMdM4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/eNWlShIMdM4.mp3</guid>
+   <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כב' לעומר – דיבור א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=YwqE-GiQ8to</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/YwqE-GiQ8to.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/YwqE-GiQ8to.mp3</guid>
+   <pubDate>Mon, 05 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כא' לעומר – עין טובה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cFvryYl4d9Q</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cFvryYl4d9Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cFvryYl4d9Q.mp3</guid>
+   <pubDate>Sun, 04 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | כ' לעומר – עין טובה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Y-YhPbSp6zg</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Y-YhPbSp6zg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Y-YhPbSp6zg.mp3</guid>
+   <pubDate>Sat, 03 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יט' לעומר – עין טובה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=b493Ta9HIqU</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/b493Ta9HIqU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/b493Ta9HIqU.mp3</guid>
+   <pubDate>Fri, 02 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יח' לעומר – פחד ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Zjc1hn4I-hw</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Zjc1hn4I-hw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Zjc1hn4I-hw.mp3</guid>
+   <pubDate>Thu, 01 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יז' לעומר – פחד ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cFXZU3vs7DA</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cFXZU3vs7DA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cFXZU3vs7DA.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | טו' לעומר – כבוד ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=gq9hG2KtgrM</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/gq9hG2KtgrM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/gq9hG2KtgrM.mp3</guid>
+   <pubDate>Mon, 28 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יד' לעומר – כבוד ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=gEaKirlZ6aM</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/gEaKirlZ6aM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/gEaKirlZ6aM.mp3</guid>
+   <pubDate>Sun, 27 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יג' לעומר – כבוד א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Kgj8kpXiFqc</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Kgj8kpXiFqc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Kgj8kpXiFqc.mp3</guid>
+   <pubDate>Sat, 26 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יב' לעומר – אהבה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=k8W-rhWL_6w</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/k8W-rhWL_6w.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/k8W-rhWL_6w.mp3</guid>
+   <pubDate>Fri, 25 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | יא' לעומר – אהבה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=wCpVSw3uzdc</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/wCpVSw3uzdc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/wCpVSw3uzdc.mp3</guid>
+   <pubDate>Thu, 24 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | י' לעומר – יראת שמיים וכיבוד הורים ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=2ZXu2NTKzeM</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/2ZXu2NTKzeM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/2ZXu2NTKzeM.mp3</guid>
+   <pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני: עבודת המידות | מאור עיניים</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · מוסר</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/100632007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-31%2F397559175-44100-2-892ac828795b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/100632007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-31%2F397559175-44100-2-892ac828795b.mp3</guid>
+   <pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ט' לעומר – יראת שמיים וכיבוד הורים ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=aoyDKvxzaSY</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/aoyDKvxzaSY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/aoyDKvxzaSY.mp3</guid>
+   <pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החלקה על המידות</title>
+   <description>הרב מאיר בזק · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב מאיר בזק</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/697500e0-941f-4938-838e-6c177907084f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-etzot/audio/697500e0-941f-4938-838e-6c177907084f.mp3</guid>
+   <pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ח' לעומר – יראת שמיים וכיבוד הורים א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=x223hs5MPgU</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/x223hs5MPgU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/x223hs5MPgU.mp3</guid>
+   <pubDate>Mon, 21 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ז' לעומר – קנאה ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=AH1LpH_BmrE</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AH1LpH_BmrE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AH1LpH_BmrE.mp3</guid>
+   <pubDate>Sun, 20 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ו' לעומר – קנאה ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=7SFo48UTLeY</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7SFo48UTLeY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7SFo48UTLeY.mp3</guid>
+   <pubDate>Sat, 19 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ה' לעומר – קנאה א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=JgR4q9lBB4M</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/JgR4q9lBB4M.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/JgR4q9lBB4M.mp3</guid>
+   <pubDate>Fri, 18 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ד' לעומר – כעס ד' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=5gBcPEG4A9c</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5gBcPEG4A9c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5gBcPEG4A9c.mp3</guid>
+   <pubDate>Thu, 17 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ג' לעומר – כעס ג' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=zR5wUpoKwoM</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zR5wUpoKwoM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zR5wUpoKwoM.mp3</guid>
+   <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | ב' לעומר – כעס ב' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=T9Bxea1UfmI</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/T9Bxea1UfmI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/T9Bxea1UfmI.mp3</guid>
+   <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות ב-3 דק' | א' לעומר – כעס א' | הרב שי סבג</title>
+   <description>הרב שי סבג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=HVHj9XkYNr4</description>
+   <itunes:author>הרב שי סבג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/HVHj9XkYNr4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/HVHj9XkYNr4.mp3</guid>
+   <pubDate>Mon, 14 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפחד הבריא | רה"י – הרב דוד פנדל | מידות הראי"ה</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=PXxplHBqWJo</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/PXxplHBqWJo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/PXxplHBqWJo.mp3</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המוסר הלאומי | אורות התחיה ג | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1009d366/03f1c5d1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1009d366/03f1c5d1.mp3</guid>
+   <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המוסר הלאומי | אורות התחיה ג | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a3f4c0cd/05da87d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a3f4c0cd/05da87d7.mp3</guid>
+   <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבה זה כל הסיפור | רה"י – הרב דוד פנדל | מידות הראי"ה</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Hj9WmCqHseU</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Hj9WmCqHseU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Hj9WmCqHseU.mp3</guid>
+   <pubDate>Wed, 22 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גד אוצר היראה- ענייני אלול- אלול פד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63612416/001.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63612416/001.mp3</guid>
+   <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב גד- אוצר היראה- ענייני אלול וראש השנה</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63612414/episode_63612414.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63612414/episode_63612414.mp3</guid>
+   <pubDate>Wed, 08 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דילמות מוסריות בזמן המלחמה | רה"י הרב יצחק שילת</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c13366ad-1f7a-4076-8691-8a5930b83fa4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c13366ad-1f7a-4076-8691-8a5930b83fa4/stream.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ג מידות של... רחמים? | 5</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ccda256f-e2ef-4c8e-b3b2-7f791fd03d0c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ccda256f-e2ef-4c8e-b3b2-7f791fd03d0c/stream.mp3</guid>
+   <pubDate>Sat, 14 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | עקידת יצחק-המסר והמוסר</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מוסר</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/94518898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F390276768-44100-2-793107ab4ab11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/94518898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F390276768-44100-2-793107ab4ab11.mp3</guid>
+   <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נסירת המידות | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a70f2564-21c4-4d4e-b327-a65e3bae9fab/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a70f2564-21c4-4d4e-b327-a65e3bae9fab/stream.mp3</guid>
+   <pubDate>Tue, 19 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | יראת שמיים והשתדלות-בעניין ההשקפה החרדית [חלק ב']</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מוסר</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/94542543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-17%2F389962575-44100-2-7f6b57adc9e31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/94542543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-17%2F389962575-44100-2-7f6b57adc9e31.mp3</guid>
+   <pubDate>Sun, 17 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבחירה והסגולה | מידות הראיה תשפ"ד | אמונה ז-י | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/02897b95/e3e7bab5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/02897b95/e3e7bab5.mp3</guid>
+   <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך: מיראה לאהבה</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · מוסר</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd4bf390/podcast/play/94104336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2Ff6aec7a7-d9e2-63cf-0668-b65abbd12a26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd4bf390/podcast/play/94104336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2Ff6aec7a7-d9e2-63cf-0668-b65abbd12a26.mp3</guid>
+   <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | יראת שמיים והשתדלות-בעניין ההשקפה החרדית</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מוסר</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/94117366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389437117-44100-2-66ff6d7911367.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/94117366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389437117-44100-2-66ff6d7911367.mp3</guid>
+   <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ג מידות ועשרת הדיברות | יום עיון עשרת ימי תשובה תשפ"ה | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת הר עציון · מוסר</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92848746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387866970-44100-2-b67cea38263f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92848746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387866970-44100-2-b67cea38263f5.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות המוסר | שיעור לראש השנה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/de774b41/c1545317.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/de774b41/c1545317.mp3</guid>
+   <pubDate>Fri, 27 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות המוסר | שיעור לראש השנה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2ed7ab11/3417550c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2ed7ab11/3417550c.mp3</guid>
+   <pubDate>Fri, 27 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב תמיר גרנות | כי תצא - מוסר המלחמה בישראל</title>
+   <description>הרב תמיר גרנות · ישיבת אורות שאול · מוסר</description>
+   <itunes:author>הרב תמיר גרנות</itunes:author>
+   <enclosure url="https://anchor.fm/s/f9079af0/podcast/play/91621689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-12%2F6ef208ba-c261-09b4-2cba-8caa8f3b8d08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f9079af0/podcast/play/91621689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-12%2F6ef208ba-c261-09b4-2cba-8caa8f3b8d08.mp3</guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבע מידות באדם (ה, יא - יג) - 70</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/751a90b0-f7ca-441b-9e17-bf99a89c1fab/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/751a90b0-f7ca-441b-9e17-bf99a89c1fab/stream.mp3</guid>
+   <pubDate>Fri, 23 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגבה ליבו בדרכי ה' | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=vji-qxsP4ug</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vji-qxsP4ug.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vji-qxsP4ug.mp3</guid>
+   <pubDate>Mon, 19 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת ה' היא אוצרו | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=8kX2v8q1MqU</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8kX2v8q1MqU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8kX2v8q1MqU.mp3</guid>
+   <pubDate>Sun, 18 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותן בליבנו להבין | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=iJkY0PwVDZw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/iJkY0PwVDZw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/iJkY0PwVDZw.mp3</guid>
+   <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תלמד לדבר | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=FWuRqEKnHiw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/FWuRqEKnHiw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/FWuRqEKnHiw.mp3</guid>
+   <pubDate>Tue, 13 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר אל מקור החיים | מידות הראיה | אמונה א | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/885ac401/403fe08d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/885ac401/403fe08d.mp3</guid>
+   <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר אל מקור החיים | מידות הראיה | אמונה א | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e5909a6f/003ff381.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e5909a6f/003ff381.mp3</guid>
+   <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדעת להקשיב | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=YPVcqq7n6p8</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/YPVcqq7n6p8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/YPVcqq7n6p8.mp3</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תלמוד | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=32QV-QL84ng</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/32QV-QL84ng.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/32QV-QL84ng.mp3</guid>
+   <pubDate>Wed, 07 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך אמר ליבי | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=w3xZNa6-UgM</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/w3xZNa6-UgM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/w3xZNa6-UgM.mp3</guid>
+   <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהוב את הצניעות | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=w7csMARe2G8</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/w7csMARe2G8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/w7csMARe2G8.mp3</guid>
+   <pubDate>Mon, 05 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תנו כבוד לתורה ב' | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=8p51F3TQ1K4</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8p51F3TQ1K4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8p51F3TQ1K4.mp3</guid>
+   <pubDate>Sun, 04 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תנו כבוד לתורה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=O8__X2n2S7c</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/O8__X2n2S7c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/O8__X2n2S7c.mp3</guid>
+   <pubDate>Thu, 01 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גילוי אליהו | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=kRzjk3mUnX0</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kRzjk3mUnX0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kRzjk3mUnX0.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה משחררת | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=ujZaQkzEuAQ</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ujZaQkzEuAQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ujZaQkzEuAQ.mp3</guid>
+   <pubDate>Wed, 24 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גלה את המעיין שבך | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=XdVf4rJnSnw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XdVf4rJnSnw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XdVf4rJnSnw.mp3</guid>
+   <pubDate>Mon, 22 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשם התורה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=oPaUvKDKaqI</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oPaUvKDKaqI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oPaUvKDKaqI.mp3</guid>
+   <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אדם לעמל יולד | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=A0vvKCFyzJY</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/A0vvKCFyzJY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/A0vvKCFyzJY.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדר | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=l_tD5glbz00</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/l_tD5glbz00.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/l_tD5glbz00.mp3</guid>
+   <pubDate>Wed, 17 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה כוללת כל הטובות שבעולם | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=rOfrND73PaM</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/rOfrND73PaM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/rOfrND73PaM.mp3</guid>
+   <pubDate>Tue, 16 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת החטא וקנייתה (כד-כה) - 53</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/db686dbe-ec27-425d-9f8a-1a8507f9c4da/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/db686dbe-ec27-425d-9f8a-1a8507f9c4da/stream.mp3</guid>
+   <pubDate>Mon, 15 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זריזות מביאה לידי נקיות | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Jb09gsOurXo</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Jb09gsOurXo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Jb09gsOurXo.mp3</guid>
+   <pubDate>Sun, 14 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת העונש ויראת הרוממות ביחס ליראת החטא (כד) - 52</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e7a6c61d-129a-4eaf-b4b1-7190d8e946fe/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e7a6c61d-129a-4eaf-b4b1-7190d8e946fe/stream.mp3</guid>
+   <pubDate>Sun, 14 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נקיות | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Nlt0AyAn7oA</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Nlt0AyAn7oA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Nlt0AyAn7oA.mp3</guid>
+   <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארדוף ואשיג | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=fNJd6evdVcQ</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/fNJd6evdVcQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/fNJd6evdVcQ.mp3</guid>
+   <pubDate>Wed, 10 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נעם עול מצוות | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=7gnSWl2D6Sk</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7gnSWl2D6Sk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7gnSWl2D6Sk.mp3</guid>
+   <pubDate>Mon, 08 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בוא נתחיל מהתחלה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=diwmoDTCYWw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/diwmoDTCYWw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/diwmoDTCYWw.mp3</guid>
+   <pubDate>Sun, 07 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עזות דקדושה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=9kGi901Oug4</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9kGi901Oug4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9kGi901Oug4.mp3</guid>
+   <pubDate>Thu, 04 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לרוץ | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=IT4CfUXDl84</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IT4CfUXDl84.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IT4CfUXDl84.mp3</guid>
+   <pubDate>Wed, 03 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תנו כבוד לתורה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=t9bwdVX5WQc</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/t9bwdVX5WQc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/t9bwdVX5WQc.mp3</guid>
+   <pubDate>Tue, 02 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עין טובה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Kw6_a_65gu4</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Kw6_a_65gu4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Kw6_a_65gu4.mp3</guid>
+   <pubDate>Thu, 27 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בגנות המחלוקת | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=aVHyL78_fwI</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/aVHyL78_fwI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/aVHyL78_fwI.mp3</guid>
+   <pubDate>Wed, 26 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השבח שבמחלוקת | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=CQYf-5tS2BM</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CQYf-5tS2BM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CQYf-5tS2BM.mp3</guid>
+   <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוהב את הבריות ומקרבן לתורה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=vkVXdt6CPzM</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vkVXdt6CPzM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vkVXdt6CPzM.mp3</guid>
+   <pubDate>Sun, 23 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבה זה כל הסיפור | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cfd6HPqV4go</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cfd6HPqV4go.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cfd6HPqV4go.mp3</guid>
+   <pubDate>Thu, 20 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקה – ההשקעה הכי טובה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=1gb-oMuiAmU</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1gb-oMuiAmU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1gb-oMuiAmU.mp3</guid>
+   <pubDate>Wed, 19 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סור מרע | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=IMoBuTDlDBg</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IMoBuTDlDBg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IMoBuTDlDBg.mp3</guid>
+   <pubDate>Tue, 18 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למען שמו באהבה | הרב יהושוע וידר | מידות הראיה | אהבה ג-ד</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3e704c79/588decc7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3e704c79/588decc7.mp3</guid>
+   <pubDate>Tue, 18 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאיפות | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=ra3prlUJsAs</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ra3prlUJsAs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ra3prlUJsAs.mp3</guid>
+   <pubDate>Mon, 17 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עם ישנוניות לא קונים תורה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=zLTxzWW73ro</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zLTxzWW73ro.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zLTxzWW73ro.mp3</guid>
+   <pubDate>Sun, 16 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לאבד מהר זה אשמתך | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=khiSVVCcQ78</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/khiSVVCcQ78.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/khiSVVCcQ78.mp3</guid>
+   <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שינוי הרגלי למידה | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=L4-slUdiT0o</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/L4-slUdiT0o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/L4-slUdiT0o.mp3</guid>
+   <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אז מה אם אתה חכם? | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=eLrinFmPfyE</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/eLrinFmPfyE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/eLrinFmPfyE.mp3</guid>
+   <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדלות בתורה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=U7jMOoCNzaY</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/U7jMOoCNzaY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/U7jMOoCNzaY.mp3</guid>
+   <pubDate>Wed, 05 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המולת בית מדרש | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=5b_6v-ucG1k</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5b_6v-ucG1k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5b_6v-ucG1k.mp3</guid>
+   <pubDate>Sun, 02 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזרות | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=fPMeL-o9kTU</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/fPMeL-o9kTU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/fPMeL-o9kTU.mp3</guid>
+   <pubDate>Wed, 29 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת ישראל | הרב יהושוע וידר | מידות הראיה | אהבה חלק ב</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9c6d98e1/a23b70d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9c6d98e1/a23b70d3.mp3</guid>
+   <pubDate>Wed, 29 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אני קבעתי את מקומי בבית המדרש | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Ap0qVEBgSzA</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Ap0qVEBgSzA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Ap0qVEBgSzA.mp3</guid>
+   <pubDate>Tue, 28 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נוח לרצות וקשה לכעוס | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=MB96ZyBusZw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/MB96ZyBusZw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/MB96ZyBusZw.mp3</guid>
+   <pubDate>Sun, 26 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרטי היראה (יט) - 38</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/cc4a79d6-54d9-4da4-a8da-5ccd1c65c03e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/cc4a79d6-54d9-4da4-a8da-5ccd1c65c03e/stream.mp3</guid>
+   <pubDate>Sat, 25 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלי שלך | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=G6pUb-Km7sY</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/G6pUb-Km7sY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/G6pUb-Km7sY.mp3</guid>
+   <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היראה והכבוד - 37</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7bbdd9a9-93b7-4c3b-bfd4-9b7b0a3f6e90/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7bbdd9a9-93b7-4c3b-bfd4-9b7b0a3f6e90/stream.mp3</guid>
+   <pubDate>Mon, 20 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזמן קצר והמלאכה מרובה | הרב שלומי בן יאיר | פרקי אבות</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=3QQ1pTp914A</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3QQ1pTp914A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3QQ1pTp914A.mp3</guid>
+   <pubDate>Thu, 16 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתחיל בגנות ומסיים בשבח | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=AvxeGhCNe94</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AvxeGhCNe94.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AvxeGhCNe94.mp3</guid>
+   <pubDate>Mon, 13 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העומק שבשאלת התם | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=WxjgDoBLFa0</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/WxjgDoBLFa0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/WxjgDoBLFa0.mp3</guid>
+   <pubDate>Tue, 16 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ימין מקרבת | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=jJOi7VKs74A</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/jJOi7VKs74A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/jJOi7VKs74A.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה בן זומא קשור? | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=L8z2-zuryXc</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/L8z2-zuryXc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/L8z2-zuryXc.mp3</guid>
+   <pubDate>Sun, 14 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומד מן הקטנים | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=7AoG9WVp6zg</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7AoG9WVp6zg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7AoG9WVp6zg.mp3</guid>
+   <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים יותר מכיפורים | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=kbCoRWMv4wk</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kbCoRWMv4wk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kbCoRWMv4wk.mp3</guid>
+   <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קירוב | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=JlS0jylCf1Q</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/JlS0jylCf1Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/JlS0jylCf1Q.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצורך בבאירות יסודות האמונה לעבודת ה' | הרב וידר | הקדמה למוסר אביך</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ba113d2e/938947dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ba113d2e/938947dc.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השמחה שלמעלה מן הדעת | הרב שילה טובי | פרקי אבות</title>
+   <description>הרב שילה טובי · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Ph1qCiJ8Lqg</description>
+   <itunes:author>הרב שילה טובי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Ph1qCiJ8Lqg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Ph1qCiJ8Lqg.mp3</guid>
+   <pubDate>Mon, 08 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צעקת הדל | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=kmZ9Z0oZtFM</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kmZ9Z0oZtFM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kmZ9Z0oZtFM.mp3</guid>
+   <pubDate>Sun, 07 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמונה פרקים לרמב"ם [34] | פרק ד(7) – איזון מידותי אצל החסידים | הרב דרור טוויל</title>
+   <description>הרב דרור טוויל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=w8AkN4PV6iU</description>
+   <itunes:author>הרב דרור טוויל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/w8AkN4PV6iU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/w8AkN4PV6iU.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קינאת יצאת | רה"י – הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=G_liUZJC20A</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/G_liUZJC20A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/G_liUZJC20A.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמונה פרקים לרמב"ם [33] | פרק ד(6) – עניין איזון מידותי אצל החסידים | הרב דרור טוויל</title>
+   <description>הרב דרור טוויל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Kv1VNaxkpFA</description>
+   <itunes:author>הרב דרור טוויל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Kv1VNaxkpFA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Kv1VNaxkpFA.mp3</guid>
+   <pubDate>Wed, 03 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד(4) איך המידות מגיעות לנפש? | שמונה פרקים לרמב"ם [31] | הרב דרור טוויל</title>
+   <description>הרב דרור טוויל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=TqXgxBOXPNw</description>
+   <itunes:author>הרב דרור טוויל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/TqXgxBOXPNw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/TqXgxBOXPNw.mp3</guid>
+   <pubDate>Mon, 01 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נקיות המעשים והמידות ומידת הגאווה (יא) - 24</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e030ee15-7e67-4445-a08f-5c83e161e801/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e030ee15-7e67-4445-a08f-5c83e161e801/stream.mp3</guid>
+   <pubDate>Mon, 01 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמונה פרקים לרמב"ם [30] | פרק ד(3) – עניין המיצוע בין המידות לרמב"ם | הרב דרור טוויל</title>
+   <description>הרב דרור טוויל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=kTnHb1WGmcc</description>
+   <itunes:author>הרב דרור טוויל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kTnHb1WGmcc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kTnHb1WGmcc.mp3</guid>
+   <pubDate>Sun, 31 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בל יראה ובל ימצה - 7</title>
+   <description>רבני הישיבה · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/dc136ca9-b34f-4b58-aa56-1b4a75a46d5f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/dc136ca9-b34f-4b58-aa56-1b4a75a46d5f/stream.mp3</guid>
+   <pubDate>Sun, 31 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החירות האמיתית - מידות מתוקנות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/2c581f7b-1723-44af-a99e-df15c0598335.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/2c581f7b-1723-44af-a99e-df15c0598335.mp3</guid>
+   <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרני רשעים אגדע | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=4eeEKzb3CCY</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/4eeEKzb3CCY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/4eeEKzb3CCY.mp3</guid>
+   <pubDate>Tue, 19 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לפורים- ל אדר א- תשפד אוצר היראה- הרב גד</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59101570/episode_59101570.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59101570/episode_59101570.mp3</guid>
+   <pubDate>Tue, 19 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואת על במותימו תדרוך | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Fg9abVfuXBU</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Fg9abVfuXBU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Fg9abVfuXBU.mp3</guid>
+   <pubDate>Mon, 18 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>באבוד רשעים רינה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=05BhV5buCOE</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/05BhV5buCOE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/05BhV5buCOE.mp3</guid>
+   <pubDate>Sun, 17 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תרצה את חברך בשעת כעסו | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=0Vgln2KXT4Y</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0Vgln2KXT4Y.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0Vgln2KXT4Y.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קצת טאקט | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=vlr0fGai2Qw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vlr0fGai2Qw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vlr0fGai2Qw.mp3</guid>
+   <pubDate>Wed, 13 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עולם הזה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=SKHQLdjCEMk</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/SKHQLdjCEMk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/SKHQLdjCEMk.mp3</guid>
+   <pubDate>Sun, 10 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זנב לאריות | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=6GJ3AqF1owE</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/6GJ3AqF1owE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/6GJ3AqF1owE.mp3</guid>
+   <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בגובה העיניים | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=0AGNRd7sL4s</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0AGNRd7sL4s.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0AGNRd7sL4s.mp3</guid>
+   <pubDate>Wed, 06 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוי גולה למקום תורה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=3C3jQicllR4</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3C3jQicllR4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3C3jQicllR4.mp3</guid>
+   <pubDate>Sun, 03 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כתר תורה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=WZUfSis0KvY</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/WZUfSis0KvY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/WZUfSis0KvY.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חכמים הזהרו בדבריכם | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=lnOoNdEBlbo</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/lnOoNdEBlbo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/lnOoNdEBlbo.mp3</guid>
+   <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אישים בתלמוד (פרק 49) • י"ג מידות דרבי ישמעאל - חלק ה' ואחרון</title>
+   <description>רבני הישיבה · ישיבת תקוע · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a328e165-d3bf-4879-a775-a7b35b1bc17b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a328e165-d3bf-4879-a775-a7b35b1bc17b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אישים בתלמוד (פרק 48) • י"ג מידות דרבי ישמעאל - חלק ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/07f55778-c0da-406a-96c0-3991cfec5072.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/07f55778-c0da-406a-96c0-3991cfec5072.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 23 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין 'אופס טעיתי' | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=DJOiNnuaF3s</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/DJOiNnuaF3s.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/DJOiNnuaF3s.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אישים בתלמוד (פרק 47) • י"ג מידות דרבי ישמעאל - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/decebf45-87f3-48df-85d2-bec04239bd09.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/decebf45-87f3-48df-85d2-bec04239bd09.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבוד חבר | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=0pJWR6APVsQ</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0pJWR6APVsQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0pJWR6APVsQ.mp3</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהא מורא רבך כמורא שמיים | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=p06Ty-BORCs</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/p06Ty-BORCs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/p06Ty-BORCs.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כנסייה לשם שמיים | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=LwnXxg5wZ2o</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/LwnXxg5wZ2o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/LwnXxg5wZ2o.mp3</guid>
+   <pubDate>Sun, 18 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצווה אחת (2) | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=kjoQnD0F0Nw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kjoQnD0F0Nw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kjoQnD0F0Nw.mp3</guid>
+   <pubDate>Thu, 15 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצווה אחת (1) | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=SFvXMSq6Vvw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/SFvXMSq6Vvw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/SFvXMSq6Vvw.mp3</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוי ממעט בעסק | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=GrUH0zd-CwQ</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/GrUH0zd-CwQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/GrUH0zd-CwQ.mp3</guid>
+   <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תהי דן בפני יחידי | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=EO2NpFd9ht4</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/EO2NpFd9ht4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/EO2NpFd9ht4.mp3</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גס ליבו בהוראה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=CFKGGTRs5Sk</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CFKGGTRs5Sk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CFKGGTRs5Sk.mp3</guid>
+   <pubDate>Tue, 06 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבוד תורה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Rhor2KjBh5k</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Rhor2KjBh5k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Rhor2KjBh5k.mp3</guid>
+   <pubDate>Mon, 05 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנאה מדברי תורה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=i-Q_tKyum48</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/i-Q_tKyum48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/i-Q_tKyum48.mp3</guid>
+   <pubDate>Sun, 04 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה לשעה | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=JlntQG0QBi8</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/JlntQG0QBi8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/JlntQG0QBi8.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חילול ה' | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=T4aBfyXy-IY</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/T4aBfyXy-IY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/T4aBfyXy-IY.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב וידר | מוסר אביך | מעין הקדמה | הצורך לכתיבה</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/29fed9d9/ae9267c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/29fed9d9/ae9267c8.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתוך ה- ק' | רה"י הרב דוד פנדל | פרקי אבות</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=XJWV1Sp9Qkk</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XJWV1Sp9Qkk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XJWV1Sp9Qkk.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו שלישי-מי שלא עם הציבור בצערו לא יראה בשמחתו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82016091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2F79036e09-7ad0-3012-3458-42461af13b16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82016091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2F79036e09-7ad0-3012-3458-42461af13b16.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א משנה ג - יראה ואהבה</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/81963605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-29%2F365464253-44100-2-02c6a1a202fd2.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/81963605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-29%2F365464253-44100-2-02c6a1a202fd2.m4a</guid>
+   <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רה"י הרב דוד פנדל | פרקי אבות | אין לך אדם שאין לו שעה</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=r0SIDAqZRQI</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/r0SIDAqZRQI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/r0SIDAqZRQI.mp3</guid>
+   <pubDate>Thu, 25 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רה"י הרב דוד פנדל | פרקי אבות | אל תהי בז לכל אדם</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=bMiXzm-dhsw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bMiXzm-dhsw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bMiXzm-dhsw.mp3</guid>
+   <pubDate>Thu, 25 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רה"י הרב דוד פנדל | פרקי אבות | שכר מצווה מצווה</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=VEtRXfrA6iw</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/VEtRXfrA6iw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/VEtRXfrA6iw.mp3</guid>
+   <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצורך לכתיבה | הרב יהושוע וידר | מוסר אביך</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/841d6d3b/790bf362.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/841d6d3b/790bf362.mp3</guid>
+   <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רה"י הרב דוד פנדל | פרקי אבות | מצווה כנגד מצווה</title>
+   <description>הרב דוד פנדל · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=jDUyoFLPndc</description>
+   <itunes:author>הרב דוד פנדל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/jDUyoFLPndc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/jDUyoFLPndc.mp3</guid>
+   <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות – הרב ויצמן והרב בזק</title>
+   <description>הרב ויצמן בזק · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב ויצמן בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/81096043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F32dcb7a3-1b60-150b-980d-5e8d59d164c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/81096043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F32dcb7a3-1b60-150b-980d-5e8d59d164c3.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות – הרב ויצמן והרב וינר</title>
+   <description>הרב ויצמן וינר · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב ויצמן וינר</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/81095958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F61f5409a-751d-1f69-6065-c427b1b8956a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/81095958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F61f5409a-751d-1f69-6065-c427b1b8956a.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10 - משמעותה המוסרית של לקיחת הברכות</title>
+   <description>הרב דוד סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב דוד סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0243537c-00f3-41ba-8934-073f7d2c4815/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0243537c-00f3-41ba-8934-073f7d2c4815/stream.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מכתב מאליהו</title>
+   <description>הרב וינר · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב וינר</itunes:author>
+   <enclosure url="https://anchor.fm/s/efbd0a0c/podcast/play/80517232/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-27%2Fff12c7c2-aa2a-7df8-152c-dc958b4a1756.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efbd0a0c/podcast/play/80517232/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-27%2Fff12c7c2-aa2a-7df8-152c-dc958b4a1756.mp3</guid>
+   <pubDate>Wed, 27 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - מוסרו של מסילת הישרים - הקדמה (חלק א)</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/06ed7189-c508-41f4-9cad-ab869dbae3ad/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/06ed7189-c508-41f4-9cad-ab869dbae3ad/stream.mp3</guid>
+   <pubDate>Sun, 24 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ - מידותיהם של בני יעקב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/42e0dd26-a841-45ee-a1b6-081a800cbd78/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/42e0dd26-a841-45ee-a1b6-081a800cbd78/stream.mp3</guid>
+   <pubDate>Fri, 15 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות – שלושה שלבים בדרך</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/82f81d0d-9b87-42e8-8660-5b591f90956c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/82f81d0d-9b87-42e8-8660-5b591f90956c.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/087b0719-e90d-4b98-a8fb-b520729b7b15.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/087b0719-e90d-4b98-a8fb-b520729b7b15.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלימוד המוסר</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/4b19f118-d0a0-4387-9df5-52c4c9e64c92.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/4b19f118-d0a0-4387-9df5-52c4c9e64c92.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות לימוד המוסר</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/40aa88cb-2c7d-45c0-9458-af1a15c680f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/40aa88cb-2c7d-45c0-9458-af1a15c680f6.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות מתוך אמונה – ענוה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/943418e9-3639-49ae-9a00-76fa5d9aff2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/943418e9-3639-49ae-9a00-76fa5d9aff2f.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת המידות מתוך אמונה – פתיחה</title>
+   <description>הרב יהושע ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב יהושע ויצמן</itunes:author>
+   <enclosure url="https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/f110b4e4-1cfa-4723-837c-62d16d0aa93e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yesmalot-podcast.media-384.workers.dev/maalot-musar/audio/f110b4e4-1cfa-4723-837c-62d16d0aa93e.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - התחברות עם הרשע ויראת שמיים (א, ז)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d53aec61-1b5a-4fbb-beb4-1289d568530a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d53aec61-1b5a-4fbb-beb4-1289d568530a/stream.mp3</guid>
+   <pubDate>Wed, 15 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - המוסר האלוהי</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7ee3326c-7608-4bec-82ee-5839ef8ee583/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7ee3326c-7608-4bec-82ee-5839ef8ee583/stream.mp3</guid>
+   <pubDate>Fri, 03 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - עבודה מיראה (א,ג)</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/05211a6e-af33-48fe-be9d-7c95ac085d28/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/05211a6e-af33-48fe-be9d-7c95ac085d28/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה בשמחה או ביראה? | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/fc34c938/5aca78e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fc34c938/5aca78e0.mp3</guid>
+   <pubDate>Fri, 15 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - ראשית המאבק בין יעקב לעשו: טבע תרבות ומוסר</title>
+   <description>הרב דוד סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב דוד סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/71108263-0c09-4b71-8f19-738c95e55865/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/71108263-0c09-4b71-8f19-738c95e55865/stream.mp3</guid>
+   <pubDate>Tue, 12 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההבנה הסבתית וההבנה המוסרית | הרב אברהם שילר | אורות | ישראל ותחייתו ב</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/01d2861b/088b3ac2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/01d2861b/088b3ac2.mp3</guid>
+   <pubDate>Mon, 11 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התאמת המידות לאדם | הרב אריאל שרשבסקי | נתיבות עולם | צניעות א' פסקה א' | שיעור ראשון</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/3c22db39/b2c156d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3c22db39/b2c156d8.mp3</guid>
+   <pubDate>Tue, 29 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אישים בתלמוד (פרק 21) • י"ג מידות דרבי ישמעאל - חלק ד' ואחרון</title>
+   <description>רבני הישיבה · ישיבת תקוע · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a74dd0eb-da2b-4552-96cb-c36a291a0a23.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a74dd0eb-da2b-4552-96cb-c36a291a0a23.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 14 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אישים בתלמוד (פרק 20) • י"ג מידות דרבי ישמעאל - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c722190b-7be4-4425-8aa3-14bae63251a9.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c722190b-7be4-4425-8aa3-14bae63251a9.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 14 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אישים בתלמוד (פרק 19) • י"ג מידות דרבי ישמעאל - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/38311f80-c1ae-4d7e-b4a7-8383c07457cd.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/38311f80-c1ae-4d7e-b4a7-8383c07457cd.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 14 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אישים בתלמוד (פרק 18) • י"ג מידות דרבי ישמעאל - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/23c9e33a-3fb8-44b0-a8c9-f382a51fa46a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/23c9e33a-3fb8-44b0-a8c9-f382a51fa46a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 14 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך - יראת ה' ויראת מלכות</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3bc6fe59-d22f-4d53-a197-4c8c650e6124/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3bc6fe59-d22f-4d53-a197-4c8c650e6124/stream.mp3</guid>
+   <pubDate>Fri, 02 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>121 - חינוך לאמונה דרך המוסר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/fb34c99c-0b41-4100-b0d2-5950bd181d25/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/fb34c99c-0b41-4100-b0d2-5950bd181d25/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>102 - יראה ושמחה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/6dc59b40-b0b4-48af-8f86-cf7a2640682c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/6dc59b40-b0b4-48af-8f86-cf7a2640682c/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>72 - שפת אהבה ושפת יראה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/21592020-37c9-474c-9361-b912d8ef2d44/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/21592020-37c9-474c-9361-b912d8ef2d44/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות-קדושים - בין קדושה למוסר</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/af64e560-77af-4485-9f4f-1757b57f8c83/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/af64e560-77af-4485-9f4f-1757b57f8c83/stream.mp3</guid>
+   <pubDate>Fri, 28 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא - הן יראת ה' היא חוכמה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/bc84ccbe-be9d-47c0-baa2-1c13e5c900b3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/bc84ccbe-be9d-47c0-baa2-1c13e5c900b3/stream.mp3</guid>
+   <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוצר היראה א ('אמת' אות קפט) לפורים</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53146251/episode_53146251.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53146251/episode_53146251.mp3</guid>
+   <pubDate>Thu, 09 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילה כ"א, ה'-ו' - י"ג מידות רחמים וסדר נפילת אפיים | הפנינה היומית</title>
+   <description>רבני הישיבה · ישיבת הר ברכה · מוסר</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/85f786b0/podcast/play/66023267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-5%2Fd3b6df83-88c1-19c4-79ce-301177ba319e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/85f786b0/podcast/play/66023267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-5%2Fd3b6df83-88c1-19c4-79ce-301177ba319e.mp3</guid>
+   <pubDate>Sun, 05 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שורש | 10. מעבר מראיה ליראה בעקידה ובקבורת שרה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · מוסר</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/35/da/1d/d32ae64299a27e73494732981c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/35/da/1d/d32ae64299a27e73494732981c.mp3</guid>
+   <pubDate>Sat, 31 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10 - מוסר יהודי מול מוסר נוצרי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/443023a7-fab5-404a-a575-e87bc436b8f7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/443023a7-fab5-404a-a575-e87bc436b8f7/stream.mp3</guid>
+   <pubDate>Wed, 23 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה ומוסר</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51962455/imported_1669013741977583_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51962455/imported_1669013741977583_audio.mp3</guid>
+   <pubDate>Mon, 21 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוצר היראה לראש השנה- הרב גד-ד-ישיבת רמת גן</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51964384/episode_51964384.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51964384/episode_51964384.mp3</guid>
+   <pubDate>Mon, 21 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - נבואות המוסר של עמוס (ב) - עיקרון בחירת ישראל</title>
+   <description>הרב דוד סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב דוד סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1cc2f755-c32c-44fe-9992-2141c38ca13a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1cc2f755-c32c-44fe-9992-2141c38ca13a/stream.mp3</guid>
+   <pubDate>Tue, 01 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - נבואות המוסר של עמוס (א)</title>
+   <description>הרב דוד סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב דוד סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2259b612-f553-476d-976b-bf9debb42828/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2259b612-f553-476d-976b-bf9debb42828/stream.mp3</guid>
+   <pubDate>Sun, 02 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - י"ג מידות - אומרים או עושים?</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/fcedeb82-3591-4c2f-86b7-359cb3bf09db/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/fcedeb82-3591-4c2f-86b7-359cb3bf09db/stream.mp3</guid>
+   <pubDate>Fri, 23 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוצר היראה לראש השנה - הרב גד- ג- ישיבת רמת גן</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51342256/episode_51342256.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51342256/episode_51342256.mp3</guid>
+   <pubDate>Thu, 22 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוצר היראה לראש השנה - הרב גד- ב- ישיבת רמת גן</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51342255/episode_51342255.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51342255/episode_51342255.mp3</guid>
+   <pubDate>Thu, 22 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוצר היראה לראש השנה - הרב גד- א- ישיבת רמת גן</title>
+   <description>הרב גד ונקרט · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב גד ונקרט</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51342254/episode_51342254.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51342254/episode_51342254.mp3</guid>
+   <pubDate>Thu, 22 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיטת כספים - בפני מי מוסרים את הפרוזבול?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/fdfd90bc-d8cc-40ef-8fc9-50692ac1a5b1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/fdfd90bc-d8cc-40ef-8fc9-50692ac1a5b1/stream.mp3</guid>
+   <pubDate>Mon, 19 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל בראלי – עבודת המידות מול עבודת התשובה // שיעור בוגרים</title>
+   <description>הרב אריאל בראלי · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=tKf8TNAkGPc</description>
+   <itunes:author>הרב אריאל בראלי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/tKf8TNAkGPc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/tKf8TNAkGPc.mp3</guid>
+   <pubDate>Fri, 02 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואתחנן - אהבה ויראה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ba1f6073-03ca-4312-813f-571403f92804/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ba1f6073-03ca-4312-813f-571403f92804/stream.mp3</guid>
+   <pubDate>Fri, 12 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר מלחמה וחתירה לניצחון | הרב אליעזר מלמד</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · מוסר</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/addbe25c/podcast/play/55759341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F8b99a3ad-c086-55d5-68c6-b3a9cdaf89f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/addbe25c/podcast/play/55759341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2F8b99a3ad-c086-55d5-68c6-b3a9cdaf89f6.mp3</guid>
+   <pubDate>Thu, 04 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב תמיר גרנות | פשט דברים | אהבה ויראה</title>
+   <description>הרב תמיר גרנות · ישיבת אורות שאול · מוסר</description>
+   <itunes:author>הרב תמיר גרנות</itunes:author>
+   <enclosure url="https://anchor.fm/s/f9079af0/podcast/play/89475989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-21%2F383569761-44100-2-9437897f1075abec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f9079af0/podcast/play/89475989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-21%2F383569761-44100-2-9437897f1075abec.mp3</guid>
+   <pubDate>Wed, 03 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כללי המוסר לעיתונאי | הרב אליעזר מלמד שליט"א</title>
+   <description>הרב אליעזר מלמד · ישיבת הר ברכה · מוסר</description>
+   <itunes:author>הרב אליעזר מלמד</itunes:author>
+   <enclosure url="https://anchor.fm/s/a6faa0b8/podcast/play/54729498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F6c74d01a-0c17-097b-2585-c566401631bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/a6faa0b8/podcast/play/54729498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F6c74d01a-0c17-097b-2585-c566401631bd.mp3</guid>
+   <pubDate>Tue, 12 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | רה"י הרב חיים סבתו - מידות במגילת אסתר</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/aa9c50fd-8d08-43ae-9c2e-cd84940c99e8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/aa9c50fd-8d08-43ae-9c2e-cd84940c99e8/stream.mp3</guid>
+   <pubDate>Thu, 10 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | דילמות מוסריות בסיפור מגילת אסתר - חלק שלישי - הרב אלחנן סמט</title>
+   <description>הרב אלחנן סמט · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב אלחנן סמט</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/de9cd000-73dd-4e3f-9429-dd283dce166c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/de9cd000-73dd-4e3f-9429-dd283dce166c/stream.mp3</guid>
+   <pubDate>Tue, 08 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

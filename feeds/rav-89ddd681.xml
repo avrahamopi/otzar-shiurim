@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב ויצמן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-89ddd681.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב ויצמן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הלכות שבת ומועד | הרב מיכאל אזרד - בין השמשות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174059-44100-2-ad7105b181c6d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174059-44100-2-ad7105b181c6d.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השוואות במקרא | הרב דוד הורן - השואה בין יהושע לפנחס</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174167-44100-2-3268e45ee5866.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174167-44100-2-3268e45ee5866.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר הכוזרי | הרב שלמה בן אליהו - ובארץ ישראל-מעלתה של ארץ ישראל</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174200-44100-2-f2aec50f3f756.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174200-44100-2-f2aec50f3f756.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרקים בגאולת ישראל | ר' גבריאל מלמד - זכריה ו' מראה המרכבות ומעשה העטרות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174108-44100-2-e122096196785.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174108-44100-2-e122096196785.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מועדי ישראל | הרב מרדכי פרומר - י"ז בתמוז שנזכה שיהפכו למועדים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174196-44100-2-6c835a85e2082.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174196-44100-2-6c835a85e2082.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולה בפרשה | הרב מאור כהן - ימי בין המצרים - על טהרת כלים ושפיכות דמים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174296-44100-2-b5a2fcb5633b8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174296-44100-2-b5a2fcb5633b8.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אגדתות | הרב שי הוד - מי ראוי להתאבל על חורבן ירושלים?</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174292-44100-2-a59ad50823e77.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174292-44100-2-a59ad50823e77.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים ברש"י חומש שמות | הרב בן ציון שטרן - קידוש בכורות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · גמרא</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174170-44100-2-71ca34fe16ff8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174170-44100-2-71ca34fe16ff8.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר שמות | הרב תמיר כהן - קרשי המשכן</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/122250196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174307-44100-2-d791953f68131.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/122250196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427174307-44100-2-d791953f68131.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע חמישי - איך הופכים את הניתוק לתיקון?</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/85273892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F85c084be-4795-ecca-df2f-d7ca3abfe489.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/85273892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F85c084be-4795-ecca-df2f-d7ca3abfe489.mp3</guid>
+   <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע רביעי - זהירות גם מבעיות "טובות"</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/85227384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-10%2F6924c7fc-b72a-8b58-30b7-dbd036fe6129.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/85227384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-10%2F6924c7fc-b72a-8b58-30b7-dbd036fe6129.mp3</guid>
+   <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע שלישי - חיבור למקור החיים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/85190157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-9%2Fed55ea28-43ec-a9f9-a852-e73a1c4ef9df.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/85190157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-9%2Fed55ea28-43ec-a9f9-a852-e73a1c4ef9df.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע שני - אין ברעה למטה מנגע ואין בטובה למעלה מענג</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/85130982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-8%2Ffd453c97-fe09-9c09-ee1e-90f88a75060a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/85130982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-8%2Ffd453c97-fe09-9c09-ee1e-90f88a75060a.mp3</guid>
+   <pubDate>Mon, 08 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע ראשון - ארבעה מראות נגעים כנגד ארבע מלכויות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/85090036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-7%2Fd63df7bf-7c8c-a4ec-b2e9-bb2655480ac3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/85090036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-7%2Fd63df7bf-7c8c-a4ec-b2e9-bb2655480ac3.mp3</guid>
+   <pubDate>Sun, 07 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני חמישי - דרש דרש - מבירא עמיקתא לאיגרא רמא</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84961689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-4%2F78b24290-ead0-5b3d-cac3-1030e81b38ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84961689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-4%2F78b24290-ead0-5b3d-cac3-1030e81b38ee.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני רביעי - ממקום קדוש וממקום טהור</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84912109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-3%2F9c1b963b-2df5-d58f-effd-399f0143f1d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84912109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-3%2F9c1b963b-2df5-d58f-effd-399f0143f1d4.mp3</guid>
+   <pubDate>Wed, 03 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני שלישי - להקשיב לאחר</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84871868/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-2%2Ffa9c5a98-aa44-0736-ef91-09b146d3ef7d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84871868/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-2%2Ffa9c5a98-aa44-0736-ef91-09b146d3ef7d.mp3</guid>
+   <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני שני - ברכת כהנים - עבודה או תפילה?</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84812057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-1%2F430c272c-a259-53c5-fca1-60b86ef3992a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84812057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-1%2F430c272c-a259-53c5-fca1-60b86ef3992a.mp3</guid>
+   <pubDate>Mon, 01 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני ראשון - שמחה אמיתית</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84778846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-31%2F09642b2e-b839-9da5-75d4-6960bbf15093.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84778846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-31%2F09642b2e-b839-9da5-75d4-6960bbf15093.mp3</guid>
+   <pubDate>Sun, 31 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו חמישי - ימי מילואים גם בצבא וגם בבית המדרש</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84669758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-28%2Fb7d07ba0-8c0f-c1ab-cdcb-43840260805b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84669758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-28%2Fb7d07ba0-8c0f-c1ab-cdcb-43840260805b.mp3</guid>
+   <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו רביעי - עשיית הטוב והשלום היא הדרך לתיקון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84612126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-27%2F853281b2-253a-3386-294a-287212afdd00.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84612126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-27%2F853281b2-253a-3386-294a-287212afdd00.mp3</guid>
+   <pubDate>Wed, 27 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו שלישי - גדול השלום שכל הברכות כלולות בו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84572221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-26%2F58b2dbbb-946c-7e83-032f-cf50f68e245e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84572221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-26%2F58b2dbbb-946c-7e83-032f-cf50f68e245e.mp3</guid>
+   <pubDate>Tue, 26 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו שני - שחיטת עולה במקום חטאת - לא להגדיר מקומות כפסולים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84520925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-25%2Fae1777b3-8b7f-2ec6-e6af-f047e5e42032.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84520925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-25%2Fae1777b3-8b7f-2ec6-e6af-f047e5e42032.mp3</guid>
+   <pubDate>Mon, 25 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא חמישי - מתי בפעם האחרונה אמרתי: טעיתי?</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84339129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2F371688335-44100-2-db90a12f44c59.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84339129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2F371688335-44100-2-db90a12f44c59.m4a</guid>
+   <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא רביעי - האליה - הנהגת הגלות והגאולה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84298067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F9cd9d65b-194c-6456-5843-5bfc34c28793.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84298067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F9cd9d65b-194c-6456-5843-5bfc34c28793.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא שלישי - הנצחיות ממתיקה כל מרירות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84239696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-19%2F4423ac7e-b3cd-1c73-f4df-7596fbeec74c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84239696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-19%2F4423ac7e-b3cd-1c73-f4df-7596fbeec74c.mp3</guid>
+   <pubDate>Tue, 19 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא ראשון - ויקרא, וידבר - הפסקה.</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84155535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-17%2F41fc7ca2-8e7c-93d0-c1ef-ab57bcdf0e2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84155535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-17%2F41fc7ca2-8e7c-93d0-c1ef-ab57bcdf0e2c.mp3</guid>
+   <pubDate>Sun, 17 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי חמישי - ועשית שמן משחת קודש, להפוך את כל האמצעים לתכלית</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/84036551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F5884f39d-f9bf-e146-3876-11523ba8bd95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/84036551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F5884f39d-f9bf-e146-3876-11523ba8bd95.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי רביעי - הושיעה נא והצליחה נא</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83971232/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F958d7eb6-d961-67a8-e6d6-a0c4cde132d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83971232/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F958d7eb6-d961-67a8-e6d6-a0c4cde132d8.mp3</guid>
+   <pubDate>Wed, 13 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי שלישי - המשמעת שבחרות והחרות שבמשמעת</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83914327/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-12%2F370618856-44100-2-8a238f6c755b9.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83914327/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-12%2F370618856-44100-2-8a238f6c755b9.m4a</guid>
+   <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי שני - 'אלה' המקור לחטא ו'אלה' הדרך לתיקון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83872370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-11%2F0a57a627-e84d-0a05-2626-ac0a02c506e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83872370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-11%2F0a57a627-e84d-0a05-2626-ac0a02c506e4.mp3</guid>
+   <pubDate>Mon, 11 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל שלישי - מימין לשמאל ומשמאל לימין</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83612447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-5%2Fd8908819-3104-1c72-2cd6-8936c0570f7f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83612447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-5%2Fd8908819-3104-1c72-2cd6-8936c0570f7f.mp3</guid>
+   <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל שני - לחיות עם פרשת היום: להתנדב</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83547404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-4%2F4e4f70fb-3afd-19d5-8419-e4cdad9367c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83547404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-4%2F4e4f70fb-3afd-19d5-8419-e4cdad9367c3.mp3</guid>
+   <pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל ראשון - לא תבערו - אש המחלוקת ואש הכעס</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83518266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-3%2F969fad9a-af66-91fc-d2b6-e0a998643080.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83518266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-3%2F969fad9a-af66-91fc-d2b6-e0a998643080.mp3</guid>
+   <pubDate>Sun, 03 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא חמישי - האמון ביכולתנו להגיע לשלמות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83359675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F6bc42511-d7a6-06eb-9010-d9bef5d54822.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83359675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F6bc42511-d7a6-06eb-9010-d9bef5d54822.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא רביעי - וראו כי שם ה' נקרא עליך ויראו ממך</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83308019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2Fc23a5c8d-e7e1-7e41-9a96-5915433a83c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83308019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2Fc23a5c8d-e7e1-7e41-9a96-5915433a83c3.mp3</guid>
+   <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא שלישי - אחרי ה' ילכו כאריה ישאג</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83303369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F19f54cba-82be-93a4-fdd1-1f56dd511bed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83303369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F19f54cba-82be-93a4-fdd1-1f56dd511bed.mp3</guid>
+   <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא שני - זכות אבות וזכות בנים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83210956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2Fbabc2658-081c-7ee2-caf8-91b0f696ca3a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83210956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2Fbabc2658-081c-7ee2-caf8-91b0f696ca3a.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא ראשון - מלחמה ושלום - חיי שעה וחיי עולם</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83160415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-25%2F4a172f7e-73c9-4496-1ac0-c781c7d08e14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83160415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-25%2F4a172f7e-73c9-4496-1ac0-c781c7d08e14.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה חמישי - תנופה ותרומה - חיבור לכלל וחיבור למעלה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/83036238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-22%2F0fed0c6c-1765-465b-bf96-54a450b2dc99.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/83036238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-22%2F0fed0c6c-1765-465b-bf96-54a450b2dc99.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה רביעי - מי צריך שילבישו אותו?</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82987943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-21%2Ff5b5b2fd-7e70-5fd4-b37c-c7299085cbb1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82987943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-21%2Ff5b5b2fd-7e70-5fd4-b37c-c7299085cbb1.mp3</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה שלישי - הארת פנים ולא עזות פנים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82947421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-20%2Fa973f1f4-558e-4f04-063a-53b2d5463125.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82947421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-20%2Fa973f1f4-558e-4f04-063a-53b2d5463125.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה שני - חושן משפט - על לב אהרן</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82878311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-19%2Fa7563e48-fdbd-bc3b-cfcb-f9c443322af1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82878311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-19%2Fa7563e48-fdbd-bc3b-cfcb-f9c443322af1.mp3</guid>
+   <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצווה ראשון - הופכים קושי לצמיחה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82836097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-18%2Fdb8a9042-f6ca-bcf1-1521-d2cf59cf43ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82836097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-18%2Fdb8a9042-f6ca-bcf1-1521-d2cf59cf43ea.mp3</guid>
+   <pubDate>Sun, 18 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה חמישי - הבדלה לשם חיבור</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82713069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F401150bc-e43e-9152-dfb1-b07d1af2d4e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82713069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F401150bc-e43e-9152-dfb1-b07d1af2d4e1.mp3</guid>
+   <pubDate>Thu, 15 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה רביעי - מן הקצה אל הקצה ולא בשום קצה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82667966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F75f7b31e-dfb2-4f36-98f8-35969a9f8084.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82667966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F75f7b31e-dfb2-4f36-98f8-35969a9f8084.mp3</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה שלישי-והיה המשכן אחד ומי כעמך ישראל גוי אחד</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82663822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367432546-44100-2-6534c1425cf32.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82663822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367432546-44100-2-6534c1425cf32.m4a</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - ראשון - איך נחלצים מהפקק</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82584807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220563-44100-2-ce64e8646021.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82584807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220563-44100-2-ce64e8646021.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - שלישי - חביבין ישראל לפני הקב_ה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82584776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220361-44100-2-c051efe4fc7cd.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82584776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220361-44100-2-c051efe4fc7cd.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - שני - המרחם על אכזרים סופו להתאכזר על רחמנים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82584736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220253-44100-2-8e79228f25bbd.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82584736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220253-44100-2-8e79228f25bbd.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - ראשון - מהות בתי הדין - לעשות דין ברשעים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82584696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220072-44100-2-44e345e6ed243.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82584696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367220072-44100-2-44e345e6ed243.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו חמישי - נעשה ונשמע: החלטה קטנה- בחירה גדולה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82113844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365898557-44100-2-8703c2f3acde.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82113844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365898557-44100-2-8703c2f3acde.m4a</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו רביעי - כאיש אחד בלב אחד</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82037518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-31%2F0b3e2a89-1bac-21ef-f3a3-aef77d44a84c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82037518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-31%2F0b3e2a89-1bac-21ef-f3a3-aef77d44a84c.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו שלישי-מי שלא עם הציבור בצערו לא יראה בשמחתו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/82016091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2F79036e09-7ad0-3012-3458-42461af13b16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/82016091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2F79036e09-7ad0-3012-3458-42461af13b16.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו שני - להיות שותף למעשה בראשית</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81963787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-29%2F0de7c20e-2dc6-12bf-191e-af7f1e67d251.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81963787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-29%2F0de7c20e-2dc6-12bf-191e-af7f1e67d251.mp3</guid>
+   <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו ראשון - מתי בפעם האחרונה אמרת טעיתי</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81904759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-28%2F59d1d65b-1b05-b7ed-6f89-28f8ae892c97.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81904759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-28%2F59d1d65b-1b05-b7ed-6f89-28f8ae892c97.mp3</guid>
+   <pubDate>Sun, 28 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח חמישי (ט"ו בשבט) - המתקת המרירות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81799738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-26%2F9ba5f10c-43a3-f7a8-f233-dae00332bb96.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81799738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-26%2F9ba5f10c-43a3-f7a8-f233-dae00332bb96.mp3</guid>
+   <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח רביעי - השלום קשה ממלחמה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81721502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-24%2F99504d38-5593-c957-3f20-077c0cad972c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81721502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-24%2F99504d38-5593-c957-3f20-077c0cad972c.mp3</guid>
+   <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח שלישי - תשובה מעצמנו או תשובה בכפייה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81685511/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-23%2F978e51fa-ef83-dfb2-33a7-3a00ea90fcf1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81685511/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-23%2F978e51fa-ef83-dfb2-33a7-3a00ea90fcf1.mp3</guid>
+   <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח שני - גם בימינו: ה' ילחם לכם</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81614754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-22%2Fc491baab-2bdb-f5a4-091e-c2792490a3ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81614754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-22%2Fc491baab-2bdb-f5a4-091e-c2792490a3ea.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח ראשון - האם גם לערב רב יש מקום</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81588185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-21%2Fb278e3b9-3197-8be2-a8d9-fe0ecb7ce08f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81588185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-21%2Fb278e3b9-3197-8be2-a8d9-fe0ecb7ce08f.mp3</guid>
+   <pubDate>Sun, 21 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא חמישי - איך לרצות באמת את מה שאנו מחויבים בו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81466116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F73cd15dc-ef9e-97fa-d266-1f6b89d23cc6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81466116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F73cd15dc-ef9e-97fa-d266-1f6b89d23cc6.mp3</guid>
+   <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא רביעי -מרור: להפוך מרירו למתיקו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81395072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-17%2F6314c7b4-5793-cbb7-c3a5-242412ddc3ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81395072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-17%2F6314c7b4-5793-cbb7-c3a5-242412ddc3ff.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - שני - החשך יכסה רשעים ולבני ישראל אור במושבותם</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81315902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F82c2e6da-2468-a674-9e48-75c9a0651084.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81315902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F82c2e6da-2468-a674-9e48-75c9a0651084.mp3</guid>
+   <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - ראשון - ביעור הרע מן העולם</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81263570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-14%2Fcdafc687-e6ce-044b-f1d5-82393e6ac4d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81263570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-14%2Fcdafc687-e6ce-044b-f1d5-82393e6ac4d5.mp3</guid>
+   <pubDate>Sun, 14 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רביעי + חמישי - קל וחומר מצפרדעים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81123902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F25a85194-d92d-028a-77f6-ac007699815c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81123902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F25a85194-d92d-028a-77f6-ac007699815c.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקה לז – העולם כגוף האדם</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094464/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F9f96dd8f-64ec-b0a8-29c0-99ac72d2d23d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094464/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F9f96dd8f-64ec-b0a8-29c0-99ac72d2d23d.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקה לד – ההבדל בין עם ישראל לשאר האומות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fbbccae0d-4b56-c669-530e-fddae412b13a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fbbccae0d-4b56-c669-530e-fddae412b13a.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקה לב – האומה החיה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fdec4633d-0f97-5bb3-9af7-4c61474491c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fdec4633d-0f97-5bb3-9af7-4c61474491c6.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות כז – כח – הראש והלב בהשוואה למשכן וכליו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Face3acd6-977a-b214-5aa9-077d2eccee55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Face3acd6-977a-b214-5aa9-077d2eccee55.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקה כו – החקירה מול האמונה הפשוטה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fe8b47f21-ce31-445a-bc0a-9d1c4a9611b9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fe8b47f21-ce31-445a-bc0a-9d1c4a9611b9.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות כה – כו – הקורבנות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F895118b9-8445-b392-258f-450ab956e02a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F895118b9-8445-b392-258f-450ab956e02a.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות כג – כד – היחס לארץ ישראל בגלות והיום</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fc87b1f13-1b91-3af7-3b8f-153fdf2ac921.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fc87b1f13-1b91-3af7-3b8f-153fdf2ac921.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות יט – כב – קו הזמן וחשיבות ארץ ישראל</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F70a41abb-e1e0-e328-e655-7c882828d46e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F70a41abb-e1e0-e328-e655-7c882828d46e.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות יד – יח – סגולת עם ישראל וארץ ישראל</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F1f3c4029-64c7-c5aa-0895-c06ce89d926c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F1f3c4029-64c7-c5aa-0895-c06ce89d926c.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות יג – יד – נבואה בחוץ לארץ</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F097bf147-30c7-8b51-5c94-a980db0da600.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F097bf147-30c7-8b51-5c94-a980db0da600.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות ט – יב – ארץ האלוקים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F5f36affd-559a-b665-9923-6117209b2df6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F5f36affd-559a-b665-9923-6117209b2df6.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות ב – ח – כינויי הקבה והשם המפורש</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fd6c3db35-e430-dec0-c39e-f5da4b88ae44.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fd6c3db35-e430-dec0-c39e-f5da4b88ae44.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר ב – פסקאות א – ב – המעשה הרצוי לגוי והתארים האלוקיים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094155/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fb9bf7d16-123f-e1cf-2372-26b90878f3e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094155/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fb9bf7d16-123f-e1cf-2372-26b90878f3e8.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות קא – קיז – סגולת ישראל, הייעוד והעולם הבא</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fc98fb686-01ed-48bb-219f-d186b7609195.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fc98fb686-01ed-48bb-219f-d186b7609195.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות צח – ק – קרבת האלוקים והחלוקה לעמים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F8bd713f1-8e62-7506-9229-4ecf7d700674.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F8bd713f1-8e62-7506-9229-4ecf7d700674.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות צו – צח – הבנת חטא העגל</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F26d214fb-b36a-74ab-fcf9-fb36d9d4ab9e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F26d214fb-b36a-74ab-fcf9-fb36d9d4ab9e.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות צב – צה – חטא העגל</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81094063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F777ef2f4-16fd-fc9d-92d6-204b4904ec0b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81094063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F777ef2f4-16fd-fc9d-92d6-204b4904ec0b.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות פד – צא – יום השבת ועשרת הדברות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Ffe8f4c95-a0a3-d61d-ecbf-e1bc1c9afcee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Ffe8f4c95-a0a3-d61d-ecbf-e1bc1c9afcee.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות עז – עט – התפשטות היהדות ומקור המצוות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fc9474893-749c-c7cf-a8d6-04ad6249de55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fc9474893-749c-c7cf-a8d6-04ad6249de55.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות סו – עו – הקשר שבין העולם הזה לעולם הרוחני</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fe6e79260-c4bb-eb86-f1b9-8a62b96bc704.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fe6e79260-c4bb-eb86-f1b9-8a62b96bc704.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות נד – סו – יישוב האמונה בה' ובעולם כנגד הפילוסוף</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F0655dcf9-7a0f-5d38-3caa-77a9d90611dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F0655dcf9-7a0f-5d38-3caa-77a9d90611dc.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות מח – נד – איך בשר ודם מדבר עם הקבה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Feb326340-483e-d387-7b16-e513268d4a96.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Feb326340-483e-d387-7b16-e513268d4a96.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות מד – מז – התאריך העברי</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fb8c3393a-e4ea-b83c-1b7c-c5f1e874f13e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fb8c3393a-e4ea-b83c-1b7c-c5f1e874f13e.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות כז – מד – סגולת בני ישראל – הנבואה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fb7f66fe3-c436-c3b4-7744-26d4a44f23ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fb7f66fe3-c436-c3b4-7744-26d4a44f23ca.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות יב – ל – החבר</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F47a26a64-de9d-23f7-757c-ccfe45000555.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F47a26a64-de9d-23f7-757c-ccfe45000555.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות ה – יא – האסלאם</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Ffd98f001-3ac8-7472-da0a-6e3821fe89e9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Ffd98f001-3ac8-7472-da0a-6e3821fe89e9.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות ד – ה – הנצרות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F4457c467-fa83-66a4-f21b-355bd4e998ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F4457c467-fa83-66a4-f21b-355bd4e998ff.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – פסקאות א – ד – הפילוסוף</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F2d8186a1-142e-d695-d914-c714c128e523.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F2d8186a1-142e-d695-d914-c714c128e523.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר א – רקע לספר ופתיחה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06ae1f4/podcast/play/81093046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F3922ec4b-91af-07c1-8414-93a1ea3fe1c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06ae1f4/podcast/play/81093046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F3922ec4b-91af-07c1-8414-93a1ea3fe1c9.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא שלישי - את עצמנו נבקש ונמצא</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/81018362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-9%2F6a0a36bd-f45b-9388-0e9a-996a7d427d4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/81018362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-9%2F6a0a36bd-f45b-9388-0e9a-996a7d427d4a.mp3</guid>
+   <pubDate>Tue, 09 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא שני - תהא השעה הזאת שעת רחמים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80966839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-8%2Fb3d0837f-a08f-ee59-9b1e-0be48310a146.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80966839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-8%2Fb3d0837f-a08f-ee59-9b1e-0be48310a146.mp3</guid>
+   <pubDate>Mon, 08 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - חמישי - שפת האותות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80811210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2Fd235244d-8e51-0118-30dc-23e460cebca7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80811210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2Fd235244d-8e51-0118-30dc-23e460cebca7.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות רביעי - אסורה נא ואראה - חישוב מסלול מחדש</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80772574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2Fba7903a5-15f9-75a1-92c4-6dcbf8217dba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80772574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2Fba7903a5-15f9-75a1-92c4-6dcbf8217dba.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - שלישי -ישיבה או מלחמה? דבר הלמד מעניינו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80718110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2Fb9a5239b-e66e-6dcf-2da6-c0cf0610cba6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80718110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2Fb9a5239b-e66e-6dcf-2da6-c0cf0610cba6.mp3</guid>
+   <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - שני - אור הבריאה ואורו של משיח</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80704556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2F6813552c-0db0-b785-a527-68bc343c8d59.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80704556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2F6813552c-0db0-b785-a527-68bc343c8d59.mp3</guid>
+   <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - ספר שמות, הספר השני, ספר הגאולה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · תנ"ך</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80675168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-1%2F51bcc5ba-60ed-375f-17bb-5c5799a32ab7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80675168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-1%2F51bcc5ba-60ed-375f-17bb-5c5799a32ab7.mp3</guid>
+   <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - חמישי - גָּד גְּדוּד יְגוּדֶנּוּ וְהוּא יָגֻד עָקֵב" -על משמעות המילה גדוד</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80580040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-29%2F6e62099d-64e4-3539-9284-3661005559d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80580040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-29%2F6e62099d-64e4-3539-9284-3661005559d0.mp3</guid>
+   <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - רביעי - על ייחוד ה' אנחנו עושים מלחמה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80518639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-27%2F50ac9d04-a85f-8cb9-1705-e9da955e9f5d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80518639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-27%2F50ac9d04-a85f-8cb9-1705-e9da955e9f5d.mp3</guid>
+   <pubDate>Wed, 27 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - שלישי - ואנחנו בשם ה'- על הרכב והסוסים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80475115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-26%2Fa8cd9059-e0d0-315d-81c0-3b1bf110504c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80475115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-26%2Fa8cd9059-e0d0-315d-81c0-3b1bf110504c.mp3</guid>
+   <pubDate>Tue, 26 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - שני - הפלא שבכל יום</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80475018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-26%2F4c620264-7299-75ff-4d47-0af3d714fca0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80475018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-26%2F4c620264-7299-75ff-4d47-0af3d714fca0.mp3</guid>
+   <pubDate>Tue, 26 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - חמישי - פרט וכלל - בא הכלל להוסיף על הפרט</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80342509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-22%2Fedefea9d-82cd-cbcc-45d7-7e621708ea57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80342509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-22%2Fedefea9d-82cd-cbcc-45d7-7e621708ea57.mp3</guid>
+   <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש -רביעי - ויקם יעקב - ירידה בקומה זקופה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80270265/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-20%2Feaca5452-70c9-f1af-f389-80e6782f5c69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80270265/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-20%2Feaca5452-70c9-f1af-f389-80e6782f5c69.mp3</guid>
+   <pubDate>Wed, 20 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - שני ושלישי -כל ישראל ערבים זה לזה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80226335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-19%2F3492dd61-e0ac-6b37-0a69-8905ad09f03e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80226335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-19%2F3492dd61-e0ac-6b37-0a69-8905ad09f03e.mp3</guid>
+   <pubDate>Tue, 19 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - ראשון - ממלחמה מקומית למלחמה עולמית</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80132939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-17%2F869c0f8a-734b-1d2f-77da-991c07f52d80.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80132939/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-17%2F869c0f8a-734b-1d2f-77da-991c07f52d80.mp3</guid>
+   <pubDate>Sun, 17 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ - רביעי - לצאת מהמיצר אל המרחב</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/80053156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2Fe8635da5-346e-d10c-1a24-df955c9d00c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/80053156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2Fe8635da5-346e-d10c-1a24-df955c9d00c4.mp3</guid>
+   <pubDate>Fri, 15 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>!מקץ - שלישי - את האני שלנו אני מבקש</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79926971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-12%2Fc7982124-64cb-3189-ff3f-031b23e254c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79926971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-12%2Fc7982124-64cb-3189-ff3f-031b23e254c4.mp3</guid>
+   <pubDate>Tue, 12 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ - שני - לדעת מה באמת קורה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79902763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-12%2Fb39008ab-f614-7918-cb14-f6cfd13ebf69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79902763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-12%2Fb39008ab-f614-7918-cb14-f6cfd13ebf69.mp3</guid>
+   <pubDate>Tue, 12 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - חמישי -רדיקלים אנו חייבים להיות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79748073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-8%2F43b73218-b4af-252d-618d-f698a2d9c3f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79748073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-8%2F43b73218-b4af-252d-618d-f698a2d9c3f2.mp3</guid>
+   <pubDate>Fri, 08 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - שלישי - לעלות ולהתעלות מתוך הבור</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79688749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-7%2F6a212fff-4683-5cef-0832-45ad88d844dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79688749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-7%2F6a212fff-4683-5cef-0832-45ad88d844dc.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - רביעי - שק ותענית ובניית אורו של משיח</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79660025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-6%2F4bba9ec7-4bf9-9e23-5065-4f0d9e64b829.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79660025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-6%2F4bba9ec7-4bf9-9e23-5065-4f0d9e64b829.mp3</guid>
+   <pubDate>Wed, 06 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - שני - הנני - להיות בתודעת שליחות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79534995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-4%2F099f10d4-e4e3-93a6-5c6e-85322af03a50.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79534995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-4%2F099f10d4-e4e3-93a6-5c6e-85322af03a50.mp3</guid>
+   <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - ראשון -הדרך אל הנצח, קמעא קמעא</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79496275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-3%2Faf2ffaaf-2647-d371-9fa8-edbe2cfb9def.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79496275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-3%2Faf2ffaaf-2647-d371-9fa8-edbe2cfb9def.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - רביעי - עם הנצח לא מפחד מדרך ארוכה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79311180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2Fcc26b8f9-b6cb-1df4-55ef-9776462e45f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79311180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2Fcc26b8f9-b6cb-1df4-55ef-9776462e45f4.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - שלישי - זה ה קיווינו לו נגילה ונשמחה בישועתו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79289688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2Fccb80496-1cfd-5cde-4dfc-546aac8c1afe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79289688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2Fccb80496-1cfd-5cde-4dfc-546aac8c1afe.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - שני - רחל ולאה שורש המחלוקת והתיקונים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79289530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2Fe8420cf5-cb5b-c154-377d-3857119258de.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79289530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2Fe8420cf5-cb5b-c154-377d-3857119258de.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - חמישי | יעקב ולבן - לדורות</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/79046278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-23%2Ff5e0892a-7276-a5b4-1770-4fd4ec02037d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/79046278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-23%2Ff5e0892a-7276-a5b4-1770-4fd4ec02037d.mp3</guid>
+   <pubDate>Thu, 23 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יצא - רביעי - מצרה לרווחה - איך הופכים דין לרחמים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78992699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-22%2F9ca5ea51-76ba-75db-9ad5-0007dc6e2062.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78992699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-22%2F9ca5ea51-76ba-75db-9ad5-0007dc6e2062.mp3</guid>
+   <pubDate>Wed, 22 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - שלישי - רחל ולאה - שורש המחלוקות והתיקונים</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78955420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-21%2F4617a307-cc64-134f-98e8-040f04419ec1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78955420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-21%2F4617a307-cc64-134f-98e8-040f04419ec1.mp3</guid>
+   <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - שני - איך נחצים מהפקק</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78893039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2F34ad5f3c-9ea3-c436-d5e9-2ce1c009982d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78893039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2F34ad5f3c-9ea3-c436-d5e9-2ce1c009982d.mp3</guid>
+   <pubDate>Mon, 20 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - ראשון ויפגע במקום - יציבות במציאות מפתיעה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78892963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2F18d7acd9-74bf-504c-2c57-8d507af3ad3c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78892963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2F18d7acd9-74bf-504c-2c57-8d507af3ad3c.mp3</guid>
+   <pubDate>Mon, 20 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות חמישי - איך נדאג שהתקליט ינגן רק ניגוני שמחה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78836726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-19%2F8da2ac77-564c-63c3-05fc-0d1b30bf0b07.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78836726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-19%2F8da2ac77-564c-63c3-05fc-0d1b30bf0b07.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - שלישי – מבארות יצחק לבארי</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fb1a2e2d1-4206-ac1e-72e6-12fedfe494cc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fb1a2e2d1-4206-ac1e-72e6-12fedfe494cc.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות שני – מאמין וזורע – על צמיחה מתוך קושי</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F7fe00997-99f9-e9cb-4f22-f5e061a5de24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F7fe00997-99f9-e9cb-4f22-f5e061a5de24.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות ראשון– מלחמה משחיתה את הטבע, ותפילה מחזירתו לתיקונו</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F11279d8b-0324-5e83-e47e-bec1f0adb610.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F11279d8b-0324-5e83-e47e-bec1f0adb610.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - רביעי - כד חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F5cf92f7a-e0fa-cfe1-b3c8-8302e918d30a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F5cf92f7a-e0fa-cfe1-b3c8-8302e918d30a.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - שלישי - כג חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fd9b3e71f-9d88-ccf1-5650-1fced131e755.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fd9b3e71f-9d88-ccf1-5650-1fced131e755.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - שני - כב חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fd631f980-6ba1-eb42-dfa1-6e6710d547c1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fd631f980-6ba1-eb42-dfa1-6e6710d547c1.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - ראשון – כא חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F30072189-706c-8cbc-2be0-c8790613c757.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F30072189-706c-8cbc-2be0-c8790613c757.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשמוע את דפיקת השעות והרגעים באזניים של נצח</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fd08f4934-993e-2524-3d14-339e70f67867.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fd08f4934-993e-2524-3d14-339e70f67867.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - חמישי - יח חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78819006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F7a0e7f41-e21a-4457-d98a-7b07f4d2036e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78819006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F7a0e7f41-e21a-4457-d98a-7b07f4d2036e.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - רביעי - יז חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fbaeb7269-66ce-eb6d-7d41-ba52bbd37209.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fbaeb7269-66ce-eb6d-7d41-ba52bbd37209.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - שלישי - טז חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F7677f963-b514-019a-3e82-7055aa56dd0c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F7677f963-b514-019a-3e82-7055aa56dd0c.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - שני - טו חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F86d07854-0e5a-e37f-e7ad-40735b1790e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F86d07854-0e5a-e37f-e7ad-40735b1790e6.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - ראשון - יד חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F284fb7aa-3bc1-be0b-c195-978b823711bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F284fb7aa-3bc1-be0b-c195-978b823711bb.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - חמישי - יא חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F2564afb2-0c0e-5f2c-bc8e-288f83fb8821.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F2564afb2-0c0e-5f2c-bc8e-288f83fb8821.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - רביעי – י חשוון</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F761d00e1-f2c7-c90d-c130-bc2ee8c25f8f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F761d00e1-f2c7-c90d-c130-bc2ee8c25f8f.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - חמישי – כז תשרי</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F881c51c3-58fd-03b8-87e2-e421012c34e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F881c51c3-58fd-03b8-87e2-e421012c34e2.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - רביעי – כו תשרי</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818875/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Faaa2260e-5574-30da-4004-4b142d1f02e3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818875/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Faaa2260e-5574-30da-4004-4b142d1f02e3.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - שלישי – כה תשרי</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Ffbaa8bb3-1087-40e0-5ec0-52141d041a29.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Ffbaa8bb3-1087-40e0-5ec0-52141d041a29.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - שני – כד תשרי</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fdcd79829-c198-dad8-618d-06e6f67cbabf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2Fdcd79829-c198-dad8-618d-06e6f67cbabf.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוצאי שמחת תורה</title>
+   <description>הרב ויצמן · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/ed2ea700/podcast/play/78818831/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F6049ff59-b564-de14-62ba-0b5b47b66b5c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ed2ea700/podcast/play/78818831/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-18%2F6049ff59-b564-de14-62ba-0b5b47b66b5c.mp3</guid>
+   <pubDate>Sat, 18 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

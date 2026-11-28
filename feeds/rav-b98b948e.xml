@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב צבי קוסטינר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-b98b948e.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב צבי קוסטינר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>והערב נא | הרב צבי קוסטינר | מתי רבי עקיבא צחק</title>
+   <description>הרב צבי קוסטינר · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73070636/utf_8_b_15xxlnei16jxksdxoneqineu16jxksdxp9ev16hxmnez16dxqc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73070636/utf_8_b_15xxlnei16jxksdxoneqineu16jxksdxp9ev16hxmnez16dxqc5tcdm.mp3</guid>
+   <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב צבי קוסטינר, ראש ישיבת מצפה רמון • כיבוד הורים ופלאפונים</title>
+   <description>הרב צבי קוסטינר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://media.transistor.fm/abd5f94d/63cdf8f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/abd5f94d/63cdf8f2.mp3</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור הכנה לשבועות | מגילת רות | הרב צבי קוסטינר</title>
+   <description>הרב צבי קוסטינר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2245f42a/75e76f58.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2245f42a/75e76f58.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כנס "דרכה של תורה" | דרך ארץ קדמה לתורה | הרב צבי קוסטינר</title>
+   <description>הרב צבי קוסטינר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=wyV0Pv_j2js</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/wyV0Pv_j2js.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/wyV0Pv_j2js.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחת קדושת אביב | קדושת ארץ ישראל | הרב צבי קוסטינר</title>
+   <description>הרב צבי קוסטינר · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/105921317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F404451267-44100-2-5cb34885cfb3e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/105921317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F404451267-44100-2-5cb34885cfb3e.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב צבי קוסטינר | תכלה שנה וקיללותיה | כנס תשובה התשפ"ד</title>
+   <description>הרב צבי קוסטינר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=gaRSr9qZOQQ</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/gaRSr9qZOQQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/gaRSr9qZOQQ.mp3</guid>
+   <pubDate>Sat, 28 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב צבי קוסטינר – לשמוע קול שופר | ערב רה"ש ה'תשפ"א</title>
+   <description>הרב צבי קוסטינר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=QaMHA2uY-Hw</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/QaMHA2uY-Hw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/QaMHA2uY-Hw.mp3</guid>
+   <pubDate>Thu, 17 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין כסה לעשור – סוגרים עשור | הרב צבי קוסטינר // Between Cese to Asor – Rav Tzvi Kustiner</title>
+   <description>הרב צבי קוסטינר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=J6NQuctVKgI</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/J6NQuctVKgI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/J6NQuctVKgI.mp3</guid>
+   <pubDate>Sun, 06 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

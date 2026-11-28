@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב עוז בלומן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-04c7d6aa.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב עוז בלומן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שכחת השם העצמי: המחשבה הדתית לנוכח הפוליטיקה | הרב עוז בלומן</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/51518e49-7ba6-4e07-97ff-515d9481e6f6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/51518e49-7ba6-4e07-97ff-515d9481e6f6/stream.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אתנחתא: הקדמה למעשה מרכבה | 32</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b62b34ad-12c9-4d9c-96a5-6a815712c3f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b62b34ad-12c9-4d9c-96a5-6a815712c3f2/stream.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השנים עשר: ימות המשיח (3) | 31</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d6a38d19-baf9-490f-98fe-ee1c268b828d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d6a38d19-baf9-490f-98fe-ee1c268b828d/stream.mp3</guid>
+   <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השנים עשר: ימות המשיח (2) | 30</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/891a0a05-f217-4ed2-bf1c-1cf7c8a58eb7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/891a0a05-f217-4ed2-bf1c-1cf7c8a58eb7/stream.mp3</guid>
+   <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארץ ישראל וימות המשיח | 29</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/29fd98f3-a9a5-4fbf-9c52-84facaa2c79e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/29fd98f3-a9a5-4fbf-9c52-84facaa2c79e/stream.mp3</guid>
+   <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השנים עשר: ימות המשיח | 28</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5d6bf719-c1fe-4440-b497-533ea733a63a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5d6bf719-c1fe-4440-b497-533ea733a63a/stream.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר האחד עשר: הגמול (3) | 27</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/904c29b9-004e-4b3c-ab4d-0b13d5f87319/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/904c29b9-004e-4b3c-ab4d-0b13d5f87319/stream.mp3</guid>
+   <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר האחד עשר: הגמול (2) | 26</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e775b9d8-3527-4413-91a2-8347c6844ded/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e775b9d8-3527-4413-91a2-8347c6844ded/stream.mp3</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר האחד עשר: גמול | 25</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/55ab501d-5c6b-4e5d-b865-2450c626b03f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/55ab501d-5c6b-4e5d-b865-2450c626b03f/stream.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר העשירי: השגחה (2) | 24</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/af2b9b5a-7213-45bc-b78e-fef2bfc7bc18/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/af2b9b5a-7213-45bc-b78e-fef2bfc7bc18/stream.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר העשירי: השגחה (1) | 23</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/05c26cc2-4e13-4d8e-83e2-689be2fe396c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/05c26cc2-4e13-4d8e-83e2-689be2fe396c/stream.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסוד היראה בשיטת הרמב"ם | 22</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e163b5e6-90d0-439d-ad0e-a81b2af9d22d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e163b5e6-90d0-439d-ad0e-a81b2af9d22d/stream.mp3</guid>
+   <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אתנחתא: בין הרמב"ם לר' נחמן | 21</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/831c60c5-f55f-4a7f-9709-0f85405beb00/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/831c60c5-f55f-4a7f-9709-0f85405beb00/stream.mp3</guid>
+   <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר התשיעי: תורה נצחית (2) | 20</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b12ca85a-b775-43c1-9b1f-7b8455721bb0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b12ca85a-b775-43c1-9b1f-7b8455721bb0/stream.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר התשיעי: נצחיות התורה (1) | 19</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1dfe0f45-d809-4262-b103-8de953c29994/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1dfe0f45-d809-4262-b103-8de953c29994/stream.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השמיני: תורה מן השמים (2) | 18</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/92cf4480-005e-4a05-9614-e5b0731bf668/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/92cf4480-005e-4a05-9614-e5b0731bf668/stream.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השמיני: תורה מן השמים (1) | 17</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/63606598-d1e6-49d7-b3e8-6fa8b559df92/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/63606598-d1e6-49d7-b3e8-6fa8b559df92/stream.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השביעי: נבואת משה (2) | 16</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5d9b570a-d45d-4b2e-b58f-d4678553eb51/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5d9b570a-d45d-4b2e-b58f-d4678553eb51/stream.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השביעי: נבואת משה (1) | 15</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/bc52219a-ceff-48b5-a1df-9cdb1b4ce03d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/bc52219a-ceff-48b5-a1df-9cdb1b4ce03d/stream.mp3</guid>
+   <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השישי: נבואה (2) | 14</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e7c210e9-d56c-4a2f-8239-45beef226979/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e7c210e9-d56c-4a2f-8239-45beef226979/stream.mp3</guid>
+   <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השישי: נבואה (1) | 13</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7c20caad-71c2-4775-8f4a-410b9a5762a1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7c20caad-71c2-4775-8f4a-410b9a5762a1/stream.mp3</guid>
+   <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נחמו נחמו עמי | הרב עוז בלומן</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/6791e94e-79fe-4360-b5db-0d446e18392d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/6791e94e-79fe-4360-b5db-0d446e18392d/stream.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבוא: ירושלים ואתונה - שיעור מיוחד | 12</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5a4bb88a-cf9f-4c61-b356-638648adea67/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5a4bb88a-cf9f-4c61-b356-638648adea67/stream.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר החמישי: עבודה 2 | 11</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/cd714f59-3e37-4b7d-a909-ab55d31bf1d4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/cd714f59-3e37-4b7d-a909-ab55d31bf1d4/stream.mp3</guid>
+   <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר החמישי: סיכום והקדמה | 10</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/6d6bd1e6-53fd-467e-a79a-bf35d93b3407/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/6d6bd1e6-53fd-467e-a79a-bf35d93b3407/stream.mp3</guid>
+   <pubDate>Mon, 12 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר הרביעי: קדמון (2) | 9</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e28300cf-c641-4167-80a5-4c212ef8e605/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e28300cf-c641-4167-80a5-4c212ef8e605/stream.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר הרביעי: קדמון (1) | 8</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7a9cb8d8-ac5c-40ff-8bb7-270f3f8a4b98/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7a9cb8d8-ac5c-40ff-8bb7-270f3f8a4b98/stream.mp3</guid>
+   <pubDate>Mon, 29 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השלישי: שאינו גוף (2) | 7</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e2e4847d-b7fb-4ffb-a168-38b8c9a1c67c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e2e4847d-b7fb-4ffb-a168-38b8c9a1c67c/stream.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השלישי: שאינו גוף (1) | 6</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e992c81e-44ac-4aa5-9ba9-cd9ad58d848d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e992c81e-44ac-4aa5-9ba9-cd9ad58d848d/stream.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השלישי: ייחוד ה' (3) | 5</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ca6df046-cc09-43c0-9341-7ba04782c2da/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ca6df046-cc09-43c0-9341-7ba04782c2da/stream.mp3</guid>
+   <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השני: יחוד ה' (2) | 4</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0b030a3c-131b-4e10-bcf7-b9d4214ad2b5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0b030a3c-131b-4e10-bcf7-b9d4214ad2b5/stream.mp3</guid>
+   <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר השני: יחוד ה' (1) | 3</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/736378dc-1dff-451f-88ed-96eb71ecdf4f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/736378dc-1dff-451f-88ed-96eb71ecdf4f/stream.mp3</guid>
+   <pubDate>Mon, 24 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר הראשון: מציאות הבורא (2) | 2</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/68a9820e-0c8b-42ce-9091-1c46bb756583/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/68a9820e-0c8b-42ce-9091-1c46bb756583/stream.mp3</guid>
+   <pubDate>Mon, 17 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העיקר הראשון: מציאות הבורא (1) | 1</title>
+   <description>הרב עוז בלומן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב עוז בלומן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/00965931-e0ea-4e12-af79-587726bb50c9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/00965931-e0ea-4e12-af79-587726bb50c9/stream.mp3</guid>
+   <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

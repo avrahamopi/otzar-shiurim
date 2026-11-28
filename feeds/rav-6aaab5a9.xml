@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אסי בלנק · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-6aaab5a9.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אסי בלנק.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | עבודה | הרב אסי בלנק | תשפ"ו</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120290621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555811-44100-2-a39e5dc02feff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120290621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555811-44100-2-a39e5dc02feff.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבע פרספקטיבות בהלל? | הרב אסי בלנק | פסח תשפ"ו</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681910-44100-2-54eb00118faec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681910-44100-2-54eb00118faec.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין הרצון להדר ו'נר איש וביתו' | הרב אסי בלנק | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112667999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426908-44100-2-d4c7c38f19dc5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112667999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426908-44100-2-d4c7c38f19dc5.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אושפיזין | אהרן הכוהן - הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/109398576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2F16f36c5c-7b52-0690-d2bd-d7d66cc446f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/109398576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2F16f36c5c-7b52-0690-d2bd-d7d66cc446f2.mp3</guid>
+   <pubDate>Fri, 10 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניגון מנגנים | תפילה לעני כי יעטוף | הרב אסי בלנק | ימים נוראים תשפ"ו</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/108596473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F407863809-44100-2-6c2d42ff622bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/108596473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F407863809-44100-2-6c2d42ff622bb.mp3</guid>
+   <pubDate>Sun, 21 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 5 | כשרות למטייל בחו"ל | מלונות, מסעדות ומשקאות | הרבנים דובדבני ואיינהורן עם הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/107201228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-22%2F406094863-44100-2-8f86c29e14b9c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/107201228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-22%2F406094863-44100-2-8f86c29e14b9c.mp3</guid>
+   <pubDate>Fri, 22 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 4 | כשרות למטייל בחו"ל | סופרמרקטים וקניות מזון | הרבנים דובדבני ואיינהורן עם הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/106854231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405647253-44100-2-b92ce5cd2106b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/106854231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405647253-44100-2-b92ce5cd2106b.mp3</guid>
+   <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 3 | כשרות למטייל בחו"ל | שמירת השבת |הרבנים אורן דובדבני ואורי איינהורן עם הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/106854180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405647208-44100-2-a6e84bc1b5b17.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/106854180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405647208-44100-2-a6e84bc1b5b17.mp3</guid>
+   <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 2 | כשרות למטייל בחו"ל | אירוח בדירה או צימר |הרבנים אורן דובדבני ואורי איינהורן עם הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/106854147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405647161-44100-2-359309b2db44.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/106854147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405647161-44100-2-359309b2db44.mp3</guid>
+   <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה | כשרות למטייל בחו"ל | הרבנים אורן דובדבני ואורי איינהורן עם הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/106854135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405647126-44100-2-f103659a3a83.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/106854135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405647126-44100-2-f103659a3a83.mp3</guid>
+   <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - איפה נגמרת שירת הים?</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/101449869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-18%2F398602407-44100-2-b2c23d7dc622.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/101449869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-18%2F398602407-44100-2-b2c23d7dc622.m4a</guid>
+   <pubDate>Fri, 18 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - פרשת צו, הכנה לליל הסדר</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/101154229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-11%2F398224231-44100-2-9b0881bf0b868.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/101154229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-11%2F398224231-44100-2-9b0881bf0b868.m4a</guid>
+   <pubDate>Fri, 11 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - לקראת ספר ויקרא</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/100821535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-4%2F397799879-44100-2-524a81e4ea6c3.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/100821535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-4%2F397799879-44100-2-524a81e4ea6c3.m4a</guid>
+   <pubDate>Fri, 04 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת גולדשמיט מול הגדה 'יחפה' | הרב אסי בלנק | פסח תשפ"ה</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100781021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748155-44100-2-b841c8658815f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100781021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F397748155-44100-2-b841c8658815f.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - רבי, הפרה אדומה!</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/100173540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-21%2F396976872-44100-2-0593b4ea5c42e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/100173540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-21%2F396976872-44100-2-0593b4ea5c42e.m4a</guid>
+   <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - ליצן קטן נחמד</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/99820198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-13%2F396530241-44100-2-26c9a48d32aea.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/99820198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-13%2F396530241-44100-2-26c9a48d32aea.m4a</guid>
+   <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - אלוקים לא תקלל</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/98811443/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-21%2F8d5bcd16-f3af-cf8d-767e-bc53ea6ee540.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/98811443/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-21%2F8d5bcd16-f3af-cf8d-767e-bc53ea6ee540.mp3</guid>
+   <pubDate>Fri, 21 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - למה לא ללכת ממצרים בדרך הקצרה?</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/98113729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F513d3c43-0dae-ed66-0ae5-438f9c41c12d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/98113729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F513d3c43-0dae-ed66-0ae5-438f9c41c12d.mp3</guid>
+   <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - לזכר מושקו ז"ל</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/98439336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F394804797-44100-2-0ba4341f5286a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/98439336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F394804797-44100-2-0ba4341f5286a.m4a</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - אחרי המעשים ימשכו הלבבות</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/97817851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-31%2F394030596-44100-2-507fe25fff48b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/97817851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-31%2F394030596-44100-2-507fe25fff48b.m4a</guid>
+   <pubDate>Fri, 31 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - לפי מעשיו של אותה שעה</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/97494217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-24%2F393626355-44100-2-4a7d4785a02c4.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/97494217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-24%2F393626355-44100-2-4a7d4785a02c4.m4a</guid>
+   <pubDate>Fri, 24 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - ספר שני</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/97295208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-20%2F19757717-c45f-a4a9-86e1-df8d054ddab5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/97295208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-20%2F19757717-c45f-a4a9-86e1-df8d054ddab5.mp3</guid>
+   <pubDate>Mon, 20 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - האצילות מחייבת</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95685032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-11%2F391374388-44100-2-f93519a74941a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95685032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-11%2F391374388-44100-2-f93519a74941a.m4a</guid>
+   <pubDate>Wed, 11 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - "וישא יעקב רגליו"</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95403485/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2F391027572-44100-2-4f45d7729eeeb.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95403485/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2F391027572-44100-2-4f45d7729eeeb.m4a</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - לקראת ג' בכסלו</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95096368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-28%2F390649480-44100-2-77e9df1f08988.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95096368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-28%2F390649480-44100-2-77e9df1f08988.m4a</guid>
+   <pubDate>Thu, 28 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - יפה שיחתן של עבדי אבות</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94798522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F390277686-44100-2-30d9c6b14c4fe.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94798522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F390277686-44100-2-30d9c6b14c4fe.m4a</guid>
+   <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק - גדולה הכנסת אורחים מהקבלת פני שכינה</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94462093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-15%2F389864095-44100-2-e724f60c2bf28.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94462093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-15%2F389864095-44100-2-e724f60c2bf28.m4a</guid>
+   <pubDate>Fri, 15 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותאזרני חיל למלחמה | חיזוק לחיילי הסדיר ומשרתי המילואים לקראת יוה"כ | הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92828524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387842819-44100-2-4d288f59d5722.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92828524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387842819-44100-2-4d288f59d5722.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ולתפלתם שעה | כי תעביר ממשלת זדון מן הארץ | הרב אסי בלנק | ימים נוראים תשפ"ה</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92394592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387299357-44100-2-7699f5a96aa08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92394592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387299357-44100-2-7699f5a96aa08.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת שהחיינו | הרב אסי בלנק | סדרת 'בכל דור ודור' | פסח תשפ"ד</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f4c37e78/podcast/play/85306210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F374031428-44100-2-d03607872273f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f4c37e78/podcast/play/85306210/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F374031428-44100-2-d03607872273f.mp3</guid>
+   <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מזמור לדוד | מזמור קמ"ה | קרוב ה לכל קוראיו לכל אשר יקראהו באמת | הרב אסי בלנק | שבועות תשפ"ג</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fb/0b/3f/0438f742fea4f7cd168e6bcf10.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fb/0b/3f/0438f742fea4f7cd168e6bcf10.mp3</guid>
+   <pubDate>Tue, 23 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | ברך | הרב אסי בלנק | פסח תשפ"ב</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5e/de/3d/51526a4a30a1b644c591be8436.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5e/de/3d/51526a4a30a1b644c591be8436.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הא לחמא עניא | הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b4/ee/f1/5bcfce4da0b1f94ba9f8458af9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b4/ee/f1/5bcfce4da0b1f94ba9f8458af9.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק | חנוכה ומידת הביטחון</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c4/0c/85/4eee2d4f279f8ccc52057bd0fc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c4/0c/85/4eee2d4f279f8ccc52057bd0fc.mp3</guid>
+   <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהרן הכהן | הרב אסי בלנק</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6e/08/48/7d312445048ef0f487362cf405.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6e/08/48/7d312445048ef0f487362cf405.mp3</guid>
+   <pubDate>Wed, 30 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסי בלנק | תשובה ושלמות</title>
+   <description>הרב אסי בלנק · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אסי בלנק</itunes:author>
+   <enclosure url="https://s3.castbox.fm/74/c6/0c/4e71cf47108d92dbb8432186ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/74/c6/0c/4e71cf47108d92dbb8432186ea.mp3</guid>
+   <pubDate>Mon, 31 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

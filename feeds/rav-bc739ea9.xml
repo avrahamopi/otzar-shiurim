@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שלמה ברין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bc739ea9.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שלמה ברין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>משיכות חכמה | מתי באמת התחילה גלות מצרים? | ויצא | הרב שלמה ברין | תשפ"ז</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=LokuMvzSudQ</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/118e8c3f8/podcast/play/129735268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437122668-44100-2-16225778a12598.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118e8c3f8/podcast/play/129735268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437122668-44100-2-16225778a12598.mp3</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משיכות חכמה | בין בארות למזבחות ועל הבטחת הארץ | תולדות | הרב שלמה ברין | תשפ"ז</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/118e8c3f8/podcast/play/129328032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436581515-44100-2-5fed1376ddaa58.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118e8c3f8/podcast/play/129328032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436581515-44100-2-5fed1376ddaa58.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משיכות חכמה | רגישותו של אברהם לא להטיל קנאה בין בניו | חיי שרה | הרב שלמה ברין | תשפ"ז</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/118e8c3f8/podcast/play/128917921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436051882-44100-2-12f5830a3cee28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118e8c3f8/podcast/play/128917921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436051882-44100-2-12f5830a3cee28.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משיכות חכמה | וירא | הרב שלמה ברין | תשפ"ז</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/118e8c3f8/podcast/play/127850131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684759-44100-2-aefb51f250948.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118e8c3f8/podcast/play/127850131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684759-44100-2-aefb51f250948.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משיכות חכמה | לך לך | הרב שלמה ברין | תשפ"ז</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/118e8c3f8/podcast/play/127850134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684828-44100-2-4808ab307feb5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118e8c3f8/podcast/play/127850134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684828-44100-2-4808ab307feb5.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משיכות חכמה | נח: פרו ורבו ובין נח למשה | הרב שלמה ברין | תשפ"ז</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/118e8c3f8/podcast/play/127850136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684921-44100-2-6c14f675985b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118e8c3f8/podcast/play/127850136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684921-44100-2-6c14f675985b2.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה חדשה! משיכות חכמה | בראשית | הרב שלמה ברין | תשפ"ז</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/118e8c3f8/podcast/play/127850140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684902-44100-2-c84a57c725f72.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/118e8c3f8/podcast/play/127850140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684902-44100-2-c84a57c725f72.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ודילוגו עלינו אהבה | הרב שלמה ברין | פסח תשפ"ו</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117415014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681972-44100-2-e7e6947058489.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117415014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681972-44100-2-e7e6947058489.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אושפיזין | משה רבנו - הרב שלמה ברין</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/109398515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2Fd5753016-0cd5-392e-fb8c-bbad45572282.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/109398515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2Fd5753016-0cd5-392e-fb8c-bbad45572282.mp3</guid>
+   <pubDate>Fri, 10 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניגון מנגנים | מה אנו/עסן עסט זיך | הרב שלמה ברין | ימים נוראים תשפ"ו</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/109002912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408389148-44100-2-5a24c3f5bc9b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/109002912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408389148-44100-2-5a24c3f5bc9b3.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת 'ספר הזמנים' לבעל ה'בית יעקב' | הרב שלמה ברין | פסח תשפ"ה</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100462870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F397344595-44100-2-4b2b63ab018ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100462870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F397344595-44100-2-4b2b63ab018ea.mp3</guid>
+   <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לחשוף את ה'נקודה הפנימית' | הרב שלמה ברין ופרופ' דניאל רייזר | 120 שנה לפטירתו של ה'שפת אמת'</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · חסידות וקבלה</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/98123383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394409943-44100-2-b07b43a8f8f6b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/98123383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394409943-44100-2-b07b43a8f8f6b.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה ברבי אליעזר | הרב שלמה ברין | סדרת 'בכל דור ודור' | פסח תשפ"ד</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/f4c37e78/podcast/play/85306401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F374031933-44100-2-7b621ee0dcb64.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f4c37e78/podcast/play/85306401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F374031933-44100-2-7b621ee0dcb64.mp3</guid>
+   <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מזמור לדוד | מזמורים י"ט וקי"ט | מה אהבתי תורתך מול תורת ה' תמימה | הרב שלמה ברין | שבועות תשפ"ג</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b2/1c/16/539ebd4848b6d2cae0e34455d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b2/1c/16/539ebd4848b6d2cae0e34455d5.mp3</guid>
+   <pubDate>Tue, 23 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרב יום אשר הוא יום ולא לילה | הרב שלמה ברין</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2c/c2/7e/35f6ad417a92f1d04775c627d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2c/c2/7e/35f6ad417a92f1d04775c627d5.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משה רבנו | הרב שלמה ברין</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fe/5a/60/dc60ab490f9f615e02bd0a4884.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fe/5a/60/dc60ab490f9f615e02bd0a4884.mp3</guid>
+   <pubDate>Wed, 30 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שלמה ברין | ותשובה ותפילה וצדקה</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2d/1d/c6/c30f414d718041b446cdc09864.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2d/1d/c6/c30f414d718041b446cdc09864.mp3</guid>
+   <pubDate>Mon, 31 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יחזקאל קופלד · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-39543582.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יחזקאל קופלד.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>לאומיות ואוניברסליות בישראל | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/122734542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F427822958-44100-2-228b8c1b08fb7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/122734542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F427822958-44100-2-228b8c1b08fb7.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קנאות לשם ה' | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/122250944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427181492-44100-2-1b87c2e8ace16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/122250944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427181492-44100-2-1b87c2e8ace16.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איסור שנאת ישראל | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/122091221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426962298-44100-2-455743aab4194.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/122091221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426962298-44100-2-455743aab4194.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי מריבה | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/121922933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F426734774-44100-2-8373bff66ded.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/121922933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F426734774-44100-2-8373bff66ded.mp3</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשה לך רב | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/121330770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-11%2F425942963-44100-2-fd7ab1185ec46.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/121330770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-11%2F425942963-44100-2-fd7ab1185ec46.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התיקון שנדרש על פי חטא המרגלים | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/120918088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425392308-44100-2-cb4e19b3ef5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/120918088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425392308-44100-2-cb4e19b3ef5f.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה שבכתב ותורה שבעל פה | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/120917417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425391552-44100-2-45334dc51d478.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/120917417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425391552-44100-2-45334dc51d478.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השתתפות באירועים שאינם עפ"י ההלכה והמסורת | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · הלכה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/120831285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-1%2F425278421-44100-2-4b219119f6df5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/120831285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-1%2F425278421-44100-2-4b219119f6df5.mp3</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שורש המאבק עם הערבים בירושלים | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/120091241/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-16%2F424289201-44100-2-13a93782ca913.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/120091241/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-16%2F424289201-44100-2-13a93782ca913.mp3</guid>
+   <pubDate>Sat, 16 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רבי שמעון בר יוחאי ואנחנו | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/119629710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-7%2F423673790-44100-2-132b769bcf3c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/119629710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-7%2F423673790-44100-2-132b769bcf3c7.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הילולת רשב"י - האם זה אירוע חשוב? | הרב יחזקאל קופלד (הועבר לפני ל"ג בעומר)</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/119515013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F423508495-44100-2-aa35a000464b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/119515013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F423508495-44100-2-aa35a000464b5.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>(שיעור ליום הזיכרון) קדושת הנופלים במערכות ישראל | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/119178832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F423048041-44100-2-a9540e4e70cf5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/119178832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F423048041-44100-2-a9540e4e70cf5.mp3</guid>
+   <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהו הלימוד מהמגילה לימינו | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/116047194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-25%2F418826985-44100-2-58e0a35b5df74.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/116047194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-25%2F418826985-44100-2-58e0a35b5df74.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד ספר של רב שסרח | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · תנ"ך</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/115706588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2F418372232-44100-2-548afdc086db2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/115706588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2F418372232-44100-2-548afdc086db2.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד תורה מתוך "מבט חילוני" | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/115406651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-12%2F417976197-44100-2-525934bc0ab59.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/115406651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-12%2F417976197-44100-2-525934bc0ab59.mp3</guid>
+   <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך יש לגשת ללימוד תנ"ך | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · תנ"ך</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/114689168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F417013357-44100-2-879066dd733cb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/114689168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F417013357-44100-2-879066dd733cb.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אגדות חז"ל - חלק מתורה שבעל פה | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/114525650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-25%2F416797044-44100-2-4ba21ea0f3fe3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/114525650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-25%2F416797044-44100-2-4ba21ea0f3fe3.mp3</guid>
+   <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה מן השמיים | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/114004977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2F416129037-44100-2-bea82c7cef3c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/114004977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2F416129037-44100-2-bea82c7cef3c.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מכירת בתים לערבים | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/113976702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2F416093006-44100-2-c585276491478.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/113976702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2F416093006-44100-2-c585276491478.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נר איש וביתו | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/113102941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414986256-44100-2-84380dd79d1c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/113102941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414986256-44100-2-84380dd79d1c9.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהודה, תמר, יוסף והמשיח | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/112478012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-11%2F414187196-44100-2-7cae01c0cdf1e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/112478012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-11%2F414187196-44100-2-7cae01c0cdf1e.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדמותו ולזכרו של הרב משה-צבי נרי'ה זצ"ל | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/112477463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-11%2F414186451-44100-2-6733e3bb496b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/112477463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-11%2F414186451-44100-2-6733e3bb496b5.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כרחל וכלאה אשר בנו שתיהן את בית ישראל | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/111735675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-26%2F413205608-44100-2-479a92ea7d064.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/111735675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-26%2F413205608-44100-2-479a92ea7d064.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המאבק בין ישראל לאדום | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/111411825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2F412778969-44100-2-ab3e100fd514a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/111411825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2F412778969-44100-2-ab3e100fd514a.mp3</guid>
+   <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודה עברית - ערך הלכתי ואידיאולוגי? | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/111081433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-12%2F412347103-44100-2-f00bb4798336d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/111081433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-12%2F412347103-44100-2-f00bb4798336d.mp3</guid>
+   <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוצאת דוד מסדום ומואב | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/110751429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-5%2F410677672-44100-2-b534626a9b4df.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/110751429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-5%2F410677672-44100-2-b534626a9b4df.mp3</guid>
+   <pubDate>Wed, 05 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - ירושת וישיבת ארץ ישראל</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/110387886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-29%2F410200326-44100-2-0ee35a955bdfe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/110387886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-29%2F410200326-44100-2-0ee35a955bdfe.mp3</guid>
+   <pubDate>Wed, 29 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה - איך זה עובד? | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/108472416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F407702675-44100-2-651ba83c6cd38.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/108472416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-18%2F407702675-44100-2-651ba83c6cd38.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החזרת עם ישראל בתשובה | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/108156342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-11%2F407299167-44100-2-52fb8e5753e41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/108156342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-11%2F407299167-44100-2-52fb8e5753e41.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"המשמעות האקטואלית של הקביעה: "הגאולה אינה תלויה בתשובה | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/107806035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-4%2F406865269-44100-2-235da3b07ac04.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/107806035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-4%2F406865269-44100-2-235da3b07ac04.mp3</guid>
+   <pubDate>Thu, 04 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדמותו של הרב קוק וההשפעה על ימינו | הרב יחזקאל קופלד והרב דני סגליס</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/107472114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-28%2F406442417-44100-2-0d0cc7665b39a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/107472114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-28%2F406442417-44100-2-0d0cc7665b39a.mp3</guid>
+   <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קבורת חללי צה"ל שאינם יהודים עם יהודים | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/106199565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-30%2F404806784-44100-2-ba3b96f95bff2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/106199565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-30%2F404806784-44100-2-ba3b96f95bff2.mp3</guid>
+   <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות ההבאה לקבורה - והאם 'בכל מחיר'? | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/105849743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-22%2F404359026-44100-2-9ab451815193a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/105849743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-22%2F404359026-44100-2-9ab451815193a.mp3</guid>
+   <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על עזבם את תורתי | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/105550010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-16%2F404004772-44100-2-e6331d00c0651.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/105550010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-16%2F404004772-44100-2-e6331d00c0651.mp3</guid>
+   <pubDate>Wed, 16 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התבוננות בתהליכים רוחניים בעם חלק ב | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/105255995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-9%2F403598643-44100-2-f35230e9c872b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/105255995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-9%2F403598643-44100-2-f35230e9c872b.mp3</guid>
+   <pubDate>Wed, 09 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התבוננות בתהליכים רוחניים בעם - חלק א' | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/104941529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-2%2F403196103-44100-2-19927acf5fa12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/104941529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-2%2F403196103-44100-2-19927acf5fa12.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רוח הקודש | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/104048712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F402061808-44100-2-91a87cfbd40b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/104048712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F402061808-44100-2-91a87cfbd40b6.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קיום העולם על ידי מתן התורה לישראל | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/103875182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-9%2F401845543-44100-2-d13da4def961d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/103875182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-9%2F401845543-44100-2-d13da4def961d.mp3</guid>
+   <pubDate>Mon, 09 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לנצרות חלק ב' | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/103655205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-4%2F401566648-44100-2-7f643900e22d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/103655205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-4%2F401566648-44100-2-7f643900e22d5.mp3</guid>
+   <pubDate>Wed, 04 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ישראל לנצרות | הרב יחזקאל קופלד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/103042255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-22%2F400793325-44100-2-6cf2ce5cbc3a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/103042255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-22%2F400793325-44100-2-6cf2ce5cbc3a5.mp3</guid>
+   <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד- הזכרת שמות לישועה</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/102651439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400267303-44100-2-fb68cf251b7f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/102651439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400267303-44100-2-fb68cf251b7f3.mp3</guid>
+   <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | משיחת דוד</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/102309092/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-7%2F399779070-44100-2-a7ec7deedc38a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/102309092/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-7%2F399779070-44100-2-a7ec7deedc38a.mp3</guid>
+   <pubDate>Wed, 07 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | וממנה יוושע - יום השואה ויום העצמאות</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מועדים</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/101977955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-30%2F399335900-44100-2-f02cb70237e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/101977955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-30%2F399335900-44100-2-f02cb70237e2.mp3</guid>
+   <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | על מה צריך הכשר לפסח</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מועדים</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/100144370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-21%2F396970975-44100-2-17347074d1c63.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/100144370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-21%2F396970975-44100-2-17347074d1c63.mp3</guid>
+   <pubDate>Fri, 21 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | שורש שנאת ישראל ע"פ מגילת אסתר</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/99770621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396468074-44100-2-41ca92ece0bea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/99770621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396468074-44100-2-41ca92ece0bea.mp3</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | יחס התורה לבדחנות</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/99770382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396467744-44100-2-a3d17ac311072.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/99770382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F396467744-44100-2-a3d17ac311072.mp3</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | גזירה על המת שישתכח</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/99344969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F395932913-44100-2-b842b553911a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/99344969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F395932913-44100-2-b842b553911a1.mp3</guid>
+   <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | השסע בחברה הישראלית</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/98788955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-20%2F395240641-44100-2-c1df90324dca1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/98788955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-20%2F395240641-44100-2-c1df90324dca1.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | תורה מן השמיים</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/98453026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F394821773-44100-2-e90ca0108286d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/98453026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F394821773-44100-2-e90ca0108286d.mp3</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | האם יש ערך/חיוב תורני אמוני בשמירת הסביבה</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/98125607/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394412989-44100-2-298df8a91e736.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/98125607/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394412989-44100-2-298df8a91e736.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | (האם) הציונות החילונית כבר לא רלוונטית-חלק ב</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/97315865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-20%2F7bf5e201-0d3d-9f4d-46cd-ff55d5023044.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/97315865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-20%2F7bf5e201-0d3d-9f4d-46cd-ff55d5023044.m4a</guid>
+   <pubDate>Mon, 20 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | (האם) הציונות החילונית כבר לא רלוונטית-חלק א'</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/96834483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F392808314-44100-2-f827f3b07bc38.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/96834483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F392808314-44100-2-f827f3b07bc38.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | השתלבות מתוך עצמיות - רשב"י במערה: חלק ב</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/96834121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F392807935-44100-2-26d441f65b6bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/96834121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F392807935-44100-2-26d441f65b6bd.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | השתלבות מתוך עצמיות - רשב"י במערה: חלק א</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/96059487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-19%2F391845450-44100-2-0273c491e9d3f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/96059487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-19%2F391845450-44100-2-0273c491e9d3f.mp3</guid>
+   <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | התמודדות עם הסמארטפון- האדם והכלי: חלק ב</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/95747390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F391454082-44100-2-06f90c50719d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/95747390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F391454082-44100-2-06f90c50719d.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | התמודדות עם הסמארטפון- האדם והכלי: חלק א</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/95746095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F391458235-44100-2-f95ecb44c0fae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/95746095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F391458235-44100-2-f95ecb44c0fae.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | על מה ולשם מה זה ׳בא עלינו׳</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/95119007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-29%2F390677815-44100-2-0e4c7518c0837.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/95119007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-29%2F390677815-44100-2-0e4c7518c0837.mp3</guid>
+   <pubDate>Fri, 29 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | עקידת יצחק-המסר והמוסר</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מוסר</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/94518898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F390276768-44100-2-793107ab4ab11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/94518898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F390276768-44100-2-793107ab4ab11.mp3</guid>
+   <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | יראת שמיים והשתדלות-בעניין ההשקפה החרדית [חלק ב']</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מוסר</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/94542543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-17%2F389962575-44100-2-7f6b57adc9e31.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/94542543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-17%2F389962575-44100-2-7f6b57adc9e31.mp3</guid>
+   <pubDate>Sun, 17 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | יראת שמיים והשתדלות-בעניין ההשקפה החרדית</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · מוסר</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/94117366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389437117-44100-2-66ff6d7911367.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/94117366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389437117-44100-2-66ff6d7911367.mp3</guid>
+   <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | יסוד החטא על פי חטא אדם הראשון</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/92239264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F387108661-44100-2-1b5c0002ced09.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/92239264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F387108661-44100-2-1b5c0002ced09.m4a</guid>
+   <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | על ייסורים ומוות</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/91922762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-19%2F386645033-44100-2-3b96528765f9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/91922762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-19%2F386645033-44100-2-3b96528765f9a.mp3</guid>
+   <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | אשת יפת תואר</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/91569478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2F386164221-44100-2-936a95819dd21.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/91569478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2F386164221-44100-2-936a95819dd21.mp3</guid>
+   <pubDate>Wed, 11 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | רב ראשי ציוני - מה זה ולמה זה</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/89669270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383828985-44100-2-65072672b705d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/89669270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383828985-44100-2-65072672b705d.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>?הרב יחזקאל קופלד | המדינה כגאולה</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/89668016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383828001-44100-2-b6bdea8153e2d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/89668016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383828001-44100-2-b6bdea8153e2d.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | בארץ ישראל צריך סבלנות - ע״פ מי מריבה</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/89667498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383826856-44100-2-5164f2aa82d66.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/89667498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383826856-44100-2-5164f2aa82d66.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | שיעור לי״ז בתמוז</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/89667118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383826419-44100-2-2d90f7e6b4311.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/89667118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383826419-44100-2-2d90f7e6b4311.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | ביקורת ציבורית באהבה ובעומק</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/89376203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-18%2F383420515-44100-2-b4e0ccaa6239d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/89376203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-18%2F383420515-44100-2-b4e0ccaa6239d.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יחזקאל קופלד | בניין המקדש בימינו ועלייה להר הבית</title>
+   <description>הרב יחזקאל קופלד · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב יחזקאל קופלד</itunes:author>
+   <enclosure url="https://anchor.fm/s/f84b08b8/podcast/play/88708728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-1%2F382169416-44100-2-0af71d27ef4d1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f84b08b8/podcast/play/88708728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-1%2F382169416-44100-2-0af71d27ef4d1.mp3</guid>
+   <pubDate>Mon, 01 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

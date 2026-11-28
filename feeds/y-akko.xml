@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>ישיבת עכו – רוח צפונית · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/y-akko.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי ישיבת עכו – רוח צפונית.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הלכות בשר וחלב | בישולי נכרים חלק - א | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055862-48000-1-d30bb9d72d846b5c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055862-48000-1-d30bb9d72d846b5c.mp3</guid>
+   <pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב 29 - השלמת דין תנור, ודין קומקום ששופך על גבי חלב או בשר | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055874-48000-1-33f320be2390b6cf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055874-48000-1-33f320be2390b6cf.mp3</guid>
+   <pubDate>Sun, 02 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב 28 - דין זיעה- הכרעה לשימוש בתנור ומיקרוגל לבשרי וחלבי | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055865-48000-1-edadd1fdb40717dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055865-48000-1-edadd1fdb40717dc.mp3</guid>
+   <pubDate>Wed, 26 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב 27- דין זיעה ושימוש בתנור לבשרי וחלבי | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055855-48000-1-526085be438bfbc0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055855-48000-1-526085be438bfbc0.mp3</guid>
+   <pubDate>Mon, 24 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב 26- דין ריח וצליית בשר ליד חלב | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055847-48000-1-f799fd5c317e52d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055847-48000-1-f799fd5c317e52d8.mp3</guid>
+   <pubDate>Sun, 23 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב 25 - דבר שיש לו מתירים חלק ב | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055849-48000-1-e1abc8483d9a215b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055849-48000-1-e1abc8483d9a215b.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (24) - דין דבר שיש לו מתירים- ביטול בתערובת| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055851-48000-1-2b7371c87b6da0a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055851-48000-1-2b7371c87b6da0a5.mp3</guid>
+   <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (23) - ביטול איסור לכתחילה | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055854-48000-1-5922e99200c87364.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055854-48000-1-5922e99200c87364.mp3</guid>
+   <pubDate>Sat, 08 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (22) - דין חתיכה הראויה להתכבד | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055877-48000-1-2e130b5be8e5c131.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055877-48000-1-2e130b5be8e5c131.mp3</guid>
+   <pubDate>Sat, 08 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (21) - דין בריה שאינה בטילה- דין חרקים במאכל | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055859-48000-1-43dace1be2b44dc5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055859-48000-1-43dace1be2b44dc5.mp3</guid>
+   <pubDate>Sun, 02 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (20) - (תערובות- ביטול לח בלח בשאינו מינו) | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055858-48000-1-341301a93cd3de46.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055858-48000-1-341301a93cd3de46.mp3</guid>
+   <pubDate>Sun, 02 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (19) - הסוגים השונים של ביטולים | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055856-48000-1-141992ed93bb93b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055856-48000-1-141992ed93bb93b6.mp3</guid>
+   <pubDate>Sun, 26 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (18) - הדחת כלים בשרים וחלביים במדיח ביחד | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055873-48000-1-eb039ce665963a0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055873-48000-1-eb039ce665963a0d.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (17) - דין חריף שאינו בן יומו | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055872-48000-1-0ea94594f2bd83af.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055872-48000-1-0ea94594f2bd83af.mp3</guid>
+   <pubDate>Sun, 19 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (16) - דין חריף | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055867-48000-1-684a38ad68e16e7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055867-48000-1-684a38ad68e16e7e.mp3</guid>
+   <pubDate>Fri, 17 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (15) - דין מאכל פרווה שבושל בכלי בשרי, אכילתו עם חלב, ולהיפך| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055846-48000-1-df82c8141c0a3dd6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055846-48000-1-df82c8141c0a3dd6.mp3</guid>
+   <pubDate>Sun, 12 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (14) - מאכל בשרי שהתבשל בכלי חלבי- דין הכלי| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907141/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055871-48000-1-9b777135b21029e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907141/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055871-48000-1-9b777135b21029e6.mp3</guid>
+   <pubDate>Fri, 10 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (13) - (מאכל בשרי שהתבשל בכלי חלבי ולהיפך, דין המאכל)| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055868-48000-1-dc9a5cb7650aa934.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055868-48000-1-dc9a5cb7650aa934.mp3</guid>
+   <pubDate>Mon, 06 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (12) - מגע בין כלי בשרי לכלי חלבי כששני הכלים חמים| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055857-48000-1-3eb78fc41a527517.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055857-48000-1-3eb78fc41a527517.mp3</guid>
+   <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (11) - טיפת חלב שהתיזה או נטפה על סיר מבחוץ| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055860-48000-1-6f81936c2068d405.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055860-48000-1-6f81936c2068d405.mp3</guid>
+   <pubDate>Sun, 29 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (10) - מפגש בשר וחלב כששניהם חמים, ביטול בשישים| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055852-48000-1-4e17b4a5c98ef47b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055852-48000-1-4e17b4a5c98ef47b.mp3</guid>
+   <pubDate>Fri, 27 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (9) - תערובת בשר וחלב כשאחד מהם קר ואחד חם| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907125/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055845-48000-1-4800d81f26e9585b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907125/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055845-48000-1-4800d81f26e9585b.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (8) - שימוש בכלי טרף לאכילת דברים כשרים צוננים | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055864-48000-1-923cf9ad9cdc74cf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055864-48000-1-923cf9ad9cdc74cf.mp3</guid>
+   <pubDate>Sun, 22 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (7) - דין האוכל מאכלי בשר לאחר אכילת גבינה| הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055863-48000-1-8f7ea423012c05c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055863-48000-1-8f7ea423012c05c2.mp3</guid>
+   <pubDate>Fri, 20 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (6) - בשר שצריך לחכות אחריו 6 שעות | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055866-48000-1-ca586460cb8e1e2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055866-48000-1-ca586460cb8e1e2c.mp3</guid>
+   <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (5) - המתנה בין בשר וגבינה | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055850-48000-1-cf70e2783a1eff37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055850-48000-1-cf70e2783a1eff37.mp3</guid>
+   <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (4) - הרחקות בין בשר וחלב | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055870-48000-1-4ce8ced893034e32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055870-48000-1-4ce8ced893034e32.mp3</guid>
+   <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (3) - איסורי דרבנן | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055861-48000-1-c8bbe7b52fd8d99f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055861-48000-1-c8bbe7b52fd8d99f.mp3</guid>
+   <pubDate>Wed, 11 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (2) - גדרי מהו הבשר האסור מדאורייתא | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055869-48000-1-3f3c45b52bb401c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055869-48000-1-3f3c45b52bb401c6.mp3</guid>
+   <pubDate>Mon, 09 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכה יומית | הלכות בשר וחלב (1) - טעמי איסור חלב ובשר | הרב נריה פופר</title>
+   <description>הרב נריה פופר · ישיבת עכו – רוח צפונית · הלכה</description>
+   <itunes:author>הרב נריה פופר</itunes:author>
+   <enclosure url="https://anchor.fm/s/114fa9eec/podcast/play/122907131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055853-48000-1-c0d7cef5f6d8a3c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/114fa9eec/podcast/play/122907131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428055853-48000-1-c0d7cef5f6d8a3c0.mp3</guid>
+   <pubDate>Mon, 09 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מדן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c86e4dd2.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מדן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיעור 24 | פרק כ | פילגש בגבעה</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/8d/ac/411a6249f680609a8c04c09212.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/8d/ac/411a6249f680609a8c04c09212.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 23 | פרק י"ח | פסל מיכה</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2e/f2/c0/7c0314461e91dd8beb2bb68235.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2e/f2/c0/7c0314461e91dd8beb2bb68235.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 22 | פרק י"ז | מיכה</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/14/e7/77/54b6f54830bbbf42dc4347c2aa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/14/e7/77/54b6f54830bbbf42dc4347c2aa.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 21 | פרק ט"ז | סופו של שמשון</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/17/c0/41/75a7bc49f69ddd5bd08d610dd1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/17/c0/41/75a7bc49f69ddd5bd08d610dd1.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 20 | פרק י"ד | אשת שמשון</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fd/cd/5d/81555341abafdd8dcccab6e84c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fd/cd/5d/81555341abafdd8dcccab6e84c.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 19 | פרק י"ד | חידות שמשון</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/71/9d/52/efaf4b4a4fb800c61348c8a926.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/71/9d/52/efaf4b4a4fb800c61348c8a926.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 18 | פרק י"ג | שמשון</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/82/c0/b7/5b4ae242798127c9cb0db6ae3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/82/c0/b7/5b4ae242798127c9cb0db6ae3d.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 17 | פרק י"ב | שבט אפרים ויפתח</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/21/06/cb/9cdd954ba79b063d16ee41a3ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/21/06/cb/9cdd954ba79b063d16ee41a3ac.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 16 | פרק י"א | נדרו של יפתח</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7b/eb/39/e6bcae483fbd1b164f7ba42dee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7b/eb/39/e6bcae483fbd1b164f7ba42dee.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 15 | פרק י"א | מלחמה בעמון</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/be/d4/2a/8c9d854fd2a27edbcc65003dee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/be/d4/2a/8c9d854fd2a27edbcc65003dee.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 | פרק י"א | יפתח</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/33/f7/19/0691b7490193b3c2e837536eb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/33/f7/19/0691b7490193b3c2e837536eb3.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 13 | פרק ט' | משל יותם</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/79/57/47984742e5b8200d1402d6b3e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/79/57/47984742e5b8200d1402d6b3e2.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 12 | פרק ח' | שבט אפרים</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/1c/c0/01a38742c9ad5f96fcdf191116.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/1c/c0/01a38742c9ad5f96fcdf191116.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 11 | פרק ז' | חלום גדעון</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0d/69/a3/3b62a145a0beb4d3129bc572c5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0d/69/a3/3b62a145a0beb4d3129bc572c5.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 10 | פרק ו' | גדעון כמנהיג</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ad/f4/f4/9a25bd4270848536a4fe39248d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ad/f4/f4/9a25bd4270848536a4fe39248d.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 | פרק ו' | בחירת גדעון</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9f/81/77/0dc84a4d689f1cb84f9aa01e40.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9f/81/77/0dc84a4d689f1cb84f9aa01e40.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 | פרק ו' | מלחמה במדין</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/38/0f/36a7894b97acb604be59a754b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/38/0f/36a7894b97acb604be59a754b1.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 | פרק ה' | שירת דבורה</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/69/1b/2e/5ba0384369abeb071c908dd408.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/69/1b/2e/5ba0384369abeb071c908dd408.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 | פרק ד' | מלחמה בסיסרא</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/85/3b/e7/a5e7cd4f3ba0db99e27807970a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/85/3b/e7/a5e7cd4f3ba0db99e27807970a.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 | פרק ד | דבור וברק</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c5/5e/60/d1860a4d10943c49e25b53b996.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c5/5e/60/d1860a4d10943c49e25b53b996.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 | פרק ג' | עשית הרע בעיני ה'</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/71/50/e6/0724bd4c889178951435664a75.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/71/50/e6/0724bd4c889178951435664a75.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 | פרק ב' | נחלת דן</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c6/25/d2/b357e845fb9a98cc30494e1fb6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c6/25/d2/b357e845fb9a98cc30494e1fb6.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 | פרק א' | המלחמה בבזק</title>
+   <description>הרב מדן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/06/93/80/bd840f41628a38a15bb1b5855a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/06/93/80/bd840f41628a38a15bb1b5855a.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 | פרק א' | פתיחה לספר שופטים</title>
+   <description>הרב מדן · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב מדן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/b7/99/c17f4b423aa04122e82b0417ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/b7/99/c17f4b423aa04122e82b0417ce.mp3</guid>
+   <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

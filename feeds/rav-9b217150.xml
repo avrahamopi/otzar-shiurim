@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אריאל שרשבסקי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9b217150.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אריאל שרשבסקי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>לך אל הנמלה עצל | נתיבות עולם ב' | נתיב הזריזות פרק א' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2c754704/25fef6b8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2c754704/25fef6b8.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אישה נאה במעשה | עין איה שבת א' פיסקה עב | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/5f3a557c/316a33a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5f3a557c/316a33a5.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו העשיר | עין איה שבת א | סעיף עב | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ec9d8e21/f9cddf27.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ec9d8e21/f9cddf27.mp3</guid>
+   <pubDate>Sun, 08 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו העשיר | עין איה שבת א | סעיף עב | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/c4e7c39c/c575d902.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c4e7c39c/c575d902.mp3</guid>
+   <pubDate>Sun, 08 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו העשיר | עין איה שבת א | פיסקה עא | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/9c1f37cb/20273334.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9c1f37cb/20273334.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת שמיים | נתיבות עולם ב | נתיב יראה פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0586649e/fcc7fed1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0586649e/fcc7fed1.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראת שמיים | נתיבות עולם ב | נתיב יראה פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7aec96b6/2298ae09.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7aec96b6/2298ae09.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו העשיר | עין איה שבת א | פיסקה עא | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4bb4e462/d23dc8cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4bb4e462/d23dc8cd.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו עשיר | עין איה שבת א עא | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/238bca35/3f9d9761.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/238bca35/3f9d9761.mp3</guid>
+   <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו עשיר | עין איה שבת א עא | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0d2c0b60/5b95713b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0d2c0b60/5b95713b.mp3</guid>
+   <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אבסורד האגרנות של הנמלה | נתיב הזריזות פרק א' | מהרל| הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/104766b2/1d77df50.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/104766b2/1d77df50.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזהו העשיר | עין איה שבת א פיסקה ע | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b5254e6d/724c50cb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b5254e6d/724c50cb.mp3</guid>
+   <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויאמינו בה' | גבורות ה' | פרק מז | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/fe9a8472/2a64ddf7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fe9a8472/2a64ddf7.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ירגיז יצר טוב על יצר רע | עין איה | ברכות א סעיף כד | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/49754e85/dca42f11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/49754e85/dca42f11.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היצר הטוב יעלה על הרע | עין איה כד | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/321037fe/14d75845.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/321037fe/14d75845.mp3</guid>
+   <pubDate>Wed, 12 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא הגידה אסתר | על משמעות שם אסתר וגאולת פורים | הקדמת אור חדש | מהר"ל | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ffe0a257/839432e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ffe0a257/839432e6.mp3</guid>
+   <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכוחות הטובים והרעים תכליתם בדרך הטובה | עין איה| ברכות א' סימן כד | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4307f2df/6df41cef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4307f2df/6df41cef.mp3</guid>
+   <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העלאת יצר הטוב על יצר הרע | עין איה ברכות א | פיסקה כד | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6846eacc/1104a5a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6846eacc/1104a5a9.mp3</guid>
+   <pubDate>Wed, 26 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשעה שהקבה בא לבית הכנסת | על מיקוד וכוונה | עין איה ברכות א נד | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a4c0456f/1e2a0877.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a4c0456f/1e2a0877.mp3</guid>
+   <pubDate>Tue, 07 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשעה שהקבה בא לבית הכנסת | על מיקוד וכוונה | עין איה ברכות א נד | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/9b8ce140/82f8fa55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9b8ce140/82f8fa55.mp3</guid>
+   <pubDate>Tue, 07 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תינוק בבטן אימו, מסרים לחיים שבחוץ מבפנים | נתיבות עולם ב | נתיב הצדקה פ' ג | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/53c7057d/148b0aef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/53c7057d/148b0aef.mp3</guid>
+   <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם המצוות מגבילות אותנו | נתיבות עולם ב | נתיב הצדקה פ' ג | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b1e6b75a/cd2e83ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b1e6b75a/cd2e83ca.mp3</guid>
+   <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תינוק בבטן אימו, מסרים לחיים שבחוץ מבפנים | נתיבות עולם ב | נתיב הצדקה פ' ג | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/75cdb201/df628944.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75cdb201/df628944.mp3</guid>
+   <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם המצוות מגבילות אותנו | נתיבות עולם ב | נתיב הצדקה פ' ג | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a6b3055d/176ca26d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a6b3055d/176ca26d.mp3</guid>
+   <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עובר בבטן אימו שם ידיו על צדעיו | נתיב הצדקה | נתיבות עולם ב | מהרל | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0f119390/0abd9263.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0f119390/0abd9263.mp3</guid>
+   <pubDate>Wed, 11 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תינוק במעי אמו כשיקוף לחיים | נתיבות עולם | נתיב הצדקה | פרק ג שיעור א' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/64ce9631/0638aa22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/64ce9631/0638aa22.mp3</guid>
+   <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תינוק במעי אמו כשיקוף לחיים | נתיבות עולם | נתיב הצדקה | פרק ג שיעור ב' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/e4e3dfd5/f99f90fc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e4e3dfd5/f99f90fc.mp3</guid>
+   <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילה לכתחילה | עין איה | פרק ראשון סעיף ס' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8c8305d9/f6ebec2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8c8305d9/f6ebec2c.mp3</guid>
+   <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תינוק במעי אמו כשיקוף לחיים | נתיבות עולם | נתיב הצדקה | פרק ג שיעור א' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/5b2a26e1/23cb081a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5b2a26e1/23cb081a.mp3</guid>
+   <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תינוק במעי אמו כשיקוף לחיים | נתיבות עולם | נתיב הצדקה | פרק ג שיעור ב' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6a7a440a/5492f218.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6a7a440a/5492f218.mp3</guid>
+   <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילה לכתחילה | עין איה | פרק ראשון סעיף ס' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8f0b78dd/0bf98d7a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8f0b78dd/0bf98d7a.mp3</guid>
+   <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעותה של ערבית | עין איה ברכות א סעיף סא | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2afd3962/5904063e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2afd3962/5904063e.mp3</guid>
+   <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך אל הנמלה - זריזות עם איזון | מהר"ל נתיבות עולם ב | נתיב הזריזות | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7682dd0c/44644c6b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7682dd0c/44644c6b.mp3</guid>
+   <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התפילה כמצפן | עין איה ברכות א | פרק ראשון | פסקה ס |הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/95556fb9/7023da32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/95556fb9/7023da32.mp3</guid>
+   <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיצד הפחד מביא עלינו ייסורים | נתיבות עולם ב | נתיב הביטחון פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/cd3dd611/7eec9db8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cd3dd611/7eec9db8.mp3</guid>
+   <pubDate>Wed, 02 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיצד הפחד מביא עלינו ייסורים | נתיבות עולם ב | נתיב הביטחון פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/c65ab087/37a3d947.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c65ab087/37a3d947.mp3</guid>
+   <pubDate>Tue, 01 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין לומדים בתפילה אלא בכובד ראש | עין איה שבת ב | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/fd35c574/24452709.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fd35c574/24452709.mp3</guid>
+   <pubDate>Fri, 27 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות תפילת הדרך | עין איה | ברכות א' דף כט-ל | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8b7a5b1d/d5fa2589.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8b7a5b1d/d5fa2589.mp3</guid>
+   <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המוקש של האדם זה הוא עצמו | נתיבות עולם | נתיב הביטחון פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f4efb4d2/19f5e620.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f4efb4d2/19f5e620.mp3</guid>
+   <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המוקש של האדם זה הוא עצמו | נתיבות עולם | נתיב הביטחון פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/3463d711/74fc808b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3463d711/74fc808b.mp3</guid>
+   <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות תפילת הדרך | עין איה | ברכות א' דף כט-ל | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/e0a69176/e94c20f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e0a69176/e94c20f1.mp3</guid>
+   <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הערך הנצחי בעולם הזה | נתיב הזריזות | נתיבות עולם | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/640400e7/f7c9d53e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/640400e7/f7c9d53e.mp3</guid>
+   <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כל המנהיג את הציבור בנחת זוכה להניגם לעולם הבא | נתיבות עולם | נתיב הכעס פרק א' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/83f20f71/3f22fc8b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/83f20f71/3f22fc8b.mp3</guid>
+   <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא לצאת מהשיווי | נתיבות עולם | נתיב הכעס | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/bb3a7a65/dd6c4d95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bb3a7a65/dd6c4d95.mp3</guid>
+   <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הערך הנצחי בעולם הזה | נתיב הזריזות | נתיבות עולם | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/5e3226a7/3472e43b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5e3226a7/3472e43b.mp3</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כל המנהיג את הציבור בנחת זוכה להניגם לעולם הבא | נתיבות עולם | נתיב הכעס פרק א' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ef2ade78/1df30d39.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ef2ade78/1df30d39.mp3</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא לצאת מהשיווי | נתיבות עולם | נתיב הכעס | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/13c24115/8d0c6b41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/13c24115/8d0c6b41.mp3</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה קדוש לעולם קיים | שמירת הלשון | פרק ט | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4a251b85/9cdbfe66.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4a251b85/9cdbfe66.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההשתייכות המעשים השטנים לדבר קטן דרך הנמלה | נתיבות עולם נתיב הזריזות | פרק א | פסקה שניה | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8ef48099/f77ab27c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8ef48099/f77ab27c.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההשתייכות המעשים השטנים לדבר קטן דרך הנמלה | נתיבות עולם נתיב הזריזות | פרק א | פסקה שניה | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a15ede67/4f7586af.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a15ede67/4f7586af.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה קדוש לעולם קיים | שמירת הלשון | פרק ט | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/fcffa33b/703ab640.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fcffa33b/703ab640.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להנהיג את עצמי בנחת | נתיבות עולם | נתיב הכעס | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8f0b0251/88203c5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8f0b0251/88203c5f.mp3</guid>
+   <pubDate>Tue, 30 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איפה צריך להיות המחשבה | שמירת הלשון | שער הזכירה פרק ט | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/e39ca4af/2dab261d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e39ca4af/2dab261d.mp3</guid>
+   <pubDate>Tue, 30 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השראת שכינה | שמירת הלשון | שער הזכירה פרק ט | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/843d6d30/82bef027.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/843d6d30/82bef027.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרטריונים של עולם הבא | נתיבות עולם | נתיב הכעס | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2963418a/4c53107a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2963418a/4c53107a.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בטחון אל מול השתדלות | עין איה ברכות ב | פרק תשיעי פסקה יד | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/d9cd9c2d/19118d92.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d9cd9c2d/19118d92.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרטריונים של עולם הבא | נתיבות עולם | נתיב הכעס | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/174f2e05/12df08f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/174f2e05/12df08f3.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השראת שכינה | שמירת הלשון | שער הזכירה פרק ט | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/3c594fee/27e4d7be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3c594fee/27e4d7be.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בטחון אל מול השתדלות | עין איה ברכות ב | פרק תשיעי פסקה יד | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/d1a54625/6c235489.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d1a54625/6c235489.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העונש המדויק של מדבר לשון הרע | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה פרק ח</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/bfdb0bf9/38f9b1d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bfdb0bf9/38f9b1d7.mp3</guid>
+   <pubDate>Fri, 12 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נקדש את שמך בעולם | הרב אריאל שרשבסקי | עין איה שבת א | פרק א פסקה ט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/1eb4298a/01ecf411.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1eb4298a/01ecf411.mp3</guid>
+   <pubDate>Fri, 12 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העונש המדויק של מדבר לשון הרע | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה פרק ח</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/33fe4354/6f6b09a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/33fe4354/6f6b09a2.mp3</guid>
+   <pubDate>Fri, 12 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נקדש את שמך בעולם | עין איה שבת א | פרק א פסקה ט |הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b13b3e8b/d765af36.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b13b3e8b/d765af36.mp3</guid>
+   <pubDate>Fri, 12 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא להתרגש מכח דבר | נתיבות עולם | נתיב הכעס פרק א | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/638a3b7b/e42d7e19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/638a3b7b/e42d7e19.mp3</guid>
+   <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דידי ודידך מאי | הרב אריאל שרשבסקי | שמירת הלשון | פרק ז</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/9caf8df4/7d7159d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9caf8df4/7d7159d8.mp3</guid>
+   <pubDate>Thu, 04 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עובדת ה' בכל רגע, הרב אריאל שרשבסקי, עין איה, שבת א, פסקה ט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/3a06679e/6ecda6a8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3a06679e/6ecda6a8.mp3</guid>
+   <pubDate>Thu, 04 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דידי ודידך מאי | הרב אריאל שרשבסקי | שמירת הלשון | פרק ז</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/dd415d45/49f400e3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dd415d45/49f400e3.mp3</guid>
+   <pubDate>Thu, 04 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עובדת ה' בכל רגע | עין איה שבת א | פסקה ט | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f66adf83/de08ad71.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f66adf83/de08ad71.mp3</guid>
+   <pubDate>Thu, 04 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | מדוע זכויות המדבר לשון הרע עובר למי שמדברים עליו | חפץ חיים | שער הזכירה | פרק ז</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/07e1d837/e7a6326d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/07e1d837/e7a6326d.mp3</guid>
+   <pubDate>Mon, 01 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שייכות לעולם אחר גם במעשים גשמים | הרב אריאל שרשבסקי | עין איה שבת א | פרק א פסקה ט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/543453b0/a38b19dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/543453b0/a38b19dc.mp3</guid>
+   <pubDate>Sun, 30 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שייכות לעולם אחר גם במעשים גשמים | הרב אריאל שרשבסקי | עין איה שבת א | פרק א פסקה ט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/483135c1/3014a756.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/483135c1/3014a756.mp3</guid>
+   <pubDate>Sun, 30 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התאמת הדרך למציאות | הרב אריאל שרשבסקי | נתיבות עולם, נתיב הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2bd9b4e0/b6fe7ae6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2bd9b4e0/b6fe7ae6.mp3</guid>
+   <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התאמת הדרך למציאות | הרב אריאל שרשבסקי | נתיבות עולם, נתיב הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ab5407ea/ecb3da22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ab5407ea/ecb3da22.mp3</guid>
+   <pubDate>Mon, 24 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניה עצמית בשביל הכלל | הרב אריאל שרשבסקי | עין איה שבת א | פרק ראשון פסקה ט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/e0b3f483/fe332422.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e0b3f483/fe332422.mp3</guid>
+   <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השפעת הדיבור על הכל | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה | פרק ז</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/677a06de/c3190175.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/677a06de/c3190175.mp3</guid>
+   <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השפעת הדיבור על הכל | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה | פרק ז</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/11a9ebfe/aea02c9c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/11a9ebfe/aea02c9c.mp3</guid>
+   <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בניה עצמית בשביל הכלל | הרב אריאל שרשבסקי | עין איה שבת א | פרק ראשון פסקה ט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/17cb4815/609872f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/17cb4815/609872f1.mp3</guid>
+   <pubDate>Fri, 21 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | טוב מושל ברוחו מכובש עיר | נתיבות עולם | נתיב הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/04c0c8e6/1ddcdf19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/04c0c8e6/1ddcdf19.mp3</guid>
+   <pubDate>Tue, 18 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | טוב מושל ברוחו מכובש עיר | נתיבות עולם | נתיב הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0d998454/acb22165.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0d998454/acb22165.mp3</guid>
+   <pubDate>Tue, 18 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/468ce057/5cdb6b60.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/468ce057/5cdb6b60.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קשה לכעוס רב תבונה | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הכעס | פרק א</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b9d85878/23c78edc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b9d85878/23c78edc.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השתייכות לראיה רוחנית | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8f52efd9/07e4b8ee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8f52efd9/07e4b8ee.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם יותר טוב שאין היום צרעת | הרב אריאל שרשבסקי | שמירת הלשון | פרק ו שער הזכירה</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/07dffd6a/53799f2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/07dffd6a/53799f2c.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה תאומת למציאות | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/15b6ad27/21565cb9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/15b6ad27/21565cb9.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/d6a06000/410bc906.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d6a06000/410bc906.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קשה לכעוס רב תבונה | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הכעס | פרק א</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/87017768/afbe58f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/87017768/afbe58f2.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השתייכות לראיה רוחנית | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/c62a680f/17bb66a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c62a680f/17bb66a0.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה תאומת למציאות | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ee660b4b/d7a4a11b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ee660b4b/d7a4a11b.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם יותר טוב שאין היום צרעת | הרב אריאל שרשבסקי | שמירת הלשון | פרק ו שער הזכירה</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4efb597a/5f17c721.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4efb597a/5f17c721.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קשה לכעוס רב תבונה | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הכעס | פרק א'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b2927a24/bf725778.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b2927a24/bf725778.mp3</guid>
+   <pubDate>Tue, 04 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a7666c30/39b543bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a7666c30/39b543bf.mp3</guid>
+   <pubDate>Tue, 04 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זה לא ביטול תורה | הרב אריאל שרשבסקי | עין איה שבת א | פרק א פסקה ט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/81703003/d6f82682.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/81703003/d6f82682.mp3</guid>
+   <pubDate>Sun, 02 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זה לא ביטול תורה | הרב אריאל שרשבסקי | עין איה שבת א | פרק א פסקה ט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2dbd217c/53ab80f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2dbd217c/53ab80f1.mp3</guid>
+   <pubDate>Sun, 02 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות הגוף ביחס לראש | הרב אריאל שרשבסקי | נתיבות ב | נתיב הצניעות | פרק א</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/dd590cba/b3cc8c82.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dd590cba/b3cc8c82.mp3</guid>
+   <pubDate>Tue, 28 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות הגוף ביחס לראש, הרב אריאל שרשבסקי | נתיבות ב | נתיב הצניעות | פרק א</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/54933cc7/37a46acd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/54933cc7/37a46acd.mp3</guid>
+   <pubDate>Tue, 28 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להסתכל על העולם הזה בעיינים של עולם הבא | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0b96af73/0ff1c5db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0b96af73/0ff1c5db.mp3</guid>
+   <pubDate>Mon, 20 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להסתכל על העולם הזה בעיינים של עולם הבא | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/706d48e4/bd35b796.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/706d48e4/bd35b796.mp3</guid>
+   <pubDate>Mon, 20 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יש לשון הרע על עצים ואבנים | הרב אריאל שרשבסקי | שמירת הלשון שער הזכירה | פרק ה</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4f71c3e1/2ef2a365.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4f71c3e1/2ef2a365.mp3</guid>
+   <pubDate>Fri, 17 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יש לשון הרע על עצים ואבנים | הרב אריאל שרשבסקי | שמירת הלשון שער הזכירה | פרק ה</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/cb105a18/a095efdd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cb105a18/a095efdd.mp3</guid>
+   <pubDate>Fri, 17 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההכרה בנס הגאולה | הרב אריאל שרשבסקי | שיעור ליום העצמאות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/86a0e65f/d966fec6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/86a0e65f/d966fec6.mp3</guid>
+   <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הופעת שם ה' בכל המציאות | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות פרק א</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/da3fc8e0/124b31e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/da3fc8e0/124b31e0.mp3</guid>
+   <pubDate>Sun, 12 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הופעת שם ה' בכל המציאות | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות פרק א</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/62ca913a/29464e99.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/62ca913a/29464e99.mp3</guid>
+   <pubDate>Sun, 12 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גבורות ה' | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ad4cb04a/240daae2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ad4cb04a/240daae2.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניינה של הצרעת | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה פרק ו</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/96a7fbe1/a81b68a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/96a7fbe1/a81b68a2.mp3</guid>
+   <pubDate>Sun, 07 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדוע נענש מדבר לשון הרע | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה פרק ה</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/dcb4b9a4/7d0507d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dcb4b9a4/7d0507d7.mp3</guid>
+   <pubDate>Sun, 07 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שינוי ההסתכלות על העולם דרך לימוד התורה | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה פרק ד</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7975928b/679104f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7975928b/679104f0.mp3</guid>
+   <pubDate>Sun, 07 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העולם מחפש משמעות | הרב אריאל שרשבסקי | גבורות ה' | פרק ס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/22c384c4/90852a13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/22c384c4/90852a13.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משל הכלב | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה פרק ד</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f1baa083/2b8474b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f1baa083/2b8474b6.mp3</guid>
+   <pubDate>Sun, 31 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנכנס אדר משמיעים על השקלים | הרב אריאל שרשבסקי | שפת אמת</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6f044c1e/7c967588.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6f044c1e/7c967588.mp3</guid>
+   <pubDate>Mon, 11 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראיית חסרון במציאות זה חיסרון באמונה | הרב אריאל שרשבסקי | עין איה ברכות א'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6e97e5c1/628e002e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6e97e5c1/628e002e.mp3</guid>
+   <pubDate>Mon, 11 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צניעות בשאול המלך | הרב אריאל שרשבסקי | נתיבות עולם ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8b9062a9/6cc9daf4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8b9062a9/6cc9daf4.mp3</guid>
+   <pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הופעת החיים בצורה הכי אמיתית | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה | פרק ד'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f73b3cd8/ff813220.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f73b3cd8/ff813220.mp3</guid>
+   <pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבירור שיוצא מהדרך הקשה | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות | פרק א</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b261a580/e311f380.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b261a580/e311f380.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | נתיבות עולם ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/977cfb7b/bd34eabd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/977cfb7b/bd34eabd.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החיסרון בלעג לרש | הרב אריאל שרשבסקי | עין איה | ברכות א | פרק שלישי פסקה א</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/03efdbee/fe104d30.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/03efdbee/fe104d30.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האמת שמתבררת דרך לאה | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7d52695e/8d3f241c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7d52695e/8d3f241c.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבנת המציאות של רחל ולאה | הרב אריאל שרשבסקי | נתיבות עולם ב | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/08e06fdd/bb80d857.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/08e06fdd/bb80d857.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענינה של לאה | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות פרק ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/1a6a62c8/8438bbe9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1a6a62c8/8438bbe9.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסתכלות על העלום בצורה חיובית | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה פרק ג</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/711ca30b/6a033390.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/711ca30b/6a033390.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להצניע אתה הדבר היקר | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ae79cdf3/3985cb4f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ae79cdf3/3985cb4f.mp3</guid>
+   <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי יכול להיות כהן גדול | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/d61a898d/4f2038d7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d61a898d/4f2038d7.mp3</guid>
+   <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אדם עם כובע בלי כובע | אריאל הרב שרשבסקי | שמירת הלשון | פרק ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f7360516/3ee63334.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f7360516/3ee63334.mp3</guid>
+   <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לראות את הטוב בכל אחד | הרב אריאל שרשבסקי | שמירת הלשון | שער הזכירה פרק ג'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ded29dcc/6e228592.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ded29dcc/6e228592.mp3</guid>
+   <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענינו של עבד | הרב אריאל שרשבסקי | פרשת משפטים</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/36b322ba/83af13d1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/36b322ba/83af13d1.mp3</guid>
+   <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי יכול להיות כהן גדול | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4a0e191f/fb2124a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4a0e191f/fb2124a1.mp3</guid>
+   <pubDate>Tue, 06 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אדם עם כובע בלי כובע | אריאל הרב שרשבסקי | שמירת הלשון | פרק ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2b514641/ce2076c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2b514641/ce2076c0.mp3</guid>
+   <pubDate>Tue, 06 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצניעות בצורה הפנימית | הרב אריאל שרשבסקי | נתיבות עולם ב'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b429faa7/a582a8d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b429faa7/a582a8d3.mp3</guid>
+   <pubDate>Sun, 04 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | עין איה שבת ב'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/df966c18/65b09f4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/df966c18/65b09f4a.mp3</guid>
+   <pubDate>Sun, 04 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכר הצניעות שהיה לרחל | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעןת</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/9e0be034/e5426c74.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9e0be034/e5426c74.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבחירה בטוב בכל רגע | שמירת הלשון | הרב אריאל שרשבסקי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/a91d6000/ede3b81e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a91d6000/ede3b81e.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות מחובר לאמת פנימית | הרב אריאל שרשבסקי | עין איה | שבת א פסקה לט</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/444375b8/e46f51ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/444375b8/e46f51ec.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצניעות שהתקיימה ברחל שאול ואסתר | הרב אריאל שרשבסקי | נתיבות עולם ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/c68a8162/f0763655.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c68a8162/f0763655.mp3</guid>
+   <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדרך שהאדם רוצה ללכת בה מוליכים אותו | הרב אריאל שרשבסקי | שמירת הלשון | פרק ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/be1f97d6/e51064e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/be1f97d6/e51064e6.mp3</guid>
+   <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכר הצניעות שהיה לרחל | הרב אריאל שרשבסקי | נתיבות עולם ב | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/b7cbedbf/320a48d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b7cbedbf/320a48d4.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | שמירת הלשון | פרק ב'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/8cfb2b2b/496d6f21.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8cfb2b2b/496d6f21.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי | שמירת הלשון</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/ef959d1c/989d1753.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ef959d1c/989d1753.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צניעותו של שאול | הרב אריאל שרשבסקי | נתיבות עולם ב' | נתיב הצניעות</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/17de00c6/55c1de20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/17de00c6/55c1de20.mp3</guid>
+   <pubDate>Mon, 25 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לגדול דרך ההתמודדות | הרב אריאל שרשבסקי | שמירת הלשון | הקדמה, ושמעתי בשם גאון אחד</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4578a4cb/e0bc0547.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4578a4cb/e0bc0547.mp3</guid>
+   <pubDate>Sun, 24 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה נעלם ראובן בעת מכירת יוסף | הרב אריאל שרשבסקי | פרשת וישב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f3657a86/22943f2d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f3657a86/22943f2d.mp3</guid>
+   <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה שנלמד מהחיות איך להתנהג | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות, פסקה ד</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/fe913dee/6d3c8904.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fe913dee/6d3c8904.mp3</guid>
+   <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לחיות באופן טבעי | הרב אריאל שרשבסקי | נתיבות עולם | נתיב הצניעות, פסקה ד'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/fdaf8ca0/a78ab705.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fdaf8ca0/a78ab705.mp3</guid>
+   <pubDate>Tue, 19 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדלות האלוקית עפ בעח | הרב אריאל שרשבסקי | נתיבות עולם ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7d65dd7a/85d218f7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7d65dd7a/85d218f7.mp3</guid>
+   <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מציאת האמת האלוקית בחיות | הרב אריאל שרשבסקי | נתיבות עולם ב</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/78507274/560517e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/78507274/560517e0.mp3</guid>
+   <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט חיובי בתוך עבודת ה' | הרב אריאל שרשבסקי | שמירת הלשון | הקדמה פסקה כא</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/e8cfc0bd/a6097c15.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e8cfc0bd/a6097c15.mp3</guid>
+   <pubDate>Fri, 15 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהלום וגולה | הרב אריאל שרשבסקי | נתיבות עולם | צניעות א' פסקה ג</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/83b870e3/c0044097.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/83b870e3/c0044097.mp3</guid>
+   <pubDate>Tue, 12 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה לא לדבר לשון הרע גם כשזה נכון | הרב אריאל שרשבסקי | שמירת הלשון | הקדמה פסקה ה</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/efa2371e/77d3a9e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/efa2371e/77d3a9e5.mp3</guid>
+   <pubDate>Sat, 09 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעלת לימוד התורה בצניעות, הרב אריאל שרשבסקי, נתיבות עולם, צניעות א' פסקה ב'</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/86802057/6cbb49e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/86802057/6cbb49e5.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת ה' מתוך אמת פנימית, הרב אריאל שרשבסקי, נתיבות עולם, צניעות א' פסקה א' , שיעור שלישי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/9591b9ad/d1d00083.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9591b9ad/d1d00083.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוחה של השמיעה | הרב אריאל שרשבסקי | שמירת הלשון | הקדמה סעיף שלישי</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/bc1b63d2/2c5a18fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bc1b63d2/2c5a18fa.mp3</guid>
+   <pubDate>Thu, 31 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה הבושה עוזרת לאמונה ולאמת | הרב אריאל שרשבסקי | נתיבות עולם | צניעות א' פסקה א' | שיעור שני</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6e7b0907/42266e94.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6e7b0907/42266e94.mp3</guid>
+   <pubDate>Wed, 30 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התאמת המידות לאדם | הרב אריאל שרשבסקי | נתיבות עולם | צניעות א' פסקה א' | שיעור ראשון</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/3c22db39/b2c156d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3c22db39/b2c156d8.mp3</guid>
+   <pubDate>Tue, 29 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תגובת האדם למפגש עם רוע | הרב אריאל שרשבסקי | נתיבות עולם | הקדמה לספר</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/1ada0436/1b88e887.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1ada0436/1b88e887.mp3</guid>
+   <pubDate>Tue, 29 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, שמירת הלשון, הקדמה לספר</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/802cb000/cceb7811.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/802cb000/cceb7811.mp3</guid>
+   <pubDate>Fri, 25 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, שמירת הלשון, זכירה ו, צרעת עונש או פרס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/d524ecdc/01f549ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d524ecdc/01f549ca.mp3</guid>
+   <pubDate>Fri, 21 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאלשרשבסקי, שמירת הלשון, פרק ה', ענשם של בעלי לשון הרע</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0bd2e81c/a388e4d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0bd2e81c/a388e4d0.mp3</guid>
+   <pubDate>Fri, 14 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, נתיבות עולם, כעס ב' פסקה א', נזקי הכעס</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/4c99da6f/a55ef828.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4c99da6f/a55ef828.mp3</guid>
+   <pubDate>Mon, 10 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, נתיבות עולם, כעס א' פסקה ד', מנהיג נוהג את הציבור בנחת</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/3379ad19/a16a184b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3379ad19/a16a184b.mp3</guid>
+   <pubDate>Mon, 10 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, נתיבות עולם, כעס א פסקה שלישית</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/d74ceea0/b1ee987c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d74ceea0/b1ee987c.mp3</guid>
+   <pubDate>Fri, 07 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, נתיבות עולם, כעס א פסקה שנייה, שיעור שני, מדוע נפסק כבית הלל</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/5195a4ed/ef76012e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5195a4ed/ef76012e.mp3</guid>
+   <pubDate>Fri, 07 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, עין איה, שבת א פרק שני פסקה ע-עא, מהות העושר</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/7b4f6cbb/8df2a7f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7b4f6cbb/8df2a7f6.mp3</guid>
+   <pubDate>Fri, 07 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, נתיבות עולם, כעס א פסקה שנייה, שיעור ראשון, מדוע נפסק כבית הלל</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/529b5b1a/51ab0b46.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/529b5b1a/51ab0b46.mp3</guid>
+   <pubDate>Wed, 28 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, נתיב הכעס, שיעור שני, טוב ארך אפיים מגיבור</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/bcc315e4/9e85bd64.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bcc315e4/9e85bd64.mp3</guid>
+   <pubDate>Tue, 20 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבקי, נתיבות עולם, כעס פסקה א, שיעור ראשון.mp3</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/719d6d2a/801f3872.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/719d6d2a/801f3872.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, שמירת הלשון, זכירה ד</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0e55d185/5750e9ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0e55d185/5750e9ff.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל שרשבסקי, שמירת הלשון, זכירה ג-ד, הכוח של לשון הרע</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/0715632a/b3393ae1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0715632a/b3393ae1.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

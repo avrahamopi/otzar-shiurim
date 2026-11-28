@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אורי הכהן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1eef62cb.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אורי הכהן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מתכוננים לפורים | חייב איניש לבסומי - סקירה הלכתית | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/37/25/643a704660901aece0f6b5898e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/37/25/643a704660901aece0f6b5898e.mp3</guid>
+   <pubDate>Sat, 04 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | כן ירבה וכן יפרוץ - עשרים שנה לפיגוע בישיבה | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ea/9c/4a/99ed4a45a5963a85a296a88960.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ea/9c/4a/99ed4a45a5963a85a296a88960.mp3</guid>
+   <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 17. דיני עירוב תבשילין | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/79/a5/40/0b6cf84df2943dfe79c2640cfb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/79/a5/40/0b6cf84df2943dfe79c2640cfb.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 16. סימן נג - דיני שליח ציבור - חלק ב' | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2e/7f/6e/6f05b8403882d9ad7acbba4f0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2e/7f/6e/6f05b8403882d9ad7acbba4f0d.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 15. סימן נג - דיני שליח ציבור - חלק א' | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9f/9f/a0/be6a4f47e3a5ff076547e7c192.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9f/9f/a0/be6a4f47e3a5ff076547e7c192.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 14. סימן נב - פסוקי דזמרה - חלק ב' | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8c/43/a4/df576740f19634bcba15de304d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8c/43/a4/df576740f19634bcba15de304d.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 13. סימן נא - פסוקי דזמרה - חלק א' | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/6e/e2/ca32af49239d52e4990036fbed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/6e/e2/ca32af49239d52e4990036fbed.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 12. סימן מז - ברכות התורה - חלק ב' | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b1/b7/79/2b43274183bea50fc1470e8f91.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b1/b7/79/2b43274183bea50fc1470e8f91.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 11. סימן מז - ברכות התורה - חלק א' | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/82/14/6f/939f474957ab06aecb8cd2287b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/82/14/6f/939f474957ab06aecb8cd2287b.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 10. ברכות השחר - חלק ב' | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/78/70/5b/461b304ab0ae56dc02966206c1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/78/70/5b/461b304ab0ae56dc02966206c1.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 9. ברכות השחר - חלק א' | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/56/69/c74d6a448989652487af95d55c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/56/69/c74d6a448989652487af95d55c.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 8. תפילין רש"י ותפילין רבנו תם סימן לד | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/18/64/df/dc9efd45059ab093381bd8a2d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/18/64/df/dc9efd45059ab093381bd8a2d8.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 7. זמן הנחת התפילין ודין תפילין בשבת ויום טוב | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ce/1f/7a/4b0bed453595f926e5466406a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ce/1f/7a/4b0bed453595f926e5466406a6.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 6. מקום ואופן הנחת תפילין | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/85/96/ba/a0306246669cf33bc8f0a40018.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/85/96/ba/a0306246669cf33bc8f0a40018.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 5. דיני הפסק בתפילין | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b1/94/db/20b22d46beaaaa1e6a3490bfb8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b1/94/db/20b22d46beaaaa1e6a3490bfb8.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 5. דיני הפסק בתפילין | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/15/55/a6/ee468b4a88870d078a6293f7d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/15/55/a6/ee468b4a88870d078a6293f7d8.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ח חיים בהלכה | 4. ברכת התפילין והעברה על המצוות | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/49/82/0f/cde4e74908bf82945a53e6bcd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/49/82/0f/cde4e74908bf82945a53e6bcd2.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 4. ברכת התפילין והעברה על המצוות | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ee/78/28/4fb1094b209b553b7f24fb480c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ee/78/28/4fb1094b209b553b7f24fb480c.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 3. מקור מצוות תפילין ודיני הנחתם | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6f/b2/7e/850a704461a43c71667e821f53.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6f/b2/7e/850a704461a43c71667e821f53.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 2. הבגד החייב בציצית ודיני הפתילים | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1b/e6/d9/3e40624b0891b307d9f392d7a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1b/e6/d9/3e40624b0891b307d9f392d7a9.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח חיים בהלכה | 1. יסוד מצוות ציצית | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d6/09/9d/c737594001975a9b4d4f6790c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d6/09/9d/c737594001975a9b4d4f6790c7.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה | 3. גובה הנחת נרות ודין נרות בית הכנסת | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cb/81/99/694641498eb59e585b53c36feb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cb/81/99/694641498eb59e585b53c36feb.mp3</guid>
+   <pubDate>Sat, 17 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה | 2. מספר הנרות ומקום הנחתן | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/4d/bd/43d93149cbae2889512c63ce90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/4d/bd/43d93149cbae2889512c63ce90.mp3</guid>
+   <pubDate>Sat, 17 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה | 1. מהות ימי ההלל וההודאה | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/00/2c/b0/2b81304484af2ab07d46c7e5ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/00/2c/b0/2b81304484af2ab07d46c7e5ec.mp3</guid>
+   <pubDate>Sat, 17 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | פרשת חיי שרה - עולם חסד יבנה | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/65/e1/88/5c786b4d81ac610edc35a2cbbf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/65/e1/88/5c786b4d81ac610edc35a2cbbf.mp3</guid>
+   <pubDate>Thu, 17 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מועדי תשרי בהלכה | 4. כשרות ההדס | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/c3/d3/f51ded4898b2ae2e4a7d2976b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/c3/d3/f51ded4898b2ae2e4a7d2976b6.mp3</guid>
+   <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מועדי תשרי בהלכה | 3. כשרות הלולב | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/78/a8/b7/543e444bb6961866ee7b5a1000.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/78/a8/b7/543e444bb6961866ee7b5a1000.mp3</guid>
+   <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מועדי תשרי בהלכה | 2. הווידוי ביום הכיפורים | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/8d/39/68f2654f0790211c03ed733fe2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/8d/39/68f2654f0790211c03ed733fe2.mp3</guid>
+   <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מועדי תשרי בהלכה | 1. סדר תקיעות השופר | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/38/47/4c76224d57803a6ca5f49b91ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/38/47/4c76224d57803a6ca5f49b91ff.mp3</guid>
+   <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | פרשת שופטים - שופטים ושוטרים תתן לך - לעצמך | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d6/ae/04/1cd4754289bb368589e9bfba19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d6/ae/04/1cd4754289bb368589e9bfba19.mp3</guid>
+   <pubDate>Wed, 31 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | מידת השמחה | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/98/d8/b00a49438093819849421f272f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/98/d8/b00a49438093819849421f272f.mp3</guid>
+   <pubDate>Wed, 16 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | הכרת הטוב | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d0/64/1e/6b8cf7488a824cb818eaa8e05e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d0/64/1e/6b8cf7488a824cb818eaa8e05e.mp3</guid>
+   <pubDate>Thu, 30 Dec 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | פרשת בלק - כוח הדיבור | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/71/29/1c/9f989e4d77a0e9a8a025f07d64.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/71/29/1c/9f989e4d77a0e9a8a025f07d64.mp3</guid>
+   <pubDate>Wed, 07 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

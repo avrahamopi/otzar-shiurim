@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יואל בן נון · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0a03e8aa.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יואל בן נון.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>אורח מיוחד! בין משכן למקדש | תרומה תשפ"ו | הרב יואל בן-נון והרב יעקב מדן</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/115725474/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418397618-44100-2-0470382b62584.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/115725474/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418397618-44100-2-0470382b62584.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההבדל בין המלחמה במצרים למלחמה בעמלק | פרשת בשלח תשפ"ו | הרב יואל בן נון והרב יעקב מדן</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/114720856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F417056440-44100-2-1cd79783ce779.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/114720856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F417056440-44100-2-1cd79783ce779.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מיוחד! מהדורה מורחבת | חקת | תשפ"ה | הרב יואל בן נון והרב יעקב מדן</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/104946636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-2%2F403202675-44100-2-e4da7235bcee1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/104946636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-2%2F403202675-44100-2-e4da7235bcee1.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חקת | תשפ"ה | הרב יואל בן נון והרב יעקב מדן</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/104945600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-2%2F403201312-44100-2-0d28183973fff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/104945600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-2%2F403201312-44100-2-0d28183973fff.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שניים ליום - הפודקאסט | נבואות הנחמה - בין ישעיהו לימינו | ספי אליאש משוחח עם הרב יואל בן-נון</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/97790345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-30%2F393995846-44100-2-9230fc61e9d88.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/97790345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-30%2F393995846-44100-2-9230fc61e9d88.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי | תשפ"ה | הרב יואל בן נון והרב יעקב מדן</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/96802384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F392768596-44100-2-de1fda4def7b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/96802384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2F392768596-44100-2-de1fda4def7b4.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויגש | תשפ"ה | הרב יואל בן נון והרב יעקב מדן</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/96507312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-2%2F392401809-44100-2-321c60343fc87.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/96507312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-2%2F392401809-44100-2-321c60343fc87.mp3</guid>
+   <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח מיוחד! חידוש מהגוש | פרשת נוח | תשפ"ג | הרב יואל בן נון והרב אמנון בזק</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/89645120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383798539-44100-2-e4a001121ffafd27.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/89645120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383798539-44100-2-e4a001121ffafd27.mp3</guid>
+   <pubDate>Thu, 27 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורח מיוחד! חידוש מהגוש | פרשת ויקרא| תשפ"ב | הרב יואל בן נון והרב אמנון בזק</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/89645231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383798626-44100-2-50173659da82eb02.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/89645231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F383798626-44100-2-50173659da82eb02.m4a</guid>
+   <pubDate>Thu, 10 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה לביכורים בליל הסדר? | הרב יואל בן נון</title>
+   <description>הרב יואל בן נון · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יואל בן נון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ea/65/e9/6f20b743f581d72ec01869179f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ea/65/e9/6f20b743f581d72ec01869179f.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

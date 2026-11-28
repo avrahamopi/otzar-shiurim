@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מיכאל אזרד · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-549be054.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מיכאל אזרד.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>אכילה לפני קידוש והבדלה</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/95540416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-8%2F74c84709-df4a-01b7-0d50-45c7aa576a0b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/95540416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-8%2F74c84709-df4a-01b7-0d50-45c7aa576a0b.mp3</guid>
+   <pubDate>Sun, 08 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיצד לנהוג בעניין אכילה ושתיה בפעילות מבצעית?</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/92828585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2Ffb8525ef-78f0-57f0-3366-132eaea81391.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/92828585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2Ffb8525ef-78f0-57f0-3366-132eaea81391.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדלקת נרות שבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/92035575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2Fbd95871f-a785-0e24-e482-1cfae449b8fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/92035575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2Fbd95871f-a785-0e24-e482-1cfae449b8fd.mp3</guid>
+   <pubDate>Sun, 22 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנות לשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/91762250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-16%2Fa4153cd0-50b3-3d1c-faee-23216e4fed55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/91762250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-16%2Fa4153cd0-50b3-3d1c-faee-23216e4fed55.mp3</guid>
+   <pubDate>Mon, 16 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תוספת שבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/91592988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2Fe3ab3133-67bd-fbd4-63a0-effc90500a05.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/91592988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2Fe3ab3133-67bd-fbd4-63a0-effc90500a05.mp3</guid>
+   <pubDate>Wed, 11 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פיקוח נפש בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/82187207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-3%2F366107253-44100-2-d6e90afb67baa.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/82187207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-3%2F366107253-44100-2-d6e90afb67baa.m4a</guid>
+   <pubDate>Sat, 03 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת מוקצה - שברי כלים בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362414-44100-2-9153d3ab4c5da.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362414-44100-2-9153d3ab4c5da.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות שבת מוקצה - טלטול בעלי חיים בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362329-44100-2-a2a7b63b9ba53.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362329-44100-2-a2a7b63b9ba53.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות שבת מוקצה - טלטול בשר קפוא לא מבושל</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362238-44100-2-98621e0d800b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362238-44100-2-98621e0d800b.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות שבת מוקצה - מוקצה מחמת גופו</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565468/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362148-44100-2-61a6efd5de74e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565468/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362148-44100-2-61a6efd5de74e.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת מוקצה - צורך בכלי שמלאכתו להיתר</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362078-44100-2-7826d3ef66c1d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362078-44100-2-7826d3ef66c1d.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת מוקצה - כלי שמלאכתו להיתר</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362005-44100-2-589de9593e701.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355362005-44100-2-589de9593e701.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת מוקצה - כלי שמלאכתו לאיסור</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361962-44100-2-0b10bbffdf795.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361962-44100-2-0b10bbffdf795.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת מוקצה - מוקצה מחמת חסרון כיס</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361875-44100-2-5b39b5ca21a92.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361875-44100-2-5b39b5ca21a92.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת מוקצה - הגדרת האיסור</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361791-44100-2-62f476ffadef1.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361791-44100-2-62f476ffadef1.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת דש - הכנת טחינה בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361730-44100-2-c72dff972459c.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361730-44100-2-c72dff972459c.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת הכנת אוכלים - חיתוך ירק דק דק</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361677-44100-2-127ca5dc0fb84.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361677-44100-2-127ca5dc0fb84.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת כבישה - עיבוד אוכלים</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361613-44100-2-e85616f341474.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361613-44100-2-e85616f341474.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת צובע - איפור ושלא באוכלים</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361549-44100-2-62eed607cd3db.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361549-44100-2-62eed607cd3db.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת צובע - משקה ואוכלין</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361475-44100-2-61f5509f8e583.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361475-44100-2-61f5509f8e583.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת נולד - סודה בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361422-44100-2-51ce8fdda6e94.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361422-44100-2-51ce8fdda6e94.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת נולד - שימוש בקרח בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361365-44100-2-d054a6f2c4aad.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361365-44100-2-d054a6f2c4aad.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת דש - סחיטת כבשים ושלקות</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361200-44100-2-9607ca9194717.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361200-44100-2-9607ca9194717.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת דש - סחיטת לימון בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361146-44100-2-9d92c5c999fe4.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361146-44100-2-9d92c5c999fe4.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת דש - אופן ההיתר בסחיטת פירות בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361072-44100-2-b98318effb202.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355361072-44100-2-b98318effb202.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת דש - סחיטת פירות בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360990-44100-2-456164244e385.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360990-44100-2-456164244e385.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - הוצאת נוזלים מקופסת שימורים</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78565033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360867-44100-2-bf737b6fb2d39.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78565033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360867-44100-2-bf737b6fb2d39.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - שימוש במסננת בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360628-44100-2-761e196ab69c8.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360628-44100-2-761e196ab69c8.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - אופן מזיגת תבשילים בהיתר</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360568-44100-2-6ab68545f34b1.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360568-44100-2-6ab68545f34b1.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - שטיפת פירות וכלים עם לכלוך בולט</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360517-44100-2-6a1ca8bb5fac5.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360517-44100-2-6a1ca8bb5fac5.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - משחקים בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360468-44100-2-f8e4649af8e79.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360468-44100-2-f8e4649af8e79.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - במה חל דין בורר</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360418-44100-2-38a4e34c7c751.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360418-44100-2-38a4e34c7c751.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - היוצא לדרך</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360324-44100-2-95959b6537e28.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360324-44100-2-95959b6537e28.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - גדר לאלתר</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360258-44100-2-39489a700e658.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360258-44100-2-39489a700e658.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכות שבת בורר - פתיחה ותנאי ההיתר</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360174-44100-2-899adcfaede7b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564798/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355360174-44100-2-899adcfaede7b.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - איסור מגיס (ערבוב מאכל מבושל על הפלטה)</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359896-44100-2-17f1c7b5bbb6.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359896-44100-2-17f1c7b5bbb6.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - חימום פשטידה עם שומן על הפלטה</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359834-44100-2-0e0173dcce092.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359834-44100-2-0e0173dcce092.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - איסור נולד ושינוי מצב באוכלים</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359760-44100-2-7b62cc4fea99a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359760-44100-2-7b62cc4fea99a.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - הנחת תבשיל לח המבושל כל צורכו על הפלטה</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359697-44100-2-3b164582a166a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359697-44100-2-3b164582a166a.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - המשך דיני בישול אחרי אפיה</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359635-44100-2-e888f056b9db.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359635-44100-2-e888f056b9db.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - בישול אחרי אפיה וטיגון</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359548-44100-2-f6b4ad99e4a91.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359548-44100-2-f6b4ad99e4a91.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - הכנת שאר משקאות חמים בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359489-44100-2-ddda40a74b6.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359489-44100-2-ddda40a74b6.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - הכנת תה בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359421-44100-2-3f1ff3a4344ab.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359421-44100-2-3f1ff3a4344ab.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - הוספת מים מהמיחם לצורך נטילת ידיים</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359361-44100-2-6e81f0e5a8017.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359361-44100-2-6e81f0e5a8017.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - שימוש במים שחוממו בחשמל או הסקה</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359274-44100-2-b635eb09c2d94.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359274-44100-2-b635eb09c2d94.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - דוד שמש בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359209-44100-2-90aaaa9e775f2.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359209-44100-2-90aaaa9e775f2.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - כלי שלישי - איך ומה</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359167-44100-2-8c104b5497e92.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359167-44100-2-8c104b5497e92.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - איזה כלי מבשל</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359095-44100-2-ed409a179f2be.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359095-44100-2-ed409a179f2be.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - מי מותר בחימום על פלטה</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359018-44100-2-30ec757355718.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355359018-44100-2-30ec757355718.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בישול בשבת - לח ויבש</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355358962-44100-2-e6b26045cced5.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355358962-44100-2-e6b26045cced5.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה והגדרת בישול בשבת</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78564357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355358896-44100-2-e79201d926185.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78564357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-13%2F355358896-44100-2-e79201d926185.m4a</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אוכל נפש ומוקצה ביום טוב</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78535517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2Fd1ccac4f-d73a-622f-e427-3dbb6160ab5d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78535517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2Fd1ccac4f-d73a-622f-e427-3dbb6160ab5d.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על המעבר משבת ליום טוב</title>
+   <description>הרב מיכאל אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecfaf568/podcast/play/78535468/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2Fa6100d70-e073-d559-8627-f2a684c1d6bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecfaf568/podcast/play/78535468/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2Fa6100d70-e073-d559-8627-f2a684c1d6bb.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

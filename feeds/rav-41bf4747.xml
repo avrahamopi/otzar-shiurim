@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מרדכי גרינברג · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-41bf4747.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מרדכי גרינברג.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב מרדכי גרינברג | תורה ומלכות ה'</title>
+   <description>הרב מרדכי גרינברג · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי גרינברג</itunes:author>
+   <enclosure url="https://media.transistor.fm/8aabf04c/80f7dda7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8aabf04c/80f7dda7.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מרדכי גרינברג, נשיא ישיבת כרם ביבנה • קידוש השם בחיי היום יום</title>
+   <description>הרב מרדכי גרינברג · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי גרינברג</itunes:author>
+   <enclosure url="https://media.transistor.fm/175eb7dc/4bab24d1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/175eb7dc/4bab24d1.mp3</guid>
+   <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה ליום הזיכרון | תורה ומלכות ה' | הרב מרדכי גרינברג</title>
+   <description>הרב מרדכי גרינברג · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי גרינברג</itunes:author>
+   <enclosure url="https://media.transistor.fm/427ff725/869ced36.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/427ff725/869ced36.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לנר שלישי של חנוכה | הרב מרדכי גרינברג, נשיא הישיבה</title>
+   <description>הרב מרדכי גרינברג · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב מרדכי גרינברג</itunes:author>
+   <enclosure url="https://media.transistor.fm/15387217/a3cfad8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/15387217/a3cfad8a.mp3</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בקשת האני העצמי - ימים נוראים | הרב מרדכי גרינברג, נשיא הישיבה</title>
+   <description>הרב מרדכי גרינברג · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מרדכי גרינברג</itunes:author>
+   <enclosure url="https://media.transistor.fm/21022a2b/70006bec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/21022a2b/70006bec.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מרדכי גרינברג – יום הזיכרון לחללי צה"ל</title>
+   <description>הרב מרדכי גרינברג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=whYmmaImicU</description>
+   <itunes:author>הרב מרדכי גרינברג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/whYmmaImicU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/whYmmaImicU.mp3</guid>
+   <pubDate>Wed, 04 May 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מרדכי גרינברג – שיעור לקראת פורים – עיון בפזמון שושנת יעקב</title>
+   <description>הרב מרדכי גרינברג · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=HZUHG4dFX10</description>
+   <itunes:author>הרב מרדכי גרינברג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/HZUHG4dFX10.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/HZUHG4dFX10.mp3</guid>
+   <pubDate>Tue, 22 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יהושע · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c6f6f602.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יהושע.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פוסט טראומה, זה רציני? | סיפורם האישי של הרב יהושע והרבנית נעמי שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72296990/episode_72296990.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72296990/episode_72296990.mp3</guid>
+   <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דבקות בנותן התורה | צדקת הצדיק- שער אהבה ויראה- אות קצז | שיעור 14 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59013526/14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59013526/14.mp3</guid>
+   <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שעת מלחמה- בטחון בה' זה חובה | צדקת הצדיק- שער אהבה ויראה- אות קצז | שיעור 12 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58886695/12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58886695/12.mp3</guid>
+   <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעבוד את ה' עם היצר הרע | צדקת הצדיק- שער אהבה ויראה- אות קצז | שיעור 13 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58886696/13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58886696/13.mp3</guid>
+   <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה- שיטת ר' צדוק | צדקת הצדיק- שער אהבה ויראה | שיעור 1 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814269/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814269/1.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרגות היראה | צדקת הצדיק- שער אהבה ויראה- אות קצד | שיעור 2 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814270/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814270/2.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אימה ויראה מן הלב | צדקת הצדיק- שער אהבה ויראה- אות קצד | שיעור 3 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814273/3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814273/3.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היראה הטובה | צדקת הצדיק- שער אהבה ויראה- אות קצד | שיעור 4 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814275/4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814275/4.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיות של חומר- אמת וזיוף | צדקת הצדיק- שער אהבה ויראה- אות קצד | שיעור 5 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814277/5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814277/5.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יראה מתוך תורה | צדקת הצדיק- שער אהבה ויראה- אות קצד | שיעור 6 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814280/6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814280/6.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חברה של יראה | צדקת הצדיק- שער אהבה ויראה- אות קצה | שיעור 7 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814282/7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814282/7.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת הקב"ה והתורה וישראל | צדקת הצדיק- שער אהבה ויראה- אות קצו | שיעור 8 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814283/8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814283/8.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשמה של אהבת ה' | צדקת הצדיק- שער אהבה ויראה- אות קצו | שיעור 9 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814288/9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814288/9.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת החכמה בלבד | צדקת הצדיק- שער אהבה ויראה- אות קצו | שיעור 10 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814290/10.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814290/10.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דבקות שמגיעה לכלות הנפש | צדקת הצדיק- שער אהבה ויראה- אות קצז | שיעור 11 | הרב יהושע שפירא</title>
+   <description>הרב יהושע · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב יהושע</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58814293/11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58814293/11.mp3</guid>
+   <pubDate>Sun, 25 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

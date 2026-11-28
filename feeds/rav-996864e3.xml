@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יובל שרלו · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-996864e3.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יובל שרלו.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>ואכלת ושבעת וברכת | פרשת עקב הגות וערכים | הרב יובל שרלו</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · פרשת השבוע</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f9079af0/podcast/play/123382357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428700184-44100-2-dd34ce28f81c1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f9079af0/podcast/play/123382357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428700184-44100-2-dd34ce28f81c1.mp3</guid>
+   <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יובל שרלו, ראש ישיבת אורות שאול • בין יעזוב איש את אביו ואת אמו לבין כבד את אביך ואת אמך</title>
+   <description>הרב יובל שרלו · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://media.transistor.fm/1be8913c/8f760ba5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1be8913c/8f760ba5.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נקם, חלום, תיקון: על התנהגותו של יוסף | פרשת מקץ תשפ"ו | הרב יובל שרלו והרב יעקב מדן</title>
+   <description>הרב יובל שרלו · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/113100448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414982929-44100-2-3d0743d635ba2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/113100448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-25%2F414982929-44100-2-3d0743d635ba2.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ולא יכלו דברו לשלום | פרשת וישב תשפ"ו | *אורח מיוחד* הרב יובל שרלו והרב יעקב מדן</title>
+   <description>הרב יובל שרלו · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f93023e4/podcast/play/112446088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F414145701-44100-2-164eba2dbb254.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f93023e4/podcast/play/112446088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-10%2F414145701-44100-2-164eba2dbb254.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק כ"ג - עם כלביא</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/105145088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403454740-44100-2-18e315b4db367.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/105145088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403454740-44100-2-18e315b4db367.mp3</guid>
+   <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק כ"ב - שיחה על דרכה של הישיבה</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/103149899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-24%2F400932173-44100-2-8f2313e6a0958.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/103149899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-24%2F400932173-44100-2-8f2313e6a0958.mp3</guid>
+   <pubDate>Mon, 26 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק כ"א - מסע בספירת העומר</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/102540718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400094092-44100-2-0d76216ffee74.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/102540718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400094092-44100-2-0d76216ffee74.mp3</guid>
+   <pubDate>Mon, 12 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק כ' - פורים, פוליטיקה ואקטואליה</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · מועדים</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/99508973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2F396140686-44100-2-7d55b0da9c5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/99508973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2F396140686-44100-2-7d55b0da9c5.mp3</guid>
+   <pubDate>Sat, 08 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י"ט - חשיבות החזרת חללים בעסקה לשחרור חטופים</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/99297462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F395932351-44100-2-5cabc21a70043.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/99297462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F395932351-44100-2-5cabc21a70043.mp3</guid>
+   <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י"ח - סכנות והשלכות של הבינה מלאכותית</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/98743321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2F395183168-44100-2-20e85957198d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/98743321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2F395183168-44100-2-20e85957198d8.mp3</guid>
+   <pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י"ז - אמונה בדורנו</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/97953055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F394251186-44100-2-ab3633a4bacf1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/97953055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-4%2F394251186-44100-2-ab3633a4bacf1.mp3</guid>
+   <pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ט"ז - מוסד הישיבה</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/97093830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-15%2F393127526-44100-2-e4449cac2887c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/97093830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-15%2F393127526-44100-2-e4449cac2887c.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י"ד - מבט היסטורי</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/89304871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-18%2F952c8482-f752-166b-e607-677bf84bef17.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/89304871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-18%2F952c8482-f752-166b-e607-677bf84bef17.m4a</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י"ג - חברה מעורבת</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/87647851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-6%2Fdd754e71-0dbf-6323-542d-f37f1ab6adfc.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/87647851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-6%2Fdd754e71-0dbf-6323-542d-f37f1ab6adfc.m4a</guid>
+   <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י"ב - שירות ההסדר</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/86978693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-20%2F9f7d7280-212d-96ff-b0be-4258885a4f55.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/86978693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-20%2F9f7d7280-212d-96ff-b0be-4258885a4f55.m4a</guid>
+   <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י"א - יום העצמאות</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · מועדים</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/86644268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-12%2F1c6b5ed7-8397-9559-0490-fce7f5ca7d6a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/86644268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-12%2F1c6b5ed7-8397-9559-0490-fce7f5ca7d6a.m4a</guid>
+   <pubDate>Mon, 13 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק י' - בין הזמנים ותרבות הפנאי</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/85124933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-8%2F9921632b-8cc1-af99-c716-a2f4a3e2b227.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/85124933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-8%2F9921632b-8cc1-af99-c716-a2f4a3e2b227.m4a</guid>
+   <pubDate>Mon, 08 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>?פרק ט' - חומרא או קולא</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/84956471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-4%2Fb9d59eae-1303-f09e-f752-f2652a3ed572.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/84956471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-4%2Fb9d59eae-1303-f09e-f752-f2652a3ed572.m4a</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ח' - החברה החרדית</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/84614083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-27%2F5f74ebf0-5276-a9e1-f9b0-e43da56e5628.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/84614083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-27%2F5f74ebf0-5276-a9e1-f9b0-e43da56e5628.m4a</guid>
+   <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז' - היחס בין עולם המעשה לעולם הרוח</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/84303824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F4bd3d317-195f-b0d0-8759-604e5766cf64.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/84303824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F4bd3d317-195f-b0d0-8759-604e5766cf64.m4a</guid>
+   <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ו' - תגובה ועונש - בחוק, במלחמה ובחיים</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/83978104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F9378a757-f8d9-1919-4338-a2b3c345c540.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/83978104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F9378a757-f8d9-1919-4338-a2b3c345c540.m4a</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ה' - טוב ורע בעולם אמוני, אמונה בשעת משבר</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/83506708/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-3%2F369565744-44100-2-efca84d20f34.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/83506708/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-3%2F369565744-44100-2-efca84d20f34.m4a</guid>
+   <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד' - מנהיגות – בתקופה הזו, בתנ"ך ובכלל</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · תנ"ך</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/83303515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369061299-44100-2-dcc1f63b4f25c.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/83303515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F369061299-44100-2-dcc1f63b4f25c.m4a</guid>
+   <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יובל שרלו | תצוה - במה שונה המנורה</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f9079af0/podcast/play/89475854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-21%2F383569633-44100-2-129575d3a351a53a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f9079af0/podcast/play/89475854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-21%2F383569633-44100-2-129575d3a351a53a.m4a</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג' - היחס לערביי ישראל - במלחמה הנוכחית ובכלל</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/82575338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367195034-44100-2-e338e80c9ac44.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/82575338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367195034-44100-2-e338e80c9ac44.m4a</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב' - היחס לנפש במלחמה, במדינה וביהדות</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/82521307/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-11%2F367053084-44100-2-2fea0a11b6dbf.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/82521307/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-11%2F367053084-44100-2-2fea0a11b6dbf.m4a</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א' - מחלוקות ואחדות - בחברה הישראלית ובכלל</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/82402439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-8%2F366728001-44100-2-256880a9734d6.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/82402439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-8%2F366728001-44100-2-256880a9734d6.m4a</guid>
+   <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרומו</title>
+   <description>הרב יובל שרלו · ישיבת אורות שאול · אמונה ומחשבה</description>
+   <itunes:author>הרב יובל שרלו</itunes:author>
+   <enclosure url="https://anchor.fm/s/f1e315c4/podcast/play/82406043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-8%2F83b92298-6250-4da5-d61e-02f7e3b98827.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f1e315c4/podcast/play/82406043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-8%2F83b92298-6250-4da5-d61e-02f7e3b98827.m4a</guid>
+   <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

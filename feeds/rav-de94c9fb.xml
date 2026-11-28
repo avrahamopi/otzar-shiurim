@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יושי פרג'ון · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-de94c9fb.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יושי פרג'ון.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מסעו של ספר קהלת אל תוך התנ"ך | ד"ר יושי פרג'ון | ליל לימוד הושענא רבה תשפ"ה</title>
+   <description>הרב יושי פרג'ון · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/93335142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-21%2F388462488-44100-2-70029a8408c26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/93335142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-21%2F388462488-44100-2-70029a8408c26.mp3</guid>
+   <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ג מידות ועשרת הדיברות | יום עיון עשרת ימי תשובה תשפ"ה | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת הר עציון · מוסר</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92848746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387866970-44100-2-b67cea38263f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92848746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387866970-44100-2-b67cea38263f5.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ז' באדר | משה רבינו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/81/f7/fb/72887045debdaabf111df95fc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/81/f7/fb/72887045debdaabf111df95fc3.mp3</guid>
+   <pubDate>Mon, 27 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | כיצד מתקנים את החורבן | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/a3/65/85852c4c0bb7dd52637f075009.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/a3/65/85852c4c0bb7dd52637f075009.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | הגורמים לכשלון הברית בין ישראל לה' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/cb/55/5fdb1140658f71f61fe250296f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/cb/55/5fdb1140658f71f61fe250296f.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | לשם מה נשלח יחזקאל | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2f/72/da/8972ac4849b6c63f7e32ac06d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2f/72/da/8972ac4849b6c63f7e32ac06d2.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | ירמיהו כנציג העם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/eb/97/41/19052143c88eaec27199875f54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/eb/97/41/19052143c88eaec27199875f54.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | ירמיהו נחשב כבוגד | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/11/a9/51/c59e7c4f3aafcb4a24ba6c36d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/11/a9/51/c59e7c4f3aafcb4a24ba6c36d2.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | האם אפשר לקבל החלטה פוליטית מנבואה | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/aa/ed/1a/8d1904402a8bd2b7c1fa08b701.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/aa/ed/1a/8d1904402a8bd2b7c1fa08b701.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | מקומה של הקשר לבית עלי בנבואת ירמיהו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/df/c0/3ec66a4175a357afd3d3c05b4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/df/c0/3ec66a4175a357afd3d3c05b4a.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | האם ירמיהו מבין את נבואתו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9b/8d/dc/4581594d45bdd0d064b78a67ba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9b/8d/dc/4581594d45bdd0d064b78a67ba.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | האם הנביא יכול להבחין בנביאי שקר | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/19/33/fa/3cc03c407c94932705f93211cb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/19/33/fa/3cc03c407c94932705f93211cb.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | האם נביא שקר בהכרח שקרן | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e2/1f/7f/af25b140e895060cd3401ba437.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e2/1f/7f/af25b140e895060cd3401ba437.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | איך מזהים נביא שקר | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f7/f6/97/fa31e846a0938d4eacda6121fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f7/f6/97/fa31e846a0938d4eacda6121fb.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | אליהו - חלק ג' - אליהו עולה להר סיני | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2e/f7/eb/72544b4eb9829171839ede6bb2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2e/f7/eb/72544b4eb9829171839ede6bb2.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | אליהו - חלק ב' - אליהו בהר הכרמל | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/92/9d/cb/c89a7b456e80c61328cdc24a2b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/92/9d/cb/c89a7b456e80c61328cdc24a2b.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | אליהו - חלק א' - חזרה לסיפורי אליהו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/6f/d2/4babcb4ffab48616596b1336db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/6f/d2/4babcb4ffab48616596b1336db.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם - אלישע - חלק ד' - המצור על שומרון | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5b/dd/d6/0f852d4d1e946cf1bdbeb70e2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5b/dd/d6/0f852d4d1e946cf1bdbeb70e2c.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם - אלישע - חלק ג' - אלישע והגדוד הארמי | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cf/24/32/a1fec341fe82fc31ee58d26e65.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cf/24/32/a1fec341fe82fc31ee58d26e65.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם - אלישע - חלק ב' - אלישע מרפא את נעמן | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/49/d3/50/6da28f450eb3ee7289d0a638c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/49/d3/50/6da28f450eb3ee7289d0a638c0.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | אלישע - חלק א' - סיפורי אלישע וסיפורים חסידים | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/18/2e/d087d54ad6a19b93bd624ce8f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/18/2e/d087d54ad6a19b93bd624ce8f6.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | שמואל - חלק ד' - קשיי שמואל בהחלפת שאול | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/76/c9/d4/85dc5948669a28835d4111ead0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/76/c9/d4/85dc5948669a28835d4111ead0.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | שמואל - חלק ג' - שמואל והדחת שאול | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d6/a1/86/4bc1484ff1aef4872d89ac5a12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d6/a1/86/4bc1484ff1aef4872d89ac5a12.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | שמואל - חלק ב - יחס שמואל למלוכה | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0c/1d/48/7386a4435680914a8204c28251.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0c/1d/48/7386a4435680914a8204c28251.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | שמואל - חלק א' - מעמד שמואל כנביא | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/97/54/12/6c0d8c437fa24389d29d677e81.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/97/54/12/6c0d8c437fa24389d29d677e81.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | נבואת אבות בספר בראשית - חלק ג' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d9/56/cf/77a3414260b0b5ffd3daa6c55c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d9/56/cf/77a3414260b0b5ffd3daa6c55c.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | נבואת האבות בספר בראשית - חלק ב' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/63/da/5d92a941899a670d0ddd795ad8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/63/da/5d92a941899a670d0ddd795ad8.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | הנבואה בספר בראשית - חלק א' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d0/4a/f3/bdd3eb40889c0d43e758bb96a3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d0/4a/f3/bdd3eb40889c0d43e758bb96a3.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | לאן נעלמה משפחתו של משה - חלק א' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0c/db/6b/841e8c439abefe4bc145a66321.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0c/db/6b/841e8c439abefe4bc145a66321.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | יונה - חלק ד' - יונה מנסה להיכשל ונכשל | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/fd/12/6ac57240538886e400409ef805.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/fd/12/6ac57240538886e400409ef805.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>5760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | יונה - חלק ג' - יונה במעי הדג | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/53/82/3d48184d478baff8f8806f19f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/53/82/3d48184d478baff8f8806f19f1.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | יונה - חלק ב' - הנביא הבורח | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cf/68/52/4856864366a4d57ebc4c6d5d04.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cf/68/52/4856864366a4d57ebc4c6d5d04.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יונים בספר בראשית | 17. מעשה אבות סימן לבנים - גישת הרמב"ן לסיפורי המקרא | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/84/42/cc/7128b443b1b005b2e5e53bb732.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/84/42/cc/7128b443b1b005b2e5e53bb732.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 16. סיפורי אברהם - הבחירה באברהם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e5/98/c4/4bb6374f1eb53adea7ed1758c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e5/98/c4/4bb6374f1eb53adea7ed1758c9.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 15. סיפורי אברהם - תרח אבי אברהם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/16/a3/66e439432096664958382ab39f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/16/a3/66e439432096664958382ab39f.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 14. האדם לאחר המבול | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/47/ee/10/5a858d42a093cb5a724209596e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/47/ee/10/5a858d42a093cb5a724209596e.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 13. מבטים שונים על סיפור המבול | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/83/71/fe/02f4fb490a96ed4497b112ed0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/83/71/fe/02f4fb490a96ed4497b112ed0f.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 12. סיפור המבול במזרח הקדום | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/02/ad/710a6345418a266380044a4b39.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/02/ad/710a6345418a266380044a4b39.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 11. וירא ה' כי רבה רעת האדם באדם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/26/e8/168e694ed899eaaca376d74d76.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/26/e8/168e694ed899eaaca376d74d76.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 10. ספר תולדות אדם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/91/ab/2b/e9da654ae4b40c34864f0e1caa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/91/ab/2b/e9da654ae4b40c34864f0e1caa.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 9. מאבק השושלות | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/69/5a/059eda4260a5ad1cc3cef6a6b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/69/5a/059eda4260a5ad1cc3cef6a6b2.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 8. קין - החטא ועונשו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cb/1e/15/c6da504239b8912d2624a436ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cb/1e/15/c6da504239b8912d2624a436ef.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 7. לידתם של קין והבל | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/b7/ae/ddbb7d407cbd8cdd9d46cadf1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/b7/ae/ddbb7d407cbd8cdd9d46cadf1c.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 6. בראשית פרק ג' - האם הנחש שיקר | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/06/ec/c2ecac4102a8488c2d0b15f32c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/06/ec/c2ecac4102a8488c2d0b15f32c.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 5. השקר בגן העדן - חלק ב' - האם הנחש שיקר | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b4/1b/b0/7038454ac2b3f43ec0289d6903.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b4/1b/b0/7038454ac2b3f43ec0289d6903.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | השקר בגן העדן - חלק א' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/1b/94/f9ad8f47688e0710d6595799c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/1b/94/f9ad8f47688e0710d6595799c7.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 3. בין אדם לבעלי חיים | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/53/10/ae/eb3109410485bb54d2b639a982.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/53/10/ae/eb3109410485bb54d2b639a982.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 2. מבריאת השמים עד בריאת האדם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4c/86/52/cfac6d493ab1b08211cda52d44.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4c/86/52/cfac6d493ab1b08211cda52d44.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 1. ראשית הבריאה | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0a/07/6c/48ffdc4438b7d48f8233cf34db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0a/07/6c/48ffdc4438b7d48f8233cf34db.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מסעי - שאלת ראשי האבות כמפתח להבנת דבר ה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ba/63/68/0f07fa402ba28c30f217cea0af.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ba/63/68/0f07fa402ba28c30f217cea0af.mp3</guid>
+   <pubDate>Tue, 23 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מטות - משה - מנהיג ישן דור חדש</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/37/06/a3/48846b42f28a61840c98c448e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/37/06/a3/48846b42f28a61840c98c448e8.mp3</guid>
+   <pubDate>Mon, 22 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פנחס - מה הביא לחטא בנות מדין</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bd/2e/21/78602245118e9bcb85dc3e3568.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bd/2e/21/78602245118e9bcb85dc3e3568.mp3</guid>
+   <pubDate>Fri, 19 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>?פרשת בלק - בלעם - נביא או קוסם</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/3b/d6/04b2d84256a6b7c311f784d40c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/3b/d6/04b2d84256a6b7c311f784d40c.mp3</guid>
+   <pubDate>Sat, 06 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חקת - חטא משה ואהרן</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c0/d5/2e/537754442ba33d6523b9d0c0ae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c0/d5/2e/537754442ba33d6523b9d0c0ae.mp3</guid>
+   <pubDate>Fri, 05 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>?פרשת קרח - כיצד מת קרח</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/9e/5e/36b4e24c56b082f431f6930950.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/9e/5e/36b4e24c56b082f431f6930950.mp3</guid>
+   <pubDate>Thu, 04 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שלח - מסע המדבר וחטא המרגלים</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fe/ab/68/9596d5468bb6b3e9bbff39acee.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fe/ab/68/9596d5468bb6b3e9bbff39acee.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהעלתך - תלונות בני ישראל והנהגת משה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/58/82/9d/427e8b42688152fef923c96bf8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/58/82/9d/427e8b42688152fef923c96bf8.mp3</guid>
+   <pubDate>Tue, 02 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נשא - מוקדם ומאוחר בספר במדבר</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/44/a0/2294bd4955bc069d8c0e2dc33a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/44/a0/2294bd4955bc069d8c0e2dc33a.mp3</guid>
+   <pubDate>Mon, 01 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת במדבר - הסכנה שבקדושה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4e/af/d2/9b40d7456ea519279c6d71733e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4e/af/d2/9b40d7456ea519279c6d71733e.mp3</guid>
+   <pubDate>Sat, 29 Jun 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בחוקותי - אדם ואלהים ביובל ובשמיטה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/fd/c5/87723342a8819a463ca64a4490.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/fd/c5/87723342a8819a463ca64a4490.mp3</guid>
+   <pubDate>Tue, 12 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקרא - למי נועד ספר ויקרא</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/99/e0/23/5628374f9c9064b79c8d781894.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/99/e0/23/5628374f9c9064b79c8d781894.mp3</guid>
+   <pubDate>Mon, 11 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פקודי - כסף וכפרה במלאכת המשכן</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2a/fe/d4/ef946244a5b78c3a39c09c74e9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2a/fe/d4/ef946244a5b78c3a39c09c74e9.mp3</guid>
+   <pubDate>Mon, 11 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקהל - כיצד יכול האדם לבנות את בית ה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/b7/6f/bd8fd74907ab205ee4fbb7d8a7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/b7/6f/bd8fd74907ab205ee4fbb7d8a7.mp3</guid>
+   <pubDate>Thu, 28 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תשא - מה היה העונש על חטא העגל</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e7/e0/51/4e28f5459ca14cb24c029bd72c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e7/e0/51/4e28f5459ca14cb24c029bd72c.mp3</guid>
+   <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תצווה - העלם וגילוי במזבח הקטורת</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/02/d6/0c/5a46df4509a133ace90a6a5bd3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/02/d6/0c/5a46df4509a133ace90a6a5bd3.mp3</guid>
+   <pubDate>Tue, 19 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תרומה - העדות וההתגלות במשכן</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/47/9d/20/0830cd4270bcc4289cff16b4e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/47/9d/20/0830cd4270bcc4289cff16b4e0.mp3</guid>
+   <pubDate>Mon, 18 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת משפטים - בין בבל להר סיני</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/b9/d3/1aa8d84b40b6e95b194de5d5cb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/b9/d3/1aa8d84b40b6e95b194de5d5cb.mp3</guid>
+   <pubDate>Sun, 17 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת יתרו - לאן נעלמה שושלת משה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/60/2f/b0/53d74849d09e59d0e6f63e4dab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/60/2f/b0/53d74849d09e59d0e6f63e4dab.mp3</guid>
+   <pubDate>Sat, 16 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בשלח - הרמיה ביציאת מצרים</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e5/10/09/2b42d1437da3f0c939d8d0f3d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e5/10/09/2b42d1437da3f0c939d8d0f3d3.mp3</guid>
+   <pubDate>Fri, 15 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בא - מכות מצרים ככלי חינוכי</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d4/15/48/534ba94e5e87a1954e1e34ced7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d4/15/48/534ba94e5e87a1954e1e34ced7.mp3</guid>
+   <pubDate>Thu, 14 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וארא - ההקדשה השניה של משה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b1/a8/cd/9600694fcaadc1ffef4d598316.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b1/a8/cd/9600694fcaadc1ffef4d598316.mp3</guid>
+   <pubDate>Wed, 13 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמות - בן פרעה בן משה ובן ה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f1/97/de/3792304589b3594d6ca3869e0b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f1/97/de/3792304589b3594d6ca3869e0b.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי - צוואתו המזויפת של יעקב</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ab/b1/cd/f4a4584c1783e047a95eb96053.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ab/b1/cd/f4a4584c1783e047a95eb96053.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המטה והנחש 2 - האם התנך הוא מאגי</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/35/9c/c9/4be9034e84aa06bdcb7fa83c9f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/35/9c/c9/4be9034e84aa06bdcb7fa83c9f.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המטה והנחש 1 - אם אלוקים רוצה - גם מטה יורה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/87/f3/af/b1a8364f7d9e455404db2f8ffa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/87/f3/af/b1a8364f7d9e455404db2f8ffa.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם - מי אני ומה שמי ~ חלק ב</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1e/e8/83/6da7614a2da62c65a3f97c7286.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1e/e8/83/6da7614a2da62c65a3f97c7286.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם - מי אני ומה שמי ~ חלק א</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/d4/96/137cdb49f98c78d3a18d19462a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/d4/96/137cdb49f98c78d3a18d19462a.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנים אל פנים - מסעו של משה כנביא 3 - פרשיית המן - ניסיון ופלא</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/73/60/ad/097b7941b2afbdbc092cdfdc44.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/73/60/ad/097b7941b2afbdbc092cdfdc44.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנים אל פנים - מסעו של משה כנביא 2 - כישלונה של השליחות הראשונה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/fb/e0/4592014ffab0d601ebc61275e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/fb/e0/4592014ffab0d601ebc61275e6.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנים אל פנים - מסעו של משה כנביא 1 - צעדים ראשונים בנבואה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/75/f0/0a/e2264443bd8afa48858ba621fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/75/f0/0a/e2264443bd8afa48858ba621fa.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שליחות והתגלות בספר בראשית 5 - האם האמהות היו נביאות</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/31/ac/e2/64359c43139deaf8b6acd71a47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/31/ac/e2/64359c43139deaf8b6acd71a47.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שליחות והתגלות בספר בראשית 4 - אבות בנים וסימנים בדרך</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/82/1d/8c/d7f89a405abf1087d1bd5337e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/82/1d/8c/d7f89a405abf1087d1bd5337e4.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שליחות והתגלות בספר בראשית 3 - שלושה אבות ואלוהים אחד</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/e5/88/1125cf494ab1489a4f720a0f03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/e5/88/1125cf494ab1489a4f720a0f03.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שליחות והתגלות בספר בראשית 2 - מן הפנים אל ההסתר</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/63/52/9e/f1fca1489db891823b7f89a9fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/63/52/9e/f1fca1489db891823b7f89a9fd.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שליחות והתגלות בספר בראשית 1 - קם נביא בישראל</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bf/b7/d9/db641d49f493f68f04a8291bec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bf/b7/d9/db641d49f493f68f04a8291bec.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויגש - כיצד מכירת יוסף מכתיבה את התנהלות האחים</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/89/b5/55/26562149e29a8e044ad6689ac5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/89/b5/55/26562149e29a8e044ad6689ac5.mp3</guid>
+   <pubDate>Sun, 10 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מקץ - המניע להפללת בנימין בגניבת הגביע</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cf/d4/b7/8319e84a8cbc6c5575bc9af339.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cf/d4/b7/8319e84a8cbc6c5575bc9af339.mp3</guid>
+   <pubDate>Sat, 09 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב - האם האחים מכרו את יוסף</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9d/d0/72/56db5f4b6abca1469d8f72791f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9d/d0/72/56db5f4b6abca1469d8f72791f.mp3</guid>
+   <pubDate>Fri, 08 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח - על מי מוטלת האשמה בפרשת אונס דינה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/9c/5b/71201540cda4c14ad52ff1f362.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/9c/5b/71201540cda4c14ad52ff1f362.mp3</guid>
+   <pubDate>Thu, 07 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא - סולם יעקב ומגדל בבל</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/26/d0/65/68a7ba4cbe8fdfacac9e104b91.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/26/d0/65/68a7ba4cbe8fdfacac9e104b91.mp3</guid>
+   <pubDate>Wed, 06 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות - יצחק האב האחרון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/27/49/b2/05822a491ba37f36660e238732.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/27/49/b2/05822a491ba37f36660e238732.mp3</guid>
+   <pubDate>Tue, 05 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה - עבד אברהם כממשיך דרכו הרוחנית</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/02/e1/35/d281a34241b2458e837c2ff0ae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/02/e1/35/d281a34241b2458e837c2ff0ae.mp3</guid>
+   <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וירא - מסע העקידה כמבחן האולטימטיבי</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/05/dc/1a/1484a34d98888b6244a85dc79f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/05/dc/1a/1484a34d98888b6244a85dc79f.mp3</guid>
+   <pubDate>Sun, 03 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת לך לך - ושפחה כי תירש גבירתה</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/c2/58/8f2e1c40fbaea5ff5caa0ae9a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/c2/58/8f2e1c40fbaea5ff5caa0ae9a9.mp3</guid>
+   <pubDate>Sat, 02 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נח - אדם ראשון-שני</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/97/ef/b8308f4a33b322b6d61d36f05f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/97/ef/b8308f4a33b322b6d61d36f05f.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בראשית - ספר תולדות אדם</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f0/25/68/4b236a49c891b794e454ab0fe0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f0/25/68/4b236a49c891b794e454ab0fe0.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

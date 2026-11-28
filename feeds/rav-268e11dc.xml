@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יעקב נגן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-268e11dc.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יעקב נגן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שניים ליום - הפודקאסט | אוניברסליות לאור ספר ישעיהו | יאיר רהט משוחח עם הרב יעקב נגן</title>
+   <description>הרב יעקב נגן · ישיבת הר עציון · תנ"ך</description>
+   <itunes:author>הרב יעקב נגן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/97074796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-15%2F393104072-44100-2-412a3ece46d58.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/97074796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-15%2F393104072-44100-2-412a3ece46d58.mp3</guid>
+   <pubDate>Wed, 15 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לסוכות | סוכת דוד הנופלת - שמחת בית השואבה | הרב יעקב נגן</title>
+   <description>הרב יעקב נגן · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב יעקב נגן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/26/a1/34806a41e8abbeea8b4399044e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/26/a1/34806a41e8abbeea8b4399044e.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכת דוד הנופלת - שמחת בית השואבה | הרב יעקב נגן</title>
+   <description>הרב יעקב נגן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יעקב נגן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d7/b2/ba/b7c45f47ad873171a618328820.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d7/b2/ba/b7c45f47ad873171a618328820.mp3</guid>
+   <pubDate>Tue, 26 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | המלחמה באוקראינה והמשמעות של המדינה היהודית | הרב יעקב נגן</title>
+   <description>הרב יעקב נגן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יעקב נגן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/08/45/2a/d9bdd549a0bbdfe0167819dade.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/08/45/2a/d9bdd549a0bbdfe0167819dade.mp3</guid>
+   <pubDate>Fri, 11 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | סיפורים קורים לעמים שמספרים סיפורים | הרב יעקב נגן</title>
+   <description>הרב יעקב נגן · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב יעקב נגן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f9/cf/c1/80b37b4d33bce95ddc7beaf449.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f9/cf/c1/80b37b4d33bce95ddc7beaf449.mp3</guid>
+   <pubDate>Mon, 10 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

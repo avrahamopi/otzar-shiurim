@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב בזק · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-309eefb8.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב בזק.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הסתכלות חיובית על החברה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81097244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F01665b14-355a-0510-8a42-70a0ce7b61e9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81097244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F01665b14-355a-0510-8a42-70a0ce7b61e9.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עין טובה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81097204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F2de7d7a5-f439-8974-ee86-60c0f9218905.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81097204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F2de7d7a5-f439-8974-ee86-60c0f9218905.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה לסבול יש דרך אחרת</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81097045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F66a4dd32-ce88-b8d0-eef1-724c57285877.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81097045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F66a4dd32-ce88-b8d0-eef1-724c57285877.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסורים – חלק ב</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81097024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F01f21980-06fb-a351-b6b7-a054ee50fb2d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81097024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F01f21980-06fb-a351-b6b7-a054ee50fb2d.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסורים – חלק א – מה התפקיד שלהם</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81097000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F7aab4572-42db-1be2-8521-0e8c43154b9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81097000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F7aab4572-42db-1be2-8521-0e8c43154b9d.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי עצות – 'סבלנות', אות יא – צריך שתדע</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fca2e1b70-fad1-9837-9e5f-8ac7fb7a6fdf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fca2e1b70-fad1-9837-9e5f-8ac7fb7a6fdf.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרבות הצ'יפס והקטשופ</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F1bf44bf1-d145-3413-dd51-8c0fa2ccae88.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F1bf44bf1-d145-3413-dd51-8c0fa2ccae88.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעמוד מול האמת</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F848c1723-8372-6c54-e009-ac2b5aa4ebd1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F848c1723-8372-6c54-e009-ac2b5aa4ebd1.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא להצטרך לבריות – על ערך עצמי</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096917/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F7442ad86-4171-98f9-bc24-91b6550a07ea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096917/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F7442ad86-4171-98f9-bc24-91b6550a07ea.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החשיבות בתסכולים – יציאה מהעצמיות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fe2a94a88-a0ff-aff7-197e-f203b6242d86.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fe2a94a88-a0ff-aff7-197e-f203b6242d86.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התמודדות עם ספקות והחיוב בהם</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F46aebf71-84da-9ef7-cbe8-59dd6f23e1f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F46aebf71-84da-9ef7-cbe8-59dd6f23e1f2.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטרת הירידות כתיקון האגוצנטריות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fecfe017d-4d72-d734-d4ab-89edf28b1f47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fecfe017d-4d72-d734-d4ab-89edf28b1f47.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההבדלים בהתמודדות עם עליה וירידה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fe2579efe-4697-c6f3-89d8-8a8b50acdf86.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fe2579efe-4697-c6f3-89d8-8a8b50acdf86.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאוה וענווה – חלק ד – התמודדות עם מחלוקת פנימית</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F51755627-9f80-f33a-381d-8704fac7a9c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F51755627-9f80-f33a-381d-8704fac7a9c0.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רצון אמיתי פותח לבבות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F84397c30-5da4-ebf5-54f5-ff01736c4b28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F84397c30-5da4-ebf5-54f5-ff01736c4b28.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאוה וענווה – חלק ג – חלק קטן מדבר גדול</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Ff8d8a6e9-3148-5101-7c64-482f19aa4d37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Ff8d8a6e9-3148-5101-7c64-482f19aa4d37.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאוה וענווה – חלק ב</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F5c6a34da-544f-bf66-0ac0-d01bf7ca323e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F5c6a34da-544f-bf66-0ac0-d01bf7ca323e.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאוה וענווה – חלק א – הגישה לחיים משנה אותם</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fa66e7c2f-a172-34e6-8578-0b83e6e8f3c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Fa66e7c2f-a172-34e6-8578-0b83e6e8f3c3.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השכחה – חלק ב</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F190622b3-c3c4-ec0e-85dd-3c205d3b6fdb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F190622b3-c3c4-ec0e-85dd-3c205d3b6fdb.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השכחה – חלק א</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F532a02b2-b96c-23de-4a2d-813c8b19f987.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F532a02b2-b96c-23de-4a2d-813c8b19f987.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה מתחילה בקיום מעשי ולא בשכל</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F6509d16e-4912-a739-1001-38b696f0a00e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F6509d16e-4912-a739-1001-38b696f0a00e.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין לאדם לחשוב מיום לחבירו</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F11ea3a0f-a2f0-0111-b1ff-dd3333187a15.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F11ea3a0f-a2f0-0111-b1ff-dd3333187a15.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על ידי עצבות אינו יודע שמו</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/f06cf854/podcast/play/81096590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Ff7a8af2a-2f33-c9d8-b699-d446368b4c40.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f06cf854/podcast/play/81096590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2Ff7a8af2a-2f33-c9d8-b699-d446368b4c40.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וזאת הברכה - אמון</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238504-44100-2-32e87cf8a42db.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238504-44100-2-32e87cf8a42db.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת האזינו - למצוא את האוצר</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238454-44100-2-2129460141d4e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238454-44100-2-2129460141d4e.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ניצבים - יותר אחריות פחות לכעוס</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238360-44100-2-8b5568b582a08.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238360-44100-2-8b5568b582a08.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תבוא - להיות בשמחה ולהגיד תודה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238298-44100-2-0a5e0dae331bc.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238298-44100-2-0a5e0dae331bc.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תצא - להיות יוזם ולא להרדם</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238111-44100-2-bc60cf7afdb69.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238111-44100-2-bc60cf7afdb69.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שופטים - רק בביטחון</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527861/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238016-44100-2-b82379218973c.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527861/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355238016-44100-2-b82379218973c.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ראה - להתבונן ולא להתעצבן</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237957-44100-2-7b33934e50901.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237957-44100-2-7b33934e50901.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת עקב - קשה זה טוב</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237867-44100-2-1b51cd06266fc.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237867-44100-2-1b51cd06266fc.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ואתחנן - האיזון הטוב</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237764-44100-2-8c2d0e7f41daf.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237764-44100-2-8c2d0e7f41daf.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת דברים (2) - תוכחה כיצד</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527741/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237706-44100-2-28e16088ba232.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527741/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237706-44100-2-28e16088ba232.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת דברים - כבוד והקשבה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237332-44100-2-85e8d906b80c4.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237332-44100-2-85e8d906b80c4.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מסעי - בזבוז זמן ותקלות בדרך</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237247-44100-2-b6e0b159b05d8.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237247-44100-2-b6e0b159b05d8.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מטות - שינויים וחידושים</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237116-44100-2-5ebe22aa2ad4e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237116-44100-2-5ebe22aa2ad4e.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פנחס - נפילות ומכות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237026-44100-2-0b2ab9dece1a1.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355237026-44100-2-0b2ab9dece1a1.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בלק - ביקורת עצמית בונה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236876-44100-2-957536b800e49.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236876-44100-2-957536b800e49.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חוקת - להאמין ולחזות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236823-44100-2-e46ca5eaa2abc.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236823-44100-2-e46ca5eaa2abc.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת קרח - כשזה אף פעם לא מצליח</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236714-44100-2-8b844aed96025.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236714-44100-2-8b844aed96025.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שלח - למצוא כוח לאתגרים</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236573-44100-2-4fac554e1b56b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236573-44100-2-4fac554e1b56b.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהעלותך - להגשים חלומות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236462-44100-2-f26a4187d2e25.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236462-44100-2-f26a4187d2e25.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נשא - להיות אני</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236399-44100-2-ce6960565aae8.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236399-44100-2-ce6960565aae8.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת במדבר - להקשיב לך לראות אותך</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236264-44100-2-552f41ca32bfe.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236264-44100-2-552f41ca32bfe.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בחוקותי - להיות שבע</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236129-44100-2-14ab9971b6f7.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236129-44100-2-14ab9971b6f7.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהר - מעגלי השפעה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236065-44100-2-dc39f5ca25626.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355236065-44100-2-dc39f5ca25626.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת אמור - שמחת חיים</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235971-44100-2-c027e28ea8a9a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235971-44100-2-c027e28ea8a9a.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מצורע - חיבורים שליליים ותיקונם</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527125/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235876-44100-2-4c3124c7caa84.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527125/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235876-44100-2-4c3124c7caa84.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תזריע - בדידות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235595-44100-2-3602ec163616f.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235595-44100-2-3602ec163616f.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמיני - גבולות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78527011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235361-44100-2-b1071c10887d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78527011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235361-44100-2-b1071c10887d.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת צו - לעסוק בלכלוך בשמחה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235305-44100-2-932b353491502.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235305-44100-2-932b353491502.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקרא - קרבה ואהבה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235179-44100-2-71e655df5643b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235179-44100-2-71e655df5643b.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פקודי - בלי הסברים</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235077-44100-2-1fae3ada1b237.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355235077-44100-2-1fae3ada1b237.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקהל - להיות בלם</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234809-44100-2-d0ef20b541552.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234809-44100-2-d0ef20b541552.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תשא - הבדלי מעמדות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234733-44100-2-aef9c491cd7fc.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234733-44100-2-aef9c491cd7fc.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תצווה - קבלת מרות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234666-44100-2-b937a5b1e296e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234666-44100-2-b937a5b1e296e.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תרומה - תמורת התרומה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234572-44100-2-8d9f881dcf903.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234572-44100-2-8d9f881dcf903.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת משפטים - תלונות וקיטורים</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234488-44100-2-d65b7ae196431.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234488-44100-2-d65b7ae196431.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת יתרו - לא תשכח את עצמך</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234429-44100-2-8d481e23e7759.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234429-44100-2-8d481e23e7759.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וארא - מכוח התפקיד</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234332-44100-2-5aea1f96865e9.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355234332-44100-2-5aea1f96865e9.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמות - הציפייה שמחוללת שינוי</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233937-44100-2-5a295f5f70422.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233937-44100-2-5a295f5f70422.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי - קבלה מחוללת שינוי</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233867-44100-2-45751228b7106.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233867-44100-2-45751228b7106.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויגש - יחסים בין אישיים</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233786-44100-2-66992323db643.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233786-44100-2-66992323db643.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קבלת החלטות - פרשת מקץ</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233713-44100-2-ad7dc1399acb9.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233713-44100-2-ad7dc1399acb9.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב - להתחדש ולהתקדם</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233642-44100-2-2cf11de0853de.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233642-44100-2-2cf11de0853de.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח - האם כדאי לשבור את הכלים</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233570-44100-2-be9a6cbb0590c.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233570-44100-2-be9a6cbb0590c.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא - מקושי להזדמנות</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233510-44100-2-1617a2d1ffbab.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233510-44100-2-1617a2d1ffbab.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות - לא נוח הזדמנות לפרוח</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233327-44100-2-2c60e1039cd5d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233327-44100-2-2c60e1039cd5d.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה - איך להישאר צעיר לנצח</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233118-44100-2-cee03d45a83a3.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355233118-44100-2-cee03d45a83a3.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וירא- בלי להסתכל אחורה</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78526201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355232941-44100-2-3bdf85912e107.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78526201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-12%2F355232941-44100-2-3bdf85912e107.m4a</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נח - לדעת להגיד לא</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78497805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-11%2F355137851-44100-2-5b13121671b8d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78497805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-11%2F355137851-44100-2-5b13121671b8d.m4a</guid>
+   <pubDate>Sat, 11 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך חוזרים לגן עדן - פרשת בראשית</title>
+   <description>הרב בזק · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב בזק</itunes:author>
+   <enclosure url="https://anchor.fm/s/ecc38664/podcast/play/78398941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-9%2F354828425-44100-2-7f6026a127806.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ecc38664/podcast/play/78398941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-9%2F354828425-44100-2-7f6026a127806.m4a</guid>
+   <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

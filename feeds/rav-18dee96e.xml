@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב ויצמן נועם · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-18dee96e.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב ויצמן נועם.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב ויצמן והרב נועם - היחס להשקפת העולם החרדית</title>
+   <description>הרב ויצמן נועם · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן נועם</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/78710788/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fbde0751e-618d-7702-fd8b-6775a2a64c20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/78710788/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fbde0751e-618d-7702-fd8b-6775a2a64c20.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ויצמן והרב נועם - בין תשובה לתורה ומיסיון והדתה</title>
+   <description>הרב ויצמן נועם · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן נועם</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/78710758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2F9d73f6dc-c879-e0c5-f740-7398a5319bfe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/78710758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2F9d73f6dc-c879-e0c5-f740-7398a5319bfe.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ויצמן והרב נועם- מחשבות על ישיבות הקו</title>
+   <description>הרב ויצמן נועם · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן נועם</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/78710715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fcce7b15f-6e6c-3e48-fbf3-3804c17dfa18.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/78710715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fcce7b15f-6e6c-3e48-fbf3-3804c17dfa18.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ויצמן והרב נועם - הרב קוק</title>
+   <description>הרב ויצמן נועם · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן נועם</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/78710640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fc8992e1f-f22d-738e-9a00-775988db456e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/78710640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fc8992e1f-f22d-738e-9a00-775988db456e.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ויצמן והרב נועם - מחשבות על חסידיות בכלל וברסלב בפרט</title>
+   <description>הרב ויצמן נועם · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן נועם</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/78710613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fb67873bf-d660-6a6f-1b18-c6063b285731.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/78710613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fb67873bf-d660-6a6f-1b18-c6063b285731.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ויצמן והרב נועם ממלכתיות</title>
+   <description>הרב ויצמן נועם · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב ויצמן נועם</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/78710506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2F9357b01b-e27e-802d-bccd-4cefe7395559.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/78710506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2F9357b01b-e27e-802d-bccd-4cefe7395559.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אברהם וולפסון · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-14e6594d.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אברהם וולפסון.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>משמעות המרור | תשפ"ד | הרב אברהם וולפסון - 6</title>
+   <description>הרב אברהם וולפסון · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם וולפסון</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/82151454-ef54-4592-9880-d220fbe48e2a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/82151454-ef54-4592-9880-d220fbe48e2a/stream.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשר המכות - עונש או לימוד לעמ"י? | הרב אברהם וולפסון | והגדת לבנך תשפ"ג</title>
+   <description>הרב אברהם וולפסון · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם וולפסון</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/bf3ced67-7f58-434a-b77f-81acd73e954d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/bf3ced67-7f58-434a-b77f-81acd73e954d/stream.mp3</guid>
+   <pubDate>Tue, 28 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה ווידוי | אורי וישעי תשפ"ב | הרב אברהם וולפסון</title>
+   <description>הרב אברהם וולפסון · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם וולפסון</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7d62253c-34ed-4883-8d30-109f21ae8a4f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7d62253c-34ed-4883-8d30-109f21ae8a4f/stream.mp3</guid>
+   <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות הנסיון בעקידה | זכור ברית | הרב אברהם וולפסון</title>
+   <description>הרב אברהם וולפסון · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם וולפסון</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3c212a27-7603-4d7c-b151-59f9b3f50b61/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3c212a27-7603-4d7c-b151-59f9b3f50b61/stream.mp3</guid>
+   <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על הקשר בין לחם עוני וחירות | תקראו אותם - פסח | הרב אברהם וולפסון</title>
+   <description>הרב אברהם וולפסון · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אברהם וולפסון</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/94b784c5-5f28-4c86-b297-79ab3c3187f7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/94b784c5-5f28-4c86-b297-79ab3c3187f7/stream.mp3</guid>
+   <pubDate>Sat, 02 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשע"ח | משמעות אכילת מצה - הרב אברהם וולפסון</title>
+   <description>הרב אברהם וולפסון · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם וולפסון</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d4b6fe74-2639-4c23-948a-c48d0262d14f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d4b6fe74-2639-4c23-948a-c48d0262d14f/stream.mp3</guid>
+   <pubDate>Wed, 30 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה באתם השותלים? | הרוחניות בעבודת האדמה | הרב אברהם וולפסון</title>
+   <description>הרב אברהם וולפסון · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם וולפסון</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6cd39d7f-1084-414e-a18e-b90ec2b5e66a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6cd39d7f-1084-414e-a18e-b90ec2b5e66a/stream.mp3</guid>
+   <pubDate>Tue, 11 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אברהם וולפסון - למנצח לבני קרח</title>
+   <description>הרב אברהם וולפסון · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם וולפסון</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e190cde5-4218-48b1-8f3a-bfe7d6cab47f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e190cde5-4218-48b1-8f3a-bfe7d6cab47f/stream.mp3</guid>
+   <pubDate>Sun, 05 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

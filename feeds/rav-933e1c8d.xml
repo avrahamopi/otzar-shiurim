@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב ערן טמיר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-933e1c8d.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב ערן טמיר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מידות הראי"ה [2] | חובת הלימוד השכלי במידות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Qq5UjJPbQ4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Qq5UjJPbQ4.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [14] | חופש הדעות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=FIYyge9VkfU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/FIYyge9VkfU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/FIYyge9VkfU.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין גאולת פורים לגאולת פסח ומלחמת "שאגת הארי" | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=0xrf9gbjnRE</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0xrf9gbjnRE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0xrf9gbjnRE.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל ב, ג | היחס בין הפרט לכלל בישראל | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Zz9FHW02zU4</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Zz9FHW02zU4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Zz9FHW02zU4.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [11] | איך מגיעים לבהירות? | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=43pXJH5iIJ4</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/43pXJH5iIJ4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/43pXJH5iIJ4.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [10] | אמונה = חלות האומן באומנות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=IU_m-52lEas</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/IU_m-52lEas.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/IU_m-52lEas.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [9] | בין האהבה ל- שנאת הרשעה והרשעים | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cMpxkF1FddI</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cMpxkF1FddI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cMpxkF1FddI.mp3</guid>
+   <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [8] | אהבת ה' השוכנת בנשמה | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=8EVpX-a2c_Q</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/8EVpX-a2c_Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/8EVpX-a2c_Q.mp3</guid>
+   <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [7] | אהבת ה' בשלמות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=4hbaco_TjyU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/4hbaco_TjyU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/4hbaco_TjyU.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [6] | אהבת ה' בפועל | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=BWWMzMOeWG8</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BWWMzMOeWG8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BWWMzMOeWG8.mp3</guid>
+   <pubDate>Sun, 30 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [5] | קדימות כמותית וקדימות מהותית | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=Wcq-JuEqPJA</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Wcq-JuEqPJA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Wcq-JuEqPJA.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [4] | אהבת ישראל – תמצית אהבת הכל | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=AD5Q5_T5UeY</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AD5Q5_T5UeY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AD5Q5_T5UeY.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [3] | אהבת כל הבריות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=oGlfIG44iK4</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oGlfIG44iK4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oGlfIG44iK4.mp3</guid>
+   <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"כי ביום הזה יכפר עליכם לטהר אתכם" | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=f3KKcgfQjdU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/f3KKcgfQjdU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/f3KKcgfQjdU.mp3</guid>
+   <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסוד התשובה | הרב ערן טמיר | כנס תשובה ה'תשפ"ה</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=lHcFub8hTEs</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/lHcFub8hTEs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/lHcFub8hTEs.mp3</guid>
+   <pubDate>Wed, 17 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראי"ה [1] | הקדמה כללית לסוגיית המידות | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=7eLwV6qkHdA</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7eLwV6qkHdA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7eLwV6qkHdA.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המבט הנכון על חורבן הבית | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=A2JkmeWSW60</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/A2JkmeWSW60.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/A2JkmeWSW60.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל ותחייתו – פרק יד' | שיעור 3 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=r4U-mAnn3j4</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/r4U-mAnn3j4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/r4U-mAnn3j4.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל ותחייתו – פרק יד' | שיעור 2 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Koxnf4PGUB0</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Koxnf4PGUB0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Koxnf4PGUB0.mp3</guid>
+   <pubDate>Wed, 16 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל ותחייתו – פרק יד' | שיעור 1 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=HgF66SZJUJM</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/HgF66SZJUJM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/HgF66SZJUJM.mp3</guid>
+   <pubDate>Mon, 14 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלחמת "עם כלביא" | מהות המלחמה | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Xv7qey_RVcg</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Xv7qey_RVcg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Xv7qey_RVcg.mp3</guid>
+   <pubDate>Sat, 28 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 15 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=2ZR9CIRsKaI</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/2ZR9CIRsKaI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/2ZR9CIRsKaI.mp3</guid>
+   <pubDate>Wed, 11 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ל"ג בעומר | ההוד שבהוד | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=FKH9KJWy99I</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/FKH9KJWy99I.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/FKH9KJWy99I.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 14 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=BM2E4MxG3yY</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BM2E4MxG3yY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BM2E4MxG3yY.mp3</guid>
+   <pubDate>Mon, 12 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 13 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=kFKx572L_vg</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kFKx572L_vg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kFKx572L_vg.mp3</guid>
+   <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 12 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=RWG9ZQOEETU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/RWG9ZQOEETU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/RWG9ZQOEETU.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 11 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=55YfhA7t2yY</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/55YfhA7t2yY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/55YfhA7t2yY.mp3</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 10 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=1DRhfAGVsug</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1DRhfAGVsug.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1DRhfAGVsug.mp3</guid>
+   <pubDate>Wed, 05 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 9 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=d54hk9Wsqa0</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/d54hk9Wsqa0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/d54hk9Wsqa0.mp3</guid>
+   <pubDate>Wed, 22 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 8 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=vZTvMUbbGSU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vZTvMUbbGSU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vZTvMUbbGSU.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 7 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=GqJJLvPxGz0</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/GqJJLvPxGz0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/GqJJLvPxGz0.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 6 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Fm93xFIL6oQ</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Fm93xFIL6oQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Fm93xFIL6oQ.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 5 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=coAVaTzln3k</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/coAVaTzln3k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/coAVaTzln3k.mp3</guid>
+   <pubDate>Mon, 09 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנת הציונות הדתית | שיעור 4 | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=m90oo6dh8XM</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/m90oo6dh8XM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/m90oo6dh8XM.mp3</guid>
+   <pubDate>Sat, 30 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | ההגדרה של ימי חודש אלול | כנס תשובה התשפ"ד</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=meVpXYwtnBw</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/meVpXYwtnBw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/meVpXYwtnBw.mp3</guid>
+   <pubDate>Sun, 29 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ראש השנה ליום הכיפורים | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=PewcKEqVRuA</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/PewcKEqVRuA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/PewcKEqVRuA.mp3</guid>
+   <pubDate>Tue, 19 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה | סוד השופר ותקיעותיו | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=mX9XMG5SXtg</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mX9XMG5SXtg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mX9XMG5SXtg.mp3</guid>
+   <pubDate>Tue, 12 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | החטא – מדרגת בורא לדרגת נברא | כנס תשובה – התשפ"ג</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=yja4FVjBaMQ</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/yja4FVjBaMQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/yja4FVjBaMQ.mp3</guid>
+   <pubDate>Sun, 10 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ימי אלול – הרצון שלנו מחובר לרצון האלוקי | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=kSKIuo03i9w</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kSKIuo03i9w.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kSKIuo03i9w.mp3</guid>
+   <pubDate>Mon, 04 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ימי אלול – ימי עת רצון | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=ejlO37GCfvg</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ejlO37GCfvg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ejlO37GCfvg.mp3</guid>
+   <pubDate>Mon, 28 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקודש והחול | ג | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=POFzVO3TWyI</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/POFzVO3TWyI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/POFzVO3TWyI.mp3</guid>
+   <pubDate>Thu, 06 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמרי הראי"ה | הקודש והחול ב' | [2] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=V7hUXSl8Ne0</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/V7hUXSl8Ne0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/V7hUXSl8Ne0.mp3</guid>
+   <pubDate>Tue, 20 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמרי הראי"ה | הקודש והחול ג' | [3] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=NSzdwDbhMbU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/NSzdwDbhMbU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/NSzdwDbhMbU.mp3</guid>
+   <pubDate>Mon, 19 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמרי הראי"ה | הקודש והחול א' | [1] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=eNnaW4uIFfc</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/eNnaW4uIFfc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/eNnaW4uIFfc.mp3</guid>
+   <pubDate>Tue, 13 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | קבלת התורה ע"פ ברכות התורה | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=WpfOAUuGVno</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/WpfOAUuGVno.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/WpfOAUuGVno.mp3</guid>
+   <pubDate>Thu, 25 May 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהלך האידיאות בישראל [8] | האידיאה האלהית והאידיאה הלאומית בישראל[1] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=7YAxg3xLkHA</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7YAxg3xLkHA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7YAxg3xLkHA.mp3</guid>
+   <pubDate>Wed, 22 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהלך האידיאות בישראל [7] | סיום האידיאה האלהית והאידיאה הלאומית באדם[6] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=6Ck5fqZtUQY</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/6Ck5fqZtUQY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/6Ck5fqZtUQY.mp3</guid>
+   <pubDate>Mon, 20 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהלך האידיאות בישראל [6] | האידיאה האלהית והאידיאה הלאומית באדם[5] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=bYnUbvC9NV0</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bYnUbvC9NV0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bYnUbvC9NV0.mp3</guid>
+   <pubDate>Sun, 05 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהלך האידיאות בישראל [5] | האידיאה האלהית והאידיאה הלאומית באדם[4] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Gu0xzHyKDGI</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Gu0xzHyKDGI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Gu0xzHyKDGI.mp3</guid>
+   <pubDate>Wed, 18 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהלך האידיאות בישראל [4] | האידיאה האלהית והאידיאה הלאומית באדם[3] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=MmCPyXElILc</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/MmCPyXElILc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/MmCPyXElILc.mp3</guid>
+   <pubDate>Thu, 12 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהלך האידיאות בישראל [3] | האידיאה האלהית והאידיאה הלאומית באדם[2] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=V8GwNX3F_0I</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/V8GwNX3F_0I.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/V8GwNX3F_0I.mp3</guid>
+   <pubDate>Sun, 27 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהלך האידיאות בישראל [2] | האידיאה האלהית והאידיאה הלאומית באדם[1] | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=JWLXDMCdG-A</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/JWLXDMCdG-A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/JWLXDMCdG-A.mp3</guid>
+   <pubDate>Thu, 17 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | הקדמה למהלך האידיאות בישראל [1]</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=pr-8C0gFrpU</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/pr-8C0gFrpU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/pr-8C0gFrpU.mp3</guid>
+   <pubDate>Tue, 15 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | היחס אל המרור בליל הסדר ובחיינו</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=B9ry_bIPzrA</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/B9ry_bIPzrA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/B9ry_bIPzrA.mp3</guid>
+   <pubDate>Mon, 28 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | עיקרי התשובה</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=OSpI1QhDUBk</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/OSpI1QhDUBk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/OSpI1QhDUBk.mp3</guid>
+   <pubDate>Thu, 02 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | שלושת השבועות</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=SC5Pya2x9Rg</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/SC5Pya2x9Rg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/SC5Pya2x9Rg.mp3</guid>
+   <pubDate>Sun, 11 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר – ענייני פסח</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=sPR3YPy6sNE</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/sPR3YPy6sNE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/sPR3YPy6sNE.mp3</guid>
+   <pubDate>Thu, 11 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר – סוד השופר וקולותיו | ערב רה"ש ה'תשפ"א</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=rSbO_-jJAjs</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/rSbO_-jJAjs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/rSbO_-jJAjs.mp3</guid>
+   <pubDate>Thu, 17 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר – ברכת 'המלך הקדוש' בראש השנה (הכתב והקבלה)</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=CcOnJQiVdw4</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CcOnJQiVdw4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CcOnJQiVdw4.mp3</guid>
+   <pubDate>Thu, 27 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לכבודה של ירושלים | הרב ערן טמיר</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=RZvPt5RpCfk</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/RZvPt5RpCfk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/RZvPt5RpCfk.mp3</guid>
+   <pubDate>Thu, 21 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר – מ"ח דרכים שהתורה נקנית בהם – מידות</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=vypyJ3nc0WM</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vypyJ3nc0WM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vypyJ3nc0WM.mp3</guid>
+   <pubDate>Wed, 19 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | מ"ח דרכים שהתורה נקנית בהם – בינת הלב ומידות // Rabbi Eran Tamir</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=z6NhmriExn8</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/z6NhmriExn8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/z6NhmriExn8.mp3</guid>
+   <pubDate>Wed, 12 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | מ"ח דרכים שהתורה נקנית בהם – שכל ורגש</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=bn3O0b4mcWM</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bn3O0b4mcWM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bn3O0b4mcWM.mp3</guid>
+   <pubDate>Wed, 05 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | מ"ח דרכים שהתורה נקנית בהם – בינת הלב</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=BsSvQzTrmSM</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BsSvQzTrmSM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BsSvQzTrmSM.mp3</guid>
+   <pubDate>Wed, 29 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר | מ"ח דרכים שהתורה נקנית בהם</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=9o4x_frNm0w</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9o4x_frNm0w.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9o4x_frNm0w.mp3</guid>
+   <pubDate>Wed, 22 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין כסה לעשור – סוגרים עשור | הרב ערן טמיר // Between Cese to Asor | HaRav Eran Tamir</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=0QJTM8D8R1c</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0QJTM8D8R1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0QJTM8D8R1c.mp3</guid>
+   <pubDate>Sun, 06 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר – איך לתקן את העבר? // ?Rabbi Eran Tamir – How to fix right the past</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=a5LPGqhpSs0</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/a5LPGqhpSs0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/a5LPGqhpSs0.mp3</guid>
+   <pubDate>Wed, 02 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

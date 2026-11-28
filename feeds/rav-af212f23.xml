@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב חיים סבתו · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-af212f23.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב חיים סבתו.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרשת וישלח - המאבק של עם ישראל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fd1665b0-09cf-460e-b437-f904c26fa02f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fd1665b0-09cf-460e-b437-f904c26fa02f/stream.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת ערכין דף ו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b1b8f046-32a6-4904-8a1a-e64ebdf5ebaa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b1b8f046-32a6-4904-8a1a-e64ebdf5ebaa/stream.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת ערכין דף ה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9df150c3-3e20-4835-b518-e4807c14c9f9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9df150c3-3e20-4835-b518-e4807c14c9f9/stream.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת ערכין דפים ג-ד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2107838d-41ff-45a5-8109-56c9e876bf89/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2107838d-41ff-45a5-8109-56c9e876bf89/stream.mp3</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא - איך להתמודד מול רמאי?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3652ec5f-b1c4-4287-8428-bf5e6cd7b297/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3652ec5f-b1c4-4287-8428-bf5e6cd7b297/stream.mp3</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת ערכין דף ב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/75078576-3c84-4b2c-9cb8-13e943ac410c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/75078576-3c84-4b2c-9cb8-13e943ac410c/stream.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף סא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/73739075-6a39-43b0-b0eb-7a335d82207f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/73739075-6a39-43b0-b0eb-7a335d82207f/stream.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף ס</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/44499f29-31c0-45cb-a76d-2512ffe8172f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/44499f29-31c0-45cb-a76d-2512ffe8172f/stream.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bedeab2b-8c16-4572-82af-fb87488a8663/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bedeab2b-8c16-4572-82af-fb87488a8663/stream.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0e2dc271-505f-4497-9785-cc4a6b6b9325/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0e2dc271-505f-4497-9785-cc4a6b6b9325/stream.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f30ac262-9af8-42f7-a1e9-20f4ed7555e3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f30ac262-9af8-42f7-a1e9-20f4ed7555e3/stream.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות - לא נכנעים!</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4fdf31f6-7942-4df0-80aa-3d2d3f374c5b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4fdf31f6-7942-4df0-80aa-3d2d3f374c5b/stream.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5989b050-d377-4807-9a76-0e82fde3d35a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5989b050-d377-4807-9a76-0e82fde3d35a/stream.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8b94abc3-559b-4324-8485-9ead41bde64d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8b94abc3-559b-4324-8485-9ead41bde64d/stream.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b30dc210-c5e5-4f8c-a597-f103f0e5acfa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b30dc210-c5e5-4f8c-a597-f103f0e5acfa/stream.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5b0c4aeb-aade-430b-ae44-ee1156022f65/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5b0c4aeb-aade-430b-ae44-ee1156022f65/stream.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף נא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2135aa81-cbdb-4718-81b5-8e7d1ad3c44c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2135aa81-cbdb-4718-81b5-8e7d1ad3c44c/stream.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c6122e53-f7b7-40d9-8d08-813724a8070e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c6122e53-f7b7-40d9-8d08-813724a8070e/stream.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/45ea42be-9f8a-4dd4-a27e-4a27dfa289cb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/45ea42be-9f8a-4dd4-a27e-4a27dfa289cb/stream.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - השורש של עם ישראל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/23d647e5-8e75-490f-be20-084083816246/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/23d647e5-8e75-490f-be20-084083816246/stream.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1d56e030-dff8-4acc-a2c6-c1381985cf71/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1d56e030-dff8-4acc-a2c6-c1381985cf71/stream.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/68049088-29b6-4853-bca9-ffad89d3450d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/68049088-29b6-4853-bca9-ffad89d3450d/stream.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9c96aa02-e3a3-48dc-bec4-26415fb4c7c0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9c96aa02-e3a3-48dc-bec4-26415fb4c7c0/stream.mp3</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/945979f4-ddf6-4e0a-95e8-a6163e559ae6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/945979f4-ddf6-4e0a-95e8-a6163e559ae6/stream.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cdf02c03-e1e1-4d1c-a556-59b835b5b0e3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cdf02c03-e1e1-4d1c-a556-59b835b5b0e3/stream.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - כוחו של חסד: אברהם מול סדום</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a7e62c9d-3d39-4f43-9ffc-1044a6b6f70f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a7e62c9d-3d39-4f43-9ffc-1044a6b6f70f/stream.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0e8f9e74-466c-42f7-9492-78e91f62fee9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0e8f9e74-466c-42f7-9492-78e91f62fee9/stream.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף מ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/74a1642a-76cc-437a-896c-21aea10cd2e2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/74a1642a-76cc-437a-896c-21aea10cd2e2/stream.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8e2d2770-51a2-4511-8667-1893584ff006/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8e2d2770-51a2-4511-8667-1893584ff006/stream.mp3</guid>
+   <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/14e745eb-a3a7-4538-94bd-f4479cc633cf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/14e745eb-a3a7-4538-94bd-f4479cc633cf/stream.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מנהיגות וחינוך בעידן הרייטינג | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/bc44459b-6596-4d3a-b721-deeba6173a78/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/bc44459b-6596-4d3a-b721-deeba6173a78/stream.mp3</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8535b4d5-bac4-4879-8308-2f2b58cfc82b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8535b4d5-bac4-4879-8308-2f2b58cfc82b/stream.mp3</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/068769da-7c3c-47f9-88d1-9489ae429ca8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/068769da-7c3c-47f9-88d1-9489ae429ca8/stream.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - הבחירה באברהם</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/dc786bfa-3c6a-46d7-b02e-915cf458ea5a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/dc786bfa-3c6a-46d7-b02e-915cf458ea5a/stream.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/17374368-1284-4ad9-aecd-f4b086db8299/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/17374368-1284-4ad9-aecd-f4b086db8299/stream.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסת בכורות דף לג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/08489f6d-a582-43ea-b29f-a81203c3cefe/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/08489f6d-a582-43ea-b29f-a81203c3cefe/stream.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/86490d45-1124-4f0e-94e2-e453fc831b15/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/86490d45-1124-4f0e-94e2-e453fc831b15/stream.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף לא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bcc3007d-ef78-429c-be54-f2bcaef6f023/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bcc3007d-ef78-429c-be54-f2bcaef6f023/stream.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף ל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/167f2e42-21bf-4daa-9fab-bf482749a0b9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/167f2e42-21bf-4daa-9fab-bf482749a0b9/stream.mp3</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף כח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d8713b3f-79c8-428b-89a2-1fd4f7ab812f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d8713b3f-79c8-428b-89a2-1fd4f7ab812f/stream.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - שתי דרכים להתמודד עם טראומה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/58ef51bc-afea-440c-8ace-a72d861219a8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/58ef51bc-afea-440c-8ace-a72d861219a8/stream.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף כז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b421a8e2-71c6-4b2e-adea-d8f42a4d2b1d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b421a8e2-71c6-4b2e-adea-d8f42a4d2b1d/stream.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף כו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0890cb9d-948a-426b-9805-6604aa5c1965/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0890cb9d-948a-426b-9805-6604aa5c1965/stream.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת בכורות דף כה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f21c655e-9f47-4a4d-95af-8343205b9a23/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f21c655e-9f47-4a4d-95af-8343205b9a23/stream.mp3</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8750b54e-b2d0-4971-a84d-b5a69a979574/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8750b54e-b2d0-4971-a84d-b5a69a979574/stream.mp3</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - לבנות את העולם | תשפ"ז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3777f81e-05f3-4a6c-8dda-a57bb743ab75/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3777f81e-05f3-4a6c-8dda-a57bb743ab75/stream.mp3</guid>
+   <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וזאת הברכה - חינוך לקודש</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/aea2c839-66ac-4f41-a885-60fbd6709821/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/aea2c839-66ac-4f41-a885-60fbd6709821/stream.mp3</guid>
+   <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין קמא-קמב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2a7e65ae-cf88-431e-9f21-898960ba50a7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2a7e65ae-cf88-431e-9f21-898960ba50a7/stream.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האזינו - ה' בדד ינחנו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/be88486d-6447-48e4-96fd-5e087accc230/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/be88486d-6447-48e4-96fd-5e087accc230/stream.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קמ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/807cb415-6b26-45b5-9cf4-4556b70eec45/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/807cb415-6b26-45b5-9cf4-4556b70eec45/stream.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/43981418-5b63-4cab-8355-1f7517b138e0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/43981418-5b63-4cab-8355-1f7517b138e0/stream.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/171ac11b-1c69-4ae5-b19a-13d9ad04be82/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/171ac11b-1c69-4ae5-b19a-13d9ad04be82/stream.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d0e60a7c-fd79-4f33-9349-cd6314c30169/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d0e60a7c-fd79-4f33-9349-cd6314c30169/stream.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4c276fd4-cbb2-4544-8e7b-3ce95e933cfc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4c276fd4-cbb2-4544-8e7b-3ce95e933cfc/stream.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב ראש השנה - הארת פנים | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/345e59f4-9258-4d8e-8d9a-7eee608dafed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/345e59f4-9258-4d8e-8d9a-7eee608dafed/stream.mp3</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/20e90c56-ffc7-45d0-bf07-22d81c13e0e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/20e90c56-ffc7-45d0-bf07-22d81c13e0e9/stream.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ימי יראה או ימי אהבה | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/930ff339-4fda-4a4f-bba4-c1a95e4dcfcc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/930ff339-4fda-4a4f-bba4-c1a95e4dcfcc/stream.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a77baf6c-cbc2-4d3d-9c3c-23f32e944e22/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a77baf6c-cbc2-4d3d-9c3c-23f32e944e22/stream.mp3</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קלא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9e0f68f7-da31-416d-8e40-21664ae6ae66/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9e0f68f7-da31-416d-8e40-21664ae6ae66/stream.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fa528839-16cc-4eda-9ed4-47dd1f8e671e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fa528839-16cc-4eda-9ed4-47dd1f8e671e/stream.mp3</guid>
+   <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/526f213e-103f-4901-a9be-c3a4249de362/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/526f213e-103f-4901-a9be-c3a4249de362/stream.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נצבים וילך - תשובה וגאולה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/70b89b2a-805e-4b35-8ca3-2c0007467004/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/70b89b2a-805e-4b35-8ca3-2c0007467004/stream.mp3</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8b0ac0ea-8e95-4837-be21-b005acf13042/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8b0ac0ea-8e95-4837-be21-b005acf13042/stream.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/308ef67b-523f-4d28-9b91-755b6835d67e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/308ef67b-523f-4d28-9b91-755b6835d67e/stream.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e167f9fa-91d2-4cf0-850e-90f4715d225c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e167f9fa-91d2-4cf0-850e-90f4715d225c/stream.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8bfa78e4-c983-4db3-9bae-f128ed3095f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8bfa78e4-c983-4db3-9bae-f128ed3095f2/stream.mp3</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bbb28eb7-ee0f-42d8-b024-3c48d81913ee/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bbb28eb7-ee0f-42d8-b024-3c48d81913ee/stream.mp3</guid>
+   <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קכ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2df644bb-6396-4225-a964-78a06a663470/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2df644bb-6396-4225-a964-78a06a663470/stream.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא - ארור אשר לא יקים את דברי התורה הזאת</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/97695c87-ef14-4aa7-ab6d-7156c48dcd04/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/97695c87-ef14-4aa7-ab6d-7156c48dcd04/stream.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ca2258e1-86e8-4609-82dd-7c8e7d8e1a9e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ca2258e1-86e8-4609-82dd-7c8e7d8e1a9e/stream.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cf7764c6-9bed-4232-8832-0cc9c8f73464/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cf7764c6-9bed-4232-8832-0cc9c8f73464/stream.mp3</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הורית דרך תשובה | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/40131fc8-5671-438a-a9a0-9125e06958b4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/40131fc8-5671-438a-a9a0-9125e06958b4/stream.mp3</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/beb87614-c405-440f-89b4-7c0e98ed7377/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/beb87614-c405-440f-89b4-7c0e98ed7377/stream.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קטז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/71c40036-14e5-4414-bcbc-b3f1dabc4e15/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/71c40036-14e5-4414-bcbc-b3f1dabc4e15/stream.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קטו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/79a1c0c4-2132-47c6-997b-000e13e556ed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/79a1c0c4-2132-47c6-997b-000e13e556ed/stream.mp3</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5cd2bedd-0aaa-4168-9ec3-374efd32d664/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5cd2bedd-0aaa-4168-9ec3-374efd32d664/stream.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא - המוסריות של חיילי צה"ל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9b04d16e-3f90-4474-84e8-44d473b195fa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9b04d16e-3f90-4474-84e8-44d473b195fa/stream.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/46d81824-a2f4-499f-af15-0f2e45fee209/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/46d81824-a2f4-499f-af15-0f2e45fee209/stream.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קיא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b2cfe632-fbce-4546-aa37-ac5c40eead10/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b2cfe632-fbce-4546-aa37-ac5c40eead10/stream.mp3</guid>
+   <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קי</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/232fcb06-e62f-4fb8-a51c-e6848c3c4e9a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/232fcb06-e62f-4fb8-a51c-e6848c3c4e9a/stream.mp3</guid>
+   <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף קט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/18c495fa-7fb1-4721-b92a-f300a1207112/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/18c495fa-7fb1-4721-b92a-f300a1207112/stream.mp3</guid>
+   <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים - צדק, משפט וארץ ישראל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/187c3d9e-31ad-486d-b9ff-4e2c0e2d0489/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/187c3d9e-31ad-486d-b9ff-4e2c0e2d0489/stream.mp3</guid>
+   <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראה - בנים אתם לה'</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/de7b7620-6706-4ef8-a052-651a75736e20/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/de7b7620-6706-4ef8-a052-651a75736e20/stream.mp3</guid>
+   <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עקב - כוחי ועוצם ידי</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a9fac9cd-c4f8-4406-b8ea-099579671747/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a9fac9cd-c4f8-4406-b8ea-099579671747/stream.mp3</guid>
+   <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואתחנן - ממה פחד משה?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/14e2face-7c5a-4417-af00-ae802f341529/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/14e2face-7c5a-4417-af00-ae802f341529/stream.mp3</guid>
+   <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף פג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4b5e62f6-7728-4766-bfa4-685d21f43238/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4b5e62f6-7728-4766-bfa4-685d21f43238/stream.mp3</guid>
+   <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בני תורה והעם שבשדות | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5f24a012-c599-4359-8f65-7b334ecd9f45/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5f24a012-c599-4359-8f65-7b334ecd9f45/stream.mp3</guid>
+   <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף פב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/849d2947-0331-48ef-bede-98b1b2f47413/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/849d2947-0331-48ef-bede-98b1b2f47413/stream.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף פא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5cec5987-1d18-479f-b531-021890a1437b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5cec5987-1d18-479f-b531-021890a1437b/stream.mp3</guid>
+   <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף פ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fef7a129-9f24-4950-908e-f8317a9ade1d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fef7a129-9f24-4950-908e-f8317a9ade1d/stream.mp3</guid>
+   <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף עח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1a5e3a20-f183-414d-9c81-d3e2fca3dfbf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1a5e3a20-f183-414d-9c81-d3e2fca3dfbf/stream.mp3</guid>
+   <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים - שורש הפורענות</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ec83a37b-9841-4883-90e0-075d890db797/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ec83a37b-9841-4883-90e0-075d890db797/stream.mp3</guid>
+   <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף עז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3a76e239-71de-4c19-b662-10549d8dfbed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3a76e239-71de-4c19-b662-10549d8dfbed/stream.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף עו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/41815181-c830-4298-b3db-459407b404d0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/41815181-c830-4298-b3db-459407b404d0/stream.mp3</guid>
+   <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף עה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a28fd7da-50d7-47d9-8c0e-649b9b5198bb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a28fd7da-50d7-47d9-8c0e-649b9b5198bb/stream.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף עד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d2d8bcd5-06b3-4fe6-ac5f-f7f2259cf957/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d2d8bcd5-06b3-4fe6-ac5f-f7f2259cf957/stream.mp3</guid>
+   <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף עג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b0bafac9-010b-4332-af29-4667ea6a6c5e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b0bafac9-010b-4332-af29-4667ea6a6c5e/stream.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף עא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c15f7a32-07d3-4536-b844-7c1d2d5ebaf6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c15f7a32-07d3-4536-b844-7c1d2d5ebaf6/stream.mp3</guid>
+   <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות מסעי - כוח הדיבור</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/317a8bf4-6739-47c5-8173-54393f4ca798/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/317a8bf4-6739-47c5-8173-54393f4ca798/stream.mp3</guid>
+   <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף ע</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/21daba09-1ba6-4a97-bb35-93cf02c8f0b6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/21daba09-1ba6-4a97-bb35-93cf02c8f0b6/stream.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף סט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/49ff2108-9ca5-46d6-8785-a17b366d2690/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/49ff2108-9ca5-46d6-8785-a17b366d2690/stream.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף סח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4d5a23ac-bb91-4514-a307-97a8195889b1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4d5a23ac-bb91-4514-a307-97a8195889b1/stream.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף סז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/21a44613-f4c1-460b-82d4-44880b3241a1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/21a44613-f4c1-460b-82d4-44880b3241a1/stream.mp3</guid>
+   <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף סו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/819e2940-2520-445e-8f26-479bcb7da6b7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/819e2940-2520-445e-8f26-479bcb7da6b7/stream.mp3</guid>
+   <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף סד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d8955578-9e23-4e5b-ac73-9c7c9595173a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d8955578-9e23-4e5b-ac73-9c7c9595173a/stream.mp3</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנחס - סוד הקרבנות</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a2ef9609-b175-4483-a708-4088cb35e1b0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a2ef9609-b175-4483-a708-4088cb35e1b0/stream.mp3</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף סג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a87bf44b-a454-41fa-8305-da4b61a3e7e5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a87bf44b-a454-41fa-8305-da4b61a3e7e5/stream.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף סב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/aee17889-8453-45ef-b424-a750f1c7e329/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/aee17889-8453-45ef-b424-a750f1c7e329/stream.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביטחון בשעת מלחמה - דמותו של רבי שמואל הנגיד | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/33144dff-731b-4906-a996-bb7300f1e49a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/33144dff-731b-4906-a996-bb7300f1e49a/stream.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף סא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1a886673-254e-49db-a1b8-ba6d1d9028a0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1a886673-254e-49db-a1b8-ba6d1d9028a0/stream.mp3</guid>
+   <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף ס</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ffcf2845-5ee1-4b10-8fa2-ca53c7f2c192/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ffcf2845-5ee1-4b10-8fa2-ca53c7f2c192/stream.mp3</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף נט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/be975487-cae9-4a5c-9b2b-880ecac8f86e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/be975487-cae9-4a5c-9b2b-880ecac8f86e/stream.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף נז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/25103d1e-d143-4a54-83a5-17e5c8e77e64/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/25103d1e-d143-4a54-83a5-17e5c8e77e64/stream.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק - עם ישראל לצופה מן החוץ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9244378e-e4ba-4afd-b55c-1ea9b6074586/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9244378e-e4ba-4afd-b55c-1ea9b6074586/stream.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף נו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/eaf46bf1-8044-4424-b092-d4b123a59f16/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/eaf46bf1-8044-4424-b092-d4b123a59f16/stream.mp3</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף נה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6d1670ea-859c-4659-a664-011305690f84/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6d1670ea-859c-4659-a664-011305690f84/stream.mp3</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף נד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e9c6f455-cf35-481b-bc2f-b94958e39617/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e9c6f455-cf35-481b-bc2f-b94958e39617/stream.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף נג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a9326f50-3e36-42f8-abc8-43adca71a7d1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a9326f50-3e36-42f8-abc8-43adca71a7d1/stream.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף נ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/99fa831f-57af-4e05-8a71-ec558b001941/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/99fa831f-57af-4e05-8a71-ec558b001941/stream.mp3</guid>
+   <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חקת - חוק חקוק</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6e0f0dd1-f9f0-4942-a895-a82379a3e79c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6e0f0dd1-f9f0-4942-a895-a82379a3e79c/stream.mp3</guid>
+   <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף מט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9d57805e-6af8-47ae-a73e-c917fc958507/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9d57805e-6af8-47ae-a73e-c917fc958507/stream.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף מח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6c9322c8-1580-473a-9c6c-5a7a84f94351/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6c9322c8-1580-473a-9c6c-5a7a84f94351/stream.mp3</guid>
+   <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף מז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e5ca9e8b-7aed-4171-bf51-199f25c4bfec/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e5ca9e8b-7aed-4171-bf51-199f25c4bfec/stream.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף מו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/37dd85e5-7b70-455d-ac3d-b95d130af205/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/37dd85e5-7b70-455d-ac3d-b95d130af205/stream.mp3</guid>
+   <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>‎⁨דף יומי - מסכת חולין דף מה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c7884177-6c81-4c76-91b5-2bc79cf11934/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c7884177-6c81-4c76-91b5-2bc79cf11934/stream.mp3</guid>
+   <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף מג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fb1ac009-52a0-4dc8-a22b-408631c69e41/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fb1ac009-52a0-4dc8-a22b-408631c69e41/stream.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח - חטאיו ומניעיו של קרח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/734aa84a-71cc-453c-8125-aa2ba4a211b4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/734aa84a-71cc-453c-8125-aa2ba4a211b4/stream.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף מב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4a9e2516-d6ba-420c-98cc-0f06a67b5a6e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4a9e2516-d6ba-420c-98cc-0f06a67b5a6e/stream.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף מא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/58b59665-5df4-4bae-8868-d42c37ad1603/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/58b59665-5df4-4bae-8868-d42c37ad1603/stream.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>‎⁨דף יומי - מסכת חולין דף מ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/227823a4-a837-44f5-a45e-28529a1d09c1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/227823a4-a837-44f5-a45e-28529a1d09c1/stream.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף לט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d5ccd716-5223-41c7-9ace-fcabb861b175/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d5ccd716-5223-41c7-9ace-fcabb861b175/stream.mp3</guid>
+   <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף לח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/502745ea-acc7-45ec-9bdd-ee66616ab38b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/502745ea-acc7-45ec-9bdd-ee66616ab38b/stream.mp3</guid>
+   <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי -מסכת חולין דף לו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ae59975d-3d1f-4283-87b2-fe8f4eea1123/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ae59975d-3d1f-4283-87b2-fe8f4eea1123/stream.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח - חטא המרגלים האמיתי</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7cedf24d-d6a0-44e3-8235-58220472c999/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7cedf24d-d6a0-44e3-8235-58220472c999/stream.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף לה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/919418fd-da2d-4884-9411-a9d8a1a24657/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/919418fd-da2d-4884-9411-a9d8a1a24657/stream.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף לד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/48a41b79-04af-4426-819c-119a651d1987/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/48a41b79-04af-4426-819c-119a651d1987/stream.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיצד לומדים את אגדות הש"ס? | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3bfb7aa4-8eac-4862-b1e9-fcbd9249696c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3bfb7aa4-8eac-4862-b1e9-fcbd9249696c/stream.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף לג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1ba3f782-fbf9-44e6-962c-bd92b3d239fe/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1ba3f782-fbf9-44e6-962c-bd92b3d239fe/stream.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף לב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fc8e4954-404f-4ecd-9ad0-30c600e12dd3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fc8e4954-404f-4ecd-9ad0-30c600e12dd3/stream.mp3</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף לא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ff5e73b0-37d8-4971-8744-14b0e1c0a2da/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ff5e73b0-37d8-4971-8744-14b0e1c0a2da/stream.mp3</guid>
+   <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף כט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/267c3d60-82ff-46bc-b2f0-d0ae422de9d1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/267c3d60-82ff-46bc-b2f0-d0ae422de9d1/stream.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך - המדבר והמן כמחנכים</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/43b28e3d-4c32-4cf4-8ce4-16a766269599/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/43b28e3d-4c32-4cf4-8ce4-16a766269599/stream.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף כח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/65aab7b0-01ec-4517-a7c7-60191258ff40/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/65aab7b0-01ec-4517-a7c7-60191258ff40/stream.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף כז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7d396460-2391-4eb0-a5f2-9d5865edfcac/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7d396460-2391-4eb0-a5f2-9d5865edfcac/stream.mp3</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף כו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d8f1e2af-9830-42bd-afc4-cbdd08e1142a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d8f1e2af-9830-42bd-afc4-cbdd08e1142a/stream.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף כה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1fda6730-65f8-4faa-a48b-5dacf9d148f1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1fda6730-65f8-4faa-a48b-5dacf9d148f1/stream.mp3</guid>
+   <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף כד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e957114f-76fa-4eff-9c52-9b0e74fa4803/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e957114f-76fa-4eff-9c52-9b0e74fa4803/stream.mp3</guid>
+   <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף כא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/12f95886-3014-4622-98d1-a29dcf97b862/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/12f95886-3014-4622-98d1-a29dcf97b862/stream.mp3</guid>
+   <pubDate>Sat, 23 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף כ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/17882985-88d6-4885-afb8-362ed27df26b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/17882985-88d6-4885-afb8-362ed27df26b/stream.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף יט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9882f4bf-375e-410b-8f5d-f52ddc6efb33/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9882f4bf-375e-410b-8f5d-f52ddc6efb33/stream.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף יח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/309849e5-a600-452e-9087-4e449110ff4d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/309849e5-a600-452e-9087-4e449110ff4d/stream.mp3</guid>
+   <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף יז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/def58a7c-0bd4-459f-aaa6-5b7f0af380d8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/def58a7c-0bd4-459f-aaa6-5b7f0af380d8/stream.mp3</guid>
+   <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף טו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/da8528e1-5494-401f-9d15-9fd885c44377/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/da8528e1-5494-401f-9d15-9fd885c44377/stream.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר - מחנה קדוש</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cb6f42e1-3737-4e39-8ff8-b77385e9ea2f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cb6f42e1-3737-4e39-8ff8-b77385e9ea2f/stream.mp3</guid>
+   <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף יד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b8b1e26a-f14f-465c-acf4-6d0cd16007a9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b8b1e26a-f14f-465c-acf4-6d0cd16007a9/stream.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף יג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c6ddd720-40d2-4821-8fa2-b5fb7a2e15e7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c6ddd720-40d2-4821-8fa2-b5fb7a2e15e7/stream.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לקראת יום ירושלים - נצח זו ירושלים | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ff0a5a1c-4027-4dc1-90d9-c1093650f1e4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ff0a5a1c-4027-4dc1-90d9-c1093650f1e4/stream.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף יב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f5ad9594-3d44-466f-8216-4aebae129b9b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f5ad9594-3d44-466f-8216-4aebae129b9b/stream.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף יא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4529b2ab-0fb1-4e0d-8e26-be55c839075e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4529b2ab-0fb1-4e0d-8e26-be55c839075e/stream.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף ח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5c69fd3f-b8dd-4800-b2d1-bdffa082ea79/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5c69fd3f-b8dd-4800-b2d1-bdffa082ea79/stream.mp3</guid>
+   <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר בחוקותי- עבודת ה' - בכל מצב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/122f60d9-e142-4052-8781-155465d6786b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/122f60d9-e142-4052-8781-155465d6786b/stream.mp3</guid>
+   <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף ז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/60ee6d09-1056-4b84-b0b2-0cfd1d952cb9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/60ee6d09-1056-4b84-b0b2-0cfd1d952cb9/stream.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף ו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b0cfe2a9-1dab-413a-915d-0c8f9e8bd785/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b0cfe2a9-1dab-413a-915d-0c8f9e8bd785/stream.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף ה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/db30cdeb-6ef9-4dbc-ab95-27970c56008e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/db30cdeb-6ef9-4dbc-ab95-27970c56008e/stream.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף ד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bb3a79ec-3df9-465f-99d4-50580cad9e1b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bb3a79ec-3df9-465f-99d4-50580cad9e1b/stream.mp3</guid>
+   <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת חולין דף ג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bd3d55b7-a103-4e5c-88bc-0904f505319b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bd3d55b7-a103-4e5c-88bc-0904f505319b/stream.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור - קידוש ה'</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ca8b60d3-b200-4d01-8552-3ceb0beaf91d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ca8b60d3-b200-4d01-8552-3ceb0beaf91d/stream.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קי</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/50b51d5e-0873-4446-9b31-046444d125a1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/50b51d5e-0873-4446-9b31-046444d125a1/stream.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fcba0f54-78c1-4625-840f-8ab52958cf51/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fcba0f54-78c1-4625-840f-8ab52958cf51/stream.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ba3cb11c-fef3-40cf-9324-ae1c9477fc02/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ba3cb11c-fef3-40cf-9324-ae1c9477fc02/stream.mp3</guid>
+   <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ff120cab-9a05-48e3-ac69-7b075c46ef83/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ff120cab-9a05-48e3-ac69-7b075c46ef83/stream.mp3</guid>
+   <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b8a314fa-deb9-414e-a2d3-25a02549e189/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b8a314fa-deb9-414e-a2d3-25a02549e189/stream.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/21799bd0-2bc7-40d7-9712-9de15c971073/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/21799bd0-2bc7-40d7-9712-9de15c971073/stream.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9dded39f-e153-4349-9e5b-63c779b1ac80/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9dded39f-e153-4349-9e5b-63c779b1ac80/stream.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/84f6ed58-bf81-47c7-95f2-1791daf199af/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/84f6ed58-bf81-47c7-95f2-1791daf199af/stream.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות קדושים - ואהבת לרעך כמוך- כמוך ממש!</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/584df800-d9c4-45e9-a488-83b1859df77e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/584df800-d9c4-45e9-a488-83b1859df77e/stream.mp3</guid>
+   <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף קא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e0583bef-2bb8-4766-8928-9222100c3721/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e0583bef-2bb8-4766-8928-9222100c3721/stream.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ק</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cad683b4-a2bb-4df2-888b-a54dda8fbcfd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cad683b4-a2bb-4df2-888b-a54dda8fbcfd/stream.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף צט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/92122cc5-d4d1-4b64-ba38-022b24ba1e5d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/92122cc5-d4d1-4b64-ba38-022b24ba1e5d/stream.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לקראת יום הזיכרון | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/986bb1a3-2be5-4c23-b4be-2c3608012242/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/986bb1a3-2be5-4c23-b4be-2c3608012242/stream.mp3</guid>
+   <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלחמת רשות, מלחמת מצוה ומלחמת חובה | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c1a3a45d-67e3-422c-86ee-f21e09499d6c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c1a3a45d-67e3-422c-86ee-f21e09499d6c/stream.mp3</guid>
+   <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה ליום העצמאות - מי חכם וישמור אלה ויתבוננו חסדי ה' | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4177c3df-7521-428a-bbcb-6c34ec4f5fe4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4177c3df-7521-428a-bbcb-6c34ec4f5fe4/stream.mp3</guid>
+   <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה לקראת יום הזיכרון | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1786876a-a4bf-44d9-ac03-3b77f41cf24c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1786876a-a4bf-44d9-ac03-3b77f41cf24c/stream.mp3</guid>
+   <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף צח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/18282f01-2115-4375-a535-667772224274/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/18282f01-2115-4375-a535-667772224274/stream.mp3</guid>
+   <pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף צו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3235d29b-e771-4621-960a-c8d22f51f316/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3235d29b-e771-4621-960a-c8d22f51f316/stream.mp3</guid>
+   <pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע מצורע - קדושת ארץ ישראל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d53068f8-a4db-496b-a93f-77e6d0421cd6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d53068f8-a4db-496b-a93f-77e6d0421cd6/stream.mp3</guid>
+   <pubDate>Fri, 17 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף צה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/86c2d786-e92d-46be-909b-d60dc503374c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/86c2d786-e92d-46be-909b-d60dc503374c/stream.mp3</guid>
+   <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני - העולם חיכה- עד עכשיו!</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a4772414-e2cc-4e72-ae32-c28e4999bdc4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a4772414-e2cc-4e72-ae32-c28e4999bdc4/stream.mp3</guid>
+   <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו - חמץ על המזבח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/dd3df2b3-fefd-450a-84c3-4089e8c84213/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/dd3df2b3-fefd-450a-84c3-4089e8c84213/stream.mp3</guid>
+   <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גילוי שם ה' ביציאת מצרים | והגדת לבנך - תשפ"ו | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3a7042e6-700f-4fff-9a76-71e0d9486016/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3a7042e6-700f-4fff-9a76-71e0d9486016/stream.mp3</guid>
+   <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף סח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/525350b2-117c-4a4f-86c6-4cde1cf67e7b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/525350b2-117c-4a4f-86c6-4cde1cf67e7b/stream.mp3</guid>
+   <pubDate>Sat, 21 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא - למה המצוות בספר ויקרא כל כך קשות?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/642b3468-6f9e-4ae0-9d90-966b74c77e9a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/642b3468-6f9e-4ae0-9d90-966b74c77e9a/stream.mp3</guid>
+   <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף סז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/eb14e9f6-0abe-46ba-b5f5-4508b345a5cd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/eb14e9f6-0abe-46ba-b5f5-4508b345a5cd/stream.mp3</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף סו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3e901832-e7f8-402c-b927-3fe7243b693e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3e901832-e7f8-402c-b927-3fe7243b693e/stream.mp3</guid>
+   <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף סה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c24d91fc-627b-40a9-b2cd-ffa879aec452/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c24d91fc-627b-40a9-b2cd-ffa879aec452/stream.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף סד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fad28be4-eaf8-46fb-a436-ee1a6812d448/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fad28be4-eaf8-46fb-a436-ee1a6812d448/stream.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף סג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/86858de3-cdf2-42a1-9584-3168379fa049/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/86858de3-cdf2-42a1-9584-3168379fa049/stream.mp3</guid>
+   <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף סא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1a599dc7-623b-4cc6-ba3d-a59b063c23b1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1a599dc7-623b-4cc6-ba3d-a59b063c23b1/stream.mp3</guid>
+   <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל-פקודי - להיות מרכבה לשכינה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/aae72c4a-cf6f-4c4f-8b6c-3dc0e072d63d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/aae72c4a-cf6f-4c4f-8b6c-3dc0e072d63d/stream.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ס</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6ffd8f6f-496f-4e33-9052-437ab2ac63f8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6ffd8f6f-496f-4e33-9052-437ab2ac63f8/stream.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף נט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ebe1f304-8684-4794-b93f-e534e20ba2b1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ebe1f304-8684-4794-b93f-e534e20ba2b1/stream.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף נח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/30c17dee-777b-4add-bd0e-b8b2f106dac0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/30c17dee-777b-4add-bd0e-b8b2f106dac0/stream.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף נז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/90c6919d-5e91-474e-8848-95ab88271e7a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/90c6919d-5e91-474e-8848-95ab88271e7a/stream.mp3</guid>
+   <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף נו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/dccfb0e7-368a-4744-868a-3537b20d96e5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/dccfb0e7-368a-4744-868a-3537b20d96e5/stream.mp3</guid>
+   <pubDate>Sun, 08 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף נד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d5472f5e-d6b7-4bc2-8c4a-6e64d48f24ca/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d5472f5e-d6b7-4bc2-8c4a-6e64d48f24ca/stream.mp3</guid>
+   <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא - מה החטאים שלנו אומרים עלינו?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/33575a38-221c-46cd-b4c6-95d45ec7980b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/33575a38-221c-46cd-b4c6-95d45ec7980b/stream.mp3</guid>
+   <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף נג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/df645037-44e8-47c7-a894-35d4f1bd38c0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/df645037-44e8-47c7-a894-35d4f1bd38c0/stream.mp3</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף נב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b890e6bb-35b3-4e17-8ed5-1c4ea02520a2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b890e6bb-35b3-4e17-8ed5-1c4ea02520a2/stream.mp3</guid>
+   <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף נא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e62c9661-3694-4597-ae6f-41d4a2b064ec/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e62c9661-3694-4597-ae6f-41d4a2b064ec/stream.mp3</guid>
+   <pubDate>Tue, 03 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחת דף נ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e1d4d175-931e-4bb9-bf17-898ad061e2e5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e1d4d175-931e-4bb9-bf17-898ad061e2e5/stream.mp3</guid>
+   <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף מט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6df625de-8340-4e5f-a544-860d525c5c8c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6df625de-8340-4e5f-a544-860d525c5c8c/stream.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף מז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cf0a6543-e576-43f7-8d5b-90390caee772/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cf0a6543-e576-43f7-8d5b-90390caee772/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה - לבוש ופנימיות במגילת אסתר</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/44d0e1fa-021e-4dd0-b920-e11468372ae1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/44d0e1fa-021e-4dd0-b920-e11468372ae1/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לבוש ופנימיות במגילת אסתר | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b9498ef6-424e-4a12-bb45-8a1911889747/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b9498ef6-424e-4a12-bb45-8a1911889747/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קריאה מיוחדת במגילת אסתר | שיחה שבועית לפורים | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2ee908f9-9d4f-4912-a7b3-4a214791f38b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2ee908f9-9d4f-4912-a7b3-4a214791f38b/stream.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף מו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7b59d068-2ac5-468c-be81-a9b2e6b88517/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7b59d068-2ac5-468c-be81-a9b2e6b88517/stream.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קריאה מיוחדת של מגילת אסתר | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/84504788-f530-4273-9710-2973e8cd08b2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/84504788-f530-4273-9710-2973e8cd08b2/stream.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף מה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6ef29f65-5782-4fb6-aae1-e60c4c10c180/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6ef29f65-5782-4fb6-aae1-e60c4c10c180/stream.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף מד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bc786cd6-3203-4c8d-a034-4fe019f705cb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bc786cd6-3203-4c8d-a034-4fe019f705cb/stream.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף מג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6f41154a-7145-460b-a43b-f35278c43e6d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6f41154a-7145-460b-a43b-f35278c43e6d/stream.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף מב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/67bdbb97-696e-4c2a-a8ab-c957036d4a1b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/67bdbb97-696e-4c2a-a8ab-c957036d4a1b/stream.mp3</guid>
+   <pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף מ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7080df05-ec50-4efb-abd4-032da3986b34/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7080df05-ec50-4efb-abd4-032da3986b34/stream.mp3</guid>
+   <pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - מה חסר במשכן?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1bd4c664-c0d1-4016-bf08-64b6b7558992/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1bd4c664-c0d1-4016-bf08-64b6b7558992/stream.mp3</guid>
+   <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף לט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/31d519e6-09ff-4578-8db5-fff531f8526d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/31d519e6-09ff-4578-8db5-fff531f8526d/stream.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף לח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/eac93996-8edc-4ac3-ad00-5dc26a0158b9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/eac93996-8edc-4ac3-ad00-5dc26a0158b9/stream.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף לז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/03663aeb-4ceb-4b9c-b6f6-c8566f5eb4fe/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/03663aeb-4ceb-4b9c-b6f6-c8566f5eb4fe/stream.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף לו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e6ac7c3c-3728-4a72-96a0-280d392be658/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e6ac7c3c-3728-4a72-96a0-280d392be658/stream.mp3</guid>
+   <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף לה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5e2cebcd-4140-4b3a-afd6-62ba07a8a9d1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5e2cebcd-4140-4b3a-afd6-62ba07a8a9d1/stream.mp3</guid>
+   <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף לג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f41db452-65a4-4a65-865d-f5ffd35b718e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f41db452-65a4-4a65-865d-f5ffd35b718e/stream.mp3</guid>
+   <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - אמון ואמונה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2af49935-a4f9-40ef-af80-3a6588d37f15/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2af49935-a4f9-40ef-af80-3a6588d37f15/stream.mp3</guid>
+   <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף לב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/886c1ce3-8a19-439f-920e-4ea730dafff3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/886c1ce3-8a19-439f-920e-4ea730dafff3/stream.mp3</guid>
+   <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף לא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/af44b687-f1d8-4bc4-b7ec-7c9c70ad9e6a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/af44b687-f1d8-4bc4-b7ec-7c9c70ad9e6a/stream.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ל</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b7044528-fd19-4ff7-bc55-686bf4739ebf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b7044528-fd19-4ff7-bc55-686bf4739ebf/stream.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף כט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a4c76118-180d-45c0-bba0-d9545a686e5d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a4c76118-180d-45c0-bba0-d9545a686e5d/stream.mp3</guid>
+   <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף כח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0c3e465c-1a17-47ca-a5f0-e96597462838/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0c3e465c-1a17-47ca-a5f0-e96597462838/stream.mp3</guid>
+   <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף כו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3441cbfe-ef70-4adf-9b35-66cb1204a1b0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3441cbfe-ef70-4adf-9b35-66cb1204a1b0/stream.mp3</guid>
+   <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו - תובנות עומק על מעמד הר סיני</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b087b399-8c9b-4420-b98c-89de0667c1cc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b087b399-8c9b-4420-b98c-89de0667c1cc/stream.mp3</guid>
+   <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף כה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8f864359-682d-4682-8c19-cf4a95932f1b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8f864359-682d-4682-8c19-cf4a95932f1b/stream.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף כד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/af4e8955-c720-492b-af6a-7e5b9cc44949/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/af4e8955-c720-492b-af6a-7e5b9cc44949/stream.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף כג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f690e2fb-3f62-40c9-bdd7-e6ed1d5cb8f8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f690e2fb-3f62-40c9-bdd7-e6ed1d5cb8f8/stream.mp3</guid>
+   <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף כב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b70c7f61-6d1a-4536-87c4-c20c244b2803/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b70c7f61-6d1a-4536-87c4-c20c244b2803/stream.mp3</guid>
+   <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף כא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c5857184-fff4-4290-bb03-d9f8ff105e25/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c5857184-fff4-4290-bb03-d9f8ff105e25/stream.mp3</guid>
+   <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף יט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/748527e9-a557-4d66-b5da-78189cf82ed8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/748527e9-a557-4d66-b5da-78189cf82ed8/stream.mp3</guid>
+   <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח - ייחודיות התוכן בשירה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c50a2e19-2af8-4a24-9028-abd93fa97b6e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c50a2e19-2af8-4a24-9028-abd93fa97b6e/stream.mp3</guid>
+   <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף יח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0c8f938d-31da-4b3b-b9cc-040b513bbbc2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0c8f938d-31da-4b3b-b9cc-040b513bbbc2/stream.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף יז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5eeb9dc0-86dc-4b14-8906-402e0fd33d58/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5eeb9dc0-86dc-4b14-8906-402e0fd33d58/stream.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף טז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6721dd97-4114-49ed-9c60-c0b76df3d079/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6721dd97-4114-49ed-9c60-c0b76df3d079/stream.mp3</guid>
+   <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף טו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1fa04c21-a25e-4d45-baf8-6e075a1dc5fd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1fa04c21-a25e-4d45-baf8-6e075a1dc5fd/stream.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף יד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e1353688-bd5d-422b-ba4e-bd57a356f445/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e1353688-bd5d-422b-ba4e-bd57a356f445/stream.mp3</guid>
+   <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף יב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4b9e1089-afce-4e41-8de8-1812ef5588eb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4b9e1089-afce-4e41-8de8-1812ef5588eb/stream.mp3</guid>
+   <pubDate>Fri, 23 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - למה למהר?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/174e6eda-24e7-49dd-804e-2784decf0f92/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/174e6eda-24e7-49dd-804e-2784decf0f92/stream.mp3</guid>
+   <pubDate>Fri, 23 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף יא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4803f556-9906-4ff8-8c16-936886ebe41a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4803f556-9906-4ff8-8c16-936886ebe41a/stream.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף י</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9a7161aa-d53f-445a-b833-532166f4bd6e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9a7161aa-d53f-445a-b833-532166f4bd6e/stream.mp3</guid>
+   <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a5f394cc-8a38-49f4-872f-529f946cf5a6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a5f394cc-8a38-49f4-872f-529f946cf5a6/stream.mp3</guid>
+   <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/85fd4337-2903-48c6-9e62-36aed95c6f10/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/85fd4337-2903-48c6-9e62-36aed95c6f10/stream.mp3</guid>
+   <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/86e91d14-b8da-4a13-97e0-f291ada910bd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/86e91d14-b8da-4a13-97e0-f291ada910bd/stream.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a54f59ff-af72-41a8-bf1b-a6273b40b633/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a54f59ff-af72-41a8-bf1b-a6273b40b633/stream.mp3</guid>
+   <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f8d2da35-f218-4b75-9618-aae345f1a83c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f8d2da35-f218-4b75-9618-aae345f1a83c/stream.mp3</guid>
+   <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא - התוכנית הגדולה של ה'</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6b7869f3-6bca-4e04-997b-7756bf340171/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6b7869f3-6bca-4e04-997b-7756bf340171/stream.mp3</guid>
+   <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/477cf7d7-ffdf-42d0-b67e-750d65a27772/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/477cf7d7-ffdf-42d0-b67e-750d65a27772/stream.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת מנחות דף ב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d6e4156a-6d3d-49a2-902d-05c6fca13012/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d6e4156a-6d3d-49a2-902d-05c6fca13012/stream.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קכ</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e4145409-486e-4926-aaa9-ab9cc02c064b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e4145409-486e-4926-aaa9-ab9cc02c064b/stream.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קיט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1386a8ea-4f2d-49e1-8d32-d512363eedbf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1386a8ea-4f2d-49e1-8d32-d512363eedbf/stream.mp3</guid>
+   <pubDate>Sun, 11 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קיז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/71e57a21-3eb8-40d9-8239-b5e51ed9364e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/71e57a21-3eb8-40d9-8239-b5e51ed9364e/stream.mp3</guid>
+   <pubDate>Sun, 11 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - מי היה משה?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b76ccb7d-63ab-480f-9999-1fe310e2a9c6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b76ccb7d-63ab-480f-9999-1fe310e2a9c6/stream.mp3</guid>
+   <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קטז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6895c939-e8b8-48ea-9e90-713a765684ca/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6895c939-e8b8-48ea-9e90-713a765684ca/stream.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דמותו של עזרא הסופר ומשמעותה לימינו | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c74be932-9493-435f-963a-ee0fad21d456/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c74be932-9493-435f-963a-ee0fad21d456/stream.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים קטו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/674dc668-be5c-46c6-b955-c50a00c2ea47/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/674dc668-be5c-46c6-b955-c50a00c2ea47/stream.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קיד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/dce35a6d-e09f-457a-af54-5bc7d90d3372/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/dce35a6d-e09f-457a-af54-5bc7d90d3372/stream.mp3</guid>
+   <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קיג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/113bd3f0-09b2-477a-b00d-61544b94632b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/113bd3f0-09b2-477a-b00d-61544b94632b/stream.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קיב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b35446ac-fe87-4d36-87ce-0899e352542b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b35446ac-fe87-4d36-87ce-0899e352542b/stream.mp3</guid>
+   <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קי</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/468d6f42-d2bb-4650-980c-01122e93f5f0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/468d6f42-d2bb-4650-980c-01122e93f5f0/stream.mp3</guid>
+   <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - תודעה של גאולה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b448a8fa-7f76-42a5-9b38-6fec137dcdc0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b448a8fa-7f76-42a5-9b38-6fec137dcdc0/stream.mp3</guid>
+   <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/90fd5f96-208f-406a-8f8b-f0661f62f011/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/90fd5f96-208f-406a-8f8b-f0661f62f011/stream.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/10add90c-5e8f-4d58-8e77-460981e5cd39/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/10add90c-5e8f-4d58-8e77-460981e5cd39/stream.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e6b9a966-be30-436a-860a-88486438f457/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e6b9a966-be30-436a-860a-88486438f457/stream.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6e01c0e4-684d-4ebf-8e0d-50e5f609f49b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6e01c0e4-684d-4ebf-8e0d-50e5f609f49b/stream.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/414e1f68-2600-4d38-a9c4-add38fcfe540/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/414e1f68-2600-4d38-a9c4-add38fcfe540/stream.mp3</guid>
+   <pubDate>Mon, 29 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5f5e000f-fd61-4b7b-b0d4-6f543eb0f217/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5f5e000f-fd61-4b7b-b0d4-6f543eb0f217/stream.mp3</guid>
+   <pubDate>Sun, 28 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b0b92a60-8939-412f-9d71-37f57f1f34a7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b0b92a60-8939-412f-9d71-37f57f1f34a7/stream.mp3</guid>
+   <pubDate>Fri, 26 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - איך יוצאים מטראומה?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/686b8c5a-eac7-4149-9d60-51874b84e735/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/686b8c5a-eac7-4149-9d60-51874b84e735/stream.mp3</guid>
+   <pubDate>Fri, 26 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף קב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3d86f7a5-cc21-41b7-9a8f-ed27ad413126/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3d86f7a5-cc21-41b7-9a8f-ed27ad413126/stream.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף ק</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e0b49102-90b6-4258-b8c0-5ac58811af91/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e0b49102-90b6-4258-b8c0-5ac58811af91/stream.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף צה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2c822def-7bbb-41a7-972f-e1c98e19bb91/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2c822def-7bbb-41a7-972f-e1c98e19bb91/stream.mp3</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ - זווית חדשה על בני יעקב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/79e5026b-762e-4adc-9dea-57cfa61429ca/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/79e5026b-762e-4adc-9dea-57cfa61429ca/stream.mp3</guid>
+   <pubDate>Thu, 18 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף צד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bad7da36-8205-4d51-b0c4-e912d2f4aff0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bad7da36-8205-4d51-b0c4-e912d2f4aff0/stream.mp3</guid>
+   <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ייחוד מלחמת החשמונאים | רה"י הרב חיים סבתו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/608d3779-c534-46d0-9639-4d26b5bd1190/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/608d3779-c534-46d0-9639-4d26b5bd1190/stream.mp3</guid>
+   <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף צג</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/31900a4b-f79a-41cf-8898-98cedcc4f07f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/31900a4b-f79a-41cf-8898-98cedcc4f07f/stream.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף צב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/528ba512-2611-4793-8d72-a7a7fe85ff87/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/528ba512-2611-4793-8d72-a7a7fe85ff87/stream.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף צא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/80be633c-5256-4d2c-97dc-00367956f890/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/80be633c-5256-4d2c-97dc-00367956f890/stream.mp3</guid>
+   <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף פט</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1ca04c7b-1990-42a8-8480-3afb19dae2e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1ca04c7b-1990-42a8-8480-3afb19dae2e9/stream.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - יוסף ואחיו, סדרת טעויות או תוכנית עליונה?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b0a81165-34ca-4ee5-98bb-11dec662f75c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b0a81165-34ca-4ee5-98bb-11dec662f75c/stream.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף פח</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ffb14980-d787-4c74-bd9e-5757632f10ba/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ffb14980-d787-4c74-bd9e-5757632f10ba/stream.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף פז</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f96dfce4-e649-4701-9bc6-8fe06c693d8a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f96dfce4-e649-4701-9bc6-8fe06c693d8a/stream.mp3</guid>
+   <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף פו</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a9ab7c94-af56-4568-ac0d-8d55c59e42c0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a9ab7c94-af56-4568-ac0d-8d55c59e42c0/stream.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף פה</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ef69c41b-e403-4813-9621-f7ea30dabe56/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ef69c41b-e403-4813-9621-f7ea30dabe56/stream.mp3</guid>
+   <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף פד</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/da263c16-489d-4108-b2ff-4379831092cc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/da263c16-489d-4108-b2ff-4379831092cc/stream.mp3</guid>
+   <pubDate>Sun, 07 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף פב</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5f66657e-2119-4ba3-ade7-748cf2730346/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5f66657e-2119-4ba3-ade7-748cf2730346/stream.mp3</guid>
+   <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - יעקב והמלאך, מאבק רוחני או גשמי?</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/234b8459-246d-47cf-ae0f-0ae4a5680b74/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/234b8459-246d-47cf-ae0f-0ae4a5680b74/stream.mp3</guid>
+   <pubDate>Fri, 05 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דף יומי - מסכת זבחים דף פא</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2d1a7917-077f-49f1-85cb-b2c5635591aa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2d1a7917-077f-49f1-85cb-b2c5635591aa/stream.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

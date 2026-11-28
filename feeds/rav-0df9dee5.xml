@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב נפתלי וייס · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0df9dee5.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב נפתלי וייס.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>3. עולם העבודה הכנה לתחיית המתים</title>
+   <description>הרב נפתלי וייס · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב נפתלי וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/7e6d7f30/podcast/play/49033471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-14%2F253677979-44100-2-3ef96a0670126.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/7e6d7f30/podcast/play/49033471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-14%2F253677979-44100-2-3ef96a0670126.m4a</guid>
+   <pubDate>Mon, 14 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4. הנצרות</title>
+   <description>הרב נפתלי וייס · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב נפתלי וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/7e6d5f8c/podcast/play/48678518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-7%2F252312333-44100-2-dc0648b433037.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/7e6d5f8c/podcast/play/48678518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-7%2F252312333-44100-2-dc0648b433037.m4a</guid>
+   <pubDate>Tue, 08 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2. סיכום פרק ב והמשך פרק ג</title>
+   <description>הרב נפתלי וייס · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב נפתלי וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/7e6d7f30/podcast/play/48433448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F7e6d7f30%2F48433448%2F4e246ed9fa1d5d7a24b7e5266c2fb97b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/7e6d7f30/podcast/play/48433448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F7e6d7f30%2F48433448%2F4e246ed9fa1d5d7a24b7e5266c2fb97b.m4a</guid>
+   <pubDate>Wed, 02 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3. נספח לפילסופוף - יצר עבודה זרה</title>
+   <description>הרב נפתלי וייס · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב נפתלי וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/7e6d5f8c/podcast/play/48192920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-25%2F250421276-44100-2-cefb56799c5aa.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/7e6d5f8c/podcast/play/48192920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-25%2F250421276-44100-2-cefb56799c5aa.m4a</guid>
+   <pubDate>Fri, 25 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2. דעת הפילוסוף</title>
+   <description>הרב נפתלי וייס · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב נפתלי וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/7e6d5f8c/podcast/play/47914317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-19%2F249375868-44100-2-a1dc80b943af4.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/7e6d5f8c/podcast/play/47914317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-19%2F249375868-44100-2-a1dc80b943af4.m4a</guid>
+   <pubDate>Sat, 19 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1. הקדמה לספר כוזרי</title>
+   <description>הרב נפתלי וייס · ישיבת מרכז תורני נוף הגליל · תנ"ך</description>
+   <itunes:author>הרב נפתלי וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/7e6d5f8c/podcast/play/47633016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-14%2F247872515-44100-2-4e7cbe80d5d63.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/7e6d5f8c/podcast/play/47633016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-14%2F247872515-44100-2-4e7cbe80d5d63.m4a</guid>
+   <pubDate>Mon, 14 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה ופרק א - בבורא יתברך שמו</title>
+   <description>הרב נפתלי וייס · ישיבת מרכז תורני נוף הגליל · אמונה ומחשבה</description>
+   <itunes:author>הרב נפתלי וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/7e6d7f30/podcast/play/46947050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F7e6d7f30%2F46947050%2Fb2a6dbdfdd39adddedc9ff86ec50bb62.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/7e6d7f30/podcast/play/46947050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F7e6d7f30%2F46947050%2Fb2a6dbdfdd39adddedc9ff86ec50bb62.m4a</guid>
+   <pubDate>Mon, 31 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

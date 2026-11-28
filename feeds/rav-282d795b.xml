@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב עומרי קראוס · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-282d795b.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב עומרי קראוס.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיעור | אושר ועושר</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/fcbb3624/62ed11b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fcbb3624/62ed11b1.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עומרי קראוס | תולדות תשפ"ז</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/eaa0bb0c/ba59d734.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eaa0bb0c/ba59d734.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור | אלו ואלו דברי אלוקים חיים - המשך</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/0bf50fd2/36dc9ec0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0bf50fd2/36dc9ec0.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור | אלו ואלו דברי אלוקים חיים</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/d3c2dde0/bee38ef4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d3c2dde0/bee38ef4.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 | סדר החובות המוסריות</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · מוסר</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/fd91891c/73a63045.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fd91891c/73a63045.mp3</guid>
+   <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 | וידוי מעשרות</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/2d3c90dc/c6ede285.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2d3c90dc/c6ede285.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח תשפ"ו | הרב עומרי קראוס</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/e5bf7095/a9e3a619.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e5bf7095/a9e3a619.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר תשפ"ו | הרב עומרי קראוס</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/7074ef64/c07b1fc4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7074ef64/c07b1fc4.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים תשפ"ו - הרב עומרי קראוס</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/2a8c890e/bf2cca91.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2a8c890e/bf2cca91.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי תשפ"ו - הרב עומרי קראוס</title>
+   <description>הרב עומרי קראוס · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב עומרי קראוס</itunes:author>
+   <enclosure url="https://media.transistor.fm/b25b3d1b/656f8139.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b25b3d1b/656f8139.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

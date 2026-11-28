@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אלישע אבינר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-e81f4449.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אלישע אבינר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מינוי מלך נכרי: ממשלת מיעוט בימינו | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e1813adc-255e-4ec4-a84e-8fce0a71cf87/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e1813adc-255e-4ec4-a84e-8fce0a71cf87/stream.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התנגשות בין תורה ומדע | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/10abdb86-3a87-4ce5-b8d6-7c8b394bd529/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/10abdb86-3a87-4ce5-b8d6-7c8b394bd529/stream.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יעקב אבינו - הגשמיות והרוחניות | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0eb0e417-2a58-40ac-8a7d-bbd4d0ad7535/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0eb0e417-2a58-40ac-8a7d-bbd4d0ad7535/stream.mp3</guid>
+   <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ציפית לישועה? | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/8b35def9-208d-474e-9b30-811457b0f21c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/8b35def9-208d-474e-9b30-811457b0f21c/stream.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדינת הלכה? | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/fc27606a-b471-4b53-a6d4-8120a815a870/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/fc27606a-b471-4b53-a6d4-8120a815a870/stream.mp3</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אלישע אבינר, ישיבת מעלה אדומים • המחלוקת ההלכתית על הסכמי קדם נישואין</title>
+   <description>הרב אלישע אבינר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0a5d0cf4/91e403a8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0a5d0cf4/91e403a8.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם אנחנו צריכים לעסוק בקירוב רחוקים? | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/19793a8a-5133-47fc-b62e-6b003789cd11/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/19793a8a-5133-47fc-b62e-6b003789cd11/stream.mp3</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת ה' המיוחדת של ספירת העומר | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/8f75233d-94bf-4f3a-9c14-c840889154b7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/8f75233d-94bf-4f3a-9c14-c840889154b7/stream.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדוע מזכירים יציאת מצרים? | והגדת לבנך - תשפ"ו | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/19c4b90b-a4ad-4fca-a8eb-ef3b4f3bad59/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/19c4b90b-a4ad-4fca-a8eb-ef3b4f3bad59/stream.mp3</guid>
+   <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלחמת גוג ומגוג | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2c061c86-90aa-49e3-aad3-b480703158ef/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2c061c86-90aa-49e3-aad3-b480703158ef/stream.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארור המן | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1677c51b-bbc1-4f4f-a299-be341a2c449f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1677c51b-bbc1-4f4f-a299-be341a2c449f/stream.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענווה והערכה עצמית - ליחיד, ולציבור שלנו | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9c7167c4-4ac9-4d82-affa-5ec8591cc401/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9c7167c4-4ac9-4d82-affa-5ec8591cc401/stream.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החזון לערביי ארץ ישראל - הווה ועתיד | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4a9c0f8d-b46f-4e85-9b53-a5e97740130d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4a9c0f8d-b46f-4e85-9b53-a5e97740130d/stream.mp3</guid>
+   <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד תורה בעם ישראל - מהו האידיאל? | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/8a4f138f-aa6c-4207-9a86-c2ca2992db70/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/8a4f138f-aa6c-4207-9a86-c2ca2992db70/stream.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה הוקמה הישיבה המרכזית העולמית? | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1dbd6db8-3998-46be-aa7a-ff43fd983c56/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1dbd6db8-3998-46be-aa7a-ff43fd983c56/stream.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דור מלחמת ''חרבות ברזל'' | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/17ec0e0d-9f20-4e7a-ae0f-6b42e3b394df/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/17ec0e0d-9f20-4e7a-ae0f-6b42e3b394df/stream.mp3</guid>
+   <pubDate>Wed, 05 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלחמות ישראל בעידן שיבת ציון | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a86d4a2c-7da4-4fe9-a964-5396ab4a38bc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a86d4a2c-7da4-4fe9-a964-5396ab4a38bc/stream.mp3</guid>
+   <pubDate>Sun, 22 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זהירות: דיבת הארץ ויושביה! | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/395a52b5-9f93-4fc4-9e67-23210932abd3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/395a52b5-9f93-4fc4-9e67-23210932abd3/stream.mp3</guid>
+   <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליל הסדר - לילה של הודיה | והגדת לבנך תשפ"ה | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4e2e554d-96f0-4082-ab2b-d2fb119985cc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4e2e554d-96f0-4082-ab2b-d2fb119985cc/stream.mp3</guid>
+   <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצווה לברך בכל יום | 16</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1c8dbe6e-5abf-4e06-9ae4-304473b7ff3d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1c8dbe6e-5abf-4e06-9ae4-304473b7ff3d/stream.mp3</guid>
+   <pubDate>Mon, 31 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתי חייבים לעלות לדוכן? | 15</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9bd9624e-defa-4558-b05d-3068da6dd29e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9bd9624e-defa-4558-b05d-3068da6dd29e/stream.mp3</guid>
+   <pubDate>Mon, 24 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשיאת כפיים של מומר וערל | 14</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5e804c4b-6e8f-4bbd-b2f7-916d05fa44e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5e804c4b-6e8f-4bbd-b2f7-916d05fa44e9/stream.mp3</guid>
+   <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשיאת כפיים של שיכור ובעל מום | 13</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/941ced62-b98f-4acb-9b7b-7fccb2a3a5af/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/941ced62-b98f-4acb-9b7b-7fccb2a3a5af/stream.mp3</guid>
+   <pubDate>Sat, 08 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חמאס=עמלק? | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4463a12d-78a8-42fc-a122-3c1bbda7d738/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4463a12d-78a8-42fc-a122-3c1bbda7d738/stream.mp3</guid>
+   <pubDate>Fri, 07 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת כוהנים - שורשה וגדרה | 12</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d0b51e8b-14a4-4ee1-9181-ad36cb163c1e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d0b51e8b-14a4-4ee1-9181-ad36cb163c1e/stream.mp3</guid>
+   <pubDate>Mon, 24 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טומאת ארץ העמים | 11</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3fd438a0-c99f-49d6-a748-380e3ba8f519/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3fd438a0-c99f-49d6-a748-380e3ba8f519/stream.mp3</guid>
+   <pubDate>Mon, 17 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימודי רפואה | 10</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2cc483be-edb4-498d-8378-9d2fd5ab89c0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2cc483be-edb4-498d-8378-9d2fd5ab89c0/stream.mp3</guid>
+   <pubDate>Mon, 10 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אשת כהן מעוברת | 9</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1de33d2d-f33f-4767-bab5-509ed68eb223/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1de33d2d-f33f-4767-bab5-509ed68eb223/stream.mp3</guid>
+   <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כניסת לבית חולים | 8</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/76f33adc-12b7-434f-af9d-c3582be21e82/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/76f33adc-12b7-434f-af9d-c3582be21e82/stream.mp3</guid>
+   <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שהייה במקום טמא | 7</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0cf40b63-0e72-4637-a482-8c2b718e3f5d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0cf40b63-0e72-4637-a482-8c2b718e3f5d/stream.mp3</guid>
+   <pubDate>Mon, 20 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טומאה אחר טומאה | 6</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/949e1ae0-9b2a-43de-9c7b-72d61a1a2bcb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/949e1ae0-9b2a-43de-9c7b-72d61a1a2bcb/stream.mp3</guid>
+   <pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוף טומאה לצאת | 5</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/db60d50a-27a6-474b-a4ba-4ce2be2666fc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/db60d50a-27a6-474b-a4ba-4ce2be2666fc/stream.mp3</guid>
+   <pubDate>Mon, 06 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חציצה וטומאה בוקעת ועולה | 4</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/298e0747-9328-43cd-86e6-fd3687f3a46f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/298e0747-9328-43cd-86e6-fd3687f3a46f/stream.mp3</guid>
+   <pubDate>Sun, 29 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טומאה מתפשטת בבית ובבניין | 3</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0eb3e422-2913-4da3-838e-99bfd0c24c67/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0eb3e422-2913-4da3-838e-99bfd0c24c67/stream.mp3</guid>
+   <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מת נוכרי ובית קברות | 2</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a17e8484-b686-4211-a0fc-a5343159e84b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a17e8484-b686-4211-a0fc-a5343159e84b/stream.mp3</guid>
+   <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השתלת איברים וכניסה למוזיאון | 1</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/729cfdc6-c3fa-42dc-ab49-9f1ac6316182/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/729cfdc6-c3fa-42dc-ab49-9f1ac6316182/stream.mp3</guid>
+   <pubDate>Sun, 08 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התמודדות עם אתגרים | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cd49608a-4c13-4781-9fba-604b322fb3e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cd49608a-4c13-4781-9fba-604b322fb3e9/stream.mp3</guid>
+   <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בזכות מי מנצחים? | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/07edc635-fe32-41e3-a0dd-91186e1262a3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/07edc635-fe32-41e3-a0dd-91186e1262a3/stream.mp3</guid>
+   <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תקיעת שופר לשיטת הרמב"ם | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c11868dd-4696-4489-826a-ef0a0071648e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c11868dd-4696-4489-826a-ef0a0071648e/stream.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה ורגשות אשם | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/804a6fe8-11de-4300-b461-11e96753499d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/804a6fe8-11de-4300-b461-11e96753499d/stream.mp3</guid>
+   <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר המאור הגדול - 34</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/49824a07-5e66-417a-9120-61595699fe8a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/49824a07-5e66-417a-9120-61595699fe8a/stream.mp3</guid>
+   <pubDate>Mon, 09 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דעת אלוקים - עבודת ה' בגלות ובגאולה - 33</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/67ea9cac-5bbf-49ee-bd80-1b1530eb1e84/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/67ea9cac-5bbf-49ee-bd80-1b1530eb1e84/stream.mp3</guid>
+   <pubDate>Wed, 04 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דעת אלוקים - היהדות והנצרות - 32</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/da9775b2-8b9a-4068-9356-063de9166b04/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/da9775b2-8b9a-4068-9356-063de9166b04/stream.mp3</guid>
+   <pubDate>Sun, 25 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דעת אלוקים – יסודות עבודת ה' - 31</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/bbb22887-4be7-4432-983d-70e628c32da1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/bbb22887-4be7-4432-983d-70e628c32da1/stream.mp3</guid>
+   <pubDate>Wed, 21 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דעת אלוקים - השיטה השפינוזית - 30</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d24d73d4-db73-48dd-9b5a-fe8471a54a23/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d24d73d4-db73-48dd-9b5a-fe8471a54a23/stream.mp3</guid>
+   <pubDate>Wed, 14 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דעת אלוקים - הליכה בדרכי ה' - 29</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c72faf38-ac01-4909-ad3b-1d71dc201c35/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c72faf38-ac01-4909-ad3b-1d71dc201c35/stream.mp3</guid>
+   <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דעת אלוקים – ראיה סובייקטיבית ואובייקטיבית - 28</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ab6aaf3a-2424-405e-9063-a4c1db31432a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ab6aaf3a-2424-405e-9063-a4c1db31432a/stream.mp3</guid>
+   <pubDate>Tue, 30 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרישת ה' – לימוד מדעים ותרבות - 27</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/15110c38-bfc3-4253-80a7-888271e64f26/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/15110c38-bfc3-4253-80a7-888271e64f26/stream.mp3</guid>
+   <pubDate>Wed, 24 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרישת ה' – הייסורים כמקדם לאמונה - 26</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7c0349b5-d62a-45be-97ab-cd2aeb8c11c3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7c0349b5-d62a-45be-97ab-cd2aeb8c11c3/stream.mp3</guid>
+   <pubDate>Tue, 16 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה למאמר דרישת ה' - 25</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f8e87a5f-6a6d-4c94-9250-56bdd4f7769c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f8e87a5f-6a6d-4c94-9250-56bdd4f7769c/stream.mp3</guid>
+   <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיכום מאמר המחשבות - 24</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f22b4e8a-cce8-47da-8e45-3715afc9a6e6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f22b4e8a-cce8-47da-8e45-3715afc9a6e6/stream.mp3</guid>
+   <pubDate>Tue, 02 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המחשבות - קדושת עם ישראל - 23</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/82f2684b-ffe6-4492-ba79-110edfdaac46/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/82f2684b-ffe6-4492-ba79-110edfdaac46/stream.mp3</guid>
+   <pubDate>Tue, 25 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המחשבות - הכפירה והלאומיות - 22</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/86eab6ef-5b20-4a73-8190-b646859b08a6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/86eab6ef-5b20-4a73-8190-b646859b08a6/stream.mp3</guid>
+   <pubDate>Wed, 19 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושת סוגי המחשבות באומות - 21</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4ecf9f1f-952a-46cf-b92d-8e36334d9af4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4ecf9f1f-952a-46cf-b92d-8e36334d9af4/stream.mp3</guid>
+   <pubDate>Tue, 28 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבעה בנים בשפת אמת | תשפ"ד | הרב אלישע אבינר - 7</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c7ea2edc-61c7-48aa-a91a-42f476ed3b96/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c7ea2edc-61c7-48aa-a91a-42f476ed3b96/stream.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זכר ליציאת מצרים - למה כל כך הרבה? | תשפ"ד | הרב אלישע אבינר - 5</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/e0708b75-ae56-468e-8120-11a8b06dd555/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/e0708b75-ae56-468e-8120-11a8b06dd555/stream.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פותח בגנות ומסיים בשבח | תשפ"ד | הרב אלישע אבינר - 1</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/64e50c53-1787-4bfe-aa86-d18c38fe5e25/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/64e50c53-1787-4bfe-aa86-d18c38fe5e25/stream.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבוא למאמר המחשבות - 20</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7954796c-91d9-46ce-bfcf-1abada81426d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7954796c-91d9-46ce-bfcf-1abada81426d/stream.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הפחד: חוצפא יסגא - 19</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2e044d05-3d48-4595-8a75-f3a6214fc652/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2e044d05-3d48-4595-8a75-f3a6214fc652/stream.mp3</guid>
+   <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הפחד – השתחררות עם ישראל מהפחד - 18</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/593a70f4-e39a-4084-abf4-8e5818fd183f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/593a70f4-e39a-4084-abf4-8e5818fd183f/stream.mp3</guid>
+   <pubDate>Tue, 26 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הפחד - הקדמה - 17</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/dcb57cdc-b456-469c-94bd-f964c866cc59/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/dcb57cdc-b456-469c-94bd-f964c866cc59/stream.mp3</guid>
+   <pubDate>Tue, 19 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהי סעודה? - 17</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3750360e-cfb6-4ec7-8707-8260889354d6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3750360e-cfb6-4ec7-8707-8260889354d6/stream.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר העונג והשמחה – החשיבות שבהבנת טעמי המצוות - 16</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4a7aca58-113d-47f6-a4fc-09172a1668cb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4a7aca58-113d-47f6-a4fc-09172a1668cb/stream.mp3</guid>
+   <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קידוש במקום סעודה - המשך - 16</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7491a56d-9480-40e2-a5e5-8911d55a5393/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7491a56d-9480-40e2-a5e5-8911d55a5393/stream.mp3</guid>
+   <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר העונג והשמחה -15</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/22ac59a5-b60a-4819-976e-434ebc52daf6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/22ac59a5-b60a-4819-976e-434ebc52daf6/stream.mp3</guid>
+   <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>15 - קידוש במקום סעודה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7bd2efb5-de49-4af1-9840-d601e26d9f25/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7bd2efb5-de49-4af1-9840-d601e26d9f25/stream.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>14 - תינוק שנשבה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6ddf3b11-944d-4d91-bbb7-1b911a8de81b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6ddf3b11-944d-4d91-bbb7-1b911a8de81b/stream.mp3</guid>
+   <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>14 - שתיית בני הבית מכוס הקידוש</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/20a85de0-47f0-4aa9-a606-f62ce167ce8f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/20a85de0-47f0-4aa9-a606-f62ce167ce8f/stream.mp3</guid>
+   <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>13 - אגרת תקנ"ה - המשך</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/08c3fa43-8586-42bb-9ee1-e53ec452533c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/08c3fa43-8586-42bb-9ee1-e53ec452533c/stream.mp3</guid>
+   <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו - מתי בא יתרו?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/efc1dff6-7fc5-4d2f-a57a-275d99e1d20e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/efc1dff6-7fc5-4d2f-a57a-275d99e1d20e/stream.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח - כיצד מתמודדים עם פחד?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d638c2f9-e847-4d76-9e1e-89ddef975708/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d638c2f9-e847-4d76-9e1e-89ddef975708/stream.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>13 - מי שותה מכוס הקידוש?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/af1d504d-6e0f-466e-bd5d-ff1a903971e3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/af1d504d-6e0f-466e-bd5d-ff1a903971e3/stream.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>12 - אגרת תקנ"ה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5fe8b8f1-a44a-4df0-92d1-5cbc1cb49cb1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5fe8b8f1-a44a-4df0-92d1-5cbc1cb49cb1/stream.mp3</guid>
+   <pubDate>Thu, 25 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>11 - מאמר הדור - בימינו</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/794b0464-3dfe-4268-af47-3c966f4e18fb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/794b0464-3dfe-4268-af47-3c966f4e18fb/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10 - דרך הישר והכובש בעמ"י</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e301c4a1-292e-4e09-8b91-b44e0580cc71/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e301c4a1-292e-4e09-8b91-b44e0580cc71/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - דרך הישר ודרך הכובש, עבודת ה'</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2fee0315-864c-40a4-a27b-9df1edbdad44/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2fee0315-864c-40a4-a27b-9df1edbdad44/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - אחדות המחנות בעם ישראל, דרך הישר ודרך הכובש</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/dd16697a-72bd-4921-ad3e-0bd86d1e16ca/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/dd16697a-72bd-4921-ad3e-0bd86d1e16ca/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - ירידת הדורות (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7630c82b-0d2a-45e1-9cc3-c206ff4bd975/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7630c82b-0d2a-45e1-9cc3-c206ff4bd975/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - ירידת הדורות (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/fc169e80-bd3d-428e-a055-b0027f070df7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/fc169e80-bd3d-428e-a055-b0027f070df7/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - עזיבת הדור וחשיבות הספרות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/771b614a-3586-4d13-9d5c-14f0426bf389/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/771b614a-3586-4d13-9d5c-14f0426bf389/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - נתק האבות והבנים - העבר וההווה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7e202459-12bc-48a5-b26a-259100b2ea49/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7e202459-12bc-48a5-b26a-259100b2ea49/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>12 - שיער השתייה בקידוש</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0346c37b-450d-44d8-9217-7b7925ee4d65/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0346c37b-450d-44d8-9217-7b7925ee4d65/stream.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>11 - קידוש - על יין או על פת?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0184f26a-5725-4486-8d68-7c35f3b326d2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0184f26a-5725-4486-8d68-7c35f3b326d2/stream.mp3</guid>
+   <pubDate>Tue, 16 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא - גאולה חומרית מול גאולה רוחנית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d3b4c286-0665-4ca3-a0cd-030aedaea723/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d3b4c286-0665-4ca3-a0cd-030aedaea723/stream.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - מדוע מונים שוב את שמות בני ישראל?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/39e2bdef-44f4-4e1c-b9b3-fc7b94dd08bf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/39e2bdef-44f4-4e1c-b9b3-fc7b94dd08bf/stream.mp3</guid>
+   <pubDate>Fri, 05 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - מפני מה זכה יהודה למלכות?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/279568c7-675a-4330-8401-2c5a4f83fcc4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/279568c7-675a-4330-8401-2c5a4f83fcc4/stream.mp3</guid>
+   <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10 - מהותה של מצוות הקידוש</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d4abd793-4359-49ef-a6f6-c458a7bcb3e7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d4abd793-4359-49ef-a6f6-c458a7bcb3e7/stream.mp3</guid>
+   <pubDate>Thu, 28 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - משמעות כפילות שמו של יעקב</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/893ab0de-bb60-4a8d-b7a5-4d2d70ca31e4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/893ab0de-bb60-4a8d-b7a5-4d2d70ca31e4/stream.mp3</guid>
+   <pubDate>Wed, 20 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - מקום הדלקת נר חנוכה לתלמידי ישיבות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/56c201bb-f63d-47a3-9ce5-8f9d44f7b7d9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/56c201bb-f63d-47a3-9ce5-8f9d44f7b7d9/stream.mp3</guid>
+   <pubDate>Thu, 14 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ - על הנחמות ועל המלחמות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/987c89b6-298c-4828-ae4e-6e4139e5b80c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/987c89b6-298c-4828-ae4e-6e4139e5b80c/stream.mp3</guid>
+   <pubDate>Thu, 14 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קריאה לשלום וקריאה למלחמה | יום עיון לחיילים | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c25d742e-5116-4e4e-a6e1-1ccc7fa2f5c1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c25d742e-5116-4e4e-a6e1-1ccc7fa2f5c1/stream.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - הבור ריק אין בו מים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/02190b39-908e-43e6-b4d2-0986d7145537/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/02190b39-908e-43e6-b4d2-0986d7145537/stream.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - הדלקת נרות שבת וחנוכה בחשמל</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/95805572-d15e-40ce-ab0d-1b25fd0265d6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/95805572-d15e-40ce-ab0d-1b25fd0265d6/stream.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - האם הריגת אנשי שכם היא הריגת חפים מפשע?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d2f6a44e-7ea5-47bf-982d-25a2e1bfb231/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d2f6a44e-7ea5-47bf-982d-25a2e1bfb231/stream.mp3</guid>
+   <pubDate>Thu, 30 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7 - במה מדליקים?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2bd28e1d-7861-4c9a-bd08-0d70b22f0b86/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2bd28e1d-7861-4c9a-bd08-0d70b22f0b86/stream.mp3</guid>
+   <pubDate>Tue, 28 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - מי חייב בהדלקת נרות השבת?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a19538ae-ac81-4fa9-9e97-458e08d4798f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a19538ae-ac81-4fa9-9e97-458e08d4798f/stream.mp3</guid>
+   <pubDate>Tue, 28 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - נדר בעת צרה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/121b51a7-2c0a-4f05-a216-82fe5e4dfe5a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/121b51a7-2c0a-4f05-a216-82fe5e4dfe5a/stream.mp3</guid>
+   <pubDate>Sun, 26 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - וידו אוחזת בעקב עשו</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a9725a76-baf0-4251-b181-c0d11c096714/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a9725a76-baf0-4251-b181-c0d11c096714/stream.mp3</guid>
+   <pubDate>Sun, 26 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (41) - וידו אוחזת בעקב עשו | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/fd875faa-d362-4aa3-a221-8542789963c1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/fd875faa-d362-4aa3-a221-8542789963c1/stream.mp3</guid>
+   <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשלונות לאומיים - על מי האחריות? | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c861c505-e8f1-41b1-ba16-2ac556f869ac/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c861c505-e8f1-41b1-ba16-2ac556f869ac/stream.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - הקדמה לעקבי הצאן</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a3eba707-8958-4a7d-a421-71adf16d8763/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a3eba707-8958-4a7d-a421-71adf16d8763/stream.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - נרות שבת - מקום ההדלקה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/55f35f81-3579-4bdc-a4b3-afaca12d3c10/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/55f35f81-3579-4bdc-a4b3-afaca12d3c10/stream.mp3</guid>
+   <pubDate>Mon, 06 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - מדוע מדליקים נרות בשבת?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1187e14d-cfbc-46ca-a83e-a2a87bad2700/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1187e14d-cfbc-46ca-a83e-a2a87bad2700/stream.mp3</guid>
+   <pubDate>Mon, 06 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - תוספת שבת, יום טוב ויום כיפור</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/dcacb87b-30f1-4535-a561-c646e923e123/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/dcacb87b-30f1-4535-a561-c646e923e123/stream.mp3</guid>
+   <pubDate>Mon, 06 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - למה ללמוד אמונה?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8160b686-a2c5-4a74-ab57-3785691043d5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8160b686-a2c5-4a74-ab57-3785691043d5/stream.mp3</guid>
+   <pubDate>Wed, 20 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה - מצווה או עצה? | אורי וישעי תשפ"ג | הרב אלישע אבינר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2ad029ad-0dcd-4f54-a437-eb756c97d984/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2ad029ad-0dcd-4f54-a437-eb756c97d984/stream.mp3</guid>
+   <pubDate>Wed, 13 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - בין השמשות וצאת הכוכבים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1839ce2c-df14-405f-91c7-0bd21794c757/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1839ce2c-df14-405f-91c7-0bd21794c757/stream.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - מתי נכנסת שבת? - בירור בשיעור מיל</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2b53df14-eef4-4c1e-8817-f341672920bf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2b53df14-eef4-4c1e-8817-f341672920bf/stream.mp3</guid>
+   <pubDate>Thu, 31 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>24 - גדול בחכמה ובמניין</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/067fbd02-5626-4e1e-b48c-e6d552b45d18/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/067fbd02-5626-4e1e-b48c-e6d552b45d18/stream.mp3</guid>
+   <pubDate>Tue, 11 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>23 - חזרתו של עקביא בן מהללאל מדעתו</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/68801745-f118-4fff-8423-39eb1f7b7532/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/68801745-f118-4fff-8423-39eb1f7b7532/stream.mp3</guid>
+   <pubDate>Tue, 11 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>22 - למה נזכרו יחידים במשנה?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d7ca434d-e08f-4f67-8fe1-ce7b103ce3c4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d7ca434d-e08f-4f67-8fe1-ce7b103ce3c4/stream.mp3</guid>
+   <pubDate>Fri, 23 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>21 - האם דעת היחיד בטלה?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/23942e41-d556-425c-b6e6-c16a6493ce3b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/23942e41-d556-425c-b6e6-c16a6493ce3b/stream.mp3</guid>
+   <pubDate>Fri, 23 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>20 - פסיקה כיחיד או כקטן בשעת הדחק (המשך)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/13dfece5-e549-4aad-89e8-0a3ffb74d4b2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/13dfece5-e549-4aad-89e8-0a3ffb74d4b2/stream.mp3</guid>
+   <pubDate>Mon, 29 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>19 - האם ניתן לפסוק כיחיד או כקטן בשעת הדחק?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/409fea45-999e-42db-a5c0-669e2cbd5dd8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/409fea45-999e-42db-a5c0-669e2cbd5dd8/stream.mp3</guid>
+   <pubDate>Mon, 29 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>18 - כיצד מונים את הרוב?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6a4d3dd9-9e45-4dd5-8813-756046d517d3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6a4d3dd9-9e45-4dd5-8813-756046d517d3/stream.mp3</guid>
+   <pubDate>Mon, 29 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>325 - חינוך ילדים לקריאת מגילה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/dda2f9ec-4be5-48d8-9bb1-4fcd06fd1636/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/dda2f9ec-4be5-48d8-9bb1-4fcd06fd1636/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>324 - עשה לך רב (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/82967881-2b30-408e-b15a-15b53f4e22ee/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/82967881-2b30-408e-b15a-15b53f4e22ee/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>323 - עשה לך רב (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/547d6605-cac4-42ba-8be7-41b215589930/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/547d6605-cac4-42ba-8be7-41b215589930/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>322 - עשה לך רב (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/1c3598d4-26ab-4b83-befb-d77c7766b446/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/1c3598d4-26ab-4b83-befb-d77c7766b446/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>321 - יחסי רב ותלמיד (ה)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/43b09810-5b2b-4ac7-a1e6-ffad6d1a3e50/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/43b09810-5b2b-4ac7-a1e6-ffad6d1a3e50/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>320 - יחסי רב ותלמיד (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/7b4ce20b-5143-44e3-a6af-3004d8d44dc9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/7b4ce20b-5143-44e3-a6af-3004d8d44dc9/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>319 - יחסי רב ותלמיד (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/7a026d47-241f-4148-b09a-288601872410/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/7a026d47-241f-4148-b09a-288601872410/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>318 - יחסי רב ותלמיד (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/9a1d2880-8f80-4229-accb-ad7fbc95f05e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/9a1d2880-8f80-4229-accb-ad7fbc95f05e/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>317 - יחסי רב ותלמיד (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/435e11e6-dc83-4153-ba48-80c72354ea6c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/435e11e6-dc83-4153-ba48-80c72354ea6c/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>316 - מסלול המשך (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/af1117a2-5558-4c15-adc3-5065ffa6eb21/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/af1117a2-5558-4c15-adc3-5065ffa6eb21/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>315 - מסלול המשך (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/00d58c77-1ad8-4f3f-90f4-8d6ec03c99c5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/00d58c77-1ad8-4f3f-90f4-8d6ec03c99c5/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>314 - מסלול המשך (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/cd39b44f-7d49-47dc-860c-b438838a6049/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/cd39b44f-7d49-47dc-860c-b438838a6049/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>313 - חינוך פנימייתי (ז)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/96affffd-6f23-4e41-9722-43d19c128a07/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/96affffd-6f23-4e41-9722-43d19c128a07/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>312 - חינוך פנימייתי (ו)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/6e154868-d390-4c6d-a072-2ca11cb579dd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/6e154868-d390-4c6d-a072-2ca11cb579dd/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>311 - חינוך פנימייתי (ה)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/52f0de5e-ffb2-4c6e-820e-85ee0f72de8c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/52f0de5e-ffb2-4c6e-820e-85ee0f72de8c/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>310 - חינוך פנימייתי (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/97b84eec-4f42-4765-aefa-7b8bbc524378/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/97b84eec-4f42-4765-aefa-7b8bbc524378/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>309 - חינוך פנימייתי (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/4b7a1a7c-bc43-442b-81b3-0620dea32aa2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/4b7a1a7c-bc43-442b-81b3-0620dea32aa2/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>308 - חינוך פנימייתי (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/604823d1-fac8-4b2a-a838-fd90759ffef1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/604823d1-fac8-4b2a-a838-fd90759ffef1/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>307 - חינוך פנימייתי (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f9d5fdb1-6ee8-4927-a2f9-143604587e99/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f9d5fdb1-6ee8-4927-a2f9-143604587e99/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>306 - בית ספר קרוב או רחוק (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f577c9aa-74bd-43c7-b217-30805963bbda/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f577c9aa-74bd-43c7-b217-30805963bbda/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>305 - בית ספר קרוב או רחוק (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/14f0d2f7-577e-49a7-9893-497e0e15e77b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/14f0d2f7-577e-49a7-9893-497e0e15e77b/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>304 - בית ספר קרוב או רחוק (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d0bcb6ba-fee4-4468-b6c4-07f42935500b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d0bcb6ba-fee4-4468-b6c4-07f42935500b/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>303 - בית ספר קרוב או רחוק (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f8ae4eb3-0112-47bb-991e-8947da879409/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f8ae4eb3-0112-47bb-991e-8947da879409/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>302 - מקום שליבו חפץ</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/fe2a7d6b-b497-4fef-be5e-0964c62281ba/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/fe2a7d6b-b497-4fef-be5e-0964c62281ba/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>301 - בחירת מקום לימודים (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/1cf5e334-89a3-42f9-89cd-4219471d7036/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/1cf5e334-89a3-42f9-89cd-4219471d7036/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>300 - בחירת מקום לימודים (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/90590318-9e33-4974-a27e-0904a4a8024a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/90590318-9e33-4974-a27e-0904a4a8024a/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>299 - בחירת מקום לימודים (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/951d2a4a-5942-4a5a-9b41-f4b61a8d2e7d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/951d2a4a-5942-4a5a-9b41-f4b61a8d2e7d/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>298 - בחירת מקום לימודים (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d37aae29-b1f9-4192-b9e3-814eb3b6f14f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d37aae29-b1f9-4192-b9e3-814eb3b6f14f/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>297 - דמי כיס-סיכום</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/9e815773-a581-47e1-a741-b374a4cdb6aa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/9e815773-a581-47e1-a741-b374a4cdb6aa/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>296 - כללי תוכחה (ו)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/36911641-de45-4270-ac80-98e3ff10eb8f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/36911641-de45-4270-ac80-98e3ff10eb8f/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>295 - כללי תוכחה (ה)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5198fe34-10c9-43a4-840d-85b1a36a93af/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5198fe34-10c9-43a4-840d-85b1a36a93af/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>294 - כללי תוכחה (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f255f14a-75cf-40c8-aac5-8b0659601a17/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f255f14a-75cf-40c8-aac5-8b0659601a17/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>293 - כללי תוכחה (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/e5b36135-c547-4690-acbb-1f112869d495/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/e5b36135-c547-4690-acbb-1f112869d495/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>292 - כללי תוכחה (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/174551cd-7be0-41a4-be4f-f74f85c88ae5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/174551cd-7be0-41a4-be4f-f74f85c88ae5/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>291 - כללי תוכחה (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/cbbb363b-d468-4c1c-bdbc-693dfd7c4c30/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/cbbb363b-d468-4c1c-bdbc-693dfd7c4c30/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>290 - ביקורת שמחלישה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/61504ae0-3315-4c6d-8cea-05836e080d0d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/61504ae0-3315-4c6d-8cea-05836e080d0d/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>289 - תוכחה כלפי העתיד</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a921740b-61e1-401a-be44-b5c18e2e75a8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a921740b-61e1-401a-be44-b5c18e2e75a8/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>288 - ביקורת זה לא שחרור לחץ</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5a02082d-a118-415c-b42e-a1639d71104e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5a02082d-a118-415c-b42e-a1639d71104e/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>287 - ביקורת איננה ענישה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/7382d454-6d57-4ac2-921e-2c34e4946c3c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/7382d454-6d57-4ac2-921e-2c34e4946c3c/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>286 - לא תישא עליו חטא</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/c9b58216-b31d-4695-aa88-af01af46004e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/c9b58216-b31d-4695-aa88-af01af46004e/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>285 - כיצד מוכיחים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/eb697570-20fb-4695-9aa9-56757078e267/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/eb697570-20fb-4695-9aa9-56757078e267/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>284 - סולם ערכים דרך תוכחה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/df4a97e9-92bf-4536-b8b3-704031fd10ab/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/df4a97e9-92bf-4536-b8b3-704031fd10ab/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>283 - חינוך לקבלת תוכחות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/20afa1f8-65dd-450e-b66a-5858383fb284/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/20afa1f8-65dd-450e-b66a-5858383fb284/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>282 - ביקורת ותוכחה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/948a872b-a3c6-4d17-b5ee-c32d335915e2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/948a872b-a3c6-4d17-b5ee-c32d335915e2/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>281 - התמודדות מול ההתייוונות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/da4b5126-1a82-4f46-831d-130b018fc8f5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/da4b5126-1a82-4f46-831d-130b018fc8f5/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>280 - חלוקת דמי כיס (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/0aad0740-7d35-470c-b397-1e0338ffa880/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/0aad0740-7d35-470c-b397-1e0338ffa880/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>279 - חלוקת דמי כיס (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/37e21c6f-a15f-4b19-863a-01f8e993939c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/37e21c6f-a15f-4b19-863a-01f8e993939c/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>278 - חלוקת דמי כיס (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/809bc781-eabe-4320-abbf-e23acb112353/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/809bc781-eabe-4320-abbf-e23acb112353/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>277 - חלוקת דמי כיס (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/65cb6942-5407-4d7a-8908-289336e46c47/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/65cb6942-5407-4d7a-8908-289336e46c47/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>276 - מותרות והסתפקות במועט (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/719966e9-2cd9-43cc-9dae-038f90d7b283/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/719966e9-2cd9-43cc-9dae-038f90d7b283/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>275 - מותרות והסתפקות במועט (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5038e662-9557-46c4-b64d-bdabe79bcdce/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5038e662-9557-46c4-b64d-bdabe79bcdce/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>274 - מותרות והסתפקות במועט (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/3ab69c5c-9410-4a09-a77b-6df455d98c21/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/3ab69c5c-9410-4a09-a77b-6df455d98c21/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>273 - מותרות והסתפקות במועט (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/add7c992-5bfb-450f-baeb-881cd91d888f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/add7c992-5bfb-450f-baeb-881cd91d888f/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>272 - עצלנות (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/47ab5de3-8a37-47df-8139-83e62656b106/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/47ab5de3-8a37-47df-8139-83e62656b106/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>271 - עצלנות (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/192d5fbc-ad26-4b76-a3c0-d9977bf72c02/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/192d5fbc-ad26-4b76-a3c0-d9977bf72c02/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>270 - עצלנות (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/c52afbf3-a0d2-42a4-ae59-e3c0813fa9e3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/c52afbf3-a0d2-42a4-ae59-e3c0813fa9e3/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>269 - השפעה ועצמאות (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d61b1730-edeb-45ed-bc85-16da88bfdfba/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d61b1730-edeb-45ed-bc85-16da88bfdfba/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>268 - השפעה ועצמאות (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/beba99ff-84d3-4cfc-b5fb-de2975d674b8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/beba99ff-84d3-4cfc-b5fb-de2975d674b8/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>267 - השפעה ועצמאות (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/dc284c4c-9b60-46cf-8fd6-02865b7f9ded/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/dc284c4c-9b60-46cf-8fd6-02865b7f9ded/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>266 - קנה לך חבר (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f54ba187-f47d-49f8-8c3d-667611cee3e4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f54ba187-f47d-49f8-8c3d-667611cee3e4/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>265 - קנה לך חבר (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a8c2bfeb-1769-47a5-b2fb-96f1fdf67915/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a8c2bfeb-1769-47a5-b2fb-96f1fdf67915/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>264 - קנה לך חבר (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/3558aca6-979f-485f-b8e2-77516f8f620b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/3558aca6-979f-485f-b8e2-77516f8f620b/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>263 - קנה לך חבר (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/92ba5d59-59f3-4602-9f4b-4a2083dc2ddb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/92ba5d59-59f3-4602-9f4b-4a2083dc2ddb/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>262 - חינוך לסדר (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2acc4ed5-808c-4747-b164-a370c807b898/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2acc4ed5-808c-4747-b164-a370c807b898/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>261 - חינוך לסדר (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/cb4124b1-27b0-43f1-b657-ce9fa00ca049/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/cb4124b1-27b0-43f1-b657-ce9fa00ca049/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>260 - חינוך לסדר (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d2d92d3a-12c0-481f-afec-83a8fbe18c57/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d2d92d3a-12c0-481f-afec-83a8fbe18c57/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>259 - חינוך לנקיות (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f27f9f02-55bd-4b3c-96cc-5ba62e9f6d0f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f27f9f02-55bd-4b3c-96cc-5ba62e9f6d0f/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>258 - חינוך לנקיות (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/7d7b43d2-21fe-4bdf-9051-69e3d7b3bc1c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/7d7b43d2-21fe-4bdf-9051-69e3d7b3bc1c/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>257 - חינוך לנקיות (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/b0e1f511-394f-4174-970e-71b3208a7b68/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/b0e1f511-394f-4174-970e-71b3208a7b68/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>256 - חינוך לנקיות (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/378bc3dc-7f1f-4de0-9e30-614b6634e918/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/378bc3dc-7f1f-4de0-9e30-614b6634e918/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>255 - דרך ארץ קדמה לתורה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a1e2d31c-621d-4484-b80e-5f4320a90e63/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a1e2d31c-621d-4484-b80e-5f4320a90e63/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>254 - התמודדות עם השפעת האינטרנט (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/abec42c7-da30-4dce-ba40-082cf0bbf846/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/abec42c7-da30-4dce-ba40-082cf0bbf846/stream.mp3</guid>
+   <pubDate>Sat, 06 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>253 - התמודדות עם השפעת האינטרנט (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/8b44277d-2f81-449e-9eda-1e0137fba42a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/8b44277d-2f81-449e-9eda-1e0137fba42a/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>252 - השפעת האינטרנט (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/3fb9ba9a-4f53-4e14-8eac-c4f8e7719408/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/3fb9ba9a-4f53-4e14-8eac-c4f8e7719408/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>251 - השפעת האינטרנט (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5e734b86-8525-4ef0-91bf-8595b477dee7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5e734b86-8525-4ef0-91bf-8595b477dee7/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>250 - השפעת האינטרנט (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/1e33f9e8-b63d-4aef-a418-462f9e15659f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/1e33f9e8-b63d-4aef-a418-462f9e15659f/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>249 - הגבלת זמן</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/6ef2556f-198d-4048-8d92-81fd7a6c3fa5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/6ef2556f-198d-4048-8d92-81fd7a6c3fa5/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>248 - סינון ערכי</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/81b6db3b-614c-4e06-98ce-bd08ce65be07/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/81b6db3b-614c-4e06-98ce-bd08ce65be07/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>247 - תוכנת סינון - חובה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2ac5db71-3f63-48b6-9f7b-30ad89dcb793/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2ac5db71-3f63-48b6-9f7b-30ad89dcb793/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>246 - סינון פנימי או חיצוני</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/af94b3c4-1479-4c3c-b411-0d96cf2c4845/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/af94b3c4-1479-4c3c-b411-0d96cf2c4845/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>245 - מבחן של בחירה חופשית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/4f6bb2a2-62e8-4a08-90fb-3903fa5e4ed9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/4f6bb2a2-62e8-4a08-90fb-3903fa5e4ed9/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>244 - העדר מוגנות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/6d04a039-8808-4875-8f30-bb1971f6ad23/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/6d04a039-8808-4875-8f30-bb1971f6ad23/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>243 - זמינות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/df0954ce-7ed8-4405-ad37-73b7746b9969/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/df0954ce-7ed8-4405-ad37-73b7746b9969/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>242 - סמיכות טוב ורע</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/fcf1244b-627b-41fb-8a89-46b3a30f9598/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/fcf1244b-627b-41fb-8a89-46b3a30f9598/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>241 - האינטרנט כמאגר מידע</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f1e69f0a-9086-4e4f-83b2-30ea58edc532/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f1e69f0a-9086-4e4f-83b2-30ea58edc532/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>240 - אינטרנט לא במקרה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/b3838d81-7f17-4f4d-ba16-fa8b53b53051/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/b3838d81-7f17-4f4d-ba16-fa8b53b53051/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>239 - קורונה בשמחת תורה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/fa8ad8e8-1e9d-4d18-8570-30457a7bc3fc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/fa8ad8e8-1e9d-4d18-8570-30457a7bc3fc/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>238 - והיית אך שמח</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/97e6fb0e-ce1f-4307-8d09-8bd40341c5c2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/97e6fb0e-ce1f-4307-8d09-8bd40341c5c2/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>237 - קהלת בחג הסוכות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/ff2fe715-5889-48a5-b51a-75686684efe8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/ff2fe715-5889-48a5-b51a-75686684efe8/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>236 - שמחה בחג הסוכות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/c52f0b03-e818-4e6e-bec7-42760de390bc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/c52f0b03-e818-4e6e-bec7-42760de390bc/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>235 - התחדשות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d01209c4-7af0-4384-a388-b78b51a32586/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d01209c4-7af0-4384-a388-b78b51a32586/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>234 - אגודה אחת</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/30b784d1-a639-472c-afc1-70b3d9133558/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/30b784d1-a639-472c-afc1-70b3d9133558/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>233 - כיפת השמיים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/63d7bee0-62a8-4c0f-90a2-a374a26ddc8e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/63d7bee0-62a8-4c0f-90a2-a374a26ddc8e/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>232 - הילדים בחג הסוכות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/681faf66-63b4-453d-b53a-bda985e52100/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/681faf66-63b4-453d-b53a-bda985e52100/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>231 - מה ננעל</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/7b936ec7-944d-4d22-a6ef-c676f30b1027/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/7b936ec7-944d-4d22-a6ef-c676f30b1027/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>230 - מה עם הילדים שלנו ביום כיפור</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/6ba8e8ec-5bc3-4250-a9f3-1b13eb544858/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/6ba8e8ec-5bc3-4250-a9f3-1b13eb544858/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>229 - חברה ותעסוקה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/9bf7ca73-de23-4ead-8dfc-b4619c2c65f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/9bf7ca73-de23-4ead-8dfc-b4619c2c65f2/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>228 - מפגש אישי</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/fc05f966-11a8-4a6e-bc8c-b5de0639a9e8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/fc05f966-11a8-4a6e-bc8c-b5de0639a9e8/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>227 - חינוך לערכים-פיתוח האישיות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2e44a97e-0aed-420f-9df2-a6325b80b93b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2e44a97e-0aed-420f-9df2-a6325b80b93b/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>226 - והיו עיניך רואות את מוריך</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d8d58007-6a22-4011-b87c-5331b00f9e98/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d8d58007-6a22-4011-b87c-5331b00f9e98/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>225 - למידה על פי קצב אישי</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/515e1921-a3ff-475d-aac5-703a1e306168/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/515e1921-a3ff-475d-aac5-703a1e306168/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>224 - למידה מרחוק</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/53553e2a-92a5-402f-9bba-45bcdac3ee21/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/53553e2a-92a5-402f-9bba-45bcdac3ee21/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>223 - המתווה החדש של החזרה ללימודים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/0ef1aedc-cc0e-4fef-895d-75eaa7ff181a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/0ef1aedc-cc0e-4fef-895d-75eaa7ff181a/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>222 - תשובה של ילדים-מסקנה (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/ff9319b3-e6bb-4dcc-8466-8ac716831c91/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/ff9319b3-e6bb-4dcc-8466-8ac716831c91/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>221 - תשובה של ילדים-מסקנה (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5b23eff5-4ea0-4b5a-8c65-dc5cd9f2b20c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5b23eff5-4ea0-4b5a-8c65-dc5cd9f2b20c/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>220 - תשובה של ילדים-מסקנה (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/61a0280a-73e2-4432-8f5d-fc174c52e3a8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/61a0280a-73e2-4432-8f5d-fc174c52e3a8/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>219 - מסקנות חינוכיות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/71adf955-9b07-4536-8db0-6c33b0752157/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/71adf955-9b07-4536-8db0-6c33b0752157/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>218 - קיום תשובה ועונש</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/eca8444a-fb80-484e-ae7c-bd68b2c8c3ee/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/eca8444a-fb80-484e-ae7c-bd68b2c8c3ee/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>217 - פטור מקיום או פטור מענישה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/00d32215-1773-4182-bf7b-8db3d5647d21/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/00d32215-1773-4182-bf7b-8db3d5647d21/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>216 - ישראל ובן נח</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/0b65ebc0-8457-4372-8a21-53b10d19b61f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/0b65ebc0-8457-4372-8a21-53b10d19b61f/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>215 - האם ילדים צריכים לחזור בתשובה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/9e82cbbd-41ea-4a07-ae80-f854f615e5af/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/9e82cbbd-41ea-4a07-ae80-f854f615e5af/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>214 - משחק במחשב</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/991fe7cb-03c0-488a-b037-d9cd7875fc90/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/991fe7cb-03c0-488a-b037-d9cd7875fc90/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>213 - הפגת מתח</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/78a542ea-83e1-4e9b-9eac-f447d75356ae/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/78a542ea-83e1-4e9b-9eac-f447d75356ae/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>212 - קריאה וצפיה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a1c5eeef-e69a-4d67-9444-5d8f9e22100b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a1c5eeef-e69a-4d67-9444-5d8f9e22100b/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>211 - ספרות ילדים (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/3809321d-cb37-4504-917c-cf4f88ea3b77/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/3809321d-cb37-4504-917c-cf4f88ea3b77/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>210 - ספרות ילדים (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/35e0b34b-969d-4068-ab0b-9e04e77cea68/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/35e0b34b-969d-4068-ab0b-9e04e77cea68/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>209 - כוחה של הספרות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/37057ae8-d941-438c-a9ff-e88792515344/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/37057ae8-d941-438c-a9ff-e88792515344/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>208 - מושב של ליצים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/6379ecf9-397f-4650-a6e9-69d8781a58ed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/6379ecf9-397f-4650-a6e9-69d8781a58ed/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>207 - היחס אל הספרות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/536dfcef-afde-4b53-bb51-8a58d5660654/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/536dfcef-afde-4b53-bb51-8a58d5660654/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>206 - מושב ליצים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/c8c84778-f3f3-4a5d-bc3e-e7e787689f1a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/c8c84778-f3f3-4a5d-bc3e-e7e787689f1a/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>205 - היחס לתרבות הפנאי</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/7f2b9fb5-7d04-49d2-95e5-24fd34e875f6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/7f2b9fb5-7d04-49d2-95e5-24fd34e875f6/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>204 - שולחן שבת אקטואלי</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/deed883e-5758-438a-9210-afcce1e2def3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/deed883e-5758-438a-9210-afcce1e2def3/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>203 - הליכה לבית הכנסת</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a63c293e-6b27-483b-afad-2f173dd19891/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a63c293e-6b27-483b-afad-2f173dd19891/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>202 - משמעות השבת בחינוך (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/388706d5-9bed-44b8-81b6-0dc8b47f0ef0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/388706d5-9bed-44b8-81b6-0dc8b47f0ef0/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>201 - משמעות השבת בחינוך (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a3ed8c78-58f7-4a04-acda-34c473020f51/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a3ed8c78-58f7-4a04-acda-34c473020f51/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>200 - משמעות השבת בחינוך (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/9580b523-3442-4ede-a799-55faca5ebc3c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/9580b523-3442-4ede-a799-55faca5ebc3c/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>199 - רוממות והכרת תודה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/4e6dd756-2932-403c-834b-b203b29c3e02/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/4e6dd756-2932-403c-834b-b203b29c3e02/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>198 - אמונה ילדותית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/0daa918c-7ff4-4427-9634-98835100ebbc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/0daa918c-7ff4-4427-9634-98835100ebbc/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>197 - בהירות אמונית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/9c2ac101-4a33-42af-a908-ed7f10411014/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/9c2ac101-4a33-42af-a908-ed7f10411014/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>196 - אמונה טבעית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/041d12e8-36cf-4c44-ad2d-2fcc74faec7d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/041d12e8-36cf-4c44-ad2d-2fcc74faec7d/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>195 - אמונה של בן שלוש</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/801f6c5f-e0f0-48b5-9e36-75909c271637/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/801f6c5f-e0f0-48b5-9e36-75909c271637/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>194 - סביבה אמונית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/eb19323b-cde5-4561-bf1b-f1e3b399fd92/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/eb19323b-cde5-4561-bf1b-f1e3b399fd92/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>193 - אבלות על החורבן בדור הגאולה (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/b3311734-6b9a-4089-ab66-f76ef112d7a3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/b3311734-6b9a-4089-ab66-f76ef112d7a3/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>192 - אבלות על החורבן בדור הגאולה (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5c53075a-1821-4e8e-8870-93c7bf8dcea2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5c53075a-1821-4e8e-8870-93c7bf8dcea2/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>191 - האם לצום בט' באב</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/c657a7ea-6aa1-4a9f-8e15-b58568d8ed67/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/c657a7ea-6aa1-4a9f-8e15-b58568d8ed67/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>190 - עגמת נפש</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/8e070054-96ba-4159-ac6e-88a4b23a5576/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/8e070054-96ba-4159-ac6e-88a4b23a5576/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>189 - חינוך ילדים לאבלות על החורבן</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/bfcee4ca-cab4-4640-b1a2-27224505739d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/bfcee4ca-cab4-4640-b1a2-27224505739d/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>188 - מקל נעם</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5a4f39e1-feb6-4c21-a2f5-e7b63d1b8f6e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5a4f39e1-feb6-4c21-a2f5-e7b63d1b8f6e/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>187 - ללא מקל חובלים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/08a15d74-e31d-40f3-8875-41f14700442d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/08a15d74-e31d-40f3-8875-41f14700442d/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>186 - לא יכו את התלמידים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2f79878a-09e0-4dcc-94d3-891b29869611/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2f79878a-09e0-4dcc-94d3-891b29869611/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>185 - החופש הגדול - מהתאוריה למעשה (ה)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/b5de08a0-7ac6-47e9-8aed-2606e8bd48db/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/b5de08a0-7ac6-47e9-8aed-2606e8bd48db/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>184 - החופש הגדול - מהתאוריה למעשה (ד)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/93b8460e-816b-447c-a9cd-102f1845fdc8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/93b8460e-816b-447c-a9cd-102f1845fdc8/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>183 - החופש הגדול - מהתאוריה למעשה (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/fd36e197-c6b9-43ab-a287-23cffc3f1da4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/fd36e197-c6b9-43ab-a287-23cffc3f1da4/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>182 - החופש הגדול - מהתאוריה למעשה (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/303e6d7f-c17a-41dc-8b32-a5022199de56/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/303e6d7f-c17a-41dc-8b32-a5022199de56/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>181 - החופש הגדול - מהתאוריה למעשה (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/74772455-9b7e-41ea-9555-6be0efb0c656/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/74772455-9b7e-41ea-9555-6be0efb0c656/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>180 - החופש - הלכה למעשה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/4e13fbac-8569-4415-ad3e-9220c05615e7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/4e13fbac-8569-4415-ad3e-9220c05615e7/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>179 - בית נחמד</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/ca926ada-08da-4526-82be-18c8d109151a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/ca926ada-08da-4526-82be-18c8d109151a/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>178 - עונש או מתנה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/25c43581-5a4e-4247-8412-debce4c766ae/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/25c43581-5a4e-4247-8412-debce4c766ae/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>177 - חוויה חיובית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/20c59fe1-ab8a-49fd-9865-0e5934498e2e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/20c59fe1-ab8a-49fd-9865-0e5934498e2e/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>176 - השיבה לבית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/35b7b05e-7973-46bb-a737-204a05784918/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/35b7b05e-7973-46bb-a737-204a05784918/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>175 - מבחן של בחירה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/366b24da-33fe-4aa7-9290-50839ad981b4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/366b24da-33fe-4aa7-9290-50839ad981b4/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>174 - הפנאי כאתגר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/3aa749a0-3643-4ed0-b4e1-4618e6f3f3f8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/3aa749a0-3643-4ed0-b4e1-4618e6f3f3f8/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>173 - עם מי האתגר של החופש הגדול</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a9a6e32d-b71a-47dd-b27f-d9a43b6aa475/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a9a6e32d-b71a-47dd-b27f-d9a43b6aa475/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>172 - תרבות פנאי אקטיבית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/b132869d-9dd0-4f2a-948d-83086edc1f82/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/b132869d-9dd0-4f2a-948d-83086edc1f82/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>171 - לא עלתה בידם</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/27ec8af3-463f-4d0e-8222-fb587289cfee/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/27ec8af3-463f-4d0e-8222-fb587289cfee/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>170 - עמל מסוג אחר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d14f976d-dd53-4d0d-bf96-2f95e5b2b090/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d14f976d-dd53-4d0d-bf96-2f95e5b2b090/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>169 - אגרת האדמו''ר על החופש הגדול</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f2f73264-2595-4a01-a805-f1c090f40ea3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f2f73264-2595-4a01-a805-f1c090f40ea3/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>168 - ומה עם בין הזמנים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/c32103cc-4138-43be-ad6f-d4e4af020a4f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/c32103cc-4138-43be-ad6f-d4e4af020a4f/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>167 - הנה זה בא, החופש הגדול!</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a794fa0b-c603-4aac-a100-5f54d9f906d9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a794fa0b-c603-4aac-a100-5f54d9f906d9/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>166 - תפסתי את בני (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/557e1aed-63a0-4302-af55-a53990e7ca38/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/557e1aed-63a0-4302-af55-a53990e7ca38/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>166 - תפסתי את בני (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5f24f5a7-b111-4e45-acf1-16de6e9a7eba/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5f24f5a7-b111-4e45-acf1-16de6e9a7eba/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>165 - תפסתי את בני (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/456f6dbb-e6f9-4905-bd66-3097474520d3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/456f6dbb-e6f9-4905-bd66-3097474520d3/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>164 - תפסתי את בני (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d7a35259-da1b-4792-9680-68de73104f6d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d7a35259-da1b-4792-9680-68de73104f6d/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>163 - מכתב זועק לשמיים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/39ec6c0d-41d6-414f-a1ae-6598d1548afc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/39ec6c0d-41d6-414f-a1ae-6598d1548afc/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>162 - חסימה והתמודדות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/77bf1d1f-6685-417a-9c95-296b8dc9505a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/77bf1d1f-6685-417a-9c95-296b8dc9505a/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>161 - טראומה בטווח הארוך</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/be3a1a71-a094-4a03-bce4-7615d20272c8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/be3a1a71-a094-4a03-bce4-7615d20272c8/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>160 - טראומה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/977ab8d4-3f39-4854-a445-a12df2086e83/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/977ab8d4-3f39-4854-a445-a12df2086e83/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>159 - סקרנות מסוכנת</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f6cd0780-cdd0-4210-83be-6e825e1a3ce2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f6cd0780-cdd0-4210-83be-6e825e1a3ce2/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>158 - סקרנות מוגברת</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/68a9bbc6-be61-467c-b3a3-c7d9b5742cef/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/68a9bbc6-be61-467c-b3a3-c7d9b5742cef/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>157 - הרהור וניסויים</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/3671ede0-93c6-4810-a2c7-20011ad2622d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/3671ede0-93c6-4810-a2c7-20011ad2622d/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>156 - משיכה מינית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/34382f39-031f-4544-b9db-f971fdcc041e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/34382f39-031f-4544-b9db-f971fdcc041e/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>155 - התפתחות פיזיולוגית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/e7c74121-549f-4e90-856e-93778bb12c5f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/e7c74121-549f-4e90-856e-93778bb12c5f/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>154 - גמישות חינוכית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d7e68c96-60d4-425c-b5cd-bdd5ef797867/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d7e68c96-60d4-425c-b5cd-bdd5ef797867/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>153 - שתיקה</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f78312b1-53c8-43d5-85d4-43458737d873/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f78312b1-53c8-43d5-85d4-43458737d873/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>152 - דוגמא אישית</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/ff7b89b4-1b21-487c-9a3e-13db75e8bcc0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/ff7b89b4-1b21-487c-9a3e-13db75e8bcc0/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>151 - סבלנות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/26d2a512-7a35-47c8-9471-c11fd6614997/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/26d2a512-7a35-47c8-9471-c11fd6614997/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>150 - מתן אמון</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/aa7f3a93-7e8a-40eb-83c1-32474c5dda37/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/aa7f3a93-7e8a-40eb-83c1-32474c5dda37/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>149 - ציפיות ואכזבות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/f903f311-a0d3-45dd-98c0-fa36db42f0cf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/f903f311-a0d3-45dd-98c0-fa36db42f0cf/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>148 - שבועות בבוקר</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a3b5a476-6c7c-40ea-8242-e45d47d7f4b5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a3b5a476-6c7c-40ea-8242-e45d47d7f4b5/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>147 - ליל שבועות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/8ee6bae3-38b6-492a-a9b3-e350a2eb2732/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/8ee6bae3-38b6-492a-a9b3-e350a2eb2732/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>146 - חינוך למתן תורה (ג)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/2e08aa4a-cb40-40b2-8be6-391728da3ea3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/2e08aa4a-cb40-40b2-8be6-391728da3ea3/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>145 - חינוך למתן תורה (ב)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d324016d-a6fa-4292-898c-840f31f520b4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d324016d-a6fa-4292-898c-840f31f520b4/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>144 - חינוך למתן תורה (א)</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/b0f2840f-e416-4372-b213-675b1952e172/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/b0f2840f-e416-4372-b213-675b1952e172/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>143 - ניעור</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/3861d31f-e54c-4b10-8253-f4ea75c92ece/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/3861d31f-e54c-4b10-8253-f4ea75c92ece/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>142 - התעוררות</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/33ea9d68-d07a-4936-a25f-838ecb7d9bdc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/33ea9d68-d07a-4936-a25f-838ecb7d9bdc/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

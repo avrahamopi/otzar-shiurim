@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שמעון ישראלי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7194b2c8.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שמעון ישראלי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרק ה | ענף בויאן לדורותיו - עם יצחק ברוכי</title>
+   <description>הרב שמעון ישראלי · ישיבת אהבת ישראל נתיבות · אמונה ומחשבה</description>
+   <itunes:author>הרב שמעון ישראלי</itunes:author>
+   <enclosure url="https://anchor.fm/s/e3c95674/podcast/play/91815188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-17%2F2b5cd589-e057-4168-55f3-52622fa1062e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/e3c95674/podcast/play/91815188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-17%2F2b5cd589-e057-4168-55f3-52622fa1062e.mp3</guid>
+   <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ד | הניגון הרוז'ינאי - עם יזהר פינטוס</title>
+   <description>הרב שמעון ישראלי · ישיבת אהבת ישראל נתיבות · אמונה ומחשבה</description>
+   <itunes:author>הרב שמעון ישראלי</itunes:author>
+   <enclosure url="https://anchor.fm/s/e3c95674/podcast/play/78638382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-14%2F355587971-44100-2-18b4c6c2511d8.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/e3c95674/podcast/play/78638382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-14%2F355587971-44100-2-18b4c6c2511d8.m4a</guid>
+   <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ג | רבי ישראל מרוז'ין - עם דוד גדיש</title>
+   <description>הרב שמעון ישראלי · ישיבת אהבת ישראל נתיבות · אמונה ומחשבה</description>
+   <itunes:author>הרב שמעון ישראלי</itunes:author>
+   <enclosure url="https://anchor.fm/s/e3c95674/podcast/play/75883373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-14%2F7fb5cd08-7fe3-1e4a-9666-70574f5755d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/e3c95674/podcast/play/75883373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-14%2F7fb5cd08-7fe3-1e4a-9666-70574f5755d6.mp3</guid>
+   <pubDate>Thu, 14 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב | מבט היסטורי על חסידות רוז'ין - עם אהרל'ה אדמנית</title>
+   <description>הרב שמעון ישראלי · ישיבת אהבת ישראל נתיבות · חסידות וקבלה</description>
+   <itunes:author>הרב שמעון ישראלי</itunes:author>
+   <enclosure url="https://anchor.fm/s/e3c95674/podcast/play/72030233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334735902-48000-2-1a7073cc725162dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/e3c95674/podcast/play/72030233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334735902-48000-2-1a7073cc725162dc.mp3</guid>
+   <pubDate>Mon, 12 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א | מה חידשה החסידות? - עם ראש הישיבה הרב דוד אסולין</title>
+   <description>הרב שמעון ישראלי · ישיבת אהבת ישראל נתיבות · חסידות וקבלה</description>
+   <itunes:author>הרב שמעון ישראלי</itunes:author>
+   <enclosure url="https://anchor.fm/s/e3c95674/podcast/play/72030228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-16%2Fff5287d1-8751-7b1e-0c74-b60885153acf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/e3c95674/podcast/play/72030228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-16%2Fff5287d1-8751-7b1e-0c74-b60885153acf.mp3</guid>
+   <pubDate>Mon, 12 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אדם ואדמה - הרב שמעון ישראלי והרב אחיה בן-פזי</title>
+   <description>הרב שמעון ישראלי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שמעון ישראלי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/55/1f/349db54ba0b56014cffc522eb5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/55/1f/349db54ba0b56014cffc522eb5.mp3</guid>
+   <pubDate>Mon, 29 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

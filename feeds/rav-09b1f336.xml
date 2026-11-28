@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שמואל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-09b1f336.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שמואל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מתודעת עבד לתודעת מלכות | הרב שמואל | בכל לבבך 14</title>
+   <description>הרב שמואל · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73559307/utf_8_b_15txqnerinep157xldeq15wubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73559307/utf_8_b_15txqnerinep157xldeq15wubxaz.mp3</guid>
+   <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק מ"ו - סוד הדבקות בה'</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/99501860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2F371b8be4-4c8b-efe0-b5f5-626630084511.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/99501860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2F371b8be4-4c8b-efe0-b5f5-626630084511.mp3</guid>
+   <pubDate>Fri, 07 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק לט - מלאכים או בני אדם</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/96004969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-18%2F559bf6c3-6a00-f031-3f6d-b4625d2eac5b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/96004969/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-18%2F559bf6c3-6a00-f031-3f6d-b4625d2eac5b.mp3</guid>
+   <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/95904298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-16%2F88be3438-6c6c-9dbf-c786-cfd2b0ad1cc4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/95904298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-16%2F88be3438-6c6c-9dbf-c786-cfd2b0ad1cc4.mp3</guid>
+   <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק לז - תלמוד תורה מול מצוות</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/95403841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2Fd22af26c-99d6-3591-5fac-05cc5634be99.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/95403841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2Fd22af26c-99d6-3591-5fac-05cc5634be99.mp3</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק לו - תכלית בריאת העולם</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/95052830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-27%2F16d48e21-9ba4-6542-fb6a-c37fbdbeebc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/95052830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-27%2F16d48e21-9ba4-6542-fb6a-c37fbdbeebc3.mp3</guid>
+   <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק לה - עצות להתמודדות בניסיונות</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/94767884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-21%2Fc10740e9-59fa-4516-a397-68f4f9ac40a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/94767884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-21%2Fc10740e9-59fa-4516-a397-68f4f9ac40a4.mp3</guid>
+   <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק לד - חשיבות לימוד התורה בדורנו</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/94606103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-18%2F1f8dd592-2e9b-70ba-133d-f10299074a5c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/94606103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-18%2F1f8dd592-2e9b-70ba-133d-f10299074a5c.mp3</guid>
+   <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק לב - אהבת ישראל</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/92828599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387842876-44100-2-9f16b89fda37c.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/92828599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387842876-44100-2-9f16b89fda37c.m4a</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין דיכאון לשברון לב</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/92434620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-1%2F387348818-44100-2-0c567101fc6f4.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/92434620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-1%2F387348818-44100-2-0c567101fc6f4.m4a</guid>
+   <pubDate>Tue, 01 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ל - עמידה בניסיונות</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/92194319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F387048674-44100-2-8884b28c8c3e5.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/92194319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F387048674-44100-2-8884b28c8c3e5.m4a</guid>
+   <pubDate>Wed, 25 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק כז - עמידה בניסיונות</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/91541062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2F386127251-44100-2-1380e4f47ff94.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/91541062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-10%2F386127251-44100-2-1380e4f47ff94.m4a</guid>
+   <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת חזון - לראות ולהרגיש את בית המקדש</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/90193614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-8%2F384474677-44100-2-780f6be7c4666.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/90193614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-8%2F384474677-44100-2-780f6be7c4666.m4a</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חוקת - פרה אדומה הנסתרות והנגלות</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/89107062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-11%2Fb5001343-6bf1-d92c-ace2-175589911dc6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/89107062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-11%2Fb5001343-6bf1-d92c-ace2-175589911dc6.mp3</guid>
+   <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח לך -קדושת הארץ הנסתרת</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/88538259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-27%2F10fedee9-da9f-a1e1-a324-236014598d6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/88538259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-27%2F10fedee9-da9f-a1e1-a324-236014598d6e.mp3</guid>
+   <pubDate>Thu, 27 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא תהיה גלות שלישית</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/87367148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-29%2Ffede740e-d33b-914a-bea2-9abbc3747cca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/87367148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-29%2Ffede740e-d33b-914a-bea2-9abbc3747cca.mp3</guid>
+   <pubDate>Wed, 29 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לג בעומר - לכל אחד יש חלק בתורת הסוד</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/87125576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-23%2F379f60f9-7b47-a35b-2abd-5883eff96f95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/87125576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-23%2F379f60f9-7b47-a35b-2abd-5883eff96f95.mp3</guid>
+   <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה למעלה מהשכל</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/86969061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-20%2Fa325d609-4ac3-5998-8b97-d8053effd2f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/86969061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-20%2Fa325d609-4ac3-5998-8b97-d8053effd2f9.mp3</guid>
+   <pubDate>Mon, 20 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספירת העומר - בניין האדם והאומה</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/86807789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-16%2Fa740084c-bef3-0a8a-d19b-c013680d615e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/86807789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-16%2Fa740084c-bef3-0a8a-d19b-c013680d615e.mp3</guid>
+   <pubDate>Thu, 16 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקראת יום הזיכרון לשואה ולגבורה - ההבדל המהותי בין אז להיום</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/86330619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-5%2F376595951-44100-2-248635ace90f7.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/86330619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-5%2F376595951-44100-2-248635ace90f7.m4a</guid>
+   <pubDate>Sun, 05 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם אליהו הנביא באמת יגיע מהדלת הפתוחה?</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/85592268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-18%2F374758626-44100-2-324370fdff734.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/85592268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-18%2F374758626-44100-2-324370fdff734.m4a</guid>
+   <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניסן חודש הגאולה</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/84954456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-4%2F73097abd-220f-2ca6-0381-1c69b40da051.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/84954456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-4%2F73097abd-220f-2ca6-0381-1c69b40da051.mp3</guid>
+   <pubDate>Thu, 04 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק יז' - קרוב אליך</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/84874496/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-2%2Fe19a479d-7a64-0816-633d-9a89a4fae60e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/84874496/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-2%2Fe19a479d-7a64-0816-633d-9a89a4fae60e.mp3</guid>
+   <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השפעת התורה בעולמות</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/84572386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-26%2F4594c2d4-5b9d-f7e2-82ba-e7dfb7b718bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/84572386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-26%2F4594c2d4-5b9d-f7e2-82ba-e7dfb7b718bb.mp3</guid>
+   <pubDate>Tue, 26 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וִימֵי הַפּוּרִים הָאֵלֶּה לֹא יַעַבְרוּ - הארת ימי הפורים לא פוסקת מעם ישראל</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/84341334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2F371693409-44100-2-1cc728d38bfd9.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/84341334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2F371693409-44100-2-1cc728d38bfd9.m4a</guid>
+   <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק טו - להיות עובד ה'</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/84285758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F03b10b2a-ada6-b325-5335-2de409f700a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/84285758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F03b10b2a-ada6-b325-5335-2de409f700a0.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעשות טובה עם מי שפגע בך - פרק יג</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/83613438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-5%2F35b136a6-3b5a-acee-cf1b-06cd4406cf71.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/83613438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-5%2F35b136a6-3b5a-acee-cf1b-06cd4406cf71.mp3</guid>
+   <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא - מהי הנשמה היתרה של שבת?</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/83357350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369202260-44100-2-16fb4b109a523.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/83357350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369202260-44100-2-16fb4b109a523.m4a</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>?מיהו הבינוני</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/82977162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-21%2F368219248-44100-2-00fb63ed44564.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/82977162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-21%2F368219248-44100-2-00fb63ed44564.m4a</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - כל יום אנחנו בונים את בית המקדש</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/82891024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-19%2F368011927-44100-2-951886ba6e3a9.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/82891024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-19%2F368011927-44100-2-951886ba6e3a9.m4a</guid>
+   <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק יא - הנקודה היהודית הפנימית</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/82663850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367432649-44100-2-f537e95c198ff.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/82663850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367432649-44100-2-f537e95c198ff.m4a</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - היכן נמצא ארון הברית</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/82681565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367475666-44100-2-d261ef2b3247b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/82681565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367475666-44100-2-d261ef2b3247b.m4a</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניצחון בנקודות</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/82585647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367222794-44100-2-3779f7bfb4913.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/82585647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367222794-44100-2-3779f7bfb4913.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם גם באדר א מרבים בשמחה</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/82585079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367221259-44100-2-a8068b6b1892e.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/82585079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367221259-44100-2-a8068b6b1892e.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו - להגדיל את תורת ארץ ישראל</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/82114115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365899387-44100-2-59c549ff3725a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/82114115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365899387-44100-2-59c549ff3725a.m4a</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השבת והגאולה</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/82089109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365828231-44100-2-6a2672709db5d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/82089109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365828231-44100-2-6a2672709db5d.m4a</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ט - המשך</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/82016837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2Ff97361cd-bb18-55c4-413e-396053e29524.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/82016837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2Ff97361cd-bb18-55c4-413e-396053e29524.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טו בשבט - ומשתוקק אל ארץ ישראל</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/81800446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-26%2F364981549-44100-2-f0c7c164273d3.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/81800446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-26%2F364981549-44100-2-f0c7c164273d3.m4a</guid>
+   <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טו בשבט תיקון העולמות</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/81694108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-24%2F3998bad1-7121-60e9-692e-04eb78ff1f95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/81694108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-24%2F3998bad1-7121-60e9-692e-04eb78ff1f95.mp3</guid>
+   <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פילוסופיה ושבירת הכלים</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/81693464/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-23%2Fa7dd20f0-73ce-c62b-5b5e-d0a2d16b6afe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/81693464/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-23%2Fa7dd20f0-73ce-c62b-5b5e-d0a2d16b6afe.mp3</guid>
+   <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בא - אהבת ישראל של הקדוש ברוך הוא</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/81461710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363987586-44100-2-804b41445c878.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/81461710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363987586-44100-2-804b41445c878.m4a</guid>
+   <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - להתחיל מחדש</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/81466433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2Fbf96dea5-5836-856e-d1cf-885542f98cba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/81466433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2Fbf96dea5-5836-856e-d1cf-885542f98cba.mp3</guid>
+   <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ח חלק א - גן עדן וגיהנום</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/81384048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-17%2F2c1f541a-aa41-9ea2-bea5-5a07c17f467c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/81384048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-17%2F2c1f541a-aa41-9ea2-bea5-5a07c17f467c.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - להתפלל מכל הלב וגם לפעול בכל הכח</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/81124019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F63d96f89-26be-5e86-31b9-200801d54b70.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/81124019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2F63d96f89-26be-5e86-31b9-200801d54b70.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא- גם כוחות הטבע כפופים להנהגה האלוהית</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/81123965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fc53adab5-c9e4-64ba-ebb7-8ed8b4e71537.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/81123965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fc53adab5-c9e4-64ba-ebb7-8ed8b4e71537.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תיקון ימי השובבים</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/81123847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fb7b3d2cc-eeb5-6387-ff55-62cae94e626d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/81123847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-11%2Fb7b3d2cc-eeb5-6387-ff55-62cae94e626d.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - גלות מצרים</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/80791733/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F2d48aa35-2852-a2a6-49de-e64e32b3b0fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/80791733/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F2d48aa35-2852-a2a6-49de-e64e32b3b0fd.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז - תשובה מאהבה</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/80744089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2Fadccc4af-0414-ebda-0072-8544a1f40836.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/80744089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2Fadccc4af-0414-ebda-0072-8544a1f40836.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ז - קליפת נוגה</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effd0300/podcast/play/80744044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F83c8d7c3-9e8a-3c23-43a1-e38ff9406144.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effd0300/podcast/play/80744044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F83c8d7c3-9e8a-3c23-43a1-e38ff9406144.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - היכן באמת חי יעקב</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/80744174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2Feee72c19-c22c-34fc-5409-9983ec47b8de.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/80744174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2Feee72c19-c22c-34fc-5409-9983ec47b8de.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - איך אפשר להגיע לאהבת חינם</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/80744165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F0fc05001-efe9-97fc-f92d-1e672cb94336.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/80744165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F0fc05001-efe9-97fc-f92d-1e672cb94336.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ - זאת חנוכה</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/effceb2c/podcast/play/80744146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F78d2b62e-68f6-9836-794e-8d88b420351c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/effceb2c/podcast/play/80744146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F78d2b62e-68f6-9836-794e-8d88b420351c.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי - סוד החיים במצריים</title>
+   <description>הרב שמואל · ישיבת מעלות יעקב הרצוג · פרשת השבוע</description>
+   <itunes:author>הרב שמואל</itunes:author>
+   <enclosure url="https://anchor.fm/s/efcf00e0/podcast/play/80580268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-29%2Fdfeec267-18a0-3512-e41d-c4976854aa17.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/efcf00e0/podcast/play/80580268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-29%2Fdfeec267-18a0-3512-e41d-c4976854aa17.mp3</guid>
+   <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

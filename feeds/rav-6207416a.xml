@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב טוביה ליפשיץ · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-6207416a.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב טוביה ליפשיץ.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מהודאה לתודה - עיון במזמור לתודה | הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://media.transistor.fm/54eb2955/3324d3bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/54eb2955/3324d3bc.mp3</guid>
+   <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעגל השנה תקופת החגים</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/59258630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-18%2F6085d27a-07c4-d1cb-fb74-5728e462a577.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/59258630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-18%2F6085d27a-07c4-d1cb-fb74-5728e462a577.m4a</guid>
+   <pubDate>Tue, 18 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 23 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/27380546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-25%2Fb11b5822-323f-d061-e663-e7d45a5934bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/27380546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-25%2Fb11b5822-323f-d061-e663-e7d45a5934bc.mp3</guid>
+   <pubDate>Thu, 25 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 22 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/27379822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-25%2F654af7bb-fb44-0a1d-ae07-30f36778833f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/27379822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-25%2F654af7bb-fb44-0a1d-ae07-30f36778833f.mp3</guid>
+   <pubDate>Thu, 25 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 21 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/27235810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-23%2F42ed75eb-3042-bd71-1747-8dd1f4a7ccbd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/27235810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-23%2F42ed75eb-3042-bd71-1747-8dd1f4a7ccbd.mp3</guid>
+   <pubDate>Tue, 23 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 20 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/27034188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-21%2F2330b4d9-30c2-6220-addb-b0dcf5bc5527.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/27034188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-21%2F2330b4d9-30c2-6220-addb-b0dcf5bc5527.mp3</guid>
+   <pubDate>Sun, 21 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 19 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26798031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-16%2F83531a4c-5579-e6a5-f45a-3e46fae8b2bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26798031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-16%2F83531a4c-5579-e6a5-f45a-3e46fae8b2bb.mp3</guid>
+   <pubDate>Tue, 16 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 18 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26798010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-16%2Fe5a31fda-a162-efb5-4b26-3fc4ff96f386.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26798010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-16%2Fe5a31fda-a162-efb5-4b26-3fc4ff96f386.mp3</guid>
+   <pubDate>Tue, 16 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 17 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26504644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-10%2F6842115c-4624-fc80-475c-c9a80b6448f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26504644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-10%2F6842115c-4624-fc80-475c-c9a80b6448f1.mp3</guid>
+   <pubDate>Wed, 10 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 16 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26504642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-10%2Ff278e3be-49cc-05f9-c9b8-90b209628660.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26504642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-10%2Ff278e3be-49cc-05f9-c9b8-90b209628660.mp3</guid>
+   <pubDate>Wed, 10 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 15 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26409815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-8%2Ff9e3cd0d-3643-997b-fd10-677d0be8c56c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26409815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-8%2Ff9e3cd0d-3643-997b-fd10-677d0be8c56c.mp3</guid>
+   <pubDate>Mon, 08 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26409812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-8%2F65089043-19d8-8f94-5d8b-07debb4d4da2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26409812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-8%2F65089043-19d8-8f94-5d8b-07debb4d4da2.mp3</guid>
+   <pubDate>Mon, 08 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 13 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26117731/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F5668f148-6fa0-cd1e-b6b4-337b744ac507.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26117731/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F5668f148-6fa0-cd1e-b6b4-337b744ac507.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 12 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26086744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F58f6fc0d-8a8e-c0ac-19a7-2c1dab5e260a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26086744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-2%2F58f6fc0d-8a8e-c0ac-19a7-2c1dab5e260a.mp3</guid>
+   <pubDate>Tue, 02 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 11 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/26033168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-1%2Fff887267-f79f-5d07-a5bb-cb6a902dc622.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/26033168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-1%2Fff887267-f79f-5d07-a5bb-cb6a902dc622.mp3</guid>
+   <pubDate>Mon, 01 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 10 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25818335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F3dea7851-77c6-c90e-94dd-532e3eee79ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25818335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F3dea7851-77c6-c90e-94dd-532e3eee79ca.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F43a355b2-7b17-d48e-79c2-1a563ffe4dcf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F43a355b2-7b17-d48e-79c2-1a563ffe4dcf.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fc120053d-88c0-7955-30f5-00937ecd4f39.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fc120053d-88c0-7955-30f5-00937ecd4f39.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F186f8673-9d09-4e09-2391-e8ec4311d5be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F186f8673-9d09-4e09-2391-e8ec4311d5be.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fb57ea295-8b75-f51a-a95c-d470d009ecf9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2Fb57ea295-8b75-f51a-a95c-d470d009ecf9.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F59eb29f7-6058-cb07-0c7c-5fc9e8890cfb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F59eb29f7-6058-cb07-0c7c-5fc9e8890cfb.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F0af67328-19f0-993f-11a5-5397e23a54e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F0af67328-19f0-993f-11a5-5397e23a54e1.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F222b25cc-c61e-b4de-f5d3-c67d62f6bac8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F222b25cc-c61e-b4de-f5d3-c67d62f6bac8.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F6b8dff9c-b9c3-3ea5-c2b2-e25a131514e7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F6b8dff9c-b9c3-3ea5-c2b2-e25a131514e7.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 | "מחצר גינת ביתן המלך" | עיונים במגילת אסתר מאת הרב טוביה ליפשיץ</title>
+   <description>הרב טוביה ליפשיץ · ישיבת הכותל · אמונה ומחשבה</description>
+   <itunes:author>הרב טוביה ליפשיץ</itunes:author>
+   <enclosure url="https://anchor.fm/s/49d82298/podcast/play/25792055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F8300c060-820d-0131-38a5-6a07b74a6914.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/49d82298/podcast/play/25792055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-27%2F8300c060-820d-0131-38a5-6a07b74a6914.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

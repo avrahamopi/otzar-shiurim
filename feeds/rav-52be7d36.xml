@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב עודד מיטלמן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-52be7d36.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב עודד מיטלמן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>להתוודות ולשכוח: יום כיפור כיום התשובה השנתי | הרב עודד מיטלמן וישי מאיר | ימים נוראים תשפ"ז</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/125394763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431442065-44100-2-9b643d4fdab2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/125394763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431442065-44100-2-9b643d4fdab2.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שעת סיפור – יציאת מצרים ודורנו | ישרון פלס והרב עודד מיטלמן | פסח בישיבת ירוחם</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/117349245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420594318-44100-2-245753ea317f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/117349245/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420594318-44100-2-245753ea317f5.mp3</guid>
+   <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נר שביעי: להעבירם מחוקי רצונך – הרב עודד מיטלמן</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fef5e3cc/podcast/play/96178613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-23%2F391994985-44100-2-751e29fc2875e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fef5e3cc/podcast/play/96178613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-23%2F391994985-44100-2-751e29fc2875e.mp3</guid>
+   <pubDate>Tue, 31 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה בין אדם לעצמו – הרב עודד מיטלמן</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fb6ae4c8/podcast/play/92683185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-7%2F387660782-44100-2-abbd24a37c39a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fb6ae4c8/podcast/play/92683185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-7%2F387660782-44100-2-abbd24a37c39a.mp3</guid>
+   <pubDate>Mon, 07 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עודד מיטלמן - ה' אלוקינו ה' אחד</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/be/23/c7/d5b2bc48728e13b9faeb28a0d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/be/23/c7/d5b2bc48728e13b9faeb28a0d3.mp3</guid>
+   <pubDate>Sun, 12 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עודד מיטלמן: הפוך בה והפוך בה - שמחת החידוש | נהפוך הוא</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/b9/1f/1acc5044bbad7502fe0fb5bf20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/b9/1f/1acc5044bbad7502fe0fb5bf20.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהודי שושן - הרב עודד מיטלמן</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7f/e8/54/38c57f4763bc8a024bca925406.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7f/e8/54/38c57f4763bc8a024bca925406.mp3</guid>
+   <pubDate>Mon, 14 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אם אין לנו רשות להשתמש בהם - למה מדליקים? הרב עודד מיטלמן</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5e/39/36/fe11e74204947d6c859fb28daf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5e/39/36/fe11e74204947d6c859fb28daf.mp3</guid>
+   <pubDate>Mon, 29 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 2: פרשנות | הרב עודד מיטלמן והרב שמואל גלייזר</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ab/f1/60/39aa2b4a0590c4657d92325ee7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ab/f1/60/39aa2b4a0590c4657d92325ee7.mp3</guid>
+   <pubDate>Sun, 26 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עודד מיטלמן - להזכיר יציאת מצרים בלילות</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3c/9e/86/83b8f347c3905e6f2d8533a3b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3c/9e/86/83b8f347c3905e6f2d8533a3b3.mp3</guid>
+   <pubDate>Mon, 15 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עודד מיטלמן - הלל הגדול בשבח הבנאליה</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/96/7c/09/738348432eaf304ee046353709.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/96/7c/09/738348432eaf304ee046353709.mp3</guid>
+   <pubDate>Mon, 15 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב עודד מיטלמן - עריכת שפתיים, בינת הלב ושכלות הלב</title>
+   <description>הרב עודד מיטלמן · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב עודד מיטלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/45/7e/13/36b3f247278db16ad35f8b67ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/45/7e/13/36b3f247278db16ad35f8b67ad.mp3</guid>
+   <pubDate>Thu, 03 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שרון יוסט · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d74fbf17.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שרון יוסט.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>כי-תצא תשפ"ו | הרב שרון יוסט</title>
+   <description>הרב שרון יוסט · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שרון יוסט</itunes:author>
+   <enclosure url="https://media.transistor.fm/8487068f/e981ebb7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8487068f/e981ebb7.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנחס תשפ"ו | הרב שרון יוסט</title>
+   <description>הרב שרון יוסט · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שרון יוסט</itunes:author>
+   <enclosure url="https://media.transistor.fm/5659e3b2/fd2ee016.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5659e3b2/fd2ee016.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך תשפ"ו | הרב שרון יוסט</title>
+   <description>הרב שרון יוסט · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שרון יוסט</itunes:author>
+   <enclosure url="https://media.transistor.fm/bde8a07b/b156ccc6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bde8a07b/b156ccc6.mp3</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל-פקודי תשפ"ו | הרב שרון יוסט</title>
+   <description>הרב שרון יוסט · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שרון יוסט</itunes:author>
+   <enclosure url="https://media.transistor.fm/1d547b07/58478ef1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1d547b07/58478ef1.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות תשפ"ו - הרב שרון יוסט</title>
+   <description>הרב שרון יוסט · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שרון יוסט</itunes:author>
+   <enclosure url="https://media.transistor.fm/5946f202/4b8544c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5946f202/4b8544c6.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

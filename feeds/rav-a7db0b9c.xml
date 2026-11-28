@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מאיר רביבו · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a7db0b9c.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מאיר רביבו.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>תעודת כשרות – מה חשוב לדעת? | הרב מאיר רביבו</title>
+   <description>הרב מאיר רביבו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=QwFLEHzzT1c</description>
+   <itunes:author>הרב מאיר רביבו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/QwFLEHzzT1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/QwFLEHzzT1c.mp3</guid>
+   <pubDate>Wed, 16 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חול המועד סוכות עם ישיבת שדרות | הרב מאיר רביבו – האם מותר להעמיד את הסכך על דבר המקבל טומאה?</title>
+   <description>הרב מאיר רביבו · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=I2_dxLaohHY</description>
+   <itunes:author>הרב מאיר רביבו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/I2_dxLaohHY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/I2_dxLaohHY.mp3</guid>
+   <pubDate>Mon, 05 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"למה זכר רק לענני כבוד?" | הרב מאיר רביבו לחג הסוכות</title>
+   <description>הרב מאיר רביבו · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=FYpDBIyyBdc</description>
+   <itunes:author>הרב מאיר רביבו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/FYpDBIyyBdc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/FYpDBIyyBdc.mp3</guid>
+   <pubDate>Thu, 01 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מאיר רביבו – ציבור או יחיד שלא קרא בתורה בשבת</title>
+   <description>הרב מאיר רביבו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=b6BZ3KTbT8M</description>
+   <itunes:author>הרב מאיר רביבו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/b6BZ3KTbT8M.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/b6BZ3KTbT8M.mp3</guid>
+   <pubDate>Tue, 05 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מאיר רביבו – כללים בהגעלת כלים והכנה הלכתית לליל הסדר</title>
+   <description>הרב מאיר רביבו · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=HIPPWFBhPUM</description>
+   <itunes:author>הרב מאיר רביבו</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/HIPPWFBhPUM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/HIPPWFBhPUM.mp3</guid>
+   <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מאור · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-d73bf395.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מאור.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>על רוצח בשגגה בתוך בית המדרש</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/96522512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-2%2F48bd1097-aac0-9276-0ead-f3b125ee3184.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/96522512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-2%2F48bd1097-aac0-9276-0ead-f3b125ee3184.mp3</guid>
+   <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה-להאיר את הספקות</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · מועדים</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/96254863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-25%2Ff395adfe-a87a-ea8d-0511-c3cf0310c2a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/96254863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-25%2Ff395adfe-a87a-ea8d-0511-c3cf0310c2a0.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהוב את המלכה</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/95999857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-19%2F391805009-44100-2-b884352a22cbc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/95999857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-19%2F391805009-44100-2-b884352a22cbc.mp3</guid>
+   <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדוע הבנת התורה נובעת דווקא מתוך חיבור לחיים?</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/84852480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-2%2F372946935-44100-2-356c4f32e5bc9.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/84852480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-2%2F372946935-44100-2-356c4f32e5bc9.m4a</guid>
+   <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תעש עצמך כעורכי הדיינים - מה רע בלהיות עורך דין?!</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/83595448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-5%2F637a8554-036c-b042-c9ce-7bef63519530.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/83595448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-5%2F637a8554-036c-b042-c9ce-7bef63519530.mp3</guid>
+   <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין לנו על מי להישען?! (א,ז)</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/83212614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F01ebce58-869c-af72-38dc-20f2eb908960.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/83212614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F01ebce58-869c-af72-38dc-20f2eb908960.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לדון לכף זכות (א,ו)</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/82890833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-19%2F368011427-44100-2-a0c174424d8dd.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/82890833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-19%2F368011427-44100-2-a0c174424d8dd.m4a</guid>
+   <pubDate>Mon, 19 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תרבה שיחה עם האישה!(א,ה)</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/82664031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367432947-44100-2-544b63aac37c7.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/82664031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367432947-44100-2-544b63aac37c7.m4a</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוי מתאבק בעפר רגליהם</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/82585204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367221590-44100-2-19c9fe5afa7a5.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/82585204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367221590-44100-2-19c9fe5afa7a5.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א משנה ג - יראה ואהבה</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · מוסר</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/81963605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-29%2F365464253-44100-2-02c6a1a202fd2.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/81963605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-29%2F365464253-44100-2-02c6a1a202fd2.m4a</guid>
+   <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א משנה ב - על 3 דברים</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/81614280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-22%2F364442185-44100-2-40aeee38c92a8.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/81614280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-22%2F364442185-44100-2-40aeee38c92a8.m4a</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>א א מי לא מוזכרים ולמה</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/81316370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F363568644-44100-2-99490adeff4a6.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/81316370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2F363568644-44100-2-99490adeff4a6.m4a</guid>
+   <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה חלק ב</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/80966908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-8%2F072b92f4-c18e-6837-a299-d3995559e351.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/80966908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-8%2F072b92f4-c18e-6837-a299-d3995559e351.mp3</guid>
+   <pubDate>Mon, 08 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה</title>
+   <description>הרב מאור · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב מאור</itunes:author>
+   <enclosure url="https://anchor.fm/s/f0045e98/podcast/play/80744230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F66307351-a540-9e33-7863-aed0c8eee258.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f0045e98/podcast/play/80744230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-3%2F66307351-a540-9e33-7863-aed0c8eee258.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

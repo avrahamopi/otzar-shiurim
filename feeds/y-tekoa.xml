@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>ישיבת תקוע · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/y-tekoa.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי ישיבת תקוע.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מסכת ערכין דף י'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b69a53e1-f92e-4b68-aba9-0d3da76f0d28.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b69a53e1-f92e-4b68-aba9-0d3da76f0d28.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 8 – מסכת שביעית - היחס לעוברי עבירה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/39918f8d-2510-4cd3-b7cb-bbf26bdfd4cf.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/39918f8d-2510-4cd3-b7cb-bbf26bdfd4cf.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח - וישלח יעקב</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6cf18330-ca41-4982-aaa3-ff2017a6d2a0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6cf18330-ca41-4982-aaa3-ff2017a6d2a0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ט'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/962992af-5432-49d6-ad49-e667b8842681.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/962992af-5432-49d6-ad49-e667b8842681.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ח'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a135010a-b2bf-4404-adc8-2358d19f5fd3.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a135010a-b2bf-4404-adc8-2358d19f5fd3.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ז'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/14315f5a-69c9-4ae0-a507-096cb30013f9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/14315f5a-69c9-4ae0-a507-096cb30013f9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e2ce3a1a-6c61-4824-be21-23df0bd3d53f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e2ce3a1a-6c61-4824-be21-23df0bd3d53f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3ae66fb8-79f9-42ea-9b5c-ea8a79532335.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3ae66fb8-79f9-42ea-9b5c-ea8a79532335.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bb53f353-0972-42ce-9ca3-68f234ff7aba.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bb53f353-0972-42ce-9ca3-68f234ff7aba.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ערכין דף ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/22943cd0-298f-4a28-9eed-9ca6118ca707.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/22943cd0-298f-4a28-9eed-9ca6118ca707.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא - אם לא תדעי לך</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4cca675b-19d0-40ea-a537-35e71e9d7b93.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4cca675b-19d0-40ea-a537-35e71e9d7b93.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 7 – מסכת כלאיים - שני מינים של איסורי כלאיים</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/044847f3-1081-42c8-b546-5d3950622ee5.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/044847f3-1081-42c8-b546-5d3950622ee5.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ס''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/af41aefb-b444-4907-ad3d-7bebbc29ba5c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/af41aefb-b444-4907-ad3d-7bebbc29ba5c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ס'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/16ac254e-4f74-45ff-ad80-53d35a1ed6cc.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/16ac254e-4f74-45ff-ad80-53d35a1ed6cc.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d7712613-0a72-4534-bb1c-9dac68fae528.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d7712613-0a72-4534-bb1c-9dac68fae528.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3cb7cc78-6de2-49ff-95e6-b4cf55b71990.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3cb7cc78-6de2-49ff-95e6-b4cf55b71990.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0d3e4dca-0cc0-4b88-b6f4-8f54a9331fc0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0d3e4dca-0cc0-4b88-b6f4-8f54a9331fc0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 6 – מסכת כלאים - גדרי הרחקה בכלאי זרעים</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/dd7070c8-a2a8-413a-a158-e164248ee95b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/dd7070c8-a2a8-413a-a158-e164248ee95b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ט - חלק ד׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/965866df-1e29-4022-ae21-1ca5cd86c86b:6efdfb08-7d5e-47b4-a19f-82a39c67fbd2.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/965866df-1e29-4022-ae21-1ca5cd86c86b:6efdfb08-7d5e-47b4-a19f-82a39c67fbd2.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0f2a70ec-6b8a-4ca1-adbd-e8a0f525c1c5.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0f2a70ec-6b8a-4ca1-adbd-e8a0f525c1c5.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/21af72c0-535c-4eae-9dd0-288e14eb9917.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/21af72c0-535c-4eae-9dd0-288e14eb9917.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''ב-נ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/12ac3c47-bfad-4244-a12e-17c5bf5e2978:473c5d46-18a7-4bae-80e3-24702ec594a8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/12ac3c47-bfad-4244-a12e-17c5bf5e2978:473c5d46-18a7-4bae-80e3-24702ec594a8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ט - חלק ג׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1e75217c-4931-457e-abb3-fd6f04af93a5:de4a3d99-ea52-4cc6-9b28-dfd9c8ab393b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1e75217c-4931-457e-abb3-fd6f04af93a5:de4a3d99-ea52-4cc6-9b28-dfd9c8ab393b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ט - חלק ב׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/61f2272b-720a-4c6f-a767-7a9df3f75bff:e037fdf8-ad1c-4fa3-aa7c-3899968f7ce8.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/61f2272b-720a-4c6f-a767-7a9df3f75bff:e037fdf8-ad1c-4fa3-aa7c-3899968f7ce8.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י״ט - חלק א׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a18c9e77-fca9-47ce-a2c3-32d38bcdf845:99e1287f-4677-4996-86ed-5dccd32ed625.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a18c9e77-fca9-47ce-a2c3-32d38bcdf845:99e1287f-4677-4996-86ed-5dccd32ed625.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח - חלק ה׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f54f93b9-b2bb-4c61-9b13-979bb174adf2:be0f4d90-ed9b-4db9-83a0-f94a4d290fe0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f54f93b9-b2bb-4c61-9b13-979bb174adf2:be0f4d90-ed9b-4db9-83a0-f94a4d290fe0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח - חלק ד׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a0d0c7d4-d3c8-4d68-9bfe-e236d6429263:7d942c43-1ffb-4e7f-baf1-315516024364.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a0d0c7d4-d3c8-4d68-9bfe-e236d6429263:7d942c43-1ffb-4e7f-baf1-315516024364.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ''א-נ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2bc490d1-81c7-434b-962b-ec6daea1cb1f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2bc490d1-81c7-434b-962b-ec6daea1cb1f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף נ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3b1cc7ff-1172-4b6f-b9dc-f8f2f671e8f1.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3b1cc7ff-1172-4b6f-b9dc-f8f2f671e8f1.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/30b9d413-ad54-476b-b5da-2e3c77071842.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/30b9d413-ad54-476b-b5da-2e3c77071842.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 5 – מסכת דמאי - במה עוסקת מסכת דמאי?</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ce352ae1-3d92-45db-8d80-65c87c420bdf.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ce352ae1-3d92-45db-8d80-65c87c420bdf.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7d9ae7d2-eca8-43e1-a84d-f912d2a49fb8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7d9ae7d2-eca8-43e1-a84d-f912d2a49fb8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה - להבין מה שאמרו חז"ל</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/da336fe1-8d63-431c-910d-e085a9e1d8e6.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/da336fe1-8d63-431c-910d-e085a9e1d8e6.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/015fbcb9-1e8a-44ed-bd99-84af97668584.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/015fbcb9-1e8a-44ed-bd99-84af97668584.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8e2d2250-744c-42f2-b99a-6c7f169b0706.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8e2d2250-744c-42f2-b99a-6c7f169b0706.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8e3cdd17-2b05-44c8-a04c-45b9a1985494.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8e3cdd17-2b05-44c8-a04c-45b9a1985494.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6a937516-cf11-4ae1-acdc-9b7d3539c8a6.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6a937516-cf11-4ae1-acdc-9b7d3539c8a6.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ''א-מ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0b6709b1-471c-4564-913a-a9a588aaf77f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0b6709b1-471c-4564-913a-a9a588aaf77f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 4 – מסכת פאה - מה בין מתנות עניים שבשדה למעשר עני ולקופה ותמחוי?</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/69e19d7c-a805-4ea0-bb55-0480ed1060cf.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/69e19d7c-a805-4ea0-bb55-0480ed1060cf.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ'-מ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f6dc949c-b11d-4c4f-80dd-c760c93004a9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f6dc949c-b11d-4c4f-80dd-c760c93004a9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וירא -ארדה נא</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ffeebe11-461b-4f0b-8e3b-2819ba085802.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ffeebe11-461b-4f0b-8e3b-2819ba085802.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף מ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e067e9e6-18d5-49a4-b26c-ef91f235a180.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e067e9e6-18d5-49a4-b26c-ef91f235a180.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d0288bfb-a119-48ce-860a-2c249f6154b9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d0288bfb-a119-48ce-860a-2c249f6154b9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b9e53534-a05b-4d5d-94e4-45f2a9fe8ac8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b9e53534-a05b-4d5d-94e4-45f2a9fe8ac8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b16d7956-9a30-4a50-83fb-4f7282e129c2.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b16d7956-9a30-4a50-83fb-4f7282e129c2.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d74ab00c-9948-4364-a9b0-9bd58dd61f4b.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d74ab00c-9948-4364-a9b0-9bd58dd61f4b.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 3 – מסכת פאה - הבדל בין מתנות עניים לתרומות ומעשרות</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e5e59030-791e-40fe-ba86-799e54bebc05.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e5e59030-791e-40fe-ba86-799e54bebc05.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c2c49574-ba3d-4cff-9a52-8ffaf05a9e29.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c2c49574-ba3d-4cff-9a52-8ffaf05a9e29.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f5ce9587-74cd-46b9-bacb-f361aefd1209.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f5ce9587-74cd-46b9-bacb-f361aefd1209.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת לך לך - אנוכי מגן לך</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/78d1b5c3-ca51-45d7-9c1a-949944960758.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/78d1b5c3-ca51-45d7-9c1a-949944960758.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/821302fc-5a00-4c17-9710-8ea858212af4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/821302fc-5a00-4c17-9710-8ea858212af4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ca5c3524-417e-46ed-b6c6-b4c6293b3245.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ca5c3524-417e-46ed-b6c6-b4c6293b3245.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ל'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b4b9dd8a-6738-4678-84da-c565899ed473.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b4b9dd8a-6738-4678-84da-c565899ed473.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ז-כ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/071a8d3e-8b79-4f99-8186-4dd08b8fac27.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/071a8d3e-8b79-4f99-8186-4dd08b8fac27.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 2 – מסכת ברכות - האם לברך באופן כללי או ספציפי?</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7340133c-2e97-4466-b8a1-bcd222584d4a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7340133c-2e97-4466-b8a1-bcd222584d4a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7ee1f76e-4273-45f0-991d-d99d50516d07.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7ee1f76e-4273-45f0-991d-d99d50516d07.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נח - מים רבים</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6b03388b-9847-4dff-bfa0-3df12e420b2b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6b03388b-9847-4dff-bfa0-3df12e420b2b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ה-כ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bcf92859-20c7-4d3c-a8a0-5458616a0b07.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bcf92859-20c7-4d3c-a8a0-5458616a0b07.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/dfc42265-5d08-4b0c-b539-5f973dc6ca34.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/dfc42265-5d08-4b0c-b539-5f973dc6ca34.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a884ed98-4d73-4905-bdca-e307e624e92c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a884ed98-4d73-4905-bdca-e307e624e92c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''ב-כ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c06f8cbd-8e4b-4446-a329-df4e68fd17d2.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c06f8cbd-8e4b-4446-a329-df4e68fd17d2.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a96886d5-0318-465d-85dc-042337a9c67d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a96886d5-0318-465d-85dc-042337a9c67d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה 2 שיעור 1 – מסכת ברכות - המבנה של פרקים א-ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/89ba5e76-f6c1-4935-a43e-58e83870006b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/89ba5e76-f6c1-4935-a43e-58e83870006b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף כ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/21239aaf-b58c-470d-b94b-61f656dc152c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/21239aaf-b58c-470d-b94b-61f656dc152c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7ca91d27-7219-4240-9fbf-f197829e18a4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7ca91d27-7219-4240-9fbf-f197829e18a4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''ז-י''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/de7a2074-13b8-403e-a2cb-4bad59c17207.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/de7a2074-13b8-403e-a2cb-4bad59c17207.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ט''ז-י''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/337a5d6b-b0a1-4eee-934a-bbf5aa317d01.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/337a5d6b-b0a1-4eee-934a-bbf5aa317d01.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ט''ו-ט''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8fff116b-91a1-4cf4-af59-6e8658653474.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8fff116b-91a1-4cf4-af59-6e8658653474.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/70ffb468-9f6f-41ca-964d-36075b9b13ce.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/70ffb468-9f6f-41ca-964d-36075b9b13ce.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני עצרת - טוב לחסות בה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/22422492-5804-4fe7-ab05-914bb42eb135.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/22422492-5804-4fe7-ab05-914bb42eb135.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/12631209-6f9e-4d37-a8f5-0a82a5cb89a8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/12631209-6f9e-4d37-a8f5-0a82a5cb89a8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5a5b5932-b255-4f77-820a-ff9aad743d14.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5a5b5932-b255-4f77-820a-ff9aad743d14.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף י'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1a2f12a0-aec7-4584-9d6f-ac2621554a43.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1a2f12a0-aec7-4584-9d6f-ac2621554a43.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ט'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f73876b9-3858-4c6d-9b0b-1f1159678e21.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f73876b9-3858-4c6d-9b0b-1f1159678e21.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ז'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8596b6d8-f4f9-4dcf-ab56-571fb6cce767.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8596b6d8-f4f9-4dcf-ab56-571fb6cce767.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e52cb8ff-f7a1-4707-b88f-c62441554e55.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e52cb8ff-f7a1-4707-b88f-c62441554e55.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת סוכות - ושאבתם מים בששון</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/04b64c42-6427-4a43-9ba9-a6b6ba04ea25.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/04b64c42-6427-4a43-9ba9-a6b6ba04ea25.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/878dfb88-0404-46ca-8f47-0b395faeee2d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/878dfb88-0404-46ca-8f47-0b395faeee2d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b1d7fa89-5e3c-4e86-a53e-82c1671cde8d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b1d7fa89-5e3c-4e86-a53e-82c1671cde8d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת בכורות דף ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e0d70e42-3282-4ab1-a35c-4a604e5b22f3.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e0d70e42-3282-4ab1-a35c-4a604e5b22f3.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קמ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2770df5e-2809-4a9b-92fb-692cd460956c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2770df5e-2809-4a9b-92fb-692cd460956c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת שובה ויום כיפור - לבאר עניין יום כיפור</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6dea11ed-cbc5-4651-8fc8-8cbd99b5f1e0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6dea11ed-cbc5-4651-8fc8-8cbd99b5f1e0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''מ</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/aea8b33f-924e-4be8-abb8-831bf15d0599.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/aea8b33f-924e-4be8-abb8-831bf15d0599.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/fb20e148-7dd0-41ea-8f16-8c09b47153d0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/fb20e148-7dd0-41ea-8f16-8c09b47153d0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2c1e90f4-35ff-404b-a2d7-d2edc3822ddb.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2c1e90f4-35ff-404b-a2d7-d2edc3822ddb.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3dc2944d-cb29-40a1-8af3-c396c0fbf77c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3dc2944d-cb29-40a1-8af3-c396c0fbf77c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f0738ed2-6e07-4d4c-ad1a-85c5103ebe30.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f0738ed2-6e07-4d4c-ad1a-85c5103ebe30.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ef46bfd0-b92a-4613-b395-a6456bdc4e39.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ef46bfd0-b92a-4613-b395-a6456bdc4e39.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה - יחיינו מיומיים</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/562f21d1-a525-4666-a214-cacf72adb9e0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/562f21d1-a525-4666-a214-cacf72adb9e0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה של הרב שטיינזלץ עם הרב ג'וזה אייזנברג על ראש השנה</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6849986d-96fe-4549-81ff-e23692d171cf.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6849986d-96fe-4549-81ff-e23692d171cf.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/11659e68-2cae-415e-ae42-1d43b7afe6a1.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/11659e68-2cae-415e-ae42-1d43b7afe6a1.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קל''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1e4456b1-00ae-46cd-ac96-272628ae512f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1e4456b1-00ae-46cd-ac96-272628ae512f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ל</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/16e4e366-bd64-49af-9067-5b694c301317.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/16e4e366-bd64-49af-9067-5b694c301317.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a67fad26-cd73-4665-a2b2-9d365026e463.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a67fad26-cd73-4665-a2b2-9d365026e463.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0c2d1594-fdc8-484c-bf3d-132b37f76fd7.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0c2d1594-fdc8-484c-bf3d-132b37f76fd7.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5632b9e7-cd3b-4e44-897c-446ab99d33c5.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5632b9e7-cd3b-4e44-897c-446ab99d33c5.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה - תקעו בחודש שופר</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/91e4c564-f2cd-40c2-a81a-3e5ec1739687.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/91e4c564-f2cd-40c2-a81a-3e5ec1739687.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1ca1c41c-36ab-4c3d-86b4-6c28b77aaf9a.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1ca1c41c-36ab-4c3d-86b4-6c28b77aaf9a.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2e3a4863-aba0-46b7-afb4-19f94912134c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2e3a4863-aba0-46b7-afb4-19f94912134c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/44c5f993-9d2f-47ff-b760-57672d93f905.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/44c5f993-9d2f-47ff-b760-57672d93f905.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קכ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/926317e6-9cc4-4f06-8b6b-8d5a4d70dcba.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/926317e6-9cc4-4f06-8b6b-8d5a4d70dcba.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''כ</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2040b677-bbf6-4194-810f-84700ee7a5d9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2040b677-bbf6-4194-810f-84700ee7a5d9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2e1f9390-9c34-4e45-86a3-b1feecae66e9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2e1f9390-9c34-4e45-86a3-b1feecae66e9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תבוא - תחת אשר לא עבדת</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4394dc5e-98f5-4ca3-95f0-f1841d301cdc.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4394dc5e-98f5-4ca3-95f0-f1841d301cdc.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0802918b-df16-4bf3-b8f4-af48271ad967.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0802918b-df16-4bf3-b8f4-af48271ad967.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5e4e8a66-9711-49e5-a577-4f7c44e5b93d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5e4e8a66-9711-49e5-a577-4f7c44e5b93d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קט''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e301d60a-9128-40bd-8c92-461bc4e590e5.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e301d60a-9128-40bd-8c92-461bc4e590e5.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קט''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6eedb159-6895-4b5d-a6f1-a61cc73b54af.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6eedb159-6895-4b5d-a6f1-a61cc73b54af.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/93416481-b1c1-4c63-9944-d2fe33ad1fbc.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/93416481-b1c1-4c63-9944-d2fe33ad1fbc.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e849c41b-f20f-4946-aea9-387ac0487ab2.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e849c41b-f20f-4946-aea9-387ac0487ab2.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף קי''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/81a339e0-0f43-4ba7-a229-9c3c7f8af39e.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/81a339e0-0f43-4ba7-a229-9c3c7f8af39e.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תצא - כי תצא</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2329ed7d-e26e-4aca-b0be-460469e3a5c0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2329ed7d-e26e-4aca-b0be-460469e3a5c0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''י</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/580f40bb-f124-4195-a47e-4e940f6a94f6.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/580f40bb-f124-4195-a47e-4e940f6a94f6.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f919002e-db7f-4e79-87f7-347139b81f65.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f919002e-db7f-4e79-87f7-347139b81f65.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/57ffce97-c9cd-4419-a393-3096b3a507e9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/57ffce97-c9cd-4419-a393-3096b3a507e9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/28c2c511-a341-48d6-b4b1-8e3ecfa505ef.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/28c2c511-a341-48d6-b4b1-8e3ecfa505ef.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/64cc640a-05ad-406b-b465-e821a192ffee.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/64cc640a-05ad-406b-b465-e821a192ffee.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2a0b489c-14d2-4897-bd3b-c5596af934a4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2a0b489c-14d2-4897-bd3b-c5596af934a4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/912a8fcd-eb56-45a9-8ef8-b7f76d3cdb0d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/912a8fcd-eb56-45a9-8ef8-b7f76d3cdb0d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/026916aa-2496-4083-96d5-6fcd1abcf68b.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/026916aa-2496-4083-96d5-6fcd1abcf68b.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ק'-ק''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/cee382d3-299b-4be7-8fd8-61965e40fae4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/cee382d3-299b-4be7-8fd8-61965e40fae4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f991b986-1a2f-4d8d-91f7-c41fcd139c64.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f991b986-1a2f-4d8d-91f7-c41fcd139c64.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5a0a9557-3ca3-4c84-84d6-8f1c70bd88ee.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5a0a9557-3ca3-4c84-84d6-8f1c70bd88ee.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ראה - כי תשמע</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f0f39c3d-2dbf-4842-9d1b-80b3bacb5d23.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f0f39c3d-2dbf-4842-9d1b-80b3bacb5d23.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b9d0adb9-aaab-4b11-a19d-9819a5a93a64.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b9d0adb9-aaab-4b11-a19d-9819a5a93a64.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3f9c3e2b-bd73-40dc-a7b4-7652488fb7d0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3f9c3e2b-bd73-40dc-a7b4-7652488fb7d0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/76bffabc-4879-47cb-946b-22ec7c85a518.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/76bffabc-4879-47cb-946b-22ec7c85a518.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6706439d-e6b6-4be0-8d32-793495f45d1c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6706439d-e6b6-4be0-8d32-793495f45d1c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7a721361-9826-4cc5-83ce-a47b2559cd15.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7a721361-9826-4cc5-83ce-a47b2559cd15.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/20515dca-b66e-41b5-b9a4-af74756fa792.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/20515dca-b66e-41b5-b9a4-af74756fa792.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף צ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a8984fc6-27ad-45d7-ae6e-fe026adfcb8b.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a8984fc6-27ad-45d7-ae6e-fe026adfcb8b.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף פ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3d07739a-a408-44d0-b054-c4d609f18d5e.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3d07739a-a408-44d0-b054-c4d609f18d5e.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת עקב - ויאכילך את המן</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9bf79b15-16ad-488e-b29c-bf00624a9f7f.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9bf79b15-16ad-488e-b29c-bf00624a9f7f.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/129bb4c3-78ce-4103-9f24-fd516683c3d7.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/129bb4c3-78ce-4103-9f24-fd516683c3d7.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף פ''ז-פ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4e206880-0d0a-4e5f-9220-70f1d46db5cd.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4e206880-0d0a-4e5f-9220-70f1d46db5cd.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף פ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/af54bdc2-4cf8-4b8b-a858-fc3c4e8eaced.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/af54bdc2-4cf8-4b8b-a858-fc3c4e8eaced.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף פ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/90e1cbca-0f40-4af0-8cf6-af5373812aee.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/90e1cbca-0f40-4af0-8cf6-af5373812aee.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף פ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/cc4336a2-03aa-4a7b-a531-2952a8652b47.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/cc4336a2-03aa-4a7b-a531-2952a8652b47.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ואתחנן - וידעת היום</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/65418e26-2b1e-4c00-b10a-e679b039799d.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/65418e26-2b1e-4c00-b10a-e679b039799d.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף פ''א-פ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7353017e-b7b6-4294-8ef3-1dd3f6e49ab8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7353017e-b7b6-4294-8ef3-1dd3f6e49ab8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/87a63075-8ed9-471f-a2c6-dc2d92222dba.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/87a63075-8ed9-471f-a2c6-dc2d92222dba.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף פ'-פ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/eb857f08-0c50-46db-8162-5601f3150c70.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/eb857f08-0c50-46db-8162-5601f3150c70.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ע''ט-פ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5d3bb91e-4b3e-476e-8051-6806a54b21f9.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5d3bb91e-4b3e-476e-8051-6806a54b21f9.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ע''ז-ע''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5e7ff7cd-8b63-49cc-8d6e-42822a8e6776.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5e7ff7cd-8b63-49cc-8d6e-42822a8e6776.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ע''ו-ע''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/cdb36fc7-3f45-4d6c-9a87-57fbb3fb17fb.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/cdb36fc7-3f45-4d6c-9a87-57fbb3fb17fb.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ע''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9f1b9ede-9e4a-45ab-9d54-c576afb6ff41.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9f1b9ede-9e4a-45ab-9d54-c576afb6ff41.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ע''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/40faccf8-65ff-484f-82c7-c98ac905f122.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/40faccf8-65ff-484f-82c7-c98ac905f122.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/72756df5-e48b-455e-a094-9cc11981d648.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/72756df5-e48b-455e-a094-9cc11981d648.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ע''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/976a1765-f8c3-4b21-a451-d21565c715cf.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/976a1765-f8c3-4b21-a451-d21565c715cf.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ע''ב-ע''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c59f2788-2f4d-49e2-bdea-b9d846dde0ff.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c59f2788-2f4d-49e2-bdea-b9d846dde0ff.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ע'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/12ada79d-a697-4af2-aa9d-92611980bf07.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/12ada79d-a697-4af2-aa9d-92611980bf07.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/52340e0b-eb1b-4bf5-81ad-f923f5293937.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/52340e0b-eb1b-4bf5-81ad-f923f5293937.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''ח-ס''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/962677f0-6a82-41ce-b998-33954832c03d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/962677f0-6a82-41ce-b998-33954832c03d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e8e5d8f0-494b-4d45-8345-4b8a51bfbdcd.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e8e5d8f0-494b-4d45-8345-4b8a51bfbdcd.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מטות מסעי - אלה מסעי</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/37dcda59-e0f0-48cf-a060-2290614beb56.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/37dcda59-e0f0-48cf-a060-2290614beb56.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ח'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5194511c-6c06-40a4-9391-5edbbb9214c1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5194511c-6c06-40a4-9391-5edbbb9214c1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/21bd9d61-8d74-4394-afeb-8d0d366010a4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/21bd9d61-8d74-4394-afeb-8d0d366010a4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''ה-ס''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7299a56b-adbb-47cc-a944-bb67ad88a8f1.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7299a56b-adbb-47cc-a944-bb67ad88a8f1.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/238f470a-2b34-46cf-a36e-375924538cd0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/238f470a-2b34-46cf-a36e-375924538cd0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bf3f959c-f81e-4e61-9fa3-6ce704ae4e16.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bf3f959c-f81e-4e61-9fa3-6ce704ae4e16.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/113d4f11-deb5-4b7b-bb8e-4385a96e5147.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/113d4f11-deb5-4b7b-bb8e-4385a96e5147.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5dcadd46-b525-4591-8bfa-b727372a3403.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5dcadd46-b525-4591-8bfa-b727372a3403.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פנחס - צו את בני ישראל</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d1f21f38-f400-46aa-9b05-e27a90d68bfa.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d1f21f38-f400-46aa-9b05-e27a90d68bfa.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/112cf78b-fec2-41b0-b688-7f0f78e4a9e2.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/112cf78b-fec2-41b0-b688-7f0f78e4a9e2.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ס'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bb110d68-f5f7-440a-abee-dfa80ad42c51.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bb110d68-f5f7-440a-abee-dfa80ad42c51.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף נ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f92c58df-53f4-4231-befa-0b19f788d28f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f92c58df-53f4-4231-befa-0b19f788d28f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף נ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5f0ee3dc-8210-4e50-82e7-c760d77b43a3.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5f0ee3dc-8210-4e50-82e7-c760d77b43a3.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף נ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/650c2362-9b2e-4b07-b8fc-f038d4430418.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/650c2362-9b2e-4b07-b8fc-f038d4430418.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף נ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/97d95c20-8662-472c-9a25-74e32f98b013.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/97d95c20-8662-472c-9a25-74e32f98b013.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בלק - לא הביט אוון ביעקב</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/dc0a7673-603d-4820-a983-80ff5c704b4c.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/dc0a7673-603d-4820-a983-80ff5c704b4c.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף נ''ג-נ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f5ac91f9-1d56-4370-a462-b5c42f764f08.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f5ac91f9-1d56-4370-a462-b5c42f764f08.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/dd30d212-0441-477f-b734-cfe5468a7ac6.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/dd30d212-0441-477f-b734-cfe5468a7ac6.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף נ''ב-נ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/09f99292-278f-4486-9626-73d1c9428d18.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/09f99292-278f-4486-9626-73d1c9428d18.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף נ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ab63d935-4956-4c4d-b411-93de14a28a0e.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ab63d935-4956-4c4d-b411-93de14a28a0e.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף נ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/84cff4fb-0629-486d-81b9-ebe996a59812.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/84cff4fb-0629-486d-81b9-ebe996a59812.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ded83da4-7b07-4c4e-b1c0-0169b1819433.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ded83da4-7b07-4c4e-b1c0-0169b1819433.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/79470eb2-694f-4ab9-a8bd-f265d4b533b5.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/79470eb2-694f-4ab9-a8bd-f265d4b533b5.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/455c3931-7969-4d73-8bf1-488123fb754e.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/455c3931-7969-4d73-8bf1-488123fb754e.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חוקת - על כן יאמרו</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/75bcf9a3-7e09-4ea6-ae50-2ac77fb527b8.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/75bcf9a3-7e09-4ea6-ae50-2ac77fb527b8.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/420e58e5-dd62-4f45-88c3-941bb4a9cea1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/420e58e5-dd62-4f45-88c3-941bb4a9cea1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c287f8ff-da57-4c34-bb4c-a776f636c611.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c287f8ff-da57-4c34-bb4c-a776f636c611.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bdbe0a45-512a-4d86-8831-3bcafc5ddd54.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bdbe0a45-512a-4d86-8831-3bcafc5ddd54.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d1ab4bc8-c670-455a-85aa-e6b4114da97c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d1ab4bc8-c670-455a-85aa-e6b4114da97c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6aa2b10a-4d01-4945-9b8f-eeea81b7d31e.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6aa2b10a-4d01-4945-9b8f-eeea81b7d31e.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/779a7407-edc6-4c3c-99fc-4501a3601f76.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/779a7407-edc6-4c3c-99fc-4501a3601f76.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף מ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0b9a39f0-0fdb-42f8-add1-bded4de053fe.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0b9a39f0-0fdb-42f8-add1-bded4de053fe.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ad55612c-07d6-4b54-b08f-4e7f5467ef5c.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ad55612c-07d6-4b54-b08f-4e7f5467ef5c.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ל''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/affebf19-543b-408b-a7ca-38f0f24c6cbc.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/affebf19-543b-408b-a7ca-38f0f24c6cbc.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ל''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b78acb9a-9f05-4666-9c4d-3bcda5dc958b.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b78acb9a-9f05-4666-9c4d-3bcda5dc958b.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ל''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/64cb2885-cf27-41cf-8512-b1d2935f5624.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/64cb2885-cf27-41cf-8512-b1d2935f5624.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ל''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a2999600-1d08-4cef-98b3-81b9475a5d83.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a2999600-1d08-4cef-98b3-81b9475a5d83.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ל''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a90f839c-0592-4188-91bd-29a70dcae266.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a90f839c-0592-4188-91bd-29a70dcae266.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ל''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/601b0509-e289-41b8-93cb-110673d83a4a.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/601b0509-e289-41b8-93cb-110673d83a4a.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שלח לך - שלח לך אנשים</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5351b85a-f97d-4cb8-9e8e-0e4a3057c6f2.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5351b85a-f97d-4cb8-9e8e-0e4a3057c6f2.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/39d0a6e0-8dc0-4ff4-a1c1-0e99a3c53e9a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/39d0a6e0-8dc0-4ff4-a1c1-0e99a3c53e9a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ל''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4c821fbf-c17f-46d6-86dd-e340b94302ab.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4c821fbf-c17f-46d6-86dd-e340b94302ab.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ל''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7e265af6-8451-4018-b995-bfceae1e6bfb.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7e265af6-8451-4018-b995-bfceae1e6bfb.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף כ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e7b348d3-be8d-4f62-ab41-da3c1735baab.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e7b348d3-be8d-4f62-ab41-da3c1735baab.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף כ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ed63f849-281a-44a6-ade1-ff4515e19129.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ed63f849-281a-44a6-ade1-ff4515e19129.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהעלותך - ראיתי והנה מנורת זהב</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2469a29a-84bd-4d77-88bd-ecf489f3ce3f.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2469a29a-84bd-4d77-88bd-ecf489f3ce3f.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף כ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/485bfcf6-6e85-4c2d-923d-11b1a43d224f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/485bfcf6-6e85-4c2d-923d-11b1a43d224f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף כ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/29e7b0f8-6693-4c6a-9352-aaff41ff1825.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/29e7b0f8-6693-4c6a-9352-aaff41ff1825.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/714794d3-e7db-4950-ab85-1ff25b9740f3.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/714794d3-e7db-4950-ab85-1ff25b9740f3.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף כ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/89e53448-83bc-41f7-b142-bb66bbc710bd.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/89e53448-83bc-41f7-b142-bb66bbc710bd.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף כ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d7e0be3d-5cfc-43a1-8b00-05da4a4563f6.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d7e0be3d-5cfc-43a1-8b00-05da4a4563f6.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף כ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5bbf36fe-1bc7-43f5-b89c-917e50f307f6.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5bbf36fe-1bc7-43f5-b89c-917e50f307f6.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף י''ט-כ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/45ab7625-4284-47f3-bec6-190b46dbbd02.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/45ab7625-4284-47f3-bec6-190b46dbbd02.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף י''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/afb97b7d-79c9-47d5-b8a7-6b0a79711447.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/afb97b7d-79c9-47d5-b8a7-6b0a79711447.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נשא - כה תברכו</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2810131b-a8a7-4ec6-8a1f-5c2af221220e.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2810131b-a8a7-4ec6-8a1f-5c2af221220e.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף י''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b4f3dba1-21d8-4029-b5dc-633a34c5bed6.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b4f3dba1-21d8-4029-b5dc-633a34c5bed6.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ט''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b5b4a3e0-281c-47df-bf65-d9aaea5b5d43.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b5b4a3e0-281c-47df-bf65-d9aaea5b5d43.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ט''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f467d248-d6bc-474f-87fb-df38bb43c926.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f467d248-d6bc-474f-87fb-df38bb43c926.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף י''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9c929c26-a1af-4e87-b099-5c0bca0aa2bc.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9c929c26-a1af-4e87-b099-5c0bca0aa2bc.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף י''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/47c1b570-95fa-4d38-b17f-98317e262180.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/47c1b570-95fa-4d38-b17f-98317e262180.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף י''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a026a5a3-ca0a-43e6-a44e-991f62b40f19.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a026a5a3-ca0a-43e6-a44e-991f62b40f19.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף י'-י''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ee70cf28-af3a-4ae0-86a6-b9adfb472f2a.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ee70cf28-af3a-4ae0-86a6-b9adfb472f2a.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ט'-י'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/14bdfb35-1f53-4a85-9588-35a43f892f38.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/14bdfb35-1f53-4a85-9588-35a43f892f38.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ח'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/10e523d8-e207-4671-91e2-0a9e2f755c35.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/10e523d8-e207-4671-91e2-0a9e2f755c35.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהר בחוקותי</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/870d4f46-7bba-4e80-978b-877cc7cb227f.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/870d4f46-7bba-4e80-978b-877cc7cb227f.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ז'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/cab44fe4-9deb-44a9-bfc6-a7767ed1861c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/cab44fe4-9deb-44a9-bfc6-a7767ed1861c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ae1bb264-628a-42b1-ab65-05d4a8cab59c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ae1bb264-628a-42b1-ab65-05d4a8cab59c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1da03308-afc0-498e-a5b9-ec4eafb1da1f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1da03308-afc0-498e-a5b9-ec4eafb1da1f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7f2921af-f081-42e7-b786-e9ed3872967e.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7f2921af-f081-42e7-b786-e9ed3872967e.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ג'-ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6e66852b-db69-4bc7-bb7d-00a000976457.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6e66852b-db69-4bc7-bb7d-00a000976457.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת חולין דף ב'-ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f2acea3f-8427-4a83-94d0-28e52506119c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f2acea3f-8427-4a83-94d0-28e52506119c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''י</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/df7de24d-8e4a-481e-82fb-0d67af4974f3.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/df7de24d-8e4a-481e-82fb-0d67af4974f3.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9dcae10f-cfa3-4a24-9a31-c2f4714797f7.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9dcae10f-cfa3-4a24-9a31-c2f4714797f7.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת אמור - והניף הכהן</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/738ec309-8d74-42bb-b1bd-3b6ed528f63d.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/738ec309-8d74-42bb-b1bd-3b6ed528f63d.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bad1f03c-8175-4978-bfde-7677cd6fa70f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bad1f03c-8175-4978-bfde-7677cd6fa70f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b3a4e804-c880-425a-b481-fb64805f2a9d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b3a4e804-c880-425a-b481-fb64805f2a9d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/55c700ac-c1c2-4e5d-942e-254f57038be6.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/55c700ac-c1c2-4e5d-942e-254f57038be6.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9da9c4c5-0311-4977-811d-347e1257812b.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9da9c4c5-0311-4977-811d-347e1257812b.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d59f09aa-4431-41f3-a703-efa0f7749da7.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d59f09aa-4431-41f3-a703-efa0f7749da7.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ea7d3d94-4f24-4514-8d01-aec7c6c8033b.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ea7d3d94-4f24-4514-8d01-aec7c6c8033b.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת אחרי מות קדושים - וכי תבואו אל הארץ</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/99512dc9-eefe-42c9-8db6-997cf84ba57a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/99512dc9-eefe-42c9-8db6-997cf84ba57a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a3f91043-9acd-46b4-bba0-302d214652ac.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a3f91043-9acd-46b4-bba0-302d214652ac.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ק'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/20525bb1-b6cf-47de-9c59-4bf1f639de7c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/20525bb1-b6cf-47de-9c59-4bf1f639de7c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף צ''ח-צ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/36cd49f4-5409-4f9d-9348-6d1e200b417e.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/36cd49f4-5409-4f9d-9348-6d1e200b417e.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף צ''ז-צ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a32d4f46-74c8-4c77-8e41-c6945ae865c1.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a32d4f46-74c8-4c77-8e41-c6945ae865c1.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף צ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8975607c-3c39-4275-818d-3e769586ea88.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8975607c-3c39-4275-818d-3e769586ea88.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 17 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף צ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/dac2b0b6-2815-461d-938c-5bcc7ad0dade.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/dac2b0b6-2815-461d-938c-5bcc7ad0dade.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע מצורע - שוש תשיש</title>
+   <description>רבני הישיבה · ישיבת תקוע · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/51271792-2ff1-4514-9a48-205fbded6413.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/51271792-2ff1-4514-9a48-205fbded6413.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף צ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/82454c1f-423a-4704-941c-2b71e5e36b5c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/82454c1f-423a-4704-941c-2b71e5e36b5c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף צ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/649d467b-b8b4-4108-9290-97d88111b5c8.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/649d467b-b8b4-4108-9290-97d88111b5c8.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תנינא תורה י"ב - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/788d6e0b-5abd-4d2c-bc2b-9c7e2612bb0c.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/788d6e0b-5abd-4d2c-bc2b-9c7e2612bb0c.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף צ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/723c4d44-0345-435c-8de8-6c756906596d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/723c4d44-0345-435c-8de8-6c756906596d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף צ''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4bfa0ba8-69e2-49ed-bc03-89467c8eb22c.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4bfa0ba8-69e2-49ed-bc03-89467c8eb22c.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 12 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף פ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d242f4f1-eb72-4728-be03-12fe6860a576.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d242f4f1-eb72-4728-be03-12fe6860a576.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף פ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0d87ecac-2849-43be-a079-680bfc5d9803.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0d87ecac-2849-43be-a079-680bfc5d9803.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמיני - "לויתן זה יצרת"</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/73523513-95c9-4db3-849d-46cd04bb2821.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/73523513-95c9-4db3-849d-46cd04bb2821.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף פ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b3042b0b-3e5e-40b6-ac91-0582046be452.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b3042b0b-3e5e-40b6-ac91-0582046be452.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תנינא תורה י"ב - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e670df96-f574-4afc-8a16-16dac3ee60ff:46476177-9332-4bbc-a281-6aa667727bfb.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e670df96-f574-4afc-8a16-16dac3ee60ff:46476177-9332-4bbc-a281-6aa667727bfb.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף פ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ed17103d-ced5-45c9-8ece-86b3fa3d7d8f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ed17103d-ced5-45c9-8ece-86b3fa3d7d8f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 06 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף פ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e860e872-6a04-41fd-b4d0-97647903d385.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e860e872-6a04-41fd-b4d0-97647903d385.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 05 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף פ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9a8f2cf2-f7bc-4ddd-84fb-99f9ebeb463e.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9a8f2cf2-f7bc-4ddd-84fb-99f9ebeb463e.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שביעי של פסח - ששת ימים תאכל מצות</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/10b0cec1-4916-409f-a3e0-c2a8a0cb0434.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/10b0cec1-4916-409f-a3e0-c2a8a0cb0434.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף פ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a8ae69ba-e4c1-4e2e-ab0e-3af08c24bad2.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a8ae69ba-e4c1-4e2e-ab0e-3af08c24bad2.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/82130818-b4e3-41b1-bbaf-e385a3518cdf.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/82130818-b4e3-41b1-bbaf-e385a3518cdf.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/388feb4f-de1f-408a-b27d-08de528acc22.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/388feb4f-de1f-408a-b27d-08de528acc22.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6c78eaff-c054-49a6-a17b-31c16f799ad2.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6c78eaff-c054-49a6-a17b-31c16f799ad2.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/976183fb-a155-49d6-98fb-edeeff4d838b.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/976183fb-a155-49d6-98fb-edeeff4d838b.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1524e79b-0f8e-4ee1-aa34-c1ab12018ae0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1524e79b-0f8e-4ee1-aa34-c1ab12018ae0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0cdef3b0-81a7-4dc6-ab3c-f1dda165920f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0cdef3b0-81a7-4dc6-ab3c-f1dda165920f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח - להבין מ"ש בהגדה מצה זו</title>
+   <description>רבני הישיבה · ישיבת תקוע · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f52c1392-ce1c-40cf-8487-d032f9e98f59.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f52c1392-ce1c-40cf-8487-d032f9e98f59.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/54457f3b-d72d-479e-bc63-22437da357ad.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/54457f3b-d72d-479e-bc63-22437da357ad.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ט"ז - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ed779672-cd4e-4734-90ca-21b67400abe1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ed779672-cd4e-4734-90ca-21b67400abe1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2c4dd74d-31a1-4430-8d07-4c49e2b318e4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2c4dd74d-31a1-4430-8d07-4c49e2b318e4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ע'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/28ac15cb-b695-4023-820b-fc2b30953c98.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/28ac15cb-b695-4023-820b-fc2b30953c98.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ס''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/df51ff02-0aea-4e69-a048-41d2c2050129.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/df51ff02-0aea-4e69-a048-41d2c2050129.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ס''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7449e337-6709-4fae-a73a-7391fe6bcf19.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7449e337-6709-4fae-a73a-7391fe6bcf19.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקרא - ביאור על פי לא תשבית</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c5017132-0c8d-429f-933a-50bb0b0415d2.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c5017132-0c8d-429f-933a-50bb0b0415d2.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ס''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/889ff561-52d1-4b53-a815-41aeabe9dc54.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/889ff561-52d1-4b53-a815-41aeabe9dc54.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ס''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c14c6169-53d1-4c9c-8cbc-ae5062e06fbb.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c14c6169-53d1-4c9c-8cbc-ae5062e06fbb.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ט"ז - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d9510611-8a82-4dbe-ae01-52b9c7b532a1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d9510611-8a82-4dbe-ae01-52b9c7b532a1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ס''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bd8e3eb4-d155-41d0-ab2e-96cf53c53ebb.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bd8e3eb4-d155-41d0-ab2e-96cf53c53ebb.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ס''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0c4ab064-edda-4b49-ad05-f048ae5e6a38.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0c4ab064-edda-4b49-ad05-f048ae5e6a38.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ס''א</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7f02c980-bbc1-4f76-a024-04daa4c9b035.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7f02c980-bbc1-4f76-a024-04daa4c9b035.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ס'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/50dcb480-d543-4b5d-aeec-2c5c2bf01449.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/50dcb480-d543-4b5d-aeec-2c5c2bf01449.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקהל פקודי - קחו לי מאתכם תרומה</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b1145566-9acf-4f22-8ffd-e70fcf5259c9.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b1145566-9acf-4f22-8ffd-e70fcf5259c9.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף נ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/723b09a0-953e-429c-be2c-5b1ed7ebe3ee.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/723b09a0-953e-429c-be2c-5b1ed7ebe3ee.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף נ''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/83d8cc43-94a5-4f94-b1a8-770cb5ce1928.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/83d8cc43-94a5-4f94-b1a8-770cb5ce1928.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף נ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ff4cabf1-2a79-41e4-906e-23b2e673e87e.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ff4cabf1-2a79-41e4-906e-23b2e673e87e.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף נ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bbf1a84c-4279-47af-a81e-7f1a3f607384.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bbf1a84c-4279-47af-a81e-7f1a3f607384.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 08 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף נ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5ab383f1-6a8f-46db-8dd5-e9caf91134da.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5ab383f1-6a8f-46db-8dd5-e9caf91134da.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף נ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/24ac4fa0-1462-45d7-bc76-51f56065fd93.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/24ac4fa0-1462-45d7-bc76-51f56065fd93.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף נ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ee507b56-44f2-4725-b597-dfa119fe03e0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ee507b56-44f2-4725-b597-dfa119fe03e0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף נ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e60e3e1a-402c-4c11-82e5-789b0b4f7149.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e60e3e1a-402c-4c11-82e5-789b0b4f7149.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף מ''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/43df7721-4dcf-49e8-92aa-f056c5819fe8.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/43df7721-4dcf-49e8-92aa-f056c5819fe8.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף מ''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/eab01b71-d785-4a51-8f37-9b9f2459d31f.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/eab01b71-d785-4a51-8f37-9b9f2459d31f.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף מ''ו</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e0bd4857-3744-4244-bc70-7805989eb6c4.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e0bd4857-3744-4244-bc70-7805989eb6c4.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תצווה - חייב איניש</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3fe87fab-3e39-4de6-892e-1f67101e9400.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3fe87fab-3e39-4de6-892e-1f67101e9400.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף מ''ה</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/3b76543a-5337-4a30-ae77-896cacc4013d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/3b76543a-5337-4a30-ae77-896cacc4013d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף מ''ד</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/685d81cc-8945-4888-85af-2d93a86c12f0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/685d81cc-8945-4888-85af-2d93a86c12f0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף מ''ג</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/66a52762-33c7-497e-b164-aeb68846ddfc.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/66a52762-33c7-497e-b164-aeb68846ddfc.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף מ''ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/68c99fa1-e92f-4337-bf4b-02378028c54d.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/68c99fa1-e92f-4337-bf4b-02378028c54d.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף מ'</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1de56975-59b1-4557-a0f3-145c928547b0.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1de56975-59b1-4557-a0f3-145c928547b0.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ל''ט</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8622d653-5f4f-4c02-a57c-0d906f2de553.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8622d653-5f4f-4c02-a57c-0d906f2de553.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ל''ח</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6d6f50a0-c73d-437b-b93e-c5e392e251c1.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6d6f50a0-c73d-437b-b93e-c5e392e251c1.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תרומה - מי יתנך</title>
+   <description>רבני הישיבה · ישיבת תקוע · פרשת השבוע</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4b8934ca-6cd3-4828-96f6-f5dfb3135f92.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4b8934ca-6cd3-4828-96f6-f5dfb3135f92.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת מנחות דף ל''ז</title>
+   <description>רבני הישיבה · ישיבת תקוע · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/208efe74-c259-4dd5-9f67-2e8d84e32cfb.m4a?source=rss&amp;ext=asset.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/208efe74-c259-4dd5-9f67-2e8d84e32cfb.m4a?source=rss&amp;ext=asset.m4a</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

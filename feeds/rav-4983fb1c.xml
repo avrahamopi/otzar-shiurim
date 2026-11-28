@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שי גניזי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-4983fb1c.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שי גניזי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרק סיכום: החתיכה החסרה בלימוד תורה | צדקת הצדיק לשמחת תורה | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/126023451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432283800-44100-2-63b6b9990f44d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/126023451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432283800-44100-2-63b6b9990f44d.mp3</guid>
+   <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות - להסיר את הפוזות | הרב שי גניזי | צדקת הצדיק לסוכות</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/125876676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432089368-44100-2-10b1b8455f09f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/125876676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432089368-44100-2-10b1b8455f09f.mp3</guid>
+   <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התפיסה הרדיקלית של התשובה והבחירה החופשית במשנת ר' צדוק הכהן | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/125752631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F431914842-44100-2-1ae73f3621f87.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/125752631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F431914842-44100-2-1ae73f3621f87.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההזדמנות שבחטא | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/125377787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431418237-44100-2-6d348ab6e9831.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/125377787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431418237-44100-2-6d348ab6e9831.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לצמוח מכישלון | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/124964722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430860239-44100-2-d3bc5696e5654.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/124964722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430860239-44100-2-d3bc5696e5654.mp3</guid>
+   <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול: משהו חדש מתחיל | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/124693974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430483989-44100-2-9ec59d66b3dd3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/124693974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430483989-44100-2-9ec59d66b3dd3.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה צ"ב: לצאת מעמדת התייר הרוחני | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/123413430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428742038-44100-2-d705ea3e23fcd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/123413430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428742038-44100-2-d705ea3e23fcd.mp3</guid>
+   <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה צ': לימוד תורה מחובר לנפש ולעולם | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/123413419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F429182921-44100-2-00574e9099549.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/123413419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F429182921-44100-2-00574e9099549.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"ט: ספיישל לחופש הגדול - לדבר בעולם | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/123413402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428742056-44100-2-f6785040dd04b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/123413402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428742056-44100-2-f6785040dd04b.mp3</guid>
+   <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"ז: כף זכות במעשים הקטנים | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/123030502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428224194-44100-2-38ab20ca61059.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/123030502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428224194-44100-2-38ab20ca61059.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"ה: הכל רוח וצלצולים | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/122808543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427922158-44100-2-8070dcf0db9ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/122808543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427922158-44100-2-8070dcf0db9ab.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"ג: טלפון מאראלה ממפעל הפיס | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/122489049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F427494184-44100-2-ce6c32f111123.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/122489049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F427494184-44100-2-ce6c32f111123.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוספת אהבת חינם בתקופות סוערות | הרב שי גניזי ונחשון לוי | מדברים על החורבן</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/122438493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427425702-44100-2-e643ba2ed5e1a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/122438493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427425702-44100-2-e643ba2ed5e1a.mp3</guid>
+   <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"א: לצפות על העניינים מן המרפסת | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/122192165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F427095378-44100-2-288296f65780f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/122192165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F427095378-44100-2-288296f65780f.mp3</guid>
+   <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ע"ג: לחיות בתוך סיפור | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/121875932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F426671375-44100-2-9cd539ee5430e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/121875932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F426671375-44100-2-9cd539ee5430e.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ע"ב: לצאת מהקונספציה | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/121551026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426238180-44100-2-1f10b5363d7db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/121551026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426238180-44100-2-1f10b5363d7db.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ע': לעבוד את ה' דרך החסרונות | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/121217385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-9%2F425792255-44100-2-e9ce2dc64bfd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/121217385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-9%2F425792255-44100-2-e9ce2dc64bfd.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ס"ח: להיות דתי בלב | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/120891498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425356545-44100-2-933d9dd42b8fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/120891498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425356545-44100-2-933d9dd42b8fb.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ס"ז: לחזור בתשובה בכל עלייה | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/120545728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424894366-44100-2-89bfff5f204f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/120545728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424894366-44100-2-89bfff5f204f5.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ס"ו: תפילה על כוס קפה | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/120207014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424443036-44100-2-b2ba38ea5eb7a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/120207014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424443036-44100-2-b2ba38ea5eb7a.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ס"ה: זאת האמת שלי | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/119858348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F423976735-44100-2-ff772cc3f477d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/119858348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F423976735-44100-2-ff772cc3f477d.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה נ"ו: מפגש כפוי עם הקב"ה | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/119515472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F423509120-44100-2-a8d21ed0e5fbe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/119515472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F423509120-44100-2-a8d21ed0e5fbe.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה נ"ד: מי חלק מעם ישראל? | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/119161829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F423024970-44100-2-9e82597e15bc9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/119161829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F423024970-44100-2-9e82597e15bc9.mp3</guid>
+   <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה ס"ד | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/117352035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420597086-44100-2-678b28a1230eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/117352035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420597086-44100-2-678b28a1230eb.mp3</guid>
+   <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספיישל פסח – לחם עוני</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/117350796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420595388-44100-2-e3e8721bf2d08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/117350796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420595388-44100-2-e3e8721bf2d08.mp3</guid>
+   <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספיישל פסח – לספר בחירות</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · תנ"ך</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/117350284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420594772-44100-2-7b23d43f239c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/117350284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420594772-44100-2-7b23d43f239c4.mp3</guid>
+   <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ט | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/117065869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-17%2F420207984-44100-2-4081540b6f816.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/117065869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-17%2F420207984-44100-2-4081540b6f816.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ח | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/116704253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F419718116-44100-2-13fc833b743a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/116704253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F419718116-44100-2-13fc833b743a5.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ז | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/115957899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2F418707518-44100-2-b723c0ee63087.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/115957899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2F418707518-44100-2-b723c0ee63087.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ה | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/115634462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418275444-44100-2-2c276f251e0a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/115634462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418275444-44100-2-2c276f251e0a1.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ג | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/115284599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-10%2F417808368-44100-2-56e43fc09098b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/115284599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-10%2F417808368-44100-2-56e43fc09098b.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"א | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/115003725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-4%2F417433983-44100-2-22a3a44bf7566.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/115003725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-4%2F417433983-44100-2-22a3a44bf7566.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ' | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/113633121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-7%2F415655576-44100-2-a30efb9fdb832.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/113633121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-7%2F415655576-44100-2-a30efb9fdb832.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה מ"ט | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/113319237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-31%2F415260023-44100-2-dd560e31cb0ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/113319237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-31%2F415260023-44100-2-dd560e31cb0ce.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה מ"ז | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/112061103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-3%2F413647691-44100-2-22af8969ac736.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/112061103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-3%2F413647691-44100-2-22af8969ac736.mp3</guid>
+   <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה מ"ו | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/111733774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-26%2F413203051-44100-2-ad4c9e3815c7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/111733774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-26%2F413203051-44100-2-ad4c9e3815c7e.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה מ''ב | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/110629129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-3%2F410515553-44100-2-27ef080074e53.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/110629129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-3%2F410515553-44100-2-27ef080074e53.mp3</guid>
+   <pubDate>Mon, 03 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקאות י"ג י"ד | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/109007677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408395529-44100-2-8a6208720c31c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/109007677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408395529-44100-2-8a6208720c31c.mp3</guid>
+   <pubDate>Sat, 18 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה כ''ה | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/106298739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2F404934465-44100-2-8fc18a3e9df45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/106298739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2F404934465-44100-2-8fc18a3e9df45.mp3</guid>
+   <pubDate>Mon, 04 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'צדקת הצדיק| פסקה ח</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/105442979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2F403840000-44100-2-f79042beb595f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/105442979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2F403840000-44100-2-f79042beb595f.mp3</guid>
+   <pubDate>Mon, 21 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה ג'</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/105431333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2F403822693-44100-2-94d14283f7ed5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/105431333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2F403822693-44100-2-94d14283f7ed5.mp3</guid>
+   <pubDate>Mon, 14 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה ב' | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/105133768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403441209-44100-2-af185c87bf246.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/105133768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403441209-44100-2-af185c87bf246.mp3</guid>
+   <pubDate>Mon, 07 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פתיחה ופסקה א' | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/104829287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-30%2F403052124-44100-2-4c34a80e187ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/104829287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-30%2F403052124-44100-2-4c34a80e187ff.mp3</guid>
+   <pubDate>Mon, 30 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נר ראשון: להודות ולהלל – הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fef5e3cc/podcast/play/96128865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-21%2F391932800-44100-2-eadf7af3e5d03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fef5e3cc/podcast/play/96128865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-21%2F391932800-44100-2-eadf7af3e5d03.mp3</guid>
+   <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות היציאה מהבית – הרב שי גניזי והרב עודד מיטלמן</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fc62dae8/podcast/play/93281099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F388396202-44100-2-bdbb366f3a88b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fc62dae8/podcast/play/93281099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-20%2F388396202-44100-2-bdbb366f3a88b.mp3</guid>
+   <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שי גניזי – יום השואה: "שתוק, כך עלתה במחשבה לפניי"</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3c/5d/f6/33a6f74b79a96c477a532d3fd7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3c/5d/f6/33a6f74b79a96c477a532d3fd7.mp3</guid>
+   <pubDate>Sun, 12 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחשוורוש - הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ef/ce/21/822e474e189598dd7a29e3ac94.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ef/ce/21/822e474e189598dd7a29e3ac94.mp3</guid>
+   <pubDate>Mon, 14 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בית וחוץ - אויבים או אוהבים? הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/89/4d/0c45a049c5af5b832269e661a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/89/4d/0c45a049c5af5b832269e661a4.mp3</guid>
+   <pubDate>Tue, 30 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ונהפוך הוא - הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/97/89/c5f0294372b29c6e6cb1400be9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/97/89/c5f0294372b29c6e6cb1400be9.mp3</guid>
+   <pubDate>Wed, 24 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שי גניזי - אנשים מאירים</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ad/49/df/87114241f2b603dd6187e6b530.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ad/49/df/87114241f2b603dd6187e6b530.mp3</guid>
+   <pubDate>Thu, 10 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - הנבואה ומבוכות בהבנתה</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f0d6c/podcast/play/3756869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137688-44100-1-57c9b9b16e54b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f0d6c/podcast/play/3756869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137688-44100-1-57c9b9b16e54b.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - מעמד הר סיני</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f0d6c/podcast/play/3756894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137684-44100-1-f2e31f222a2fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f0d6c/podcast/play/3756894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137684-44100-1-f2e31f222a2fa.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - עולם האמת והשקר, הטוב והרע</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f0d6c/podcast/play/3756876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137657-44100-1-9d3c4006ada05.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f0d6c/podcast/play/3756876/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137657-44100-1-9d3c4006ada05.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - פרק הפתיחה</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f0d6c/podcast/play/3756870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137651-44100-1-fe99a314aa20e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f0d6c/podcast/play/3756870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137651-44100-1-fe99a314aa20e.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - פתיחה ואגרת</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/c7f0d6c/podcast/play/3756750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137488-44100-1-14674318e975d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/c7f0d6c/podcast/play/3756750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-3%2F18137488-44100-1-14674318e975d.mp3</guid>
+   <pubDate>Wed, 03 Jul 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

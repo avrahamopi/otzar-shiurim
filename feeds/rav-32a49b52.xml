@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אליעזר קשתיאל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-32a49b52.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אליעזר קשתיאל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב אליעזר קשתיאל | שיעור להושענא רבה</title>
+   <description>הרב אליעזר קשתיאל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/628f5f3a/93354b57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/628f5f3a/93354b57.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור הכנה לימים הנוראים | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/280f9227/41a0bccb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/280f9227/41a0bccb.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העולם הנסתר שבלב | הרב אליעזר קשתיאל | בכל לבבך 14</title>
+   <description>הרב אליעזר קשתיאל · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73554628/utf_8_b_15txqnerinen16nxmdeq15dxnc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73554628/utf_8_b_15txqnerinen16nxmdeq15dxnc5tcdm.mp3</guid>
+   <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המלכת ה' – דווקא ביוה"כ! | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת שדרות – אפיקי דעת · מועדים</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9wgkd3hosQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9wgkd3hosQ.mp3</guid>
+   <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב אליעזר קשתיאל | הלבוש של הגאולה</title>
+   <description>הרב אליעזר קשתיאל · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73086244/utf_8_b_15txqnerineq15zxmdei15bxqcdxp9ep16rxmdeq15wubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73086244/utf_8_b_15txqnerineq15zxmdei15bxqcdxp9ep16rxmdeq15wubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אליעזר קשתיאל | ליל הושענא רבה | תשפ"ו</title>
+   <description>הרב אליעזר קשתיאל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/aea10336/a03a63b9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aea10336/a03a63b9.mp3</guid>
+   <pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב הכנה לפורים | פורים תשפ"ה | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/645621a9/fac7afae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/645621a9/fac7afae.mp3</guid>
+   <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין קדושת שבת לקדושת יו"ט הבדלת | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/99404452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-5%2F396007911-44100-2-127d2bc04c6de.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/99404452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-5%2F396007911-44100-2-127d2bc04c6de.mp3</guid>
+   <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הציפייה למשיח בן דוד | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=7KpbFlkh4R4</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7KpbFlkh4R4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7KpbFlkh4R4.mp3</guid>
+   <pubDate>Wed, 31 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין כבוד אלא תורה – הרב אליעזר קשתיאל | חג שבועות התשפ"ד</title>
+   <description>הרב אליעזר קשתיאל · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=3v0WmTtpXFY</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3v0WmTtpXFY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3v0WmTtpXFY.mp3</guid>
+   <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות התורה בבנין הבית | שיעור זוגיות לנשואים | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=doBVK2NCb48</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/doBVK2NCb48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/doBVK2NCb48.mp3</guid>
+   <pubDate>Sun, 06 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ד2+ה1- הטוב בדיעבד | למהלך האידאות בישראל | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7101.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7101.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5- סיפור ההסטוריה | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7100.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7100.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ג3+ פסקה ד1- אהבת ה’ בישראל | למהלך האידאות בישראל | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7092.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7092.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4- ישראל אור לעמים | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7091.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7091.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3- מוסלמי+ פנייה לחבר | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7081.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7081.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3- מוסלמי+ פנייה לחבר | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת ברכת יוסף · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7080.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7080.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכת תיקון העולם - הרב אליעזר קשתיאל - אורות התחיה - פסקה טז’ 21</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6587.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6587.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטרת התחיה היא הנבואה - הרב אליעזר קשתיאל - אורות התחיה פסקאות סה’ - סו’ - 66</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6932.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6932.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ב 2+פסקה ג 1- אהבת ה’ | למהלך האידאות בישראל | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7067.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7067.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראיה - יראה - פסקאות טו’ - יח’ - לא לפחד סתם - הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · מוסר</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6907.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6907.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה שדוחף את עמ"י לארצו - הרב אליעזר קשתיאל - אורות התחיה פסקאות סד’ - 65</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6931.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6931.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החזרה אל הנבואה - הרב אליעזר קשתיאל - אורות התחיה פסקה סז’ - 67</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6940.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6940.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה א- 3- לאומיות ללא אלוקיות | למהלך האידאות בישראל | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7046.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7046.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקאות א-ד- הפילוסוף | כוזרי- מאמר ראשון | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7048.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7048.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גילוי הסוד שבתורה - הרב אליעזר קשתיאל - אורות התחיה פסקאות סב’ - סג’ - 64</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6926.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6926.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה הגדולה - הרב אליעזר קשתיאל - אורות התחיה פסקה סח’ - 68</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6944.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6944.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה א- 3- לאומיות ללא אלוקיות | למהלך האידאות בישראל | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7031.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7031.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה אל רוח הקודש - הרב אליעזר קשתיאל - אורות התחיה פסקה סט’ - 69</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6947.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6947.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה א- 2- איזה מוקד קודם מבין השניים | למהלך האידאות בישראל | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7021.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7021.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידות הראיה - הרב אליעזר קשתיאל -הדעת בעבודת המידות</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · מוסר</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6655.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6655.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלום בין הנגלה לנסתר - הרב אליעזר קשתיאל - אורות התחיה פסקה ס’ - 62</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6914.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6914.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצורך בבירור הערכים - הרב אליעזר קשתיאל - אורות התחיה פסקה נח’ - 60</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6906.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6906.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יחסי הנסתר הביקורת והשכל - הרב אליעזר קשתיאל - אורות התחיה פסקה נט’ - 61</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6908.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6908.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זיכרון העבר וחיבורו לעתיד - המשך פסקה ה - 10 - הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת אבינועם · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6443.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6443.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

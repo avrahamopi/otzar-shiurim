@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מאיר פינקלשטיין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-57587029.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מאיר פינקלשטיין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב מאיר פינקלשטיין | וישלח תשפ"ז</title>
+   <description>הרב מאיר פינקלשטיין · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר פינקלשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/92ddb8ef/f289d119.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/92ddb8ef/f289d119.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום כיפור תשפ"ז | הרב מאיר פינקלשטיין</title>
+   <description>הרב מאיר פינקלשטיין · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב מאיר פינקלשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/46fe5d20/40ddb9f8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/46fe5d20/40ddb9f8.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר-בחוקותי תשפ"ו | הרב מאיר פינקלשטיין</title>
+   <description>הרב מאיר פינקלשטיין · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר פינקלשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/614007c9/db68c487.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/614007c9/db68c487.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא התשפ"ו - הרב מאיר פינקלשטיין</title>
+   <description>הרב מאיר פינקלשטיין · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר פינקלשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/a2ecdac0/fe33c91e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a2ecdac0/fe33c91e.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו תשפ"ו - הרב מאיר פינקלשטיין</title>
+   <description>הרב מאיר פינקלשטיין · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר פינקלשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/c4ab62bf/e48a23ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c4ab62bf/e48a23ff.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש 5786 - הרב מאיר פינקלשטיין</title>
+   <description>הרב מאיר פינקלשטיין · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר פינקלשטיין</itunes:author>
+   <enclosure url="https://media.transistor.fm/4a03b3b1/b9c24064.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4a03b3b1/b9c24064.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

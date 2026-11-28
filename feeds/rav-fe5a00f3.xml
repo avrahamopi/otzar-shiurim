@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב גדי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-fe5a00f3.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב גדי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>ה - אורח בחנוכה</title>
+   <description>הרב גדי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב גדי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1bd1145b-cbb0-48b2-b8a9-0b47e86447a5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1bd1145b-cbb0-48b2-b8a9-0b47e86447a5/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ד - הדלקה בחופשה</title>
+   <description>הרב גדי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f7b3170b-5e54-4b31-9ece-e8cea059c109/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f7b3170b-5e54-4b31-9ece-e8cea059c109/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ג - הדלקה במקומות ציבוריים ובחתונה</title>
+   <description>הרב גדי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/895c953a-8e16-4f7b-bd02-cc283a11de14/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/895c953a-8e16-4f7b-bd02-cc283a11de14/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ב - פרסום הנס בהדלקה</title>
+   <description>הרב גדי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/848bbc6f-eeb0-4a70-a2ca-5466bb3e5b07/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/848bbc6f-eeb0-4a70-a2ca-5466bb3e5b07/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>א - זמן ההדלקה</title>
+   <description>הרב גדי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב גדי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c5bfe8d3-4df1-498e-a08a-733679d19019/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c5bfe8d3-4df1-498e-a08a-733679d19019/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

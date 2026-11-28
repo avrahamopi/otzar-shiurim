@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יואב פלדמן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-8c03531a.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יואב פלדמן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>זריזים מקדימים למצוות | 27</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a61ebedd-0453-4b1e-9fbe-b16f1005b122/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a61ebedd-0453-4b1e-9fbe-b16f1005b122/stream.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תדיר ושאינו תדיר (ב) | 26</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bfedbbd3-3789-437a-9d32-2fb5adb4a37b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bfedbbd3-3789-437a-9d32-2fb5adb4a37b/stream.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תדיר ושאינו תדיר (א) | 25</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/26a09984-e307-4024-a28c-9fbe063e002e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/26a09984-e307-4024-a28c-9fbe063e002e/stream.mp3</guid>
+   <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות עשה שהזמן גרמא (ד) | 24</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/58efd7b4-9a89-4e7d-baa4-b955071e7d60/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/58efd7b4-9a89-4e7d-baa4-b955071e7d60/stream.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות עשה שהזמן גרמא (ג) | 23</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/22cdec81-d54a-480d-aec9-7337d0dbdd32/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/22cdec81-d54a-480d-aec9-7337d0dbdd32/stream.mp3</guid>
+   <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות עשה שהזמן גרמא (ב) | 22</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/62453c3c-cbcb-4e98-8af9-a20de5415fe4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/62453c3c-cbcb-4e98-8af9-a20de5415fe4/stream.mp3</guid>
+   <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות עשה שהזמן גרמא (א) | 21</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/558bd6cf-9419-49f4-81d4-ab0b9939cadc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/558bd6cf-9419-49f4-81d4-ab0b9939cadc/stream.mp3</guid>
+   <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משה רבנו - הכנסת האורח ללב | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c632743a-a251-42fe-a720-404def8b1e8b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c632743a-a251-42fe-a720-404def8b1e8b/stream.mp3</guid>
+   <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת המצוות (ג) - ברכה על מנהג | 20</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d487932a-d33a-47b2-a143-b913afad1551/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d487932a-d33a-47b2-a143-b913afad1551/stream.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת המצוות (ב) - מצבים מיוחדים | 19</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a462812c-14eb-4f8b-8373-01dc31f42cac/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a462812c-14eb-4f8b-8373-01dc31f42cac/stream.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת המצוות (א) | 18</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0cc5b441-3f6f-4eff-9f8c-0375b60446b7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0cc5b441-3f6f-4eff-9f8c-0375b60446b7/stream.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שומע כעונה (ב) - מקרים מיוחדים | 17</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e974c20b-fe4d-48b7-9bde-99f432ab3b58/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e974c20b-fe4d-48b7-9bde-99f432ab3b58/stream.mp3</guid>
+   <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שומע כעונה (א) - יסודות | 16</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6a1f1e4f-a96c-480b-9cea-54791fcf0c70/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6a1f1e4f-a96c-480b-9cea-54791fcf0c70/stream.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הידור מצווה (ב) | 15</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/845f2f4b-a00c-4c8b-871e-ced81055f185/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/845f2f4b-a00c-4c8b-871e-ced81055f185/stream.mp3</guid>
+   <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הידור מצווה (א) | 14</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/07e79e40-5a39-4ca1-9d72-bf5b90bfa303/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/07e79e40-5a39-4ca1-9d72-bf5b90bfa303/stream.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עוסק במצווה פטור מן המצווה (א) | 13</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/84c0803c-491c-4623-ba2e-cdc36664af71/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/84c0803c-491c-4623-ba2e-cdc36664af71/stream.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצווה הבאה בעבירה (ג) | 12</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/36f3e713-a486-4d1a-9761-d8030889084a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/36f3e713-a486-4d1a-9761-d8030889084a/stream.mp3</guid>
+   <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצווה הבאה בעבירה (ב) | 11</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a671d724-3949-4af9-a410-f531e3b81f9d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a671d724-3949-4af9-a410-f531e3b81f9d/stream.mp3</guid>
+   <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצווה הבאה בעבירה (א) | 10</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6f7505e0-8788-4a8b-9425-ae358efe4305/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6f7505e0-8788-4a8b-9425-ae358efe4305/stream.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איסור ספייה לקטן (ב) | 9</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/669e36d8-b9aa-4ea0-a494-291d6c8cb9ec/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/669e36d8-b9aa-4ea0-a494-291d6c8cb9ec/stream.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איסור ספייה לקטן (א) | 8</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1553e89d-1c78-408f-bc83-edd544df764b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1553e89d-1c78-408f-bc83-edd544df764b/stream.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חינוך (ב) | 7</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/af3c663f-4576-4fd2-b970-61e060b9bf8e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/af3c663f-4576-4fd2-b970-61e060b9bf8e/stream.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חינוך (א) | 6</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4d6e184a-e414-4a36-b2f4-87867f707531/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4d6e184a-e414-4a36-b2f4-87867f707531/stream.mp3</guid>
+   <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דין ערבות ומצוות צריכות כוונה: השלמות | 5</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4e3c99ac-5d4a-46ba-85c9-30040764814e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4e3c99ac-5d4a-46ba-85c9-30040764814e/stream.mp3</guid>
+   <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דין ערבות (ב) | 4</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/43e1b8a3-a947-41ce-9fef-8790ac425713/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/43e1b8a3-a947-41ce-9fef-8790ac425713/stream.mp3</guid>
+   <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דין ערבות (א) | 3</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/14b79ed3-c456-4ad6-8db7-c755fe02a604/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/14b79ed3-c456-4ad6-8db7-c755fe02a604/stream.mp3</guid>
+   <pubDate>Tue, 16 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות צריכות כוונה (ב) | 2</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d04a7072-afec-46c0-97f2-428d2a98cdc3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d04a7072-afec-46c0-97f2-428d2a98cdc3/stream.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות צריכות כוונה (א) | 1</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b8d0765d-e864-4b8c-ba2b-665ea7f04f23/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b8d0765d-e864-4b8c-ba2b-665ea7f04f23/stream.mp3</guid>
+   <pubDate>Wed, 03 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגאולה הכפולה בליל הסדר | והגדת לבנך תשפ"ה | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b7841d48-ad3c-4a39-8d71-dd7b7a088d6c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b7841d48-ad3c-4a39-8d71-dd7b7a088d6c/stream.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - מצוות היום - 4</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/78f2e7ab-7999-4452-a539-c73a7746fc59/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/78f2e7ab-7999-4452-a539-c73a7746fc59/stream.mp3</guid>
+   <pubDate>Sat, 23 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - קריאת מגילה (ג) - 3</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e3d470d7-3268-4a52-b778-bc6023c0a7fc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e3d470d7-3268-4a52-b778-bc6023c0a7fc/stream.mp3</guid>
+   <pubDate>Fri, 22 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - קריאת מגילה (ב) - 2</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8d8f665c-1cac-46ab-a1fa-0eb32a8e980a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8d8f665c-1cac-46ab-a1fa-0eb32a8e980a/stream.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - קריאת המגילה (א) - 1</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/808ed54d-6fde-49d2-8204-8ec0a6553d5f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/808ed54d-6fde-49d2-8204-8ec0a6553d5f/stream.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (50) מקץ - עליית יוסף מהבור לבית פרעה | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/11f5d9fa-7780-4066-b713-a663b4ab5a3d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/11f5d9fa-7780-4066-b713-a663b4ab5a3d/stream.mp3</guid>
+   <pubDate>Fri, 15 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (49) וישב - סיפור יהודה ותמר | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/43d5cc53-285d-44e4-84b4-b90993088d62/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/43d5cc53-285d-44e4-84b4-b90993088d62/stream.mp3</guid>
+   <pubDate>Fri, 15 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (48) וישלח - פגישת יעקב והמלאך | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/cbd92e1c-dea0-42de-8f49-4d37e93638ff/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/cbd92e1c-dea0-42de-8f49-4d37e93638ff/stream.mp3</guid>
+   <pubDate>Fri, 15 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (47) וישלח - הכנת יעקב למפגש עם עשו | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e9a6b7a9-bf72-43ce-a5d6-19d3409621a2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e9a6b7a9-bf72-43ce-a5d6-19d3409621a2/stream.mp3</guid>
+   <pubDate>Fri, 15 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - ברכת הרואה נר חנוכה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f9317db5-ad09-4752-bddd-3e8ac95afe7b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f9317db5-ad09-4752-bddd-3e8ac95afe7b/stream.mp3</guid>
+   <pubDate>Sun, 10 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7 - בני ישיבות וחיילים בנר חנוכה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1f294a65-6150-4d87-bb64-8f2c7c7f8947/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1f294a65-6150-4d87-bb64-8f2c7c7f8947/stream.mp3</guid>
+   <pubDate>Sun, 10 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - היכן מניחים את החנוכיה?</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/111a05a2-c15c-4eaa-b0bc-79a7934331df/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/111a05a2-c15c-4eaa-b0bc-79a7934331df/stream.mp3</guid>
+   <pubDate>Sun, 10 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - משתשקע חמה עד שתכלה רגל מן השוק</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/113f8839-e7ec-4449-95c1-c9b25f550ec3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/113f8839-e7ec-4449-95c1-c9b25f550ec3/stream.mp3</guid>
+   <pubDate>Sun, 10 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - כיצד מהדרין במצוות נר חנוכה?</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c695820f-22bf-4f6c-95a7-92035839f2b1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c695820f-22bf-4f6c-95a7-92035839f2b1/stream.mp3</guid>
+   <pubDate>Sun, 10 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - ימי הלל והודאה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/23dc712e-78ef-4641-91a7-ec5c76d238e6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/23dc712e-78ef-4641-91a7-ec5c76d238e6/stream.mp3</guid>
+   <pubDate>Sun, 10 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - נר שבת ונר חנוכה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/fa4d5759-c7ac-44da-81f2-1951117f02d1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/fa4d5759-c7ac-44da-81f2-1951117f02d1/stream.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - בין חנוכה לפורים - פתיחה לפרקי החנוכה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ddacbbf8-6b90-4dbb-9069-f0ecbe9f255b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ddacbbf8-6b90-4dbb-9069-f0ecbe9f255b/stream.mp3</guid>
+   <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (45) ויצא - חזרת יעקב לארץ ישראל | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ae4c33ce-bc75-4c49-9ada-a1610e7976a2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ae4c33ce-bc75-4c49-9ada-a1610e7976a2/stream.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (44) ויצא - יעקב בבאר בחרן | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b2e8aea2-fe5c-45c9-b411-a071f24c1e38/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b2e8aea2-fe5c-45c9-b411-a071f24c1e38/stream.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (43) - חלום הסולם | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1469de89-5c2a-4633-bc38-2f035a6b7892/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1469de89-5c2a-4633-bc38-2f035a6b7892/stream.mp3</guid>
+   <pubDate>Thu, 23 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (42) - היכן מתחיל סיפור גניבת הברכות | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2aa496da-2dd9-4261-94dd-dbca6d40795d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2aa496da-2dd9-4261-94dd-dbca6d40795d/stream.mp3</guid>
+   <pubDate>Thu, 23 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (40) - קורות יצחק בגרר | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7e69e838-a1b0-4d1b-9adf-a704b5231f4d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7e69e838-a1b0-4d1b-9adf-a704b5231f4d/stream.mp3</guid>
+   <pubDate>Mon, 20 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (39) - לידת יעקב ועשו | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/da2becf6-fd63-4247-80c8-d063a7a300d3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/da2becf6-fd63-4247-80c8-d063a7a300d3/stream.mp3</guid>
+   <pubDate>Mon, 20 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (38) - פטירתו וקבורתו של אברהם | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/bdf30d29-048d-4cde-a20c-29c81877736b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/bdf30d29-048d-4cde-a20c-29c81877736b/stream.mp3</guid>
+   <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (35) - בין ניחוש לתפילה | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/875068ef-d887-47fd-b7ec-8b8d6104d4ef/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/875068ef-d887-47fd-b7ec-8b8d6104d4ef/stream.mp3</guid>
+   <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (34) - חסדה של רבקה | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/80bdd7d1-183c-4b0b-bb5b-696fafc86bed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/80bdd7d1-183c-4b0b-bb5b-696fafc86bed/stream.mp3</guid>
+   <pubDate>Fri, 10 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (32) - קנין מערת המכפלה | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f67eafd6-38f2-4b4d-af0f-a75a387fb871/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f67eafd6-38f2-4b4d-af0f-a75a387fb871/stream.mp3</guid>
+   <pubDate>Fri, 10 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (31) - נסיון העקידה | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/52d6e89c-19b7-471f-9b0d-787bf25b2ef5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/52d6e89c-19b7-471f-9b0d-787bf25b2ef5/stream.mp3</guid>
+   <pubDate>Mon, 06 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (30) - ייעודו של ישמעאל | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/defea3d2-cd2b-46fe-bd4c-996b03222fb8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/defea3d2-cd2b-46fe-bd4c-996b03222fb8/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (28) - הצלתו של לוט | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9dab904a-44d7-4b47-a314-6b46629c7806/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9dab904a-44d7-4b47-a314-6b46629c7806/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (24) - שתי הבשורות בלידת יצחק | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0cfe633d-44ed-4d29-bbb4-d7c5ea75dc03/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0cfe633d-44ed-4d29-bbb4-d7c5ea75dc03/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (23) - הויכוח על הארץ בין אברהם ללוט | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/622e5efa-b3a3-4231-9c4f-55e7f2f023a1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/622e5efa-b3a3-4231-9c4f-55e7f2f023a1/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (22) - מגדל בבל ואברהם אבינו | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b92a3e36-3eaa-46f8-b677-09db480823e3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b92a3e36-3eaa-46f8-b677-09db480823e3/stream.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (18) - הבריאה הראשונה והשנייה | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8bfe144a-0cfb-4371-aa26-29c8a4335601/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8bfe144a-0cfb-4371-aa26-29c8a4335601/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (12) - שושלת קין והבל | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/06651b34-05e0-4f1d-b325-c8b67fa7e188/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/06651b34-05e0-4f1d-b325-c8b67fa7e188/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (9) - שורשה של אלימות קין והבל | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/90d38513-6f6e-4558-8b83-b504f7db656d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/90d38513-6f6e-4558-8b83-b504f7db656d/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (3) - בריאת העולם והאדם | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c39e2a14-0b2b-463e-94e8-8997566a55bd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c39e2a14-0b2b-463e-94e8-8997566a55bd/stream.mp3</guid>
+   <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וזאת הברכה - מעמד שמונה פסוקים אחרונים שבתורה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7fa9c401-2031-4f49-b8e1-a65afb5512d0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7fa9c401-2031-4f49-b8e1-a65afb5512d0/stream.mp3</guid>
+   <pubDate>Wed, 04 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת סוכות - מעמיד בדבר המקבל טומאה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cfbb6be7-0b1e-45e8-b35e-dce35960ab2f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cfbb6be7-0b1e-45e8-b35e-dce35960ab2f/stream.mp3</guid>
+   <pubDate>Wed, 27 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האזינו - ברכת התורה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d4e03081-96aa-4748-b165-c7fb242e4c24/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d4e03081-96aa-4748-b165-c7fb242e4c24/stream.mp3</guid>
+   <pubDate>Wed, 20 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה שחל בשבת</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c1d70e3d-69e8-411c-ae9e-b47e79acd4bd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c1d70e3d-69e8-411c-ae9e-b47e79acd4bd/stream.mp3</guid>
+   <pubDate>Thu, 14 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניצבים-וילך - מצוות התשובה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8ed86f95-e7b9-439a-a3b2-47c792b53ec9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8ed86f95-e7b9-439a-a3b2-47c792b53ec9/stream.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא - ברכת המצוות עובר לעשייתן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d6510d97-2286-43be-9473-8d5b159bfe37/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d6510d97-2286-43be-9473-8d5b159bfe37/stream.mp3</guid>
+   <pubDate>Thu, 31 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא - דין השבת אבידה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/45acf56b-d6b2-41bb-b4cd-b0b7ff490dac/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/45acf56b-d6b2-41bb-b4cd-b0b7ff490dac/stream.mp3</guid>
+   <pubDate>Wed, 23 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים - עדים זוממים</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a8e7fa32-4444-495f-a173-5b6c82c64ab3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a8e7fa32-4444-495f-a173-5b6c82c64ab3/stream.mp3</guid>
+   <pubDate>Wed, 16 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראה - שמיטת כספים</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/49c9adbf-318d-431a-b33d-c55b861a3f5c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/49c9adbf-318d-431a-b33d-c55b861a3f5c/stream.mp3</guid>
+   <pubDate>Tue, 08 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עקב - נוסח ברכת המזון</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4e672da9-16af-4605-a194-f5255010b1ce/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4e672da9-16af-4605-a194-f5255010b1ce/stream.mp3</guid>
+   <pubDate>Tue, 01 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואתחנן - ספק בקריאת שמע וברכותיה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/27132368-e506-413d-8867-7717e886e2d1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/27132368-e506-413d-8867-7717e886e2d1/stream.mp3</guid>
+   <pubDate>Wed, 26 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים - בישולי נוכרים</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3c7f5925-b78b-43a6-a090-3fa464739aa2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3c7f5925-b78b-43a6-a090-3fa464739aa2/stream.mp3</guid>
+   <pubDate>Thu, 20 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות-מסעי - מצוות יישוב ארץ ישראל</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1fab80ac-0477-45e5-a2c1-79f90d8fe89f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1fab80ac-0477-45e5-a2c1-79f90d8fe89f/stream.mp3</guid>
+   <pubDate>Tue, 11 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנחס - תדיר ושאינו תדיר תדיר קודם</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e802e2a1-5438-4260-aca1-e133e8c35c47/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e802e2a1-5438-4260-aca1-e133e8c35c47/stream.mp3</guid>
+   <pubDate>Thu, 06 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק - מעמד הקנאי</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fb92bdb5-5ec4-4458-9ec6-5389350cc21c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fb92bdb5-5ec4-4458-9ec6-5389350cc21c/stream.mp3</guid>
+   <pubDate>Wed, 28 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוקת - נפילת אפיים</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8484dc6a-1d90-4a68-b38a-b513accc59f3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8484dc6a-1d90-4a68-b38a-b513accc59f3/stream.mp3</guid>
+   <pubDate>Thu, 22 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח - דין שליחות</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1f1d1772-9a29-40ac-8c5a-f1498f865ddc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1f1d1772-9a29-40ac-8c5a-f1498f865ddc/stream.mp3</guid>
+   <pubDate>Sun, 11 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח - מניין עשרה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a63f631d-1a23-49c0-b0f9-690d6c3892fd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a63f631d-1a23-49c0-b0f9-690d6c3892fd/stream.mp3</guid>
+   <pubDate>Wed, 07 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך - העוסק במצוה פטור מן המצוה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f7a36547-1a29-4121-9527-b7ff125fc060/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f7a36547-1a29-4121-9527-b7ff125fc060/stream.mp3</guid>
+   <pubDate>Tue, 30 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשא - ברכת כהנים</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5ea49265-2852-419a-b05f-126c4a04cd89/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5ea49265-2852-419a-b05f-126c4a04cd89/stream.mp3</guid>
+   <pubDate>Mon, 22 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר - פדיון הבן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/27926706-efc8-4a9f-881e-3973ac8fb66c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/27926706-efc8-4a9f-881e-3973ac8fb66c/stream.mp3</guid>
+   <pubDate>Thu, 18 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר-בחוקותי - יסוד דין אונאה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2be134e9-5e0f-43d8-bb17-2de8e533d4c0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2be134e9-5e0f-43d8-bb17-2de8e533d4c0/stream.mp3</guid>
+   <pubDate>Wed, 10 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור - ספירת העומר</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/59ae916e-ee05-45ce-ba07-315c03bd91bd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/59ae916e-ee05-45ce-ba07-315c03bd91bd/stream.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות-קדושים - ציווי קטן בפעולת איסור</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/04296315-e48c-4566-a1df-3a8e7b169118/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/04296315-e48c-4566-a1df-3a8e7b169118/stream.mp3</guid>
+   <pubDate>Thu, 27 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע-מצורע - מילה דוחה שבת</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/12a2d074-d382-4d71-859a-9704009f0fb9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/12a2d074-d382-4d71-859a-9704009f0fb9/stream.mp3</guid>
+   <pubDate>Wed, 19 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני - דין אונן בחיוב מצוות</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e6580714-70f8-4069-9dad-8328a3737390/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e6580714-70f8-4069-9dad-8328a3737390/stream.mp3</guid>
+   <pubDate>Tue, 11 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת חוה"מ פסח - הלל בימי חול המועד</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9afac8cb-286a-4ddf-9e13-96bf521af399/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9afac8cb-286a-4ddf-9e13-96bf521af399/stream.mp3</guid>
+   <pubDate>Thu, 06 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו - שבת הגדול: מצוות הסבה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/35f624f8-a85a-4508-bf07-7d77c07df021/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/35f624f8-a85a-4508-bf07-7d77c07df021/stream.mp3</guid>
+   <pubDate>Wed, 29 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא - כפייה על המצוות</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bc7811e6-c56b-4132-bce3-525c2a57b258/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bc7811e6-c56b-4132-bce3-525c2a57b258/stream.mp3</guid>
+   <pubDate>Fri, 24 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל פקודי - אבות ותולדות בשבת</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0ea9d81f-41b4-4528-96ac-90ef374bb449/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0ea9d81f-41b4-4528-96ac-90ef374bb449/stream.mp3</guid>
+   <pubDate>Wed, 15 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא - קידוש ידיים ורגליים</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/80d3bc27-7443-4c87-867b-c364f31aa406/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/80d3bc27-7443-4c87-867b-c364f31aa406/stream.mp3</guid>
+   <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצווה - בגדי הכהונה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7a4d9cd3-1df8-47d3-9ef1-a334c2e4eaaf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7a4d9cd3-1df8-47d3-9ef1-a334c2e4eaaf/stream.mp3</guid>
+   <pubDate>Mon, 27 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - מצוות בניית המקדש</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f00c73e7-67a9-4f57-b1f5-fdaf740745d7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f00c73e7-67a9-4f57-b1f5-fdaf740745d7/stream.mp3</guid>
+   <pubDate>Tue, 21 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - אדם מועד לעולם</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/53f2664a-c9d5-4648-94f6-f593e2477710/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/53f2664a-c9d5-4648-94f6-f593e2477710/stream.mp3</guid>
+   <pubDate>Wed, 15 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו - הדלקת נר שבת</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/387fac88-c65b-4466-ae3f-512d6f89f8bd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/387fac88-c65b-4466-ae3f-512d6f89f8bd/stream.mp3</guid>
+   <pubDate>Tue, 07 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח - חובת קריאת התורה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/835dc129-b500-4746-88da-3c851dbf2fd4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/835dc129-b500-4746-88da-3c851dbf2fd4/stream.mp3</guid>
+   <pubDate>Wed, 01 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - ברכות התפילין</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5a48668c-6991-42a6-8a48-fa0a40d12dd1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5a48668c-6991-42a6-8a48-fa0a40d12dd1/stream.mp3</guid>
+   <pubDate>Wed, 25 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא - חיוב ארבע כוסות</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1604d7fd-69bc-4208-9392-cc3f0578580e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1604d7fd-69bc-4208-9392-cc3f0578580e/stream.mp3</guid>
+   <pubDate>Wed, 18 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - שמות נכרים בהלכה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/3fcf77b5-9cc8-46a9-af82-8902edc509c5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/3fcf77b5-9cc8-46a9-af82-8902edc509c5/stream.mp3</guid>
+   <pubDate>Fri, 13 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - מלכות בית דוד</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8df71459-3880-4690-82ca-31c9f8691f1b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8df71459-3880-4690-82ca-31c9f8691f1b/stream.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - כיבוד סבא וסבתא</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a54bc6b3-13c5-4302-8bd3-74ac3c1b431c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a54bc6b3-13c5-4302-8bd3-74ac3c1b431c/stream.mp3</guid>
+   <pubDate>Thu, 29 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ - דברי חלומות</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fd4077d0-5e12-48de-b060-2d561858bb03/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fd4077d0-5e12-48de-b060-2d561858bb03/stream.mp3</guid>
+   <pubDate>Mon, 19 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - הלבנת פנים</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f33a3ece-e8ea-4a1b-a7fe-0079a36c9fbc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f33a3ece-e8ea-4a1b-a7fe-0079a36c9fbc/stream.mp3</guid>
+   <pubDate>Wed, 14 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - הצלת נפש בנפש</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b3f2166f-2bcc-4726-97de-137153d13ebc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b3f2166f-2bcc-4726-97de-137153d13ebc/stream.mp3</guid>
+   <pubDate>Fri, 09 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - תפילת ערבית</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/563f341c-7681-4b27-bd35-af750077ef5d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/563f341c-7681-4b27-bd35-af750077ef5d/stream.mp3</guid>
+   <pubDate>Wed, 30 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - מצווה הבאה בעבירה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4a7ee6b5-8f8e-41f6-b50d-997804f28479/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4a7ee6b5-8f8e-41f6-b50d-997804f28479/stream.mp3</guid>
+   <pubDate>Tue, 22 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - ברכת האירוסין</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e9261f4c-0712-47bb-922a-a6a1a0817f38/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e9261f4c-0712-47bb-922a-a6a1a0817f38/stream.mp3</guid>
+   <pubDate>Wed, 16 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - חינוך למצוות</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f20f597b-c2f1-4b40-a697-92e2e223aede/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f20f597b-c2f1-4b40-a697-92e2e223aede/stream.mp3</guid>
+   <pubDate>Wed, 09 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - חיוב האב במילת בנו</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/8eb6d5d6-aafc-40ba-bbca-8cae36884b77/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/8eb6d5d6-aafc-40ba-bbca-8cae36884b77/stream.mp3</guid>
+   <pubDate>Fri, 04 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - שאילת גשמים בארץ ובחו"ל</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/84ab7046-6588-4ec8-80af-d1b411745fc2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/84ab7046-6588-4ec8-80af-d1b411745fc2/stream.mp3</guid>
+   <pubDate>Thu, 27 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - יסוד מצוות פרו ורבו</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c492fa3e-0e9b-4ee8-98a1-b38ad652093f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c492fa3e-0e9b-4ee8-98a1-b38ad652093f/stream.mp3</guid>
+   <pubDate>Wed, 19 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסביב לפרשה - מתחילים מבראשית!</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f4bda652-71d8-4615-90ed-762cf177151a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f4bda652-71d8-4615-90ed-762cf177151a/stream.mp3</guid>
+   <pubDate>Thu, 13 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכר העקידה ומשמעותו לראש השנה | זכור ברית | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c392a803-7722-4d4f-abde-ee02ed8c9871/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c392a803-7722-4d4f-abde-ee02ed8c9871/stream.mp3</guid>
+   <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פניני יד פשוטה | ספר משפטים - הלכות מלווה ולווה | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/642e41ec-f403-44fe-889a-841b769152a5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/642e41ec-f403-44fe-889a-841b769152a5/stream.mp3</guid>
+   <pubDate>Sun, 22 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצוות והגדת לבנך - מצווה שהיא חוויה | תקראו אותם - פסח | הרב יואב פלדמן</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1bcccf47-7aa2-410f-abf1-6f10e0eab604/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1bcccf47-7aa2-410f-abf1-6f10e0eab604/stream.mp3</guid>
+   <pubDate>Sun, 10 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים | הרב יואב פלדמן - מדוע קוראים מגילה פעמיים?</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f38c63cf-13c0-4c6c-935e-a00d2e2b6731/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f38c63cf-13c0-4c6c-935e-a00d2e2b6731/stream.mp3</guid>
+   <pubDate>Wed, 09 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יואב פלדמן - הפטרת תפילת חנה</title>
+   <description>הרב יואב פלדמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב יואב פלדמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/38299ba6-d76d-4b4d-845b-e07ce647e361/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/38299ba6-d76d-4b4d-845b-e07ce647e361/stream.mp3</guid>
+   <pubDate>Sun, 05 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יאיר קאהן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-ecad50e3.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יאיר קאהן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סדרת אושפיזין! יוסף | "אם כנים אתם" | הרב יאיר קאהן | סוכות תשפ"ז</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560849-44100-2-393b08b5e3a3d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560849-44100-2-393b08b5e3a3d.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'הלל' כתגובה או כחלק מהסיפור? | הרב יאיר קאהן | פסח תשפ"ו</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/117414947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681886-44100-2-9630d866be416.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/117414947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2F420681886-44100-2-9630d866be416.mp3</guid>
+   <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדלקת נרות בגבול המזרחי של סוריה | הרב יאיר קאהן | הרהורים לאור הנרות | חנוכה תשפ"ו</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112668028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426934-44100-2-cb71adeaccf1a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112668028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414426934-44100-2-cb71adeaccf1a.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#17 קדושת החודש- המשך | הרב יאיר קאהן</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/103703631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-5%2F401627737-44100-2-d7ffeaad64c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/103703631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-5%2F401627737-44100-2-d7ffeaad64c2.mp3</guid>
+   <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#16 קדושת החודש | הרב יאיר קאהן</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/103387777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F401232073-44100-2-b9c0ffd97c428.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/103387777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2F401232073-44100-2-b9c0ffd97c428.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#10 זוכרהו על היין | הרב יאיר קאהן</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/101426769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-17%2F398572316-44100-2-899311660959f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/101426769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-17%2F398572316-44100-2-899311660959f.mp3</guid>
+   <pubDate>Thu, 17 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת הנצי"ב ופרשנותו פסוקי ארמי אובד אבי | הרב יאיר קאהן | פסח תשפ"ה</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100670494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606736-44100-2-8d67c659fc81b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100670494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F397606736-44100-2-8d67c659fc81b.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מגן אברהם - מורשתו של אברהם אבינו | הרב יאיר קאהן</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94295680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2F624e79d5-186a-19f7-026b-35bb30944b0c.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94295680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2F624e79d5-186a-19f7-026b-35bb30944b0c.m4a</guid>
+   <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ולתפלתם שעה | חתימת ברכת שופרות | הרב יאיר קאהן | ימים נוראים תשפ"ה</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92394431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387299189-44100-2-72a6f5256c99d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92394431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F387299189-44100-2-72a6f5256c99d.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפוך חמתך | הרב יאיר קאהן | סדרת 'בכל דור ודור' | פסח תשפ"ד</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f4c37e78/podcast/play/85306593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F374032413-44100-2-ee8509da81c03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f4c37e78/podcast/play/85306593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F374032413-44100-2-ee8509da81c03.mp3</guid>
+   <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | קדש | הרב יאיר קאהן | פסח תשפ"ב</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d4/1a/9b/0ce72a4393888a5addb298bb7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d4/1a/9b/0ce72a4393888a5addb298bb7e.mp3</guid>
+   <pubDate>Sun, 03 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דור ודור | הרב יאיר קאהן</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3f/26/e3/5aae2f4352a4b8c4d636f7f950.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3f/26/e3/5aae2f4352a4b8c4d636f7f950.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יאיר קאהן | נוסח על הניסים של חנוכה</title>
+   <description>הרב יאיר קאהן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב יאיר קאהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b8/28/06/18fc6f4506bf892ff6dcb69916.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b8/28/06/18fc6f4506bf892ff6dcb69916.mp3</guid>
+   <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

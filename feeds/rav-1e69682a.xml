@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יעקב אריאל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1e69682a.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יעקב אריאל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות רפואה בשבת- הגדרת פיקוח נפש | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74866791/utf_8_b_15dxlnec15kg15nxoten15eubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74866791/utf_8_b_15dxlnec15kg15nxoten15eubxaz.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות רפואה בשבת - עקרונות יסוד | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74705662/utf_8_b_15dxlnec15kg15nxoten15eg15vxmsdxqtem15aubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74705662/utf_8_b_15dxlnec15kg15nxoten15eg15vxmsdxqtem15aubxaz.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה (ה') | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73091590/utf_8_b_15dxlnec15kg15nxoten15eg157xmnev16og157xodei15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73091590/utf_8_b_15dxlnec15kg15nxoten15eg157xmnev16og157xodei15kubxaz.mp3</guid>
+   <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב יעקב אריאל | ט' באב או י' באב</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73084349/utf_8_b_15txqnerineq16jxmdeq15wubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73084349/utf_8_b_15txqnerineq16jxmdeq15wubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות ימי בין המצרים | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72856419/episode_72856419.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72856419/episode_72856419.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה (ד) | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72776940/episode_72776940.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72776940/episode_72776940.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה (ג) | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72567519/episode_72567519.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72567519/episode_72567519.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה (ב) | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72462656/episode_72462656.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72462656/episode_72462656.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – מוקצה | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72305787/episode_72305787.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72305787/episode_72305787.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכות שבת – גוזז, כותב ובונה | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72067205/episode_72067205.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72067205/episode_72067205.mp3</guid>
+   <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | הלכה ואגדה לפורים | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70373566/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70373566/mp4.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | סוגיות בכולל הלכה - שבת | גדרי בונה וסותר - המשך | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69873809/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69873809/mp3.mp3</guid>
+   <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | סוגיות בכולל הלכה - שבת | גדרי בונה וסותר | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69590568/episode_69590568.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69590568/episode_69590568.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | סוגיות בכולל הלכה - שבת - א | הנאה ממעשה שבת | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69198599/episode_69198599.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69198599/episode_69198599.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'מאי חנוכה' | הגאון הרב יעקב אריאל</title>
+   <description>הרב יעקב אריאל · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/ac9ccc1b/08d9dbab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ac9ccc1b/08d9dbab.mp3</guid>
+   <pubDate>Fri, 19 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שו"ת אהלי יעקב | סוגיות בכולל הלכה | הלכות חנוכה | מו"ר הרב יעקב אריאל שליט"א</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68990428/episode_68990428.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68990428/episode_68990428.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה | מ"טמוני הספירה- יום אחד לעומר | מו"ר הרב יעקב אריאל | נשיא הישיבה</title>
+   <description>הרב יעקב אריאל · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב יעקב אריאל</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53526120/1_1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53526120/1_1.mp3</guid>
+   <pubDate>Thu, 13 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

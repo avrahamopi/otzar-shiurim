@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שלומי בן יאיר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-dd04bdac.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שלומי בן יאיר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרשת תרומה • הרב שלומי בן יאיר שליט"א – פרשת תרומה פותחת את סדרת הפרשיות העוסקות בבניין המשכן…</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=W4K1xpOVLlo</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/W4K1xpOVLlo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/W4K1xpOVLlo.mp3</guid>
+   <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אשר יצר את האדם בחכמה | הרב שלומי בן יאיר | תפילה</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=znAhyb5QWtI</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/znAhyb5QWtI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/znAhyb5QWtI.mp3</guid>
+   <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה | מלחמת התרבות | הרב שלומי בן יאיר</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=xsE0eFBukfg</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xsE0eFBukfg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xsE0eFBukfg.mp3</guid>
+   <pubDate>Thu, 26 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזמן קצר והמלאכה מרובה | הרב שלומי בן יאיר | פרקי אבות</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=3QQ1pTp914A</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3QQ1pTp914A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3QQ1pTp914A.mp3</guid>
+   <pubDate>Thu, 16 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רודף שלום | הרב שלומי בן יאיר | פרקי אבות</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=d3Sr2ApOnNM</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/d3Sr2ApOnNM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/d3Sr2ApOnNM.mp3</guid>
+   <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה | הרב שלומי בן יאיר</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=9O74ZnAuWAk</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9O74ZnAuWAk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9O74ZnAuWAk.mp3</guid>
+   <pubDate>Tue, 20 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שלומי בן יאיר – מוציא מצה – כמה מצות יש לשים בקערה ומדוע</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=CJMYbKMH03s</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CJMYbKMH03s.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CJMYbKMH03s.mp3</guid>
+   <pubDate>Mon, 23 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קצרצרים של בוקר | הרב שלומי בן יאיר – הסתכל סביבך // Short Torah ideas</title>
+   <description>הרב שלומי בן יאיר · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=BVWDQWG3oOw</description>
+   <itunes:author>הרב שלומי בן יאיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BVWDQWG3oOw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BVWDQWG3oOw.mp3</guid>
+   <pubDate>Thu, 23 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

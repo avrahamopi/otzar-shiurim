@@ -1,0 +1,2474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב בן ציון · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-70af5bbf.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב בן ציון.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מתוך המשבר צומחת הישועה | דרכי חיים - שיעור 29 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76448080/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76448080/lesson.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך אדם אחד מצליח לשנות את ההיסטוריה? | שיעור לחנוכה | אגדתא - מח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76447878/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76447878/lesson.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קטן בשבת | צורבא מרבנן - רח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76461772/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76461772/lesson.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסוד מאחורי גדולתו של הרב עובדיה | דרכי חיים - שיעור 28 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76316291/utf_8_b_15pxqneb15kg15fxmdez150gmjgubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76316291/utf_8_b_15pxqneb15kg15fxmdez150gmjgubxaz.mp3</guid>
+   <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין ג' | צורבא מרבנן - רז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76316148/utf_8_b_16bxldeo15hxkcdxqtev15zxk9ev16oubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76316148/utf_8_b_16bxldeo15hxkcdxqtev15zxk9ev16oubxaz.mp3</guid>
+   <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תנורו של עכנאי | אגדתא - מז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76286553/utf_8_b_16rxonev16jxlsdxqdecinei15vxoneq15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76286553/utf_8_b_16rxonev16jxlsdxqdecinei15vxoneq15kubxaz.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין ב' | צורבא מרבנן - רו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76191688/utf_8_b_16lxmdeo15xxkdez158g15enlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76191688/utf_8_b_16lxmdeo15xxkdez158g15enlm1wmw.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירובין א' | צורבא מרבנן - רה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76068965/utf_8_b_16bxldeo15hxkcdxldez16jxkc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76068965/utf_8_b_16bxldeo15hxkcdxldez16jxkc5tcdm.mp3</guid>
+   <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה שבת ב' | צורבא מרבנן - רד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75920752/utf_8_b_16bxldeo15hxkcdxnneainec15og16txli5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75920752/utf_8_b_16bxldeo15hxkcdxnneainec15og16txli5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעשה שבת | צורבא מרבנן - רג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75802588/utf_8_b_16bxldeo15hxkcdxonexinekjyfxli5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75802588/utf_8_b_16bxldeo15hxkcdxonexinekjyfxli5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהסוכה אל שמחת תורה | הרב בן ציון אלגאזי | שיחה לחג סוכות</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75433506/utf_8_b_16nxmdex15qg15zxodev15vxldeqineu16jxksdxknec15lxknew15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75433506/utf_8_b_16nxmdex15qg15zxodev15vxldeqineu16jxksdxknec15lxknew15kubxaz.mp3</guid>
+   <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חג הסוכות | צורבא מרבנן - רב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75185856/utf_8_b_16bxldeo15hxkc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75185856/utf_8_b_16bxldeo15hxkc5tcdm.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא לתקן חטא- להפוך לאדם אחר | שיעור לימים נוראים | אגדתא - מו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75118388/utf_8_q_d7_90_d7_92_d7_93_d7_aa_d7_90_2_mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75118388/utf_8_q_d7_90_d7_92_d7_93_d7_aa_d7_90_2_mp3.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים של התחלה | דרכי חיים - שיעור 27 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74867017/utf_8_b_15pxqneb15kg15fxmdez150gmjcubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74867017/utf_8_b_15pxqneb15kg15fxmdez150gmjcubxaz.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בַּכֵּסֶה לְיוֹם חַגֵּנוּ- הכוח שבהסתרה | שפת אמת לראש השנה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75047682/utf_8_b_16nxpneqineq157xqidxqneq16kg15txqdeg15qubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75047682/utf_8_b_16nxpneqineq157xqidxqneq16kg15txqdeg15qubxaz.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום כיפור | צורבא מרבנן - רא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75047430/utf_8_b_16bxldeo15hxkcdxlnec15vxldeqinez15xxnsdxm9ez16txldeolm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75047430/utf_8_b_16bxldeo15hxkcdxlnec15vxldeqinez15xxnsdxm9ez16txldeolm1wmw.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעלות בלי לאבד את הלב | שיעור לימים נוראים | אגדתא - מה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74898883/utf_8_q_d7_90_d7_92_d7_93_d7_aa_d7_90_1_mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74898883/utf_8_q_d7_90_d7_92_d7_93_d7_aa_d7_90_1_mp3.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתחילים שנה בברכה | דרכי חיים - שיעור 26 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74867014/utf_8_b_15pxqneb15kg15fxmdez150gmjyubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74867014/utf_8_b_15pxqneb15kg15fxmdez150gmjyubxaz.mp3</guid>
+   <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה | צורבא מרבנן - ר | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74856212/utf_8_b_16bxldeo15hxkcdxonez16bxkdez150g15xxmdec15og16qnj9evlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74856212/utf_8_b_16bxldeo15hxkcdxonez16bxkdez150g15xxmdec15og16qnj9evlm1wmw.mp3</guid>
+   <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצבי חירום בשבת ב | צורבא מרבנן - קצט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74713534/utf_8_b_16bxldeo15hxkcdxm9ezineq15hxldeqlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74713534/utf_8_b_16bxldeo15hxkcdxm9ezineq15hxldeqlm1wmw.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לצאת מאזור הנוחות | דרכי חיים - שיעור 25 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74542156/utf_8_b_15pxqneb15kg15fxmdez150gmjuubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74542156/utf_8_b_15pxqneb15kg15fxmdez150gmjuubxaz.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצבי חירום בשבת | צורבא מרבנן - קצח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74373705/utf_8_b_16bxldeo15hxkcdxm9ezineq16bxkc5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74373705/utf_8_b_16bxldeo15hxkcdxm9ezineq16bxkc5tcdm.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב בן ציון אלגאזי | מבשר הגאולה</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73091586/utf_8_b_16nxmdei15xxqcdxlneo15eg15dxnnes15bxmsdxqdeg15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73091586/utf_8_b_16nxmdei15xxqcdxlneo15eg15dxnnes15bxmsdxqdeg15kubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והערב נא | הרב בן ציון אלגאזי | דברי פתיחה</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73084377/utf_8_b_15xxlnei16jxksdxoneqinet15hxqnezinek16rxmdexlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73084377/utf_8_b_15xxlnei16jxksdxoneqinet15hxqnezinek16rxmdexlm1wmw.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ט' באב | צורבא מרבנן | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73012297/utf_8_b_16bxldeo15hxkcdxk9er16jxmdedlm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73012297/utf_8_b_16bxldeo15hxkcdxk9er16jxmdedlm1wmw.mp3</guid>
+   <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המגילה שנשרפה – והלב שנאטם | שיעור לבין המצרים | אגדתא - מד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72951621/edaffda4_0225_472b_b3e7_f48c0c94c262.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72951621/edaffda4_0225_472b_b3e7_f48c0c94c262.mp3</guid>
+   <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשאין מקום לשכינה | דרכי חיים - שיעור 24 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869754/25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869754/25.mp3</guid>
+   <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני יולדת בשבת | צורבא מרבנן - קצז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72884502/9546ae54_43aa_4b6b_9cf5_d89277e1e721.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72884502/9546ae54_43aa_4b6b_9cf5_d89277e1e721.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסדק שהפיל את המקדש | שיעור לבין המצרים | אגדתא - מג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72855915/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72855915/2.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גבורת המחנך | דרכי חיים - שיעור 23 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72821144/24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72821144/24.mp3</guid>
+   <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ימי בין המצרים | צורבא מרבנן - קצו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72787645/episode_72787645.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72787645/episode_72787645.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבית שמחזיק את העולם | דרכי חיים - שיעור 22 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72685976/23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72685976/23.mp3</guid>
+   <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הקשר בין רעב לחורבן הבית? | שיעור לבין המצרים | אגדתא - מב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72699728/episode_72699728.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72699728/episode_72699728.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פיקוח נפש דוחה שבת | צורבא מרבנן - קצה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72687403/episode_72687403.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72687403/episode_72687403.mp3</guid>
+   <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד הצמיחה ממשברים | דרכי חיים - שיעור 21 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72614355/21.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72614355/21.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חילול שבת לחולה שאין בו סכנה | צורבא מרבנן - קצד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72580304/episode_72580304.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72580304/episode_72580304.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החכמה שמצילה ממחלוקת | דרכי חיים - שיעור 20 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72476586/20.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72476586/20.mp3</guid>
+   <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות רפואה בשבת | צורבא מרבנן - קצג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72475997/episode_72475997.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72475997/episode_72475997.mp3</guid>
+   <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב בן ציון אלגאזי מספר על הרב מרדכי אליהו זצוק''ל</title>
+   <description>הרב בן ציון · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72460303/episode_72460303.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72460303/episode_72460303.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסוד שבשורש הקשר | דרכי חיים - שיעור 19 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72328989/19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72328989/19.mp3</guid>
+   <pubDate>Mon, 08 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכת כותב ומוחק (המשך) | צורבא מרבנן - קצב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72340449/episode_72340449.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72340449/episode_72340449.mp3</guid>
+   <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מילים שבונות בית | דרכי חיים - שיעור 18 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72265275/18.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72265275/18.mp3</guid>
+   <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכת כותב | צורבא מרבנן - קצא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72204437/episode_72204437.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72204437/episode_72204437.mp3</guid>
+   <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חסד שבונה בית | דרכי חיים - שיעור 17 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72141407/17.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72141407/17.mp3</guid>
+   <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש של בית | דרכי חיים - שיעור 16 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72003925/16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72003925/16.mp3</guid>
+   <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשהשכינה נכנסת לבית | דרכי חיים - שיעור 15 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72003086/14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72003086/14.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עזר כנגדו | דרכי חיים - שיעור 14 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71904433/14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71904433/14.mp3</guid>
+   <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלאכת קושר | צורבא מרבנן - קצ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71905659/episode_71905659.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71905659/episode_71905659.mp3</guid>
+   <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קורע בשבת | צורבא מרבנן - קפט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71774393/episode_71774393.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71774393/episode_71774393.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תופר בשבת | צורבא מרבנן - קפח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71589835/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71589835/mp4.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תופר בשבת | צורבא מרבנן - קפז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71366948/episode_71366948.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71366948/episode_71366948.mp3</guid>
+   <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח הלכה למעשה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70901282/episode_70901282.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70901282/episode_70901282.mp3</guid>
+   <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ליל הסדר | צורבא מרבנן - קפו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70609673/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70609673/mp4.mp3</guid>
+   <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עזר כנגדו | דרכי חיים - שיעור 13 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70551540/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70551540/mp4.mp3</guid>
+   <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ההכנות לפסח | צורבא מרבנן - קפה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70479023/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70479023/mp3.mp3</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים בצל המלחמה | הרב בן ציון אלגאזי | מבצע שאגת הארי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70374603/episode_70374603.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70374603/episode_70374603.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים | צורבא מרבנן - קפד | הרב בן ציון אלגאזי והרב יהושע שפירא</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70301259/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70301259/mp4.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוחה של האחדות בפורים | שיעור לפורים | אגדתא - מא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70303716/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70303716/mp4.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להביט בעין טובה | דרכי חיים - שיעור 12 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70225841/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70225841/mp3.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחיית עמלק ומצוות פורים | צורבא מרבנן - קפג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70144882/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70144882/mp4.mp3</guid>
+   <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתיקות התורה בבית | דרכי חיים - שיעור 11 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70067370/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70067370/mp3.mp3</guid>
+   <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות כיבוס וניקיון הבגדים בשבת | צורבא מרבנן - קפב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70010110/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70010110/mp3.mp3</guid>
+   <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאור פנים בבית | דרכי חיים - שיעור 10 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69873464/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69873464/mp4.mp3</guid>
+   <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חשמל בשבת ג | צורבא מרבנן - קפא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69808848/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69808848/mp4.mp3</guid>
+   <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד השלום בבית | דרכי חיים - שיעור 9 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69723729/9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69723729/9.mp3</guid>
+   <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חשמל בשבת ב | צורבא מרבנן - קפ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69664097/episode_69664097.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69664097/episode_69664097.mp3</guid>
+   <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתינה בעין טובה | דרכי חיים - שיעור 8 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69579584/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69579584/1.mp3</guid>
+   <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חשמל בשבת | צורבא מרבנן - קעט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69546095/episode_69546095.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69546095/episode_69546095.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המבחן של האהבה בבית | דרכי חיים - שיעור 7 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69499569/7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69499569/7.mp3</guid>
+   <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ה | צורבא מרבנן - קעז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69353749/episode_69353749.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69353749/episode_69353749.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשבור את המצור | דרכי חיים - שיעור 6 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69297514/6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69297514/6.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ד | צורבא מרבנן - קעו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69267964/episode_69267964.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69267964/episode_69267964.mp3</guid>
+   <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבה שאינה תלויה | דרכי חיים - שיעור 5 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69230876/5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69230876/5.mp3</guid>
+   <pubDate>Mon, 29 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ג | צורבא מרבנן - קעה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69203455/episode_69203455.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69203455/episode_69203455.mp3</guid>
+   <pubDate>Thu, 25 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג האיש וביתו | דרכי חיים - שיעור 4 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68994007/4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68994007/4.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה | צורבא מרבנן - קעד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68990019/episode_68990019.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68990019/episode_68990019.mp3</guid>
+   <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש שמבשלת שלום | דרכי חיים - שיעור 3 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68929056/3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68929056/3.mp3</guid>
+   <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת ב | צורבא מרבנן - קעג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68879678/episode_68879678.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68879678/episode_68879678.mp3</guid>
+   <pubDate>Thu, 04 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ממחלוקת לפריון | דרכי חיים - שיעור 2 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68759771/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68759771/2.mp3</guid>
+   <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות מוקצה בשבת א | צורבא מרבנן - קעב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68769622/episode_68769622.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68769622/episode_68769622.mp3</guid>
+   <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשחרר ולהתחבר | דרכי חיים - שיעור 1 | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68724980/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68724980/1.mp3</guid>
+   <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות האכלת בעלי חיים בשבת | צורבא מרבנן - קעא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68653864/episode_68653864.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68653864/episode_68653864.mp3</guid>
+   <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות הריגת בעלי חיים בשבת | צורבא מרבנן - קע | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68552523/episode_68552523.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68552523/episode_68552523.mp3</guid>
+   <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התחדשות הנפש בכל יום | שפת אמת לפרשת חיי שרה - תרמא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68552511/episode_68552511.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68552511/episode_68552511.mp3</guid>
+   <pubDate>Thu, 13 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ציידת בעלי חיים בשבת | צורבא מרבנן - קסט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68446189/episode_68446189.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68446189/episode_68446189.mp3</guid>
+   <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות איפור ומשחות בשבת | צורבא מרבנן - קסח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68348751/episode_68348751.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68348751/episode_68348751.mp3</guid>
+   <pubDate>Thu, 30 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות סוכה וארבעת המינים | צורבא מרבנן - קסו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67890878/episode_67890878.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67890878/episode_67890878.mp3</guid>
+   <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום הכיפורים | צורבא מרבנן - קסה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67804116/episode_67804116.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67804116/episode_67804116.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין גניבה לגזילה - בין ראש השנה ליום | שיעור לימים נוראים | אגדתא - מ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67804065/episode_67804065.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67804065/episode_67804065.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה | צורבא מרבנן - קסד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67718393/episode_67718393.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67718393/episode_67718393.mp3</guid>
+   <pubDate>Thu, 11 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות טיפול בגינה בשבת - חלק ב | צורבא מרבנן - קסג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67634383/episode_67634383.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67634383/episode_67634383.mp3</guid>
+   <pubDate>Thu, 04 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות טיפול בגינה בשבת | צורבא מרבנן - קסב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67543886/episode_67543886.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67543886/episode_67543886.mp3</guid>
+   <pubDate>Thu, 28 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תשעה באב שחל במוצאי שבת | צורבא מרבנן - קסא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67199651/episode_67199651.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67199651/episode_67199651.mp3</guid>
+   <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חכם ולא צודק | שיעור לבין המצרים | אגדתא - לט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67186417/episode_67186417.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67186417/episode_67186417.mp3</guid>
+   <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות שטיפת הבית בשבת | צורבא מרבנן - קס | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67097103/episode_67097103.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67097103/episode_67097103.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כולנו בני אב אחד | שיעור לבין המצרים | אגדתא - לח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67017133/episode_67017133.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67017133/episode_67017133.mp3</guid>
+   <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות כיבוד הבית בשבת | צורבא מרבנן - קנט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67014828/episode_67014828.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67014828/episode_67014828.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות י”ז בתמוז ובין המצרים | צורבא מרבנן - קנח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66924223/episode_66924223.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66924223/episode_66924223.mp3</guid>
+   <pubDate>Thu, 10 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פתיחת פחיות שתיה בשבת | צורבא מרבנן - קנז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66848906/episode_66848906.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66848906/episode_66848906.mp3</guid>
+   <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פתיחת קופסאות בשבת | צורבא מרבנן- קנו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66760031/episode_66760031.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66760031/episode_66760031.mp3</guid>
+   <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בנין וסתירה בכלים בשבת | צורבא מרבנן- קנה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66636468/episode_66636468.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66636468/episode_66636468.mp3</guid>
+   <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות צביעה באוכלין בשבת | צורבא מרבנן- קנד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66527942/episode_66527942.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66527942/episode_66527942.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות עיבוד אוכלין בשבת | צורבא מרבנן- קנג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66406316/episode_66406316.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66406316/episode_66406316.mp3</guid>
+   <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות שבועות | צורבא מרבנן- קנב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66325305/episode_66325305.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66325305/episode_66325305.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום ירושלים | צורבא מרבנן- קנא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66199891/episode_66199891.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66199891/episode_66199891.mp3</guid>
+   <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות טוחן בשבת | צורבא מרבנן- קנ | הלכות שבת | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66097715/episode_66097715.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66097715/episode_66097715.mp3</guid>
+   <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המהות של ליל הסדר- אהבה ואמונה | שיעור מיוחד לפסח | אגדתא - לז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/65333546/episode_65333546.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/65333546/episode_65333546.mp3</guid>
+   <pubDate>Thu, 03 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ליל הסדר | צורבא מרבנן- קמח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/65155473/episode_65155473.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/65155473/episode_65155473.mp3</guid>
+   <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פסח שחל במוצאי בשבת | צורבא מרבנן- קמז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64989933/episode_64989933.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64989933/episode_64989933.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים משולש | צורבא מרבנן- קמו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64856998/episode_64856998.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64856998/episode_64856998.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים- א | צורבא מרבנן- קמה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64726043/episode_64726043.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64726043/episode_64726043.mp3</guid>
+   <pubDate>Thu, 06 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנצחון על עמלק על ידי אחדות! | שיעור לשבת זכור | אגדתא - לו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64713347/episode_64713347.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64713347/episode_64713347.mp3</guid>
+   <pubDate>Wed, 05 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בורר בשבת- חלק א | צורבא מרבנן- קמד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64601164/episode_64601164.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64601164/episode_64601164.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סחיטה לתוך משקים | צורבא מרבנן- קמג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64469854/episode_64469854.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64469854/episode_64469854.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סחיטה בשבת | צורבא מרבנן- קמב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64353501/episode_64353501.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64353501/episode_64353501.mp3</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סודות המטבח הרוחני | שיעור לטו בשבט | אגדתא - לה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64339920/episode_64339920.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64339920/episode_64339920.mp3</guid>
+   <pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני דישה בשבת | צורבא מרבנן- קמ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64032370/episode_64032370.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64032370/episode_64032370.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני הטמנה בשבת | צורבא מרבנן- קלט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63839964/episode_63839964.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63839964/episode_63839964.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שימוש בפלטה בשבת | צורבא מרבנן- קלח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63839122/episode_63839122.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63839122/episode_63839122.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות עשרה בטבת | צורבא מרבנן- קלז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63622692/episode_63622692.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63622692/episode_63622692.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצור ומצוק | שיעור לעשרה בטבת | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63627686/episode_63627686.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63627686/episode_63627686.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה | צורבא מרבנן- קלו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63390215/episode_63390215.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63390215/episode_63390215.mp3</guid>
+   <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת- חלק ה- בישול אחר בישול | צורבא מרבנן- קלה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63281048/episode_63281048.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63281048/episode_63281048.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת- חלק ד- בישול אחר בישול | צורבא מרבנן- קלד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63161510/episode_63161510.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63161510/episode_63161510.mp3</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת- חלק ג | צורבא מרבנן- קלג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63041599/episode_63041599.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63041599/episode_63041599.mp3</guid>
+   <pubDate>Thu, 28 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת- חלק ב | צורבא מרבנן- קלב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63041591/episode_63041591.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63041591/episode_63041591.mp3</guid>
+   <pubDate>Thu, 28 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת- חלק א | צורבא מרבנן- קלא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62734364/episode_62734364.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62734364/episode_62734364.mp3</guid>
+   <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גודל מעלתה של רחל אימנו | שיעור על רחל אימנו | אגדתא - לב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62734607/episode_62734607.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62734607/episode_62734607.mp3</guid>
+   <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת- הקדמה | צורבא מרבנן- קל | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62649992/episode_62649992.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62649992/episode_62649992.mp3</guid>
+   <pubDate>Thu, 07 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות סוכות | צורבא מרבנן- קכט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62310596/episode_62310596.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62310596/episode_62310596.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום הכיפורים | צורבא מרבנן- קכח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62113559/episode_62113559.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62113559/episode_62113559.mp3</guid>
+   <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה | צורבא מרבנן- קכז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62022298/episode_62022298.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62022298/episode_62022298.mp3</guid>
+   <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת- א | צורבא מרבנן- קכו | הלכות שבת | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/61356900/episode_61356900.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/61356900/episode_61356900.mp3</guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמה לאיסורי שבת | צורבא מרבנן- קכה | הלכות שבת | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/61270382/episode_61270382.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/61270382/episode_61270382.mp3</guid>
+   <pubDate>Thu, 05 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תשעת הימים ותשעה באב | צורבא מרבנן- קכד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60954855/episode_60954855.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60954855/episode_60954855.mp3</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני הבדלה- ג | צורבא מרבנן- קכג | הלכות שבת | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60881968/episode_60881968.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60881968/episode_60881968.mp3</guid>
+   <pubDate>Thu, 01 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני הבדלה- ב | צורבא מרבנן- קכב | הלכות שבת | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60799116/episode_60799116.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60799116/episode_60799116.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני הבדלה | צורבא מרבנן- קכא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60727020/episode_60727020.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60727020/episode_60727020.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני צאת שבת | צורבא מרבנן- קכ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60660931/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60660931/1.mp3</guid>
+   <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סעודות שבת | הלכות שבת | צורבא מרבנן- קיח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60525924/episode_60525924.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60525924/episode_60525924.mp3</guid>
+   <pubDate>Thu, 27 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני קידוש- ד | הלכות שבת | צורבא מרבנן- קיז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60448163/episode_60448163.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60448163/episode_60448163.mp3</guid>
+   <pubDate>Thu, 20 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני קידוש- ג | הלכות שבת | צורבא מרבנן- קטז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60371161/episode_60371161.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60371161/episode_60371161.mp3</guid>
+   <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אתה בחרתנו מכל העמים | שיעור מיוחד לשבועות | אגדתא - כט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60341683/episode_60341683.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60341683/episode_60341683.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשך דיני קידוש ושבת מוקדם | הלכות שבת | צורבא מרבנן- קטו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60297400/episode_60297400.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60297400/episode_60297400.mp3</guid>
+   <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערבית של מוצ"ש וטעויות בתפילות שבת | הלכות שבת | צורבא מרבנן- קיד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60146073/episode_60146073.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60146073/episode_60146073.mp3</guid>
+   <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מנחה ומוסף של שבת | הלכות שבת | צורבא מרבנן- קיג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60056566/episode_60056566.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60056566/episode_60056566.mp3</guid>
+   <pubDate>Thu, 16 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שניים מקרא ואחד תרגום | הלכות שבת | צורבא מרבנן- קיב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59940285/episode_59940285.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59940285/episode_59940285.mp3</guid>
+   <pubDate>Thu, 09 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פסח- ניקיון והכשרת הבית | צורבא מרבנן- קיא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59205779/episode_59205779.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59205779/episode_59205779.mp3</guid>
+   <pubDate>Thu, 28 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים- ב | צורבא מרבנן- קי | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59123532/episode_59123532.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59123532/episode_59123532.mp3</guid>
+   <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים- בזכות תינוקות של בית רבן | שיעור מיוחד לפורים | אגדתא - כז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59085238/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59085238/2.mp3</guid>
+   <pubDate>Mon, 18 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים- א | צורבא מרבנן- קט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59041453/episode_59041453.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59041453/episode_59041453.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חרבונא- זכור לטוב? | שיעור מיוחד לפורים | אגדתא - כו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59000286/episode_59000286.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59000286/episode_59000286.mp3</guid>
+   <pubDate>Mon, 11 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תוספת שבת | הלכות שבת | צורבא מרבנן- קח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58956151/episode_58956151.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58956151/episode_58956151.mp3</guid>
+   <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קבלת שבת | הלכות שבת | צורבא מרבנן- קז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58874063/episode_58874063.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58874063/episode_58874063.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדלקת נרות- חלק ב | הלכות שבת | צורבא מרבנן- קו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58774066/episode_58774066.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58774066/episode_58774066.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדלקת נרות | הלכות שבת | צורבא מרבנן- קה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58692424/episode_58692424.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58692424/episode_58692424.mp3</guid>
+   <pubDate>Thu, 15 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנות לקראת שבת קודש- חלק ב | הלכות שבת | צורבא מרבנן- קד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58607495/episode_58607495.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58607495/episode_58607495.mp3</guid>
+   <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנות לקראת שבת קודש | הלכות שבת | צורבא מרבנן- קג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58529314/episode_58529314.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58529314/episode_58529314.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוף דבר הכל נשמע | שיעור מיוחד לסיום חלק א בצורבא | צורבא מרבנן- קב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58443458/episode_58443458.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58443458/episode_58443458.mp3</guid>
+   <pubDate>Thu, 25 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קריאת שמע שעל המיטה | צורבא מרבנן- קא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58343740/episode_58343740.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58343740/episode_58343740.mp3</guid>
+   <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילת ערבית- ב | צורבא מרבנן- ק | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58263795/episode_58263795.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58263795/episode_58263795.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילת ערבית | צורבא מרבנן- צט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58195376/episode_58195376.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58195376/episode_58195376.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילת מנחה- ב | צורבא מרבנן צח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58137255/episode_58137255.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58137255/episode_58137255.mp3</guid>
+   <pubDate>Thu, 28 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילת מנחה | צורבא מרבנן צז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58081452/episode_58081452.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58081452/episode_58081452.mp3</guid>
+   <pubDate>Thu, 21 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות הדלקת נרות חנוכה | צורבא מרבנן צה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57861151/episode_57861151.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57861151/episode_57861151.mp3</guid>
+   <pubDate>Thu, 30 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכות הברקים והרעמים | צורבא מרבנן צד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57778142/episode_57778142.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57778142/episode_57778142.mp3</guid>
+   <pubDate>Thu, 23 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת שהחיינו- חלק ב | צורבא מרבנן צג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57665444/episode_57665444.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57665444/episode_57665444.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת שהחיינו | צורבא מרבנן צב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57577499/episode_57577499.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57577499/episode_57577499.mp3</guid>
+   <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ברכת הגומל- חלק ג | צורבא מרבנן צא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57483429/episode_57483429.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57483429/episode_57483429.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ברכת הגומל- חלק ב | צורבא מרבנן צ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57483363/episode_57483363.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57483363/episode_57483363.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ברכת הגומל | צורבא מרבנן- פט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57483356/x2mate_com_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57483356/x2mate_com_128_kbps.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום כיפור וסוכות | צורבא מרבנן- פח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56878996/episode_56878996.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56878996/episode_56878996.mp3</guid>
+   <pubDate>Thu, 21 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה ותקיעת שופר | צורבא מרבנן- פז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56796724/episode_56796724.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56796724/episode_56796724.mp3</guid>
+   <pubDate>Thu, 14 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב בן ציון אלגאזי | תקיעות ראש השנה שחל בשבת | כנס תשובה – התשפ"ג</title>
+   <description>הרב בן ציון · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=51YQzeia5T8</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/51YQzeia5T8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/51YQzeia5T8.mp3</guid>
+   <pubDate>Mon, 11 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה | צורבא מרבנן- פו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56722636/episode_56722636.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56722636/episode_56722636.mp3</guid>
+   <pubDate>Thu, 07 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת בורא נפשות | צורבא מרבנן- פה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56647178/episode_56647178.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56647178/episode_56647178.mp3</guid>
+   <pubDate>Thu, 31 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת מעין שלוש | צורבא מרבנן- פד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56574864/episode_56574864.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56574864/episode_56574864.mp3</guid>
+   <pubDate>Thu, 24 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תשעה באב | צורבא מרבנן- פג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56164233/episode_56164233.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56164233/episode_56164233.mp3</guid>
+   <pubDate>Thu, 20 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ברכות- א | צורבא מרבנן- פג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56083224/episode_56083224.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56083224/episode_56083224.mp3</guid>
+   <pubDate>Thu, 13 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד האש- בחורבן ובבניין הבית | אגדתא - כה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56071291/episode_56071291.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56071291/episode_56071291.mp3</guid>
+   <pubDate>Wed, 12 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ימי בן המצרים | צורבא מרבנן- פב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56010774/episode_56010774.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56010774/episode_56010774.mp3</guid>
+   <pubDate>Thu, 06 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מים אחרונים | צורבא מרבנן- סבב חדש- עט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54434129/episode_54434129.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54434129/episode_54434129.mp3</guid>
+   <pubDate>Thu, 15 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שינוי מקום סעודה | צורבא מרבנן- סבב חדש- עח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54136489/episode_54136489.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54136489/episode_54136489.mp3</guid>
+   <pubDate>Thu, 08 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכה אחרונה על קינוחים | צורבא מרבנן- סבב חדש- עז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54062937/episode_54062937.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54062937/episode_54062937.mp3</guid>
+   <pubDate>Thu, 01 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום טוב ועירוב תבשילין | צורבא מרבנן- סבב חדש- עו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53981414/episode_53981414.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53981414/episode_53981414.mp3</guid>
+   <pubDate>Wed, 24 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וּמִתְיַשֵּׁב לִבּוֹ בְּתַלְמוּדוֹ | מ"טמוני הספירה- ארבעה וארבעים יום לעומר | מו"ר הרב בן ציון אלגאזי | ראש הישיבה</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53892501/43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53892501/43.mp3</guid>
+   <pubDate>Fri, 19 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיכום פת הבאה בכיסנין והלכות הכותל המערבי | צורבא מרבנן- סבב חדש- עה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53915718/episode_53915718.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53915718/episode_53915718.mp3</guid>
+   <pubDate>Thu, 18 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פת הבאה בכיסנין- חלק ב | צורבא מרבנן- סבב חדש- עד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53820400/episode_53820400.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53820400/episode_53820400.mp3</guid>
+   <pubDate>Thu, 11 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פת הבאה בכיסנין | צורבא מרבנן- סבב חדש- עג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53737538/episode_53737538.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53737538/episode_53737538.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בציעת הפת בשבת | צורבא מרבנן- סבב חדש- עב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53662501/episode_53662501.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53662501/episode_53662501.mp3</guid>
+   <pubDate>Thu, 27 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בציעת הפת | צורבא מרבנן- סבב חדש- עא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53591510/episode_53591510.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53591510/episode_53591510.mp3</guid>
+   <pubDate>Thu, 20 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג הפסח- חג האמונה | שיעור הכנה לפסח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53357999/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53357999/1.mp3</guid>
+   <pubDate>Mon, 27 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לליל הסדר | שיעור הכנה לפסח | אגדתא - כד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53294100/episode_53294100.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53294100/episode_53294100.mp3</guid>
+   <pubDate>Wed, 22 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פסח ב- ליל הסדר | צורבא מרבנן- סבב חדש- ע | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53220963/episode_53220963.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53220963/episode_53220963.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פסח א- תערובות חמץ | צורבא מרבנן- סבב חדש- סט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53145201/episode_53145201.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53145201/episode_53145201.mp3</guid>
+   <pubDate>Thu, 09 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים | צורבא מרבנן- סבב חדש- סח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53068974/episode_53068974.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53068974/episode_53068974.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לומדים זוגיות ממגילת אסתר | שיעור לפורים | אגדתא - כג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52867789/episode_52867789.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52867789/episode_52867789.mp3</guid>
+   <pubDate>Mon, 27 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חציצה בנטילת ידיים | צורבא מרבנן- סבב חדש- סז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52823113/episode_52823113.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52823113/episode_52823113.mp3</guid>
+   <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צניעות לעומת שחצנות | שיעור לפורים | אגדתא - כב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52814551/episode_52814551.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52814551/episode_52814551.mp3</guid>
+   <pubDate>Wed, 22 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נטילת ידיים- איזה מים? | צורבא מרבנן- סבב חדש- סו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52751502/episode_52751502.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52751502/episode_52751502.mp3</guid>
+   <pubDate>Thu, 16 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרדכי היהודי והימיני- ערבותם של יהודה ובנימין שיוצרת נצחיות | שיעור לפורים | אגדתא- כא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52725944/episode_52725944.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52725944/episode_52725944.mp3</guid>
+   <pubDate>Tue, 14 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נטילת ידיים לסעודה- חלק ב | צורבא מרבנן- סבב חדש- סה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52679162/episode_52679162.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52679162/episode_52679162.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נטילת ידיים לסעודה | צורבא מרבנן- סבב חדש- סד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52612694/episode_52612694.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52612694/episode_52612694.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משא ומתן באמונה- בין אדם לחבירו | צורבא מרבנן- סבב חדש- סג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52547911/episode_52547911.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52547911/episode_52547911.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קצת דיבור שגורם לחיבור | אגדתא כ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52528639/episode_52528639.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52528639/episode_52528639.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קביעת עיתים לתורה | צורבא מרבנן- סבב חדש- סב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · גמרא</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52481491/episode_52481491.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52481491/episode_52481491.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ירושלים של זהב | אגדתא יט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52454476/episode_52454476.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52454476/episode_52454476.mp3</guid>
+   <pubDate>Mon, 16 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושת בית הכנסת- ב | צורבא מרבנן- סבב חדש- סא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52419939/episode_52419939.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52419939/episode_52419939.mp3</guid>
+   <pubDate>Thu, 12 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פה-רע או פה-סח? פיהם של ישראל נשאר טהור | פתיחה לספר שמות | אגדתא יח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52392960/episode_52392960.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52392960/episode_52392960.mp3</guid>
+   <pubDate>Mon, 09 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושת בית הכנסת- א | צורבא מרבנן- סבב חדש- ס | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52359122/episode_52359122.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52359122/episode_52359122.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדעת לוותר | שיעור לעשרה בטבת | אגדתא יז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52334531/episode_52334531.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52334531/episode_52334531.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- יג | סיום התפילה | צורבא מרבנן- סבב חדש- נט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52304377/episode_52304377.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52304377/episode_52304377.mp3</guid>
+   <pubDate>Thu, 29 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה- ב | צורבא מרבנן- סבב חדש- נח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52191971/episode_52191971.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52191971/episode_52191971.mp3</guid>
+   <pubDate>Thu, 15 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה- א | הדלקת נרות חנוכה | צורבא מרבנן- סבב חדש- נז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52128051/episode_52128051.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52128051/episode_52128051.mp3</guid>
+   <pubDate>Thu, 08 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסירות נפש על קדושת עם ישראל | אגדתא טז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52130327/episode_52130327.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52130327/episode_52130327.mp3</guid>
+   <pubDate>Thu, 08 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- יב | קריאת התורה- הקריאה עצמה | צורבא מרבנן- סבב חדש- נו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52063957/episode_52063957.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52063957/episode_52063957.mp3</guid>
+   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושת מרחבי עבודת ה'- בית המדרש, עולם החול, קירות ביתו | אגדתא טו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52043495/episode_52043495.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52043495/episode_52043495.mp3</guid>
+   <pubDate>Tue, 29 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- יא | קריאת התורה | צורבא מרבנן- סבב חדש- נה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51999189/episode_51999189.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51999189/episode_51999189.mp3</guid>
+   <pubDate>Thu, 24 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידת החסד | אגדתא יד | אפשר לתת יותר מידי? | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51977862/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51977862/1.mp3</guid>
+   <pubDate>Tue, 22 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- י | מתי לא אומרים תחנון? | צורבא מרבנן- סבב חדש- נד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51924928/episode_51924928.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51924928/episode_51924928.mp3</guid>
+   <pubDate>Thu, 17 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ט | תחנון ונפילת אפיים | צורבא מרבנן- סבב חדש- נג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51848710/episode_51848710.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51848710/episode_51848710.mp3</guid>
+   <pubDate>Thu, 10 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ח | חזרת הש"ץ | צורבא מרבנן- סבב חדש- נב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51772818/episode_51772818.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51772818/episode_51772818.mp3</guid>
+   <pubDate>Thu, 03 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ז | תפילת תשלומין | צורבא מרבנן- סבב חדש- נא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51701801/episode_51701801.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51701801/episode_51701801.mp3</guid>
+   <pubDate>Thu, 27 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות סוכה וארבעת המינים | צורבא מרבנן- סבב חדש- נ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51413631/episode_51413631.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51413631/episode_51413631.mp3</guid>
+   <pubDate>Thu, 29 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות יום כיפור | צורבא מרבנן- סבב חדש- מט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51342391/episode_51342391.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51342391/episode_51342391.mp3</guid>
+   <pubDate>Thu, 22 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה | צורבא מרבנן- סבב חדש- מח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51266567/episode_51266567.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51266567/episode_51266567.mp3</guid>
+   <pubDate>Thu, 15 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קריאת התורה- ב | דיבור בזמן קריאת התורה | צורבא מרבנן- סבב חדש- מז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51182805/episode_51182805.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51182805/episode_51182805.mp3</guid>
+   <pubDate>Thu, 08 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות קריאת התורה- א | צורבא מרבנן- סבב חדש- מו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51101903/episode_51101903.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51101903/episode_51101903.mp3</guid>
+   <pubDate>Thu, 01 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תשעה באב שנדחה | צורבא מרבנן- סבב חדש- מה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51101897/onlymp3_to_3w8zrka3zuk_192k_1659720587402.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51101897/onlymp3_to_3w8zrka3zuk_192k_1659720587402.mp3</guid>
+   <pubDate>Thu, 01 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ח | תפילה- ההתנהגות ליד המתפלל, ט' באב | צורבא מרבנן- סבב חדש- מד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51101889/episode_51101889.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51101889/episode_51101889.mp3</guid>
+   <pubDate>Thu, 01 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ז | תפילה- האסור ומותר ודיני בין המצרים | צורבא מרבנן- סבב חדש- מג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51101864/episode_51101864.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51101864/episode_51101864.mp3</guid>
+   <pubDate>Thu, 01 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשמוע מה הקב"ה מדבר אלינו! | אגדתא יג | שיעור לתשעה באב וחורבן הבית | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51036123/episode_51036123.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51036123/episode_51036123.mp3</guid>
+   <pubDate>Fri, 26 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכרת הטוב! | אגדתא יב | מה היא חשיבותה של הכרת הטוב? | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50570377/episode_50570377.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50570377/episode_50570377.mp3</guid>
+   <pubDate>Fri, 26 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הערך של קיום תורה ומצוות? | אגדתא יא | שיעור על חשיבותן של המצוות | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50570376/episode_50570376.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50570376/episode_50570376.mp3</guid>
+   <pubDate>Fri, 26 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ו | תפילה בציבור | צורבא מרבנן- סבב חדש- מב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50569027/episode_50569027.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50569027/episode_50569027.mp3</guid>
+   <pubDate>Thu, 14 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ה | לבושים לתפילה | צורבא מרבנן- סבב חדש- מא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50494617/episode_50494617.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50494617/episode_50494617.mp3</guid>
+   <pubDate>Thu, 14 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ד | הכנות לתפילה | צורבא מרבנן- סבב חדש- מ | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50413517/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50413517/1.mp3</guid>
+   <pubDate>Thu, 30 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ג | אכילה ושתייה לפני התפילה | צורבא מרבנן- סבב חדש- לט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50304502/episode_50304502.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50304502/episode_50304502.mp3</guid>
+   <pubDate>Thu, 23 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ב | פעולות המותרות והאסורות לפני התפילה | צורבא מרבנן- סבב חדש- לח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50222117/episode_50222117.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50222117/episode_50222117.mp3</guid>
+   <pubDate>Thu, 16 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- חלק א | צורבא מרבנן- סבב חדש- לח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50137284/episode_50137284.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50137284/episode_50137284.mp3</guid>
+   <pubDate>Thu, 09 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום חתונתו- זה מתן תורה | אגדתא י | שיעור לשבועות ולששת ימי התשלומין | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50137936/episode_50137936.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50137936/episode_50137936.mp3</guid>
+   <pubDate>Thu, 09 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות שבועות ויום טוב | צורבא מרבנן- סבב חדש- לז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50035427/episode_50035427.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50035427/episode_50035427.mp3</guid>
+   <pubDate>Thu, 02 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצמיח ישועה | אגדתא- ט | שיעור הכנה ליום העצמאות | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50027647/episode_50027647.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50027647/episode_50027647.mp3</guid>
+   <pubDate>Wed, 01 Jun 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיצד קוראים קריאת שמע? | צורבא מרבנן- סבב חדש- לו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49950501/episode_49950501.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49950501/episode_49950501.mp3</guid>
+   <pubDate>Thu, 26 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גיל לימוד הקבלה | צורבא מרבנן סבב חדש- לה | ל"ג בעומר | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49950499/btclod_com_128k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49950499/btclod_com_128k.mp3</guid>
+   <pubDate>Thu, 26 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך קונים "הודך והדרך"? | צפרא טבא- שיעור באגדתא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49950497/btclod_com_128k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49950497/btclod_com_128k.mp3</guid>
+   <pubDate>Thu, 26 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדר קריאת שמע ומצוות צריכות כוונה | צורבא מרבנן - סבב חדש- לד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49768387/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49768387/1.mp3</guid>
+   <pubDate>Thu, 12 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פסח- ב - ערב פסח וליל הסדר | צורבא מרבנן - סבב חדש- לג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49263150/episode_49263150.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49263150/episode_49263150.mp3</guid>
+   <pubDate>Thu, 31 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פסח- א - בדיקה וביעור חמץ, כשרות המוצרים לפסח | צורבא מרבנן - סבב חדש- לב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49181243/episode_49181243.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49181243/episode_49181243.mp3</guid>
+   <pubDate>Thu, 24 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עלה למעלה עלה- עליית בני ישראל ממצרים | אגדתא- ח | שיעור הכנה לפסח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49139176/episode_49139176.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49139176/episode_49139176.mp3</guid>
+   <pubDate>Mon, 21 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים- ההסתר שבאסתר | אגדתא- ז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49059538/episode_49059538.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49059538/episode_49059538.mp3</guid>
+   <pubDate>Mon, 14 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים - ג - משלוח מנות, מתנות לאביונים ומשתה | צורבא מרבנן - סבב חדש- לא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49013921/3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49013921/3.mp3</guid>
+   <pubDate>Thu, 10 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים - ב - קריאת מגילה | צורבא מרבנן - סבב חדש- ל | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48932448/episode_48932448.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48932448/episode_48932448.mp3</guid>
+   <pubDate>Thu, 03 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים נצחי בזכות הילדים שלנו! | אגדתא- ו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48905847/episode_48905847.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48905847/episode_48905847.mp3</guid>
+   <pubDate>Tue, 01 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פורים - א - מחצית השקל וקריאת זכור | צורבא מרבנן - סבב חדש- ל | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48853155/episode_48853155.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48853155/episode_48853155.mp3</guid>
+   <pubDate>Thu, 24 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים- הסתרה וגילוי- פנים וחוץ | אגדתא- ה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48826038/episode_48826038.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48826038/episode_48826038.mp3</guid>
+   <pubDate>Tue, 22 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים לנצח נצחים! | אגדתא- ד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48729187/episode_48729187.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48729187/episode_48729187.mp3</guid>
+   <pubDate>Fri, 18 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קריאת שמע בטהרה | צורבא מרבנן - סבב חדש- כט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48766946/episode_48766946.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48766946/episode_48766946.mp3</guid>
+   <pubDate>Thu, 17 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצבים שונים בקריאת שמע | צורבא מרבנן - סבב חדש- כח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48668271/episode_48668271.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48668271/episode_48668271.mp3</guid>
+   <pubDate>Thu, 10 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה כל כך רע בעמלק? | אגדתא- ג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48629876/episode_48629876.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48629876/episode_48629876.mp3</guid>
+   <pubDate>Mon, 07 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טעויות נפוצות בקריאת שמע | צורבא מרבנן - סבב חדש- כז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48568205/episode_48568205.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48568205/episode_48568205.mp3</guid>
+   <pubDate>Thu, 03 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבה שאינה תלויה בדבר | אגדתא- ב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48536038/episode_48536038.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48536038/episode_48536038.mp3</guid>
+   <pubDate>Tue, 01 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין למידה לחינוך | אגדתא- א | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48536036/episode_48536036.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48536036/episode_48536036.mp3</guid>
+   <pubDate>Tue, 01 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קריאת שמע | צורבא מרבנן - סבב חדש- כו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48463648/episode_48463648.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48463648/episode_48463648.mp3</guid>
+   <pubDate>Thu, 27 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקום המניין והלכות קדיש | צורבא מרבנן - סבב חדש- כה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48372487/episode_48372487.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48372487/episode_48372487.mp3</guid>
+   <pubDate>Thu, 20 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי מצטרף למניין? | צורבא מרבנן - סבב חדש- כד | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48277331/episode_48277331.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48277331/episode_48277331.mp3</guid>
+   <pubDate>Thu, 13 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילה במניין | צורבא מרבנן - סבב חדש- כג | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48233887/episode_48233887.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48233887/episode_48233887.mp3</guid>
+   <pubDate>Mon, 10 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות פסוקי דזמרה | צורבא מרבנן - סבב חדש- כב | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48233885/y2mate_is_s4rz_35u4e0_128k_1641814839902.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48233885/y2mate_is_s4rz_35u4e0_128k_1641814839902.mp3</guid>
+   <pubDate>Mon, 10 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זמני תפילת שחרית | צורבא מרבנן - סבב חדש- כא | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48233883/episode_48233883.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48233883/episode_48233883.mp3</guid>
+   <pubDate>Mon, 10 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זמני היום | צורבא מרבנן - סבב חדש- יט | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48233876/episode_48233876.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48233876/episode_48233876.mp3</guid>
+   <pubDate>Mon, 10 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות חנוכה | צורבא מרבנן- סבב חדש- יח | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/48233872/episode_48233872.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/48233872/episode_48233872.mp3</guid>
+   <pubDate>Mon, 10 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- ב- ברכות התורה | צורבא מרבנן- סבב חדש- טז | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/47599782/default_tc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/47599782/default_tc.mp3</guid>
+   <pubDate>Thu, 11 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה- א- ברכות השחר | צורבא מרבנן- סבב חדש- טו | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/47599777/default_tc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/47599777/default_tc.mp3</guid>
+   <pubDate>Thu, 11 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

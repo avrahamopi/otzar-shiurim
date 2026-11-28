@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב בני להמן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9cc24298.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב בני להמן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>סדרת אושפיזין! אהרון | שושבינא דמטרוניתא | הרב בני להמן | סוכות תשפ"ז</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/126230091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560833-44100-2-2e913b1fa45bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/126230091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432560833-44100-2-2e913b1fa45bf.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סדרה מיוחדת לשבועות! תורה ו... | עולם | הרב בני להמן | תשפ"ו</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/120290726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555884-44100-2-4dee643b7c8c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/120290726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424555884-44100-2-4dee643b7c8c6.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'כשיבוא משיח' | הרב בני להמן והרב יעקב מדן | יום עיון 'רבבה' | חנוכה תשפ"ו</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/112670573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430305-44100-2-3dbbb1895c765.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/112670573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414430305-44100-2-3dbbb1895c765.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חידוש מההגדות | הגדת האדמו"ר מפיאסצנא: בעבור זה עשה ה' לי בצאתי ממצרים | הרב בני להמן | פסח תשפ"ה</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/100910797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-6%2F397912510-44100-2-5435dc9538944.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/100910797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-6%2F397912510-44100-2-5435dc9538944.mp3</guid>
+   <pubDate>Sun, 06 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ה'שפת אמת' ואנחנו | הרב בני להמן והרב יעקב מדן | 120 שנה לפטירתו של ה'שפת אמת'</title>
+   <description>הרב בני להמן · ישיבת הר עציון · חסידות וקבלה</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/98123247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394409817-44100-2-0da9a9e82d4b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/98123247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394409817-44100-2-0da9a9e82d4b2.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בדמייך חיי | הרב בני להמן | סדרת 'בכל דור ודור' | פסח תשפ"ד</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/f4c37e78/podcast/play/85458128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374423072-44100-2-f86a22b59ef59.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f4c37e78/podcast/play/85458128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374423072-44100-2-f86a22b59ef59.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מזמור לדוד | מזמור י"ג | ואני בחסדך בטחתי | הרב בני להמן | שבועות תשפ"ג</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9d/e3/c8/9094a5487ca7ead28729c481a3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9d/e3/c8/9094a5487ca7ead28729c481a3.mp3</guid>
+   <pubDate>Tue, 23 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | שולחן עורך | הרב בני להמן | פסח תשפ"ב</title>
+   <description>הרב בני להמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/de/fd/0c/a5d7fb449f9f5d93f6ffedcabe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/de/fd/0c/a5d7fb449f9f5d93f6ffedcabe.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת הגאולה | הרב בני להמן</title>
+   <description>הרב בני להמן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4f/12/17/42cca2444b9896da916f84395c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4f/12/17/42cca2444b9896da916f84395c.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אלי שיינפלד · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7c37ed3b.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אלי שיינפלד.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב אלי שיינפלד | להתענג על ה'</title>
+   <description>הרב אלי שיינפלד · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://media.transistor.fm/3cdb68f2/d5017fb5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3cdb68f2/d5017fb5.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אלי שיינפלד | אכילת ערב יום הכיפורים - תובלנה בשמחות וגיל תבואינה בהיכל המלך</title>
+   <description>הרב אלי שיינפלד · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://media.transistor.fm/734a41cb/1a1ca400.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/734a41cb/1a1ca400.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעת הפרידה נתעצמה האהבה | עיון פנימי בגדר אבלות על בית המקדש | הרב אלי שיינפלד</title>
+   <description>הרב אלי שיינפלד · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://media.transistor.fm/bcccac32/b14a4296.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bcccac32/b14a4296.mp3</guid>
+   <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פני הדור - "כי לא בחיפזון תצאו" - שיעור שלישי</title>
+   <description>הרב אלי שיינפלד · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://media.transistor.fm/e06a76e9/69390508.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e06a76e9/69390508.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פני הדור - ויראי חטא ימאסו - שיעור שני</title>
+   <description>הרב אלי שיינפלד · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://media.transistor.fm/e972845c/59f88711.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e972845c/59f88711.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פני הדור - מבט פנימי על דור עקבתא דמשיחא - שיעור ראשון</title>
+   <description>הרב אלי שיינפלד · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://media.transistor.fm/bc443c75/b3f31d68.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bc443c75/b3f31d68.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התבגרות בליל הסדר | תשפ"ד | הרב אלי שיינפלד - 4</title>
+   <description>הרב אלי שיינפלד · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אלי שיינפלד</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5a63261c-fcd7-43ef-802f-9bc35ba2533c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5a63261c-fcd7-43ef-802f-9bc35ba2533c/stream.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

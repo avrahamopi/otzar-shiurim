@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שאול אלעזר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-3839500d.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שאול אלעזר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הלכות בישול בשבת - שהייה והטמנה</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0033e08b/b8527753.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0033e08b/b8527753.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת - חלק ד</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d57f32c1/075fdbdc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d57f32c1/075fdbdc.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב שאול אלעזר שנלר | חיי־שרה תשפ"ז</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a932d39b/6849f51a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a932d39b/6849f51a.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת - חלק ג</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2b7c015b/b178ff0b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2b7c015b/b178ff0b.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת - חלק ב</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2e9b416e/510bfce5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2e9b416e/510bfce5.mp3</guid>
+   <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות בישול בשבת - חלק א</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/dbcf7b3e/cf057f95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dbcf7b3e/cf057f95.mp3</guid>
+   <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות עשרת ימי תשובה ויום הכיפורים</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/78534482/a6c39996.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/78534482/a6c39996.mp3</guid>
+   <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ראש השנה</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/dc6bcee5/52711845.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dc6bcee5/52711845.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נצבים־וילך תשפ"ו | הרב שאול אלעזר שנלר</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cee9a6f1/ecbf8a86.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cee9a6f1/ecbf8a86.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות ערב ראש השנה וראש השנה</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/06ce0652/4dbd09d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/06ce0652/4dbd09d0.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות-מסעי תשפ"ו | הרב שאול אלעזר שנלר</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/84a44b90/033485b6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/84a44b90/033485b6.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות תשפ"ו | הרב שאול אלעזר שנלר</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0e4cdf69/70447229.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0e4cdf69/70447229.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 18 - פסקה קע</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8489177c/45ccebc2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8489177c/45ccebc2.mp3</guid>
+   <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי-תשא תשפ"ו | הרב שאול אלעזר שנלר</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/324a8766/fa203b16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/324a8766/fa203b16.mp3</guid>
+   <pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 17 - פסקאות נב, נג</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8a4dff1a/759435f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8a4dff1a/759435f9.mp3</guid>
+   <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא תשפ"ו - הרב שאול אלעזר שנלר</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/fb81bd63/ceba57f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fb81bd63/ceba57f1.mp3</guid>
+   <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 16 - שני חלקי התפילה, השבח והבקשה</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d9107323/45be270f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d9107323/45be270f.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 15 - פסקאות מה, לט</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0380d770/883c32d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0380d770/883c32d9.mp3</guid>
+   <pubDate>Mon, 12 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 - לעולם ירגיז אדם יצר הטוב על יצר הרע</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7691251a/a25e1565.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7691251a/a25e1565.mp3</guid>
+   <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - חיי הרב זצ"ל</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7656e41a/88110696.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7656e41a/88110696.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - מבוא + תחילת ההקדמה</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bf7bdcc4/cd49148b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bf7bdcc4/cd49148b.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - המשך בהקדמה, פירוש מול ביאור</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/851955da/8defa866.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/851955da/8defa866.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - הקדמה, המעבר מפירוש לביאור</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8322af90/b75e0f11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8322af90/b75e0f11.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - תנאים לביאור</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/80a06601/55002b90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/80a06601/55002b90.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 - הסדר והחשיבות בין פירוש לביאור</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/5c671166/00a233f8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5c671166/00a233f8.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 - חשיבות החסידים והמתנגדים</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f8eefa93/b836e9f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f8eefa93/b836e9f1.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 - פסקאות א+ב, אתה כהן</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/afd804a1/7522121a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/afd804a1/7522121a.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 - ובא השמש וטהר, דין וחשבון</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · הלכה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2ef33ffe/fe3dd3fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2ef33ffe/fe3dd3fb.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 11 - ייסורים</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/02fdee1e/ea68c3b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/02fdee1e/ea68c3b4.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 12 - לקראת חנוכה חלק א</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/37041812/d8355a48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/37041812/d8355a48.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 13 - לקראת חנוכה חלק ב</title>
+   <description>הרב שאול אלעזר · ישיבת כרם ביבנה · מועדים</description>
+   <itunes:author>הרב שאול אלעזר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bccb3c96/9e6a9c32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bccb3c96/9e6a9c32.mp3</guid>
+   <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

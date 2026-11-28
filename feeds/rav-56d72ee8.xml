@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מיכאל אדרעי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-56d72ee8.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מיכאל אדרעי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב מיכאל אדרעי, ראש ישיבת שדות נגב • נוסח הגט - בין המשפטי לאישי</title>
+   <description>הרב מיכאל אדרעי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://media.transistor.fm/bfecb2a3/b5b6bce6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bfecb2a3/b5b6bce6.mp3</guid>
+   <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אושפיזין | יוסף הצדיק - הרב מיכאל אדרעי</title>
+   <description>הרב מיכאל אדרעי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/109398606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2F47ce51f8-52d9-ab5f-11e3-e0ece0e74f53.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/109398606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-8%2F47ce51f8-52d9-ab5f-11e3-e0ece0e74f53.mp3</guid>
+   <pubDate>Thu, 09 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8# תוספת שבת ויו"ט | הרב מיכאל אדרעי</title>
+   <description>הרב מיכאל אדרעי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/100750819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-2%2F397709360-44100-2-68cbbf9e5228f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/100750819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-2%2F397709360-44100-2-68cbbf9e5228f.mp3</guid>
+   <pubDate>Wed, 02 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#7 במה יו"ט 'חמור' משבת ובמה יו"ט 'קל' משבת? | הרב מיכאל אדרעי</title>
+   <description>הרב מיכאל אדרעי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/100418726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-26%2F397288317-44100-2-a0ba81df945d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/100418726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-26%2F397288317-44100-2-a0ba81df945d.mp3</guid>
+   <pubDate>Wed, 26 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>#6 זכר למעשה בראשית ומצרים | הרב מיכאל אדרעי</title>
+   <description>הרב מיכאל אדרעי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/100094326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-19%2F396875922-44100-2-a5ce04d716d78.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/100094326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-19%2F396875922-44100-2-a5ce04d716d78.mp3</guid>
+   <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | מרור | הרב מיכאל אדרעי | פסח תשפ"ב</title>
+   <description>הרב מיכאל אדרעי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/09/80/c5/916fd647c295ea5606b0a8a5ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/09/80/c5/916fd647c295ea5606b0a8a5ad.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כמה מעלות טובות למקום עלינו | הרב מיכאל אדרעי</title>
+   <description>הרב מיכאל אדרעי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e7/a9/60/12e2534a6aa91fd552ef45f284.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e7/a9/60/12e2534a6aa91fd552ef45f284.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מיכאל אדרעי | חנוכה וסוכות - הדר והידור</title>
+   <description>הרב מיכאל אדרעי · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/de/a1/c4/87900d41eaa62752b3f66a7c11.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/de/a1/c4/87900d41eaa62752b3f66a7c11.mp3</guid>
+   <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יוסף הצדיק | הרב מיכאל אדרעי</title>
+   <description>הרב מיכאל אדרעי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מיכאל אדרעי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f5/5b/6f/2fe1c44451b5e811ae77d632ae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f5/5b/6f/2fe1c44451b5e811ae77d632ae.mp3</guid>
+   <pubDate>Wed, 30 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

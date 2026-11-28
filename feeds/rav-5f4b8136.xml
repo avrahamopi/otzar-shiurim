@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אסף נאמבורג · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-5f4b8136.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אסף נאמבורג.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>דור של גיבורים | הרב אסף נאמבורג | בכל לבבך 14</title>
+   <description>הרב אסף נאמבורג · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב אסף נאמבורג</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74372266/utf_8_b_15txqnerineq16hxoy5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74372266/utf_8_b_15txqnerineq16hxoy5tcdm.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יחסי אהבה ויראה בראש השנה | הרב אסף נאמבורג | כנס תשובה ה'תשפ"ה</title>
+   <description>הרב אסף נאמבורג · ישיבת שדרות – אפיקי דעת · מוסר
+וידאו: https://www.youtube.com/watch?v=cxOMweI_o-4</description>
+   <itunes:author>הרב אסף נאמבורג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cxOMweI_o-4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cxOMweI_o-4.mp3</guid>
+   <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המלך בקונך וצא – הכנה לבין הזמנים | הרב אסף נאמבורג</title>
+   <description>הרב אסף נאמבורג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=q88if39c8Qg</description>
+   <itunes:author>הרב אסף נאמבורג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/q88if39c8Qg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/q88if39c8Qg.mp3</guid>
+   <pubDate>Thu, 08 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כנס עזים בשובבי"ם | התמודדות עם המדיה – "מה יעשה הבן ולא יחטא" | הרב אסף נמבורג</title>
+   <description>הרב אסף נאמבורג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=1_NHGAI1emE</description>
+   <itunes:author>הרב אסף נאמבורג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1_NHGAI1emE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1_NHGAI1emE.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אסף נאמבורג – היחס הבריא לפלאפון</title>
+   <description>הרב אסף נאמבורג · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=n4AXyTYMaes</description>
+   <itunes:author>הרב אסף נאמבורג</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/n4AXyTYMaes.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/n4AXyTYMaes.mp3</guid>
+   <pubDate>Thu, 08 Jul 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

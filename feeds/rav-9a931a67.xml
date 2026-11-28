@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב רן כלילי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9a931a67.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב רן כלילי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>וישלח - מעשה אבות סימן לבנים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d286f0c9-b3fb-4790-974b-fdde5b164b2e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d286f0c9-b3fb-4790-974b-fdde5b164b2e/stream.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - עמדת התפילה לפני ה'</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/9376610d-1cd9-40d3-8a8a-ab06947a9198/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/9376610d-1cd9-40d3-8a8a-ab06947a9198/stream.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - חוקים ומשפטים צדיקים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/41856059-1503-430a-a2e7-0a1b3e5dd912/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/41856059-1503-430a-a2e7-0a1b3e5dd912/stream.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביאור דרכו של הרמב"ם בתארים הא-לוהיים חלק ב | 37</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/eca7708d-7156-4aa2-9074-8923f07b79a8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/eca7708d-7156-4aa2-9074-8923f07b79a8/stream.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביאור דרכו של הרמב"ם בתארים הא-לוהיים - חלק א | 36</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0498cc02-0b6a-40d3-afab-debc25974723/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0498cc02-0b6a-40d3-afab-debc25974723/stream.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - והיית לנו לראש</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/15134c40-3921-4692-a01a-2307efa05463/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/15134c40-3921-4692-a01a-2307efa05463/stream.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - משפט הארץ</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a820aa59-625e-490e-a9f4-6cc90c4a21e2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a820aa59-625e-490e-a9f4-6cc90c4a21e2/stream.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - עבודת הביטחון</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/af812ec7-2fe1-4b40-bf49-62eebe9476f2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/af812ec7-2fe1-4b40-bf49-62eebe9476f2/stream.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - חובת ההשתדלות</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1b70fa07-99a6-4fbb-aa13-b9813ebd26c7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1b70fa07-99a6-4fbb-aa13-b9813ebd26c7/stream.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - סוד קשר הנישואין</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a9b48b39-6902-4d16-aa93-359fbaab8f9f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a9b48b39-6902-4d16-aa93-359fbaab8f9f/stream.mp3</guid>
+   <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עולם קבוע ונצחי או עולם מתחדש - חלק ב | 35</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/157b5ffc-eb0e-4274-859c-7efa46c3f614/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/157b5ffc-eb0e-4274-859c-7efa46c3f614/stream.mp3</guid>
+   <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דוד המלך - ערך ההכנה למצווה | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2e3d3cbd-dba6-408d-aa67-83e675512ae0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2e3d3cbd-dba6-408d-aa67-83e675512ae0/stream.mp3</guid>
+   <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עולם קבוע ונצחי או עולם מתחדש - חלק א | 34</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/cdf131c8-299b-412a-842f-ce6fc99e8b4e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/cdf131c8-299b-412a-842f-ce6fc99e8b4e/stream.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יחסי הניסים וחוקי הטבע | 33</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/00394691-78c7-4ef4-a104-4ae1f59da6bd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/00394691-78c7-4ef4-a104-4ae1f59da6bd/stream.mp3</guid>
+   <pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיטת החיוב המורחב (ב) | 32</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c2f25673-1842-46f1-a7b2-3b0eb14a977d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c2f25673-1842-46f1-a7b2-3b0eb14a977d/stream.mp3</guid>
+   <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיטת החיוב המורחב (א) | 31</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e89ce4b0-b479-4638-8df1-0736dc7447d7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e89ce4b0-b479-4638-8df1-0736dc7447d7/stream.mp3</guid>
+   <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עולמות קודמים, החידוש התמידי ותורת ההתפתחות | 30</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c9af3433-57d0-4e73-9e7e-d747c7285ad5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c9af3433-57d0-4e73-9e7e-d747c7285ad5/stream.mp3</guid>
+   <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העולם - מחודש או קדמון? | 29</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/76062956-eb0b-49ea-85e6-6693190deaf2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/76062956-eb0b-49ea-85e6-6693190deaf2/stream.mp3</guid>
+   <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסיבות לכפירה בימינו | 28</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/97dc72b2-5983-4016-ab72-2d1fc01cb61a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/97dc72b2-5983-4016-ab72-2d1fc01cb61a/stream.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האמונה הטבעית | 27</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7b941515-7254-4d5f-a2c1-deffe89c7757/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7b941515-7254-4d5f-a2c1-deffe89c7757/stream.mp3</guid>
+   <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האמונה בספרי התורה ועיקרי האמונה ממסורת הנביאים | 26</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/60b9c563-fb47-4ca5-907d-14b6c78a368f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/60b9c563-fb47-4ca5-907d-14b6c78a368f/stream.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטרת החקירה השכלית לדעת הרמב"ם | 25</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f9e9f09f-2a1e-4755-bf41-13268b423e1e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f9e9f09f-2a1e-4755-bf41-13268b423e1e/stream.mp3</guid>
+   <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין אמונה מהוכחות לאמונה ממפגש בחוש עם ההשגחה (ב) | 24</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0aede425-3e76-46a6-a9da-8bf7eff4ff78/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0aede425-3e76-46a6-a9da-8bf7eff4ff78/stream.mp3</guid>
+   <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין אמונה מהוכחות לאמונה ממפגש בחוש עם ההשגחה (א) | 23</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a49f60f0-58a3-46e9-ba44-e7375fd3c92d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a49f60f0-58a3-46e9-ba44-e7375fd3c92d/stream.mp3</guid>
+   <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שני סוגים של השגחות - רמח"ל כמחבר בין השיטות | 22</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3b5c1179-e8d9-4e22-8af8-16800b05fbe3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3b5c1179-e8d9-4e22-8af8-16800b05fbe3/stream.mp3</guid>
+   <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מינון ההשגחה לעומת חופש בחירת האדם - חלק ב | 21</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d5a63c51-2410-45b9-9f6c-057488d5c77b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d5a63c51-2410-45b9-9f6c-057488d5c77b/stream.mp3</guid>
+   <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מינון ההשגחה לעומת חופש בחירת האדם חלק א | 20</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/04589633-ac51-4704-ab08-23776829cd96/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/04589633-ac51-4704-ab08-23776829cd96/stream.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכר מצוות והשגחת ה' - הרמב"ם | 19</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0c11b482-8e37-4f60-a26d-c6ced4d7e779/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0c11b482-8e37-4f60-a26d-c6ced4d7e779/stream.mp3</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביטול הקורבנות לעתיד | 18</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/05aa672a-57a6-479c-8519-bad150bc47fe/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/05aa672a-57a6-479c-8519-bad150bc47fe/stream.mp3</guid>
+   <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקרבנות כפעולות | 17</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6bc312b6-daa1-4ef9-bd86-874f34b83390/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6bc312b6-daa1-4ef9-bd86-874f34b83390/stream.mp3</guid>
+   <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טעמי הקורבנות - שיטת ריה"ל | 16</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b9bf9257-9c5e-4ff9-846e-b543622c01ff/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b9bf9257-9c5e-4ff9-846e-b543622c01ff/stream.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טעמי הקורבנות - שיטת הרמב"ם | 15</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/88a26a8a-d2d3-4a39-8144-ef53639f948f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/88a26a8a-d2d3-4a39-8144-ef53639f948f/stream.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טעמי המצוות - שיטת המהר"ל וריה"ל | 14</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d95545ef-78bf-4d16-9a23-4ae77448437f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d95545ef-78bf-4d16-9a23-4ae77448437f/stream.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טעמי המצוות - שיטת הרמב"ם | 13</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1b76c4ed-4139-49b0-a1fc-e98fdc7d641a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1b76c4ed-4139-49b0-a1fc-e98fdc7d641a/stream.mp3</guid>
+   <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיטת הרמב"ם בהסבר חטא אדם הראשון | 12</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/09633b63-0c6f-4132-9151-1b15f6dd759c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/09633b63-0c6f-4132-9151-1b15f6dd759c/stream.mp3</guid>
+   <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חלוקת מצוות התורה על פי תכליתם | 11</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/22be2d5a-be13-497a-8ad1-4b718be531c4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/22be2d5a-be13-497a-8ad1-4b718be531c4/stream.mp3</guid>
+   <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מגיעים לאהבת ה' ויראתו | 10</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/84b38b4e-fb53-49f0-b67b-eb36a818a856/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/84b38b4e-fb53-49f0-b67b-eb36a818a856/stream.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היחס של העובד לשכר או לתיקונים הקבליים | 9</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b711847d-5547-425e-8efb-a252f853c5d7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b711847d-5547-425e-8efb-a252f853c5d7/stream.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלית עבודת האדם - ריה"ל והמקובלים | 8</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ee6ae87d-6c9b-4e6e-95db-29b6ba31b042/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ee6ae87d-6c9b-4e6e-95db-29b6ba31b042/stream.mp3</guid>
+   <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלית עבודת האדם - הר"ן, אור השם והעיקרים | 7</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/586a5619-fd9c-4361-8e69-cea55d84f2d4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/586a5619-fd9c-4361-8e69-cea55d84f2d4/stream.mp3</guid>
+   <pubDate>Sun, 07 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפקיד רוב בני האדם שלא הגיעו לתכלית | 6</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c739a34b-ae55-4658-95d5-cca65a490e1c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c739a34b-ae55-4658-95d5-cca65a490e1c/stream.mp3</guid>
+   <pubDate>Sun, 30 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העבודה שאחרי ההשגה | 5</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6d778407-a7a7-4aa2-88f9-19492835273a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6d778407-a7a7-4aa2-88f9-19492835273a/stream.mp3</guid>
+   <pubDate>Mon, 24 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלית האדם ושלמותו (ע"פ הרמב"ם) | 4</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2ad713e4-cb5d-4a82-a699-d2ec978aed18/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2ad713e4-cb5d-4a82-a699-d2ec978aed18/stream.mp3</guid>
+   <pubDate>Sun, 16 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלית שלישית בבריאת העולם - גילוי ייחודו | 3</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/358d3fbf-244e-45c3-88d2-0ebf8edeba98/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/358d3fbf-244e-45c3-88d2-0ebf8edeba98/stream.mp3</guid>
+   <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התכלית בבריאה מצד הנהגת הנבראים | 2</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/47e996f0-692a-4b2b-bdcc-0ad4ea285283/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/47e996f0-692a-4b2b-bdcc-0ad4ea285283/stream.mp3</guid>
+   <pubDate>Sun, 02 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלית הבריאה, גבולות הדיון והחידוש ע"פ הרמב"ם | 1</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4a7cfba1-5962-4c5d-b31e-77fb248ae471/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4a7cfba1-5962-4c5d-b31e-77fb248ae471/stream.mp3</guid>
+   <pubDate>Tue, 26 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"כל הדר בחו"ל דומה כמי שאין לו א-לוה" | 25</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5f7d0029-6841-4ee7-9791-f73d2f81242d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5f7d0029-6841-4ee7-9791-f73d2f81242d/stream.mp3</guid>
+   <pubDate>Sun, 15 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקריטריון לפירוד מהרשעים | 24</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d1609752-a820-4eb3-90dd-4d7b787cf6ca/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d1609752-a820-4eb3-90dd-4d7b787cf6ca/stream.mp3</guid>
+   <pubDate>Sun, 08 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת ה' - עבודה בחצי משרה או משרה מלאה? | 23</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/76661f77-9ea7-4cec-b4e9-a8fa5dc26f2d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/76661f77-9ea7-4cec-b4e9-a8fa5dc26f2d/stream.mp3</guid>
+   <pubDate>Sun, 01 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>א-לוהי דוד ובונה ירושלים | 22</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9436e9eb-5150-4064-a8d2-bbbdccedec76/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9436e9eb-5150-4064-a8d2-bbbdccedec76/stream.mp3</guid>
+   <pubDate>Sun, 25 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היחס לבעלי חיים | 21</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/77af519a-43dd-4c94-823c-aa1b089f9e26/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/77af519a-43dd-4c94-823c-aa1b089f9e26/stream.mp3</guid>
+   <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוח הראיה והמחשבה וסוד הקורבנות | 20</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ed9054a1-3119-479e-9861-da88938f3582/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ed9054a1-3119-479e-9861-da88938f3582/stream.mp3</guid>
+   <pubDate>Sat, 26 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטרת הקשר בין איש לאשתו | 19</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/8380c0a9-95e4-4cfc-9e3d-077d16638540/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/8380c0a9-95e4-4cfc-9e3d-077d16638540/stream.mp3</guid>
+   <pubDate>Sun, 20 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלחמת הפסוקים | 18</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7b51c7f4-5aa6-477b-810d-feec8f8af22c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7b51c7f4-5aa6-477b-810d-feec8f8af22c/stream.mp3</guid>
+   <pubDate>Sun, 06 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היחס לחישובי קיצים | 17</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/87c9c396-c996-4576-8a66-c104ed3730d5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/87c9c396-c996-4576-8a66-c104ed3730d5/stream.mp3</guid>
+   <pubDate>Sun, 30 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסתרת הקץ וחישובו | 16</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/35c228ea-818d-4534-ae48-7434f2282f66/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/35c228ea-818d-4534-ae48-7434f2282f66/stream.mp3</guid>
+   <pubDate>Sun, 23 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ציפייה לישועה | 15</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/133c706e-eecb-4325-b223-8280d1513d09/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/133c706e-eecb-4325-b223-8280d1513d09/stream.mp3</guid>
+   <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היום אם בקולו תשמעו - המדרש על ריב"ל וחנוכה | 14</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/93388905-bf3d-471d-a175-c7353c842913/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/93388905-bf3d-471d-a175-c7353c842913/stream.mp3</guid>
+   <pubDate>Sun, 23 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא יסור שבט מיהודה - המשיח כבר בא? | 13</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9e5b7d0b-1aa7-4767-b028-1e04818ab821/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9e5b7d0b-1aa7-4767-b028-1e04818ab821/stream.mp3</guid>
+   <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יחס הרמב"ן למדרשי חז"ל | 12</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/899e3f8f-2971-4fb8-8532-acbb06df7704/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/899e3f8f-2971-4fb8-8532-acbb06df7704/stream.mp3</guid>
+   <pubDate>Sun, 09 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ללמוד את דרכי הדרכת ה' או להאמין בתמימות? | 11</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4e6825d2-71e3-4266-acf2-c25bfec35434/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4e6825d2-71e3-4266-acf2-c25bfec35434/stream.mp3</guid>
+   <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שער הגמול - מהם ייסורים של אהבה | 10</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/4d15d7ea-826d-40c2-9412-fa5035f111cc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/4d15d7ea-826d-40c2-9412-fa5035f111cc/stream.mp3</guid>
+   <pubDate>Sat, 25 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניין הניסיון בתורה | 9</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a0aef08b-aba4-4cc4-b001-5ee3b7d97ddf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a0aef08b-aba4-4cc4-b001-5ee3b7d97ddf/stream.mp3</guid>
+   <pubDate>Sat, 18 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להשתדל על דרך הטבע או לסמוך על הנס? | 8</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a17b60cb-5d3c-4051-a0db-ef0cc1aaa06b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a17b60cb-5d3c-4051-a0db-ef0cc1aaa06b/stream.mp3</guid>
+   <pubDate>Sat, 11 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר שבין א"י לעם ישראל ע"פ הרמב"ן | 7</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c41a1209-8173-43b2-a575-f65d607853de/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c41a1209-8173-43b2-a575-f65d607853de/stream.mp3</guid>
+   <pubDate>Sun, 05 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וגורל אחד - לעזאזל | 6</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/24cf4b5b-8d02-45e8-ba17-4d1633033a32/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/24cf4b5b-8d02-45e8-ba17-4d1633033a32/stream.mp3</guid>
+   <pubDate>Sun, 22 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ג מידות של... רחמים? | 5</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ccda256f-e2ef-4c8e-b3b2-7f791fd03d0c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ccda256f-e2ef-4c8e-b3b2-7f791fd03d0c/stream.mp3</guid>
+   <pubDate>Sat, 14 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין (/לא היה) יש מאין | 4</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7da8c2f6-8bce-4a24-8413-77a07bb58617/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7da8c2f6-8bce-4a24-8413-77a07bb58617/stream.mp3</guid>
+   <pubDate>Fri, 06 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שינוי חוקי הטבע לעתיד | 3</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/65ea1910-a182-4a16-882e-fe5f17384128/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/65ea1910-a182-4a16-882e-fe5f17384128/stream.mp3</guid>
+   <pubDate>Fri, 06 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כולם ניסים - בין נס לטבע | 2</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/38d77e57-712e-40c0-affb-baae2c61cbe7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/38d77e57-712e-40c0-affb-baae2c61cbe7/stream.mp3</guid>
+   <pubDate>Fri, 06 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה - ספר שלם? | 1</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/51bc14f0-0a4e-48f2-8037-43d6f4fcab10/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/51bc14f0-0a4e-48f2-8037-43d6f4fcab10/stream.mp3</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החמרה מעבר למותר – מטרות וגבולות - 4</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ca77b9c5-c3a1-431e-a756-e9b482da3ad3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ca77b9c5-c3a1-431e-a756-e9b482da3ad3/stream.mp3</guid>
+   <pubDate>Sun, 31 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חומרות - סכנות - 3</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/01a60ad0-2a98-4fc7-985c-99a1ba8e86a5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/01a60ad0-2a98-4fc7-985c-99a1ba8e86a5/stream.mp3</guid>
+   <pubDate>Sun, 24 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התפתחות המחלוקת והספקות - 2</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0b8638fc-417d-445f-b84a-c10530a6c47e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0b8638fc-417d-445f-b84a-c10530a6c47e/stream.mp3</guid>
+   <pubDate>Sun, 17 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תוקף סמכות חכמים והתלמוד - 1</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f17c6714-bdc7-4042-a7ae-6e4eccd78fca/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f17c6714-bdc7-4042-a7ae-6e4eccd78fca/stream.mp3</guid>
+   <pubDate>Sun, 10 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - "לא יעברו מתוך היהודים" (27)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/58b21cd8-382a-46aa-a115-2a959f3d9598/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/58b21cd8-382a-46aa-a115-2a959f3d9598/stream.mp3</guid>
+   <pubDate>Sun, 03 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>26 - היחס בין תורה שבכתב לתורה שבעל פה (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/80110ac0-52f0-420f-9b07-df895b0c4925/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/80110ac0-52f0-420f-9b07-df895b0c4925/stream.mp3</guid>
+   <pubDate>Fri, 09 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>25 - היחס בין תורה שבכתב לתורה שבעל פה (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/ab02b8c5-95de-4faa-9494-02eaec2861be/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/ab02b8c5-95de-4faa-9494-02eaec2861be/stream.mp3</guid>
+   <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>24 - מטרת שינוי כתב התורה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/4d4f60af-aa6c-4885-89b7-50b618013b89/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/4d4f60af-aa6c-4885-89b7-50b618013b89/stream.mp3</guid>
+   <pubDate>Fri, 02 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>23 - מצוות קלות וחמורות</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fff16d73-c9e1-4e03-96fa-3cadf2bc9f15/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fff16d73-c9e1-4e03-96fa-3cadf2bc9f15/stream.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>22 - יעודי התורה (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2bf656cf-da0b-473a-b0a5-8481efd3b3d7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2bf656cf-da0b-473a-b0a5-8481efd3b3d7/stream.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>21 - יעודי התורה (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/011dd0d8-e13b-49cd-a151-640d35eb3ab4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/011dd0d8-e13b-49cd-a151-640d35eb3ab4/stream.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>20 - בחינות בשכחת התורה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/2f9d2114-4cc6-47db-9ed8-83375bc7f617/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/2f9d2114-4cc6-47db-9ed8-83375bc7f617/stream.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>19 - זיכרון יציאת מצרים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1c2518d0-032e-45f2-a757-f789c3b9d7ce/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1c2518d0-032e-45f2-a757-f789c3b9d7ce/stream.mp3</guid>
+   <pubDate>Tue, 26 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>18 - מעמד האשה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c7a51674-2c8d-41cb-adaf-d21cbea7a188/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c7a51674-2c8d-41cb-adaf-d21cbea7a188/stream.mp3</guid>
+   <pubDate>Tue, 26 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>17 - כפייה ורצון</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/cdf8bf8a-08cd-48e3-ae37-a6d78bfd0744/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/cdf8bf8a-08cd-48e3-ae37-a6d78bfd0744/stream.mp3</guid>
+   <pubDate>Tue, 26 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>16 - מעלת נבואת משה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/c087a9c3-db9d-46ae-9874-690fd517e4a4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/c087a9c3-db9d-46ae-9874-690fd517e4a4/stream.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>15 - נצחיות חנוכה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b593564e-9ad5-457e-b86d-e8e274de6dc2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b593564e-9ad5-457e-b86d-e8e274de6dc2/stream.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>14 - חנוכה - דרוש על ארבע מלכויות</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6f643139-3f55-4418-b65f-dfd86b243f21/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6f643139-3f55-4418-b65f-dfd86b243f21/stream.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>13 - מי גדול ממי - האדם או המלאך? (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/b6b9b863-e98e-4b74-b2a2-60392a705a9c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/b6b9b863-e98e-4b74-b2a2-60392a705a9c/stream.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (46) - וישלח - האם האבות היו ישרים? | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3b5b4a61-097f-4a22-b985-d00399c334d1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3b5b4a61-097f-4a22-b985-d00399c334d1/stream.mp3</guid>
+   <pubDate>Fri, 01 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>12 - מי גדול ממי - האדם או המלאך? (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/24997f01-d8d1-4c86-b30a-19b296374c21/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/24997f01-d8d1-4c86-b30a-19b296374c21/stream.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>11 - כל העושה מצוה אחת (ג)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/038647b9-0726-46aa-8fcc-2e03320aab7b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/038647b9-0726-46aa-8fcc-2e03320aab7b/stream.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10 - כל העושה מצוה אחת (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a2a8ec1b-ebbd-4050-8c44-ea1e0e1e7052/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a2a8ec1b-ebbd-4050-8c44-ea1e0e1e7052/stream.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (33) - חסידים שחרב בידם | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/cf405ff8-b996-41ac-b539-18a2ae031b7e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/cf405ff8-b996-41ac-b539-18a2ae031b7e/stream.mp3</guid>
+   <pubDate>Fri, 10 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (27) - מגן אברהם | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/872f8297-9bd0-4a3a-8351-9997040fdc3f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/872f8297-9bd0-4a3a-8351-9997040fdc3f/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - כל העושה מצוה אחת (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7c067f9a-283c-4edb-a174-05a8f8b38506/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7c067f9a-283c-4edb-a174-05a8f8b38506/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - לימוד תורה לתלמיד שאינו הגון</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5cdfd436-a26d-4f71-862b-5279894d79cb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5cdfd436-a26d-4f71-862b-5279894d79cb/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - שיעבוד הפסיקה לערכי התרבות</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/363f3908-4e4a-4cea-ba81-1ed5790d455b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/363f3908-4e4a-4cea-ba81-1ed5790d455b/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>5040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (19) לכבוד שבת קודש - פרשת נח | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ec36972e-9306-4d80-ae42-d74b0decf1ec/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ec36972e-9306-4d80-ae42-d74b0decf1ec/stream.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (16) - מובטח לו שלא ימצא נזק [ד] | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/215f88c3-bfca-428a-8866-241451cee185/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/215f88c3-bfca-428a-8866-241451cee185/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (15) - מובטח לו שלא ימצא נזק [ג] | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/007e243a-5191-4b71-bff4-ff8a2d38ce6b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/007e243a-5191-4b71-bff4-ff8a2d38ce6b/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (14) - מובטח לו שלא ימצא נזק [ב] | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/02b2b837-131c-4d47-a182-3f3cb50b31ed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/02b2b837-131c-4d47-a182-3f3cb50b31ed/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (13) - מובטח לו שלא ימצא נזק [א] | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/55e80bfc-938a-4b06-8c2d-3975a2bb2c18/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/55e80bfc-938a-4b06-8c2d-3975a2bb2c18/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (8) - מלחמת דוד בצקלג [ד] | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8864bb63-bb46-409d-8a64-c5d3124fa090/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8864bb63-bb46-409d-8a64-c5d3124fa090/stream.mp3</guid>
+   <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (7) - מלחמת דוד בצקלג [ג] | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9b86db88-0c8a-40dd-9de4-1c96d5e69ba3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9b86db88-0c8a-40dd-9de4-1c96d5e69ba3/stream.mp3</guid>
+   <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (6) - מלחמת דוד בצקלג [ב] | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/10da65c1-362a-40e2-957d-0ceb2e1674fc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/10da65c1-362a-40e2-957d-0ceb2e1674fc/stream.mp3</guid>
+   <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (5) - מלחמת דוד בצקלג [א] | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9c092797-aa62-4a79-9bc4-b2d30e8b86dc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9c092797-aa62-4a79-9bc4-b2d30e8b86dc/stream.mp3</guid>
+   <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7 - שלא ברכו בתורה תחילה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0f111b19-3979-4903-bb80-f6562b11929e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0f111b19-3979-4903-bb80-f6562b11929e/stream.mp3</guid>
+   <pubDate>Thu, 21 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - עבודת יום הכיפורים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0a9d8ddb-4d23-4123-8428-40e64e737431/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0a9d8ddb-4d23-4123-8428-40e64e737431/stream.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - עבודת ה' - חצי משרה או משרה מלאה?</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/35734e20-c012-40d8-bb85-511ae097200b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/35734e20-c012-40d8-bb85-511ae097200b/stream.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - שוב יום אחד</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/bba97030-8a26-4c16-b8f4-09d41627a62e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/bba97030-8a26-4c16-b8f4-09d41627a62e/stream.mp3</guid>
+   <pubDate>Fri, 25 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - זדונות נהפכים (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/0ea0ad1d-d288-4ff4-a032-a67a848ffa28/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/0ea0ad1d-d288-4ff4-a032-a67a848ffa28/stream.mp3</guid>
+   <pubDate>Fri, 25 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - זדונות נהפכים (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fb5b9fac-f19e-4af9-a76f-750f53a09f41/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fb5b9fac-f19e-4af9-a76f-750f53a09f41/stream.mp3</guid>
+   <pubDate>Fri, 25 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - ביטול האפשרות לשוב</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/65aa7568-079b-4e83-a958-96972e634c00/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/65aa7568-079b-4e83-a958-96972e634c00/stream.mp3</guid>
+   <pubDate>Fri, 25 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - הקדמה למהר"ל</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/34af3a11-ba2f-4781-afc6-70dc05c26d05/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/34af3a11-ba2f-4781-afc6-70dc05c26d05/stream.mp3</guid>
+   <pubDate>Fri, 25 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>40 - גזירת הכוכבים - ריה"ל ורמב"ן</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b965080a-9a47-41ce-b9ac-74222e456047/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b965080a-9a47-41ce-b9ac-74222e456047/stream.mp3</guid>
+   <pubDate>Thu, 06 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>39 - גזרת כוכבים - בירור דעת הרמב"ם</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/555dd4a8-732d-437d-8a3f-0b51d5ceea41/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/555dd4a8-732d-437d-8a3f-0b51d5ceea41/stream.mp3</guid>
+   <pubDate>Thu, 22 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>38 - גזרת כוכבים - הרמב"ם וחז"ל</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b9642ea9-9460-485d-91bc-05df9229541b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b9642ea9-9460-485d-91bc-05df9229541b/stream.mp3</guid>
+   <pubDate>Thu, 15 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>37 - כיצד בוחנים מי היא דת האמת?</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/67e9dfa4-ea68-4175-8fb6-775df0497e14/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/67e9dfa4-ea68-4175-8fb6-775df0497e14/stream.mp3</guid>
+   <pubDate>Tue, 13 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>36 - היחס להודאה בשליחות נביא האסלאם</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/01969b4f-3880-4d39-bb87-cb247c7a7597/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/01969b4f-3880-4d39-bb87-cb247c7a7597/stream.mp3</guid>
+   <pubDate>Sun, 11 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>35 - כופר המבקש לחזור בתשובה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d3aca17d-9353-46df-95b0-7807c7fe7089/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d3aca17d-9353-46df-95b0-7807c7fe7089/stream.mp3</guid>
+   <pubDate>Tue, 30 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>34 - הקריטריון לפירוד מהמינים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c0751499-04e8-47c5-a68e-1133583fc402/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c0751499-04e8-47c5-a68e-1133583fc402/stream.mp3</guid>
+   <pubDate>Tue, 30 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>33 - היחס לטועים בעיקרי הדת (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3310bf52-b140-49f3-bc8d-6c51999bd853/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3310bf52-b140-49f3-bc8d-6c51999bd853/stream.mp3</guid>
+   <pubDate>Tue, 30 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>32 - היחס לטועים בעיקרי הדת (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/00678e91-3c06-4e75-951f-f99e81f72282/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/00678e91-3c06-4e75-951f-f99e81f72282/stream.mp3</guid>
+   <pubDate>Tue, 30 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>31 - שינויים בימות המשיח (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d0ef9c54-f485-4005-9cbb-6c1871797d7c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d0ef9c54-f485-4005-9cbb-6c1871797d7c/stream.mp3</guid>
+   <pubDate>Mon, 24 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>30 - שינויים בימות המשיח (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5b2b5740-33d1-42ca-9248-0f05ac4604cf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5b2b5740-33d1-42ca-9248-0f05ac4604cf/stream.mp3</guid>
+   <pubDate>Mon, 24 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך תגיע הגאולה העתידה? | הרב רן כלילי | והגדת לבנך תשפ"ג</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0eeae6f3-ee0d-4994-9d08-044f931cda16/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0eeae6f3-ee0d-4994-9d08-044f931cda16/stream.mp3</guid>
+   <pubDate>Tue, 28 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>29 - עולם הבא (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5e2ee349-e77a-45a4-ac9b-b1b76367245b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5e2ee349-e77a-45a4-ac9b-b1b76367245b/stream.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>28 - עולם הבא (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/696e43ba-ab6e-443f-98fc-62fc375bfee8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/696e43ba-ab6e-443f-98fc-62fc375bfee8/stream.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>27 - מעלת ארץ ישראל</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d5e2c408-ebc5-4204-877f-186e0880b2e8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d5e2c408-ebc5-4204-877f-186e0880b2e8/stream.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>26 - מעמד הר סיני - יסוד הדת</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a9ac2776-9613-49ce-a0b3-2b929e43cbf5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a9ac2776-9613-49ce-a0b3-2b929e43cbf5/stream.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>25 - ישראל ואומות העולם (ה) - השפעות הדדיות</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1831fa1a-1e43-476f-9cab-aa71aa7383c1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1831fa1a-1e43-476f-9cab-aa71aa7383c1/stream.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>24 - ישראל ואומות העולם (ד) - רמח"ל</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/28613366-d652-4e04-a32e-b8e0e8abc90c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/28613366-d652-4e04-a32e-b8e0e8abc90c/stream.mp3</guid>
+   <pubDate>Sat, 04 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>23 - ישראל ואומות העולם (ג) - רמב"ם</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a5ef3807-1e3b-43f7-8d7d-bc1f6715325c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a5ef3807-1e3b-43f7-8d7d-bc1f6715325c/stream.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>22 - ישראל ואומות העולם (ב) - מהר"ל</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1e9dd743-3263-49f6-9fdc-34100acc4822/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1e9dd743-3263-49f6-9fdc-34100acc4822/stream.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>21 - ישראל ואומות העולם (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/6d51e72b-7c4d-4b61-816f-068a8030f9ed/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/6d51e72b-7c4d-4b61-816f-068a8030f9ed/stream.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>20 - נבואה בגוים וגרים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/a8bfc512-bb5e-4c7e-a7dc-1bfdb8618870/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/a8bfc512-bb5e-4c7e-a7dc-1bfdb8618870/stream.mp3</guid>
+   <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>19 - ארץ ישראל והנבואה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0e129f3c-58b1-4092-adcc-dcad2aa62e35/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0e129f3c-58b1-4092-adcc-dcad2aa62e35/stream.mp3</guid>
+   <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>18 - נבואה - נס או טבע? שיטת ריה"ל</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/7c752c54-b9f1-40e8-b39f-efc8198bf5e5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/7c752c54-b9f1-40e8-b39f-efc8198bf5e5/stream.mp3</guid>
+   <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>17 - נבואה - נס או טבע? - שיטת הרמב"ם</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/3cfeccc9-d988-44a7-8ee4-510d91c58955/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/3cfeccc9-d988-44a7-8ee4-510d91c58955/stream.mp3</guid>
+   <pubDate>Thu, 29 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>16 - אימות הנביא</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/95af488c-694e-4c18-94a2-427b7bf40a7d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/95af488c-694e-4c18-94a2-427b7bf40a7d/stream.mp3</guid>
+   <pubDate>Thu, 29 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>15 - תורה לאומית או אוניברסלית</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/0d5fd555-5df1-431b-8d3d-e557646c0253/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/0d5fd555-5df1-431b-8d3d-e557646c0253/stream.mp3</guid>
+   <pubDate>Mon, 19 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>14 - היחס לתארי ההגשמה (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/fe84088d-2eb1-43f2-a9ad-633b51bf6a9d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/fe84088d-2eb1-43f2-a9ad-633b51bf6a9d/stream.mp3</guid>
+   <pubDate>Mon, 05 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>13 - היחס לתארי ההגשמה (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/fa12887b-904b-4dc4-bf41-632f394b2805/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/fa12887b-904b-4dc4-bf41-632f394b2805/stream.mp3</guid>
+   <pubDate>Mon, 05 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>12 - בין הגשמה להשגחה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/1d97a8d9-5a4e-4f39-b420-a0a86213f057/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/1d97a8d9-5a4e-4f39-b420-a0a86213f057/stream.mp3</guid>
+   <pubDate>Thu, 24 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>11 - החלפת עם ישראל כעם נבחר</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/534f0d57-6cbb-4123-84c3-2fff52300929/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/534f0d57-6cbb-4123-84c3-2fff52300929/stream.mp3</guid>
+   <pubDate>Thu, 24 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10 - מוסר יהודי מול מוסר נוצרי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/443023a7-fab5-404a-a575-e87bc436b8f7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/443023a7-fab5-404a-a575-e87bc436b8f7/stream.mp3</guid>
+   <pubDate>Wed, 23 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - שלמות והשתלמות בתורה</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d8504fed-efa6-407e-bbc0-e854a5041599/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d8504fed-efa6-407e-bbc0-e854a5041599/stream.mp3</guid>
+   <pubDate>Wed, 16 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - המחלוקת עם הנצרות באמונה בבורא</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/6a1b463a-d6e4-4040-b4ad-77d8f9959ebf/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/6a1b463a-d6e4-4040-b4ad-77d8f9959ebf/stream.mp3</guid>
+   <pubDate>Wed, 09 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7 - תכלית התורה ופעולת המצוות</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/96c8af67-8d8e-4e90-a745-b47c5e9c7bdd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/96c8af67-8d8e-4e90-a745-b47c5e9c7bdd/stream.mp3</guid>
+   <pubDate>Thu, 03 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - אלו ואלו דברי א-להים חיים</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/bda0c8f3-62cf-40ce-a0a1-9d59eaf82d8f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/bda0c8f3-62cf-40ce-a0a1-9d59eaf82d8f/stream.mp3</guid>
+   <pubDate>Fri, 28 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - קיום הגוף במן ועבודת יום כיפור</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/cacf150b-c294-4ccd-8ffa-a152b4ae80af/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/cacf150b-c294-4ccd-8ffa-a152b4ae80af/stream.mp3</guid>
+   <pubDate>Tue, 04 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"וישם על יצחק בנו" | אורי וישעי תשפ"ב | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7b77d623-d821-4b70-af01-fc2c83d0f41c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7b77d623-d821-4b70-af01-fc2c83d0f41c/stream.mp3</guid>
+   <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - י"ג מידות - אומרים או עושים?</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מוסר</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/fcedeb82-3591-4c2f-86b7-359cb3bf09db/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/fcedeb82-3591-4c2f-86b7-359cb3bf09db/stream.mp3</guid>
+   <pubDate>Fri, 23 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקריאות בראש השנה כדרגות בעבודת ה' | זכור ברית | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/01f1468c-d3aa-4d64-927c-61c8f9d553de/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/01f1468c-d3aa-4d64-927c-61c8f9d553de/stream.mp3</guid>
+   <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - הנאה גופנית כעבודת ה'</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2c6520e7-a3ed-42ff-a962-050209e869d8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2c6520e7-a3ed-42ff-a962-050209e869d8/stream.mp3</guid>
+   <pubDate>Thu, 15 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - נזירות - חטא או קדושה (ב)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ad53a670-62a9-449f-ba29-a31031da7785/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ad53a670-62a9-449f-ba29-a31031da7785/stream.mp3</guid>
+   <pubDate>Fri, 09 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - נזירות - חטא או קדושה (א)</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d3bdf75e-d5d2-42c2-ab6a-948d39111b29/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d3bdf75e-d5d2-42c2-ab6a-948d39111b29/stream.mp3</guid>
+   <pubDate>Fri, 02 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פניני יד פשוטה | ספר שופטים - הלכות מלכים ומלחמות | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/99aba4e8-0aa2-487a-8c6d-8a9c67cb1fe8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/99aba4e8-0aa2-487a-8c6d-8a9c67cb1fe8/stream.mp3</guid>
+   <pubDate>Sun, 22 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבדים היינו? | תקראו אותם - פסח | הרב רן כלילי</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2520b477-f849-4172-944d-d113a5ed18e6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2520b477-f849-4172-944d-d113a5ed18e6/stream.mp3</guid>
+   <pubDate>Sun, 03 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב רן כלילי - ותקעתם בחצוצרות</title>
+   <description>הרב רן כלילי · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב רן כלילי</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/03e4e3d9-38b9-40bb-854d-cefcdfb74502/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/03e4e3d9-38b9-40bb-854d-cefcdfb74502/stream.mp3</guid>
+   <pubDate>Thu, 02 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

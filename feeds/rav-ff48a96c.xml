@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב לונדין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-ff48a96c.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב לונדין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שבת שZOOM עם הרב לונדין | פרשת צו וערב חג הפסח</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=sCSC3REGH94</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/sCSC3REGH94.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/sCSC3REGH94.mp3</guid>
+   <pubDate>Fri, 26 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות ZOOM עם הרב לונדין | דוד המלך</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=SflCBUMNDU0</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/SflCBUMNDU0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/SflCBUMNDU0.mp3</guid>
+   <pubDate>Fri, 09 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות ZOOM עם הרב לונדין | יוסף</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=Dl_8wwSeXjE</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Dl_8wwSeXjE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Dl_8wwSeXjE.mp3</guid>
+   <pubDate>Wed, 07 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות ZOOM עם הרב לונדין | אהרון</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=3T51j0oc1SA</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/3T51j0oc1SA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/3T51j0oc1SA.mp3</guid>
+   <pubDate>Wed, 07 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות ZOOM עם הרב לונדין | משה</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=rd1kIWQEW8c</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/rd1kIWQEW8c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/rd1kIWQEW8c.mp3</guid>
+   <pubDate>Tue, 06 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות ZOOM עם הרב לונדין | יעקב</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=lz0mbfRPmQk</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/lz0mbfRPmQk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/lz0mbfRPmQk.mp3</guid>
+   <pubDate>Mon, 05 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות ZOOM עם הרב לונדין | יצחק</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BDlDaEdzX8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BDlDaEdzX8.mp3</guid>
+   <pubDate>Sat, 03 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות ZOOM עם הרב לונדין | אברהם</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=xhKJZ0hSWZM</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xhKJZ0hSWZM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xhKJZ0hSWZM.mp3</guid>
+   <pubDate>Fri, 02 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת שZOOM עם הרב לונדין | ראש השנה ה'תשפ"א</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=lKG4LoP341w</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/lKG4LoP341w.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/lKG4LoP341w.mp3</guid>
+   <pubDate>Fri, 18 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת שZOOM עם הרב לונדין | פרשת כי תבוא</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=cYqVltWx3Sc</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cYqVltWx3Sc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cYqVltWx3Sc.mp3</guid>
+   <pubDate>Sat, 05 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבת שZOOM עם הרב לונדין | חג שבועות ופרשת נשא</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=zSJymv3dIME</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zSJymv3dIME.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zSJymv3dIME.mp3</guid>
+   <pubDate>Fri, 29 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'יש משהו גדול יותר מאיתנו' | הרב לונדין עם תובנות לקראת חג שבועות הבעל"ט</title>
+   <description>הרב לונדין · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=F-xArPJV_u8</description>
+   <itunes:author>הרב לונדין</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/F-xArPJV_u8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/F-xArPJV_u8.mp3</guid>
+   <pubDate>Wed, 27 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

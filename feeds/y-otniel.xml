@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>ישיבת בית ועד הר חברון – עתניאל · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/y-otniel.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי ישיבת בית ועד הר חברון – עתניאל.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #8 מעביר ד' אמות ברשות הרבים | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3c/56/43/620044476993ee725fd523e04c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3c/56/43/620044476993ee725fd523e04c.mp3</guid>
+   <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ' טבת | הרמב"ם | יוסי בך</title>
+   <description>רבני הישיבה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e1/be/fe/d014c04d7994500243fad976f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e1/be/fe/d014c04d7994500243fad976f5.mp3</guid>
+   <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>5760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #7 קלוטה כמי שהונחה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9c/b2/9a/e6042c4a8dbdb8601335707308.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9c/b2/9a/e6042c4a8dbdb8601335707308.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #6 רמא וזקפיה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/56/3f/e0c1434bc4b67a1392c27f1d84.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/56/3f/e0c1434bc4b67a1392c27f1d84.mp3</guid>
+   <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #5 גדר עקירה והנחה בשיטת רבי יוחנן | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/58/fa/bc/d6674a4b0db8704f0a4746d071.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/58/fa/bc/d6674a4b0db8704f0a4746d071.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #4 עקירה והנחה מעל גבי מקום ד על ד | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/14/80/58/a116e4437fa4df31bac85c200a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/14/80/58/a116e4437fa4df31bac85c200a.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #3 מרכיבי מלאכת הוצאה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b5/bf/9f/7e21724df883651416479971f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b5/bf/9f/7e21724df883651416479971f1.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #2 מלאכת הוצאה - מלאכה גרועה או עיקר השבת | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/65/63/8b/b4bc3741a9b5e3a727a86116b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/65/63/8b/b4bc3741a9b5e3a727a86116b4.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #1 פתיחה למסכת: המפגש הראשון של עם ישראל עם השבת | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0f/81/da/ad992d4ba586921493852df2e3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0f/81/da/ad992d4ba586921493852df2e3.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוכה | #4 מספר הדפנות | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/58/e0/39/a01a1e4bc887ab587224eb8e76.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/58/e0/39/a01a1e4bc887ab587224eb8e76.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוכה | #3 הגובה המינימלי בסוכה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a5/e4/bf/4a6c9d495ab0517471cf1a1950.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a5/e4/bf/4a6c9d495ab0517471cf1a1950.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוכה | #2 מימדי הסוכה ומשמעותם | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0e/4b/b2/772f50420e9629fb39fc23d9d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0e/4b/b2/772f50420e9629fb39fc23d9d0.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוכה | #1 מבוא למסכת סוכה: פרשיות סוכה בתורה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/72/0d/9682484fc7bf00dbe5708a29ba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/72/0d/9682484fc7bf00dbe5708a29ba.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #13 הכהן והברכה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fc/e2/38/f3e9924b98b135b08994ac8a09.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fc/e2/38/f3e9924b98b135b08994ac8a09.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #12 מבוא לברכת כהנים | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b0/99/1b/e49a6e4cf697c8d831f7b8451c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b0/99/1b/e49a6e4cf697c8d831f7b8451c.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #11 מנחת הסוטה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ee/6c/1b/24bf4840e2a55754964cc2461d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ee/6c/1b/24bf4840e2a55754964cc2461d.mp3</guid>
+   <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #10 כתיבת המגילה ומחיקתה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6e/32/04/0b29b54fb2b193a12177aeb973.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6e/32/04/0b29b54fb2b193a12177aeb973.mp3</guid>
+   <pubDate>Sun, 13 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #9 המים הקדושים, הכלי והעפר | הרב ראם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/17/f3/92f321478ab70c1ebd4754e52e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/17/f3/92f321478ab70c1ebd4754e52e.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #8 שם שמים בפרשת סוטה (שבועה וניוול) | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4f/c0/ef/abfa37416096cc421764eb78bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4f/c0/ef/abfa37416096cc421764eb78bc.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #7 עמידה לפני ה' | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a8/9a/3e/f1087241f989be8a653d437e2d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a8/9a/3e/f1087241f989be8a653d437e2d.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #6 מבוא להשקיה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d7/5a/f3/970cc84aa78ced5f4cdeeb129b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d7/5a/f3/970cc84aa78ced5f4cdeeb129b.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #5 העדים בפרשת סוטה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/aa/eb/26/2287af4b89b426729c4d99676d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/aa/eb/26/2287af4b89b426729c4d99676d.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #4 הסתירה מטומאה לטהרה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fd/4f/70/5b8dc04e58ab7bba3802f78a48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fd/4f/70/5b8dc04e58ab7bba3802f78a48.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #3 גדרי הקינוי | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/58/13/42/d34fab4e3d9ba5f311241af5ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/58/13/42/d34fab4e3d9ba5f311241af5ef.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #2 הקינוי | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/f7/30/a53cc34a80a6f31e92315f2779.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/f7/30/a53cc34a80a6f31e92315f2779.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #1 פתיחה למסכת | הרב ראם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/73/ac/a1/1f767e441f968b03fa2cb2c3e3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/73/ac/a1/1f767e441f968b03fa2cb2c3e3.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ו' סיון | הבעל שם טוב | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/98/d4/a3/4485524a7bae621ddc723a6519.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/98/d4/a3/4485524a7bae621ddc723a6519.mp3</guid>
+   <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ח ניסן | הרב יוסף דוב הלוי סולובייצ'יק | הרב ד"ר אהרון אדלר</title>
+   <description>הרב יוסף דוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יוסף דוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/97/2c/14c88c4d978a1b92dbc99aafd3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/97/2c/14c88c4d978a1b92dbc99aafd3.mp3</guid>
+   <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יא אדר | חיים יוסף דוד אזולאי - החיד"א</title>
+   <description>רבני הישיבה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/06/22/84/80c3fc4a44b3348e0f57199f9e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/06/22/84/80c3fc4a44b3348e0f57199f9e.mp3</guid>
+   <pubDate>Mon, 10 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 39 - אנשי רוח ופוליטיקה // מלך ונביא</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/73/e3/82/d4b4994bb7b1b094ba509dac70.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/73/e3/82/d4b4994bb7b1b094ba509dac70.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ"ד טבת | ר' שניאור זלמן מלאדי - האדמו"ר הזקן | הרב בני קלמזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6a/20/d0/5873da43eaa3fc7f605b26a197.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6a/20/d0/5873da43eaa3fc7f605b26a197.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 38 - מקומו של הגוף בעבודת ה</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/09/18/61/224bb44927b2067bd00a47fe61.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/09/18/61/224bb44927b2067bd00a47fe61.mp3</guid>
+   <pubDate>Tue, 21 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>What is Chanukah - Revealing the Miracles | Rav Alex Haffetz</title>
+   <description>רבני הישיבה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ad/e6/f6/a2971648ba9cc0cc9960976825.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ad/e6/f6/a2971648ba9cc0cc9960976825.mp3</guid>
+   <pubDate>Sat, 28 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 37 – עבודת ה מתוך אחדות מרחב המלחמה למרחב בית המדרש והחיים</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/71/a5/36/1c1f0441b1a7aee24d728ed72c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/71/a5/36/1c1f0441b1a7aee24d728ed72c.mp3</guid>
+   <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 36 - צמחת עולם חדש אחרי שבר שמחה תורה</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/89/f9/77/a2addd4092b0fc080b2ffb7997.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/89/f9/77/a2addd4092b0fc080b2ffb7997.mp3</guid>
+   <pubDate>Wed, 02 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אקשיבה פרק 35-שקיעה בתורה וקיומה בעת מלחמה</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/51/05/39/e0111b48c596eb81f39b961fd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/51/05/39/e0111b48c596eb81f39b961fd2.mp3</guid>
+   <pubDate>Mon, 12 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 34 - התמודדות עם משבר האמון בשעת מלחמה</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4a/ce/95/44c78642788386175990588f28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4a/ce/95/44c78642788386175990588f28.mp3</guid>
+   <pubDate>Wed, 03 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יג אדר | רב משה פינשטיין | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/26/dd/f6/2b25024f2c8f3ab2ed1aa39d9a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/26/dd/f6/2b25024f2c8f3ab2ed1aa39d9a.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>א׳ אדר א׳ | אברהם אבן עזרא | ד״ר יושי פרג׳ון</title>
+   <description>רבני הישיבה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ae/73/15/d0d4a143b7b4c126a45f7fe9c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ae/73/15/d0d4a143b7b4c126a45f7fe9c6.mp3</guid>
+   <pubDate>Thu, 08 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>4800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ״ב שבט | הרבי מקוצק | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/89/1c/75/dd8cc543c3a11be1942cf7597a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/89/1c/75/dd8cc543c3a11be1942cf7597a.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבוא לחג הסוכות | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/22/2b/56/7e08734ff9bc823b9d31d875e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/22/2b/56/7e08734ff9bc823b9d31d875e0.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לסוכות | סוכת דוד הנופלת - שמחת בית השואבה | הרב יעקב נגן</title>
+   <description>הרב יעקב נגן · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב יעקב נגן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/af/26/a1/34806a41e8abbeea8b4399044e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/af/26/a1/34806a41e8abbeea8b4399044e.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לסוכות | מקדש, בית, סוכה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/79/27/65/372ae94898b00923d06f1caed6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/79/27/65/372ae94898b00923d06f1caed6.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לסוכות | לחתום קבע - השמחה והאמונה שבארעי | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4b/df/a1/5752a548bc8d5d2e9b6640f122.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4b/df/a1/5752a548bc8d5d2e9b6640f122.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לולב הגזול - חפצא וגברא | הרב פרופ' יהודה ברנדס</title>
+   <description>הרב פרופ יהודה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב פרופ יהודה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/00/d5/18/15ef7f4e0ebc32907b6e8b0e9b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/00/d5/18/15ef7f4e0ebc32907b6e8b0e9b.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | סוכות | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/22/6a/92/a7974e49e0b0b9501042b40b17.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/22/6a/92/a7974e49e0b0b9501042b40b17.mp3</guid>
+   <pubDate>Wed, 27 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכת דוד הנופלת - שמחת בית השואבה | הרב יעקב נגן</title>
+   <description>הרב יעקב נגן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יעקב נגן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d7/b2/ba/b7c45f47ad873171a618328820.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d7/b2/ba/b7c45f47ad873171a618328820.mp3</guid>
+   <pubDate>Tue, 26 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לולב הגזול - חפצא וגברא | הרב פרופ' יהודה ברנדס</title>
+   <description>הרב פרופ יהודה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב פרופ יהודה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ce/7b/84/e3e7a342f9b6cf5a4573abcca3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ce/7b/84/e3e7a342f9b6cf5a4573abcca3.mp3</guid>
+   <pubDate>Tue, 26 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחת תורה קווית ומעגלית | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/91/db/b7/e32ca94b038f17cb9291a6c465.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/91/db/b7/e32ca94b038f17cb9291a6c465.mp3</guid>
+   <pubDate>Tue, 26 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 33 - תורה ומדע - על היחס לעולם המחקר</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/98/3b/87/6a9ca94487a2331ef0f3d62afa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/98/3b/87/6a9ca94487a2331ef0f3d62afa.mp3</guid>
+   <pubDate>Thu, 21 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת האזינו | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4b/e1/f7/374674435aa1218988526f5da6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4b/e1/f7/374674435aa1218988526f5da6.mp3</guid>
+   <pubDate>Wed, 20 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 32 - יום תרועה - על תקיעת ושמיעת השופר</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1a/2f/87/c8314940fbbea20a210816fdd6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1a/2f/87/c8314940fbbea20a210816fdd6.mp3</guid>
+   <pubDate>Thu, 14 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת ניצבים - וילך | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/2a/dc/05460c47d8b92d7bada659b384.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/2a/dc/05460c47d8b92d7bada659b384.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת כי תבוא | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/31/e6/b1/cfc5b840d595828cdd7ed2e1ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/31/e6/b1/cfc5b840d595828cdd7ed2e1ef.mp3</guid>
+   <pubDate>Wed, 30 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת כי תצא | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cd/a4/af/0f8498468382e9d731b4d47d90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cd/a4/af/0f8498468382e9d731b4d47d90.mp3</guid>
+   <pubDate>Wed, 23 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת שפטים | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f7/84/8b/ddc6b947a785979b692f9e62d1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f7/84/8b/ddc6b947a785979b692f9e62d1.mp3</guid>
+   <pubDate>Wed, 16 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת ראה | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/60/19/59/cf62c34ce38458afc37870a93e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/60/19/59/cf62c34ce38458afc37870a93e.mp3</guid>
+   <pubDate>Wed, 09 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת עקב | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e4/f1/fe/5b2eda44ec84b0eb4fb34478c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e4/f1/fe/5b2eda44ec84b0eb4fb34478c6.mp3</guid>
+   <pubDate>Wed, 02 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת ואתחנן | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/97/1f/12/7b3dd64e2aa79fc6166375bd7f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/97/1f/12/7b3dd64e2aa79fc6166375bd7f.mp3</guid>
+   <pubDate>Tue, 25 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 31 - אשר יחדיו נמתיק סוד - על תורת הנסתר והשפה הקבלית</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/17/17/c300e34d92b0293dee60bd9928.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/17/17/c300e34d92b0293dee60bd9928.mp3</guid>
+   <pubDate>Thu, 20 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת דברים | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0a/b4/8b/5cf74d45eeacb6319c66f6ce60.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0a/b4/8b/5cf74d45eeacb6319c66f6ce60.mp3</guid>
+   <pubDate>Thu, 20 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 30 - עַל זֹאת יִתְפַּלֵּל כָּל חָסִיד - על חשיבותה של התנועה החסידית בעולמו של היהודי</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/19/80/b6b0ab4d40bb9f03c002156fcf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/19/80/b6b0ab4d40bb9f03c002156fcf.mp3</guid>
+   <pubDate>Thu, 13 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ"ג תמוז | הרמ"ק | הרב ישי שכטר</title>
+   <description>הרב ישי שכטר · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי שכטר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/65/9e/e4/95bb6e4c17bee91702232fc20a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/65/9e/e4/95bb6e4c17bee91702232fc20a.mp3</guid>
+   <pubDate>Wed, 12 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 29 - פיקוח נפש - על בריאות הנפש ויחסה של היהדות אליה</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/8e/60/cdd4504533b98fda8c60add141.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/8e/60/cdd4504533b98fda8c60add141.mp3</guid>
+   <pubDate>Thu, 06 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ברכות | 6. תהליכי עיבוד והשפעתם על ברכת הפירות | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/82/18/4c/926f3a41bd9bc2c5862bbef091.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/82/18/4c/926f3a41bd9bc2c5862bbef091.mp3</guid>
+   <pubDate>Mon, 03 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 28 - תורה כפשוטה - על היחס בין פשט לדרש בתורה</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/60/43/a7/04a8d04808b3a5aaeb68f1bfcd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/60/43/a7/04a8d04808b3a5aaeb68f1bfcd.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ"ה בסיוון | הרב שג"ר | הרב אמנון דוקוב</title>
+   <description>הרב שג"ר · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב שג"ר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e7/54/02/a3f05647aab943c9cbda45e57e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e7/54/02/a3f05647aab943c9cbda45e57e.mp3</guid>
+   <pubDate>Wed, 14 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 17 | העלייה הרביעית | "שכב בני" (עמנואל הרוסי)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a2/42/08/ae497b49fc8da1b15f6da55b55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a2/42/08/ae497b49fc8da1b15f6da55b55.mp3</guid>
+   <pubDate>Wed, 14 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 27 - "עשה לך רב" - על דמותו של הרב בעידן המודרני</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8e/fb/07/81ca1c40d491882165cd3eebe0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8e/fb/07/81ca1c40d491882165cd3eebe0.mp3</guid>
+   <pubDate>Thu, 08 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 26 - שיוויתי ה' לנגדי תמיד - על תפילה בעולם הצמצום</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/aa/ed/44/3db13a4cda982f1f979cb81a12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/aa/ed/44/3db13a4cda982f1f979cb81a12.mp3</guid>
+   <pubDate>Thu, 01 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 25 - חג שבועות ומתן תורה - העדר נתינת התורה מהתכנית האלוהית</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/5f/75/eca0c8459e84ace15718047e41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/5f/75/eca0c8459e84ace15718047e41.mp3</guid>
+   <pubDate>Thu, 25 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 16 | שירי רחל | חלק ג': ואולי לא היו הדברים מעולם</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4c/a0/6a/e603ed416a8136d09a82e68ca9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4c/a0/6a/e603ed416a8136d09a82e68ca9.mp3</guid>
+   <pubDate>Thu, 18 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | סודן של הברכות בימי אתחלתא דגאולה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/71/95/38c7854b50804c411a0324f6b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/71/95/38c7854b50804c411a0324f6b1.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | סודן של הברכות במשנת הראי"ה קוק | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a2/96/ca/4adbaf4afa8b424991cf2082ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a2/96/ca/4adbaf4afa8b424991cf2082ed.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | סודן של הברכות באריז"ל ובגוריו | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/88/c7/25f9c7468fb4e19fd968493707.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/88/c7/25f9c7468fb4e19fd968493707.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | “על כוס יין מלא” - ברכה ומלאות בחז”ל ובזוהר | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3f/4e/65/d8e9e44bcc94112b0b6c85bd08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3f/4e/65/d8e9e44bcc94112b0b6c85bd08.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | פתיחה - חייב אדם לברך מאה ברכות בכל יום | הרב נריה מנצור</title>
+   <description>הרב נריה מנצור · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה מנצור</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/1b/ab/4fe6cb4c098f36e4c286b2fbb4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/1b/ab/4fe6cb4c098f36e4c286b2fbb4.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת ברכות | 3. ברכות התורה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0a/73/a2/b54b404ba9981e0f63caf5bd0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0a/73/a2/b54b404ba9981e0f63caf5bd0f.mp3</guid>
+   <pubDate>Tue, 16 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת בהר - בחוקותי - בהר או סיני | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ba/fd/0a/6b370842c9a7991cc20da98a6c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ba/fd/0a/6b370842c9a7991cc20da98a6c.mp3</guid>
+   <pubDate>Thu, 11 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת ברכות | 2. ברכה לפני המזון - מקור ומשמעות | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b4/3b/c2/82fa5042c59f9f32f85d843ae6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b4/3b/c2/82fa5042c59f9f32f85d843ae6.mp3</guid>
+   <pubDate>Wed, 10 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | לקראת ל"ג בעומר - רשב"י - שר הביטחון | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/52/ad/a0/5ec8614e6baa91a0895bb573e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/52/ad/a0/5ec8614e6baa91a0895bb573e8.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | כוח השימור וכוח השינוי | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/47/7d/bf/d7d34248ab84f230aff33f4dd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/47/7d/bf/d7d34248ab84f230aff33f4dd2.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י' באייר | האדמו"ר מקאמרנא | הרב מתתיהו קאהן</title>
+   <description>הרב מתתיהו קאהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתתיהו קאהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/90/76/61/aa322f46368c195d874836309c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/90/76/61/aa322f46368c195d874836309c.mp3</guid>
+   <pubDate>Mon, 01 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת אחרי מות - קדושים - ואהבת לרעך כמוך | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b5/fe/cf/525e7d4141869f2a8cb73872a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b5/fe/cf/525e7d4141869f2a8cb73872a0.mp3</guid>
+   <pubDate>Thu, 27 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 15 | רחל המשוררת | חלק ב' : בחצר כנרת</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e5/3d/b4/e17d904111a74f8750ec92771a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e5/3d/b4/e17d904111a74f8750ec92771a.mp3</guid>
+   <pubDate>Thu, 27 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>75 שנה למדינת ישראל - שיחת ראשי הישיבה לפתיחת יום העצמאות</title>
+   <description>רבני הישיבה · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2a/65/9d/104e2645fbba6b7a88d28ec28f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2a/65/9d/104e2645fbba6b7a88d28ec28f.mp3</guid>
+   <pubDate>Tue, 25 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי מסכת ברכות | 1. הברכה בתנ”ך - פתיחה ללימוד מסכת ברכות | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/69/fd/eb/7690d14f30bc35977c4e7a1678.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/69/fd/eb/7690d14f30bc35977c4e7a1678.mp3</guid>
+   <pubDate>Mon, 24 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | יום העצמאות - קמעא קמעא | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/14/e0/a0eecb4345bb94c78afc61e167.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/14/e0/a0eecb4345bb94c78afc61e167.mp3</guid>
+   <pubDate>Mon, 24 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>א' אייר | פרי הארץ | הרב פדיה נגר</title>
+   <description>הרב פדיה נגר · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב פדיה נגר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3f/5d/64/3baa7144fd8e2dcec8cde2dcc5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3f/5d/64/3baa7144fd8e2dcec8cde2dcc5.mp3</guid>
+   <pubDate>Sun, 23 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 14 | רחל המשוררת | חלק א' : בין רחל אימנו לרחל בלובשטיין</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e8/68/2d/d81bda4f56b65ac20b08d9a06a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e8/68/2d/d81bda4f56b65ac20b08d9a06a.mp3</guid>
+   <pubDate>Fri, 21 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדבר את השואה | שיחה ליום השואה תשפ"ג | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/e5/73/43ce8c4ce69d08565fb69885e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/e5/73/43ce8c4ce69d08565fb69885e2.mp3</guid>
+   <pubDate>Mon, 17 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים יום קודם החג | ביעור ובדיקת חמץ | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/59/7d/4f/68655947c2b11dea0457159551.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/59/7d/4f/68655947c2b11dea0457159551.mp3</guid>
+   <pubDate>Sun, 02 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיכום מסכת | שיעור חזרה וסיכום למסכת נזיר | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d4/eb/ed/2a6df04fdc9ccc1a3ad93aeb1b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d4/eb/ed/2a6df04fdc9ccc1a3ad93aeb1b.mp3</guid>
+   <pubDate>Sat, 01 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים יום קודם החג | דרך חירות | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f5/32/fa/d961f34a6a8a99fa4ef8b31a49.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f5/32/fa/d961f34a6a8a99fa4ef8b31a49.mp3</guid>
+   <pubDate>Fri, 24 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 20. היסוד המחייב בנזקי ממון | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/a9/cd/491b1448ec903eba3d9783645f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/a9/cd/491b1448ec903eba3d9783645f.mp3</guid>
+   <pubDate>Thu, 23 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 13 | העלייה השלישית | "טוב למות בעד ארצנו", שירי תל חי</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/9e/51/57c75f4962a3d0c81312fafba3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/9e/51/57c75f4962a3d0c81312fafba3.mp3</guid>
+   <pubDate>Thu, 23 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים יום קודם החג | ההגדה - כוחו של סיפור | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/a9/8a/2a45f5421d9eed3bd04e606be6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/a9/8a/2a45f5421d9eed3bd04e606be6.mp3</guid>
+   <pubDate>Mon, 20 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 12 | העלייה השלישית | מאופוריה למשבר (המלחין יוסף מילט)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/03/f0/058a4446539f3b296d4ceba808.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/03/f0/058a4446539f3b296d4ceba808.mp3</guid>
+   <pubDate>Fri, 17 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | עשור לרב מנחם פרומן | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/69/9c/c9/9a377c47ef9957d6cd10f077ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/69/9c/c9/9a377c47ef9957d6cd10f077ce.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ"ב באדר | ערוך השולחן | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/33/64/e586f44596bfad507e4ff66eff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/33/64/e586f44596bfad507e4ff66eff.mp3</guid>
+   <pubDate>Wed, 15 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ' באדר | הרב שלמה זלמן אוירבך | הרב רא"ם הכהן</title>
+   <description>הרב שלמה זלמן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב שלמה זלמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/63/e1/fd/f71e9a4b0395644b7c31521c22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/63/e1/fd/f71e9a4b0395644b7c31521c22.mp3</guid>
+   <pubDate>Mon, 13 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | "מיטב" - תשלום הנזיקין ומשמעותו | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7e/c6/5c/c0d1ae4947829d03348ea14fe9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7e/c6/5c/c0d1ae4947829d03348ea14fe9.mp3</guid>
+   <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 11 | העלייה השנייה | "מארש הגלות" "יפים הלילות בכנען"</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/81/68/cf/5c57cf4f39b0115404314c9c25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/81/68/cf/5c57cf4f39b0115404314c9c25.mp3</guid>
+   <pubDate>Thu, 09 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | תענית אסתר - זעקה וגאולה | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/79/2f/c6/3ce4e8493ea1310ea50e18f2e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/79/2f/c6/3ce4e8493ea1310ea50e18f2e6.mp3</guid>
+   <pubDate>Mon, 06 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | משתה של שמחה | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/51/19/35/3be9ea4636a4386fee14e9a642.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/51/19/35/3be9ea4636a4386fee14e9a642.mp3</guid>
+   <pubDate>Sun, 05 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | חייב איניש לבסומי - סקירה הלכתית | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/37/25/643a704660901aece0f6b5898e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/37/25/643a704660901aece0f6b5898e.mp3</guid>
+   <pubDate>Sat, 04 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | מתנות לאביונים - בגלוי ובנסתר | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/35/cd/50dda54bc7bebc130b0b90686f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/35/cd/50dda54bc7bebc130b0b90686f.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים יום קודם החג | המצה כלחם מרפא | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/59/42/f6/8064b84a83af84b9362c078cb7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/59/42/f6/8064b84a83af84b9362c078cb7.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"א באדר | ש"י עגנון | הרב בני קלמנזון ודביר קראוסהר</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/5e/28/7d6bad40208e6b3c84cb879f48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/5e/28/7d6bad40208e6b3c84cb879f48.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | משלוח מנות - אכילה מחברת | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6e/52/04/0b7ac845aaadf65a55691f8088.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6e/52/04/0b7ac845aaadf65a55691f8088.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פורים - איש שורר בביתו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/14/0e/64/b894214b67825afad07535afb6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/14/0e/64/b894214b67825afad07535afb6.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 24 - חייב איניש לבסומי - על שכרות ומנהגי פורים</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/43/30/ca0872495d913978a1f99a5f8d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/43/30/ca0872495d913978a1f99a5f8d.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 10 | העלייה השנייה | בשדמות בית לחם (אבא קונסטנטין שפירא)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/c2/60/fbac974969a367c8bfc6f2b0e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/c2/60/fbac974969a367c8bfc6f2b0e6.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | קריאת מגילה - בימים ההם בזמן הזה | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a7/c6/74/9a042042db895749aaf4915b52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a7/c6/74/9a042042db895749aaf4915b52.mp3</guid>
+   <pubDate>Wed, 01 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ז' באדר | משה רבינו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/81/f7/fb/72887045debdaabf111df95fc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/81/f7/fb/72887045debdaabf111df95fc3.mp3</guid>
+   <pubDate>Mon, 27 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת תרומה - ושכנתי בתוכם | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/88/ef/b1/ee101946ab843dff67d308ea7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/88/ef/b1/ee101946ab843dff67d308ea7e.mp3</guid>
+   <pubDate>Sat, 25 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 18. אב הנזיקין אש - חלק ב' | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/52/3f/e9/0f76154598b90f48e651f80db5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/52/3f/e9/0f76154598b90f48e651f80db5.mp3</guid>
+   <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 23 - ציון במשפט תפדה - על מקומו של בית הדין בעם ישראל</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/2c/d1/5ad9194f5da5acc8d82844afea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/2c/d1/5ad9194f5da5acc8d82844afea.mp3</guid>
+   <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 9 | העלייה השנייה | שירי ילדים</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ec/11/4a/c48eb84b5787dd6ba4955fb961.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ec/11/4a/c48eb84b5787dd6ba4955fb961.mp3</guid>
+   <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | האתגר של חודש אדר - עם אחד מפוזר ומפורד | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/28/7b/79/46b2f840658bc18650e605e2b7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/28/7b/79/46b2f840658bc18650e605e2b7.mp3</guid>
+   <pubDate>Tue, 21 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 8 | העלייה הראשונה | "במחרשתי" ו "שיר עבודה" (נח שפירא)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7d/19/67/6d23bf489babdda0c3c5302c19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7d/19/67/6d23bf489babdda0c3c5302c19.mp3</guid>
+   <pubDate>Fri, 17 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת משפטים - עבד עברי | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b0/9b/53/c68aab4f73b5469baa542c48e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b0/9b/53/c68aab4f73b5469baa542c48e5.mp3</guid>
+   <pubDate>Thu, 16 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 17. אב הנזיקין אש - חלק א' | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/d4/e6/8630374dc89b3518cfaac66e3a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/d4/e6/8630374dc89b3518cfaac66e3a.mp3</guid>
+   <pubDate>Wed, 15 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | מלחמת אזרחים! | הרב אייל אלפיה</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d3/f4/31/b2609c43e488bef6e976ec5cda.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d3/f4/31/b2609c43e488bef6e976ec5cda.mp3</guid>
+   <pubDate>Fri, 10 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת יתרו - ייחוד ההפכים בהר סיני | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/d8/23/7986d44d2e96ebcfff10c3d942.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/d8/23/7986d44d2e96ebcfff10c3d942.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 22 - רק לא מלחמת אחים - על הבדל ודמיון בעם ישראל</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ea/72/58/82c0e5430c9668bec24f9de070.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ea/72/58/82c0e5430c9668bec24f9de070.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 7 | העלייה הראשונה | שלושה שירי געגוע</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/67/78/7b/1cb6f445a08af989d8af85a5a3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/67/78/7b/1cb6f445a08af989d8af85a5a3.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 16. בור - בין בעלות לתקלה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/26/da/4c2c644e3296eb953ee4d2a9a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/26/da/4c2c644e3296eb953ee4d2a9a6.mp3</guid>
+   <pubDate>Wed, 08 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>10. עניין של מניע</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6a/f5/9a/e71ec74dbab5ed80ce7f4229cf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6a/f5/9a/e71ec74dbab5ed80ce7f4229cf.mp3</guid>
+   <pubDate>Tue, 07 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גילוי הגנוז - שיחה לט"ו בשבט התשפ"ג | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/89/af/7e/65d4c84d018b88ae87c1d504e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/89/af/7e/65d4c84d018b88ae87c1d504e8.mp3</guid>
+   <pubDate>Mon, 06 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 15. שמירה בשור תם ובשור מועד | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/41/90/d3/405cfe413e9c12d9f68c236480.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/41/90/d3/405cfe413e9c12d9f68c236480.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | פרשת בשלח - לחם מן השמים | הרב נריה מנצור</title>
+   <description>הרב נריה מנצור · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב נריה מנצור</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2f/18/e9/72c9b3470bbbacbba4ad281d4c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2f/18/e9/72c9b3470bbbacbba4ad281d4c.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת בשלח - התשובה בימי השובבי"ם | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a3/2c/0f/9862b843ea8492d447d20c8916.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a3/2c/0f/9862b843ea8492d447d20c8916.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 21 - פוליטיקה של הקשבה - אורח: ח"כ משה (קינלי) טורפז</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4c/3f/f5/eb8aea41d88c4c08d408646038.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4c/3f/f5/eb8aea41d88c4c08d408646038.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 6 | העלייה הראשונה | שושנה (אליקום צונזער)</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/88/cd/23/d797364a5ba2a1dad9f1e93f24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/88/cd/23/d797364a5ba2a1dad9f1e93f24.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י' בשבט | האדמו"ר הריי"ץ | הרב בני קלמנזון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e2/46/13/5ea87e4dbb872ad45eb14e75ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e2/46/13/5ea87e4dbb872ad45eb14e75ed.mp3</guid>
+   <pubDate>Wed, 01 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ט' שבט | רבינו נסים | הרב אלעזר גולדשטיין</title>
+   <description>הרב אלעזר גולדשטיין · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלעזר גולדשטיין</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/86/63/1c5d0f45bfb522cd5a87e75097.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/86/63/1c5d0f45bfb522cd5a87e75097.mp3</guid>
+   <pubDate>Tue, 31 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9. אופנה מהמאה ה-19</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/6c/2d/aa567e475ebad3f4078370cc76.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/6c/2d/aa567e475ebad3f4078370cc76.mp3</guid>
+   <pubDate>Sun, 29 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | חודש שבט - תיקון חטא העץ והאדם | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e7/f7/c2/1b364c4949b5c5c6c27d56f06a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e7/f7/c2/1b364c4949b5c5c6c27d56f06a.mp3</guid>
+   <pubDate>Fri, 27 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת בא - התשובה בימי השובבי"ם | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/80/45/3b/16b02f46648ceac2093c66e1ad.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/80/45/3b/16b02f46648ceac2093c66e1ad.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 20 - כלי מחזיק ברכה - על שלום והדרכים לשמור עליו</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fd/ba/b9/a415404065b1a42efecbafdf7b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fd/ba/b9/a415404065b1a42efecbafdf7b.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 5 | תורה | רבי נחמן ושירת העשבים</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d8/6b/98/0bee9d43f19af2acd5dda39c69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d8/6b/98/0bee9d43f19af2acd5dda39c69.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיכום מסכת - הדף היומי | מסכת נדרים | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/78/1a/680c1843e89e10c97b1084c2ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/78/1a/680c1843e89e10c97b1084c2ca.mp3</guid>
+   <pubDate>Wed, 25 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 4 | מבוא | שיר על עץ, חלק שלישי</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e2/9d/b0/95926146a3a796bc0927e6d519.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e2/9d/b0/95926146a3a796bc0927e6d519.mp3</guid>
+   <pubDate>Wed, 25 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים | הרב חיים דרוקמן | הרב אמנון דוקוב</title>
+   <description>הרב חיים דרוקמן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב חיים דרוקמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bd/46/10/8ce8d047f69fed51444763156a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bd/46/10/8ce8d047f69fed51444763156a.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 3 | מבוא | שיר על עץ, חלק שני</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/d2/1b/de360a4aaeb030c49c48a43064.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/d2/1b/de360a4aaeb030c49c48a43064.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 14. תשלומי שור תם | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e4/47/5d/982c5a4ed58f10e0c326ca4950.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e4/47/5d/982c5a4ed58f10e0c326ca4950.mp3</guid>
+   <pubDate>Mon, 23 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 2 | מבוא | שיר על עץ, חלק ראשון</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c5/cb/6b/96a294440aa840ebef71ca3c35.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c5/cb/6b/96a294440aa840ebef71ca3c35.mp3</guid>
+   <pubDate>Mon, 23 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כ"ט טבת | הרב יצחק כדורי | הרב חסדאי וינר</title>
+   <description>הרב יצחק כדורי · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק כדורי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/17/95/a7/6f3b6f4a5a9a739caec2637b49.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/17/95/a7/6f3b6f4a5a9a739caec2637b49.mp3</guid>
+   <pubDate>Sun, 22 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 1 | מבוא | שיקוף, תגובה, השפעה</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/64/b8/408ec84a0c967c777928b6e0cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/64/b8/408ec84a0c967c777928b6e0cd.mp3</guid>
+   <pubDate>Sun, 22 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8. שערים אל האין | אורח: הרב פדיה נגר</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/25/2a/76/1074224a0bababdc9e8a50733e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/25/2a/76/1074224a0bababdc9e8a50733e.mp3</guid>
+   <pubDate>Sun, 22 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 13. תהליך ההעדאה - חלק ב' | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/83/ba/ca/c59e24474abc7fc854002be631.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/83/ba/ca/c59e24474abc7fc854002be631.mp3</guid>
+   <pubDate>Fri, 20 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | מסכת נדרים - שיר כאב על הופעת הקדושה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/34/e2/37/f8c9f54e568322dea5ea8fab65.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/34/e2/37/f8c9f54e568322dea5ea8fab65.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת וארא - התשובה בימי השובבי"ם | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dd/f4/96/eb8f844ef68c21ed89c13feca3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dd/f4/96/eb8f844ef68c21ed89c13feca3.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 19 - השראה וספר התורה - על ספרים ואנשים שהשפיעו</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2a/ea/4f/9b0f53401b8114fd2b089abf47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2a/ea/4f/9b0f53401b8114fd2b089abf47.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7. יש, אין ומה שביניהם | אורח: הרב פדיה נגר</title>
+   <description>הרב אייל אלפיה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אייל אלפיה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/bc/f3/414b134bf3aa70333aea6bdf26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/bc/f3/414b134bf3aa70333aea6bdf26.mp3</guid>
+   <pubDate>Sun, 15 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 12. תהליך ההעדאה - חלק א' | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/38/83/e6/2557e74d3fbb1e31f99e2e11a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/38/83/e6/2557e74d3fbb1e31f99e2e11a5.mp3</guid>
+   <pubDate>Thu, 12 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | כן ירבה וכן יפרוץ - עשרים שנה לפיגוע בישיבה | הרב אורי הכהן</title>
+   <description>הרב אורי הכהן · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אורי הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ea/9c/4a/99ed4a45a5963a85a296a88960.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ea/9c/4a/99ed4a45a5963a85a296a88960.mp3</guid>
+   <pubDate>Wed, 11 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ח בטבת | רבי משה הכהן כלפון | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8d/fc/f6/7839164a76b183adc332af0df5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8d/fc/f6/7839164a76b183adc332af0df5.mp3</guid>
+   <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קפיצה למקווה | 4. השיבה אל הטבע - זריעה והשקה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/38/30/7d/0d39da4b96b6e2afd50fb30f82.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/38/30/7d/0d39da4b96b6e2afd50fb30f82.mp3</guid>
+   <pubDate>Sun, 08 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קפיצה למקווה | 3. הניתוק מן הטבע - מים שאובים | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c8/c0/d4/89805a4d15b4a3f897156c9008.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c8/c0/d4/89805a4d15b4a3f897156c9008.mp3</guid>
+   <pubDate>Sun, 08 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קפיצה למקווה | 2. מצב הטבע - המעיין הבור והמקווה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/dd/b6/2dc81043c0b54a6246f7babddc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/dd/b6/2dc81043c0b54a6246f7babddc.mp3</guid>
+   <pubDate>Sun, 08 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קפיצה למקווה | 1. טבע ואדם - מקורות היסוד | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/74/b7/459b4e416fafdcc98949b8e0bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/74/b7/459b4e416fafdcc98949b8e0bb.mp3</guid>
+   <pubDate>Sun, 08 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 15. הכשרת האברכים פרקים ה' - ו' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e6/87/c8/9447074b909c2b7dcdbc54c295.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e6/87/c8/9447074b909c2b7dcdbc54c295.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 14. הכשרת האברכים - פרקים ג'-ד' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8e/29/13/d884e44bd4889ee52e62a107ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8e/29/13/d884e44bd4889ee52e62a107ac.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 13. הכשרת האברכים - הקדמה ופרקים א'-ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/16/c1/dc/ba8f6b4aefa028759e0fa62236.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/16/c1/dc/ba8f6b4aefa028759e0fa62236.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 12. חובת התלמידים - מאמר שלישי | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/a6/c4/64fe914d62830faa15365384a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/a6/c4/64fe914d62830faa15365384a9.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 11. חובת התלמידים - מאמר שני | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e3/8d/ea/0cd0c44dc59b437d84c16ea4fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e3/8d/ea/0cd0c44dc59b437d84c16ea4fa.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 10. חובת התלמידים - מאמר ראשון | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/17/0c/0c/e5edc646eeba41fd5d5aa3c61c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/17/0c/0c/e5edc646eeba41fd5d5aa3c61c.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 9. חובת התלמידים פרק י"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b4/94/26/6f15264b21ab052a3ff10f8fe1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b4/94/26/6f15264b21ab052a3ff10f8fe1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 8. חובת התלמידים פרקים י"א - י"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/06/fb/3ea2a245e284c758e730777d0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/06/fb/3ea2a245e284c758e730777d0d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 7. חובת התלמידים פרקים ט' - י' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1c/51/51/1fa4b84fc99c29182b491bac4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1c/51/51/1fa4b84fc99c29182b491bac4a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 6. חובת התלמידים פרקים ז' - ח' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1f/a5/e3/0ce6ef4d3998a6437532d8cfc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1f/a5/e3/0ce6ef4d3998a6437532d8cfc3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 5. חובת התלמידים ה' - ו' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f6/f9/eb/88abec42a2a05480e3fc763c25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f6/f9/eb/88abec42a2a05480e3fc763c25.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 4. חובת התלמידים ג' - ד' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dd/80/de/1dd78e4f068046a9c888e9cabe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dd/80/de/1dd78e4f068046a9c888e9cabe.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 3. חובת התלמידים א' - ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/29/19/6d/325e1d47d79062c14f262074be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/29/19/6d/325e1d47d79062c14f262074be.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 2. הקדמת החובת התלמידים | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f8/2d/98/020d484db28db9bf1f3b51aee8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f8/2d/98/020d484db28db9bf1f3b51aee8.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 1. מבוא לחובת התלמידים | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/6c/ad/bd966b4155beabc27dcfd1c90d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/6c/ad/bd966b4155beabc27dcfd1c90d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 42. אותיות קי"ד - קט"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/62/31/81/458b98425eae4931910882ea48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/62/31/81/458b98425eae4931910882ea48.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 41. אותיות קי"ב - קי"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/68/ff/cb/831d89450a84bd91536c3e7100.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/68/ff/cb/831d89450a84bd91536c3e7100.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 40. אותיות ק"ט - קי"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/e2/01/26b5fd4dab8d8d17a583d01ed6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/e2/01/26b5fd4dab8d8d17a583d01ed6.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 39. אותיות ק"ז - ק"ח | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e6/c6/93/5a7ced4c50b5dd38cd3ef2fc0a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e6/c6/93/5a7ced4c50b5dd38cd3ef2fc0a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 38. אותיות ק"ה - ק"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8a/44/da/5e68c94ed7af167a9e66315042.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8a/44/da/5e68c94ed7af167a9e66315042.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 37. אות ק"ד - שיעור הרחבה והעמקה בנושא ערבוב טוב ורע | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/b4/62/98045d439b95949b5d024945f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/b4/62/98045d439b95949b5d024945f3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 36. אות ק"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/aa/24/1b376c4492acd0dd809a7e2e6b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/aa/24/1b376c4492acd0dd809a7e2e6b.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 35. אותיות ק"א - ק"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/21/da/30355f42d2942c1b301342d4e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/21/da/30355f42d2942c1b301342d4e1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 34. אותיות צ״ז - ק׳ | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/ca/fc/efb7514ccf83053bf2ec32b5e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/ca/fc/efb7514ccf83053bf2ec32b5e4.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 33. אות צ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/99/9a/c6edf843ab8221f349f6ff873a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/99/9a/c6edf843ab8221f349f6ff873a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 32. צ"ה - צ"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/52/07/91/19476b4376a27382f071eb2d52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/52/07/91/19476b4376a27382f071eb2d52.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 31. צ"ג - צ"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/43/97/53696048858f60a1d3cbd2ce42.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/43/97/53696048858f60a1d3cbd2ce42.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 30. פ"ט - צ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fe/bf/00/9716ec4dbdbf65881f37f78b27.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fe/bf/00/9716ec4dbdbf65881f37f78b27.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 29. פ"ה - פ"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c3/2c/96/7acba04a2895765347814fcc6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c3/2c/96/7acba04a2895765347814fcc6e.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 28. אות פ"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/de/80/72/7076dc4ce697c267af8f5da387.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/de/80/72/7076dc4ce697c267af8f5da387.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 27. פ"ב - פ"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ab/0b/db/e23add4d8d83377660d3ecea37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ab/0b/db/e23add4d8d83377660d3ecea37.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 26. ע"ט - פ"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/ef/1e/2abeec470c8a6aba291d4166d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/ef/1e/2abeec470c8a6aba291d4166d3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 25. ע"ז - ע"ח | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/f4/15/5fa1e7438f8cc6c43f85432539.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/f4/15/5fa1e7438f8cc6c43f85432539.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 24. ע"ד - ע"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7c/b1/66/336a86468bba442887d1afcc9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7c/b1/66/336a86468bba442887d1afcc9d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 23. ע"ב - ע"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c7/29/53/272cc24bff9a33538db51062fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c7/29/53/272cc24bff9a33538db51062fe.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 22. ס"ח - ע"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8f/77/a3/d92e2f4dd283b307ae4bfeb9bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8f/77/a3/d92e2f4dd283b307ae4bfeb9bd.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 21. אות ס"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/68/5c/5b/6d655f405fb7ffa47fdec3e152.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/68/5c/5b/6d655f405fb7ffa47fdec3e152.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 20. ס"ג - ס"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/44/c7/b69b3644959bb5aff910ada6eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/44/c7/b69b3644959bb5aff910ada6eb.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 19. ס' - ס"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6b/c7/12/ec6c5c43f78f827861dee9b9bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6b/c7/12/ec6c5c43f78f827861dee9b9bb.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 18. נ"ח - נ"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bd/20/15/fc4428430cbe14e2cf5edd733f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bd/20/15/fc4428430cbe14e2cf5edd733f.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 17. נ"ד - נ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/c7/01/433a8f45729aa9719161e51263.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/c7/01/433a8f45729aa9719161e51263.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 16. נ"א - נ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/4a/be/8b0ae34c328f4d58c0063d60e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/4a/be/8b0ae34c328f4d58c0063d60e2.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 15. מ"ח - נ' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/06/eb/4c/2c8b6d4eb3b0f635bb5c1d3087.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/06/eb/4c/2c8b6d4eb3b0f635bb5c1d3087.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 14. מ"ו - מ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5e/68/80/11e1464211a57ab90bf0f7ed67.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5e/68/80/11e1464211a57ab90bf0f7ed67.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 13. מ"ד - מ"ה | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8b/eb/87/85ed8e445c9a96cf155d52e2da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8b/eb/87/85ed8e445c9a96cf155d52e2da.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 12. מ"א - מ"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/83/b6/67548e4fd7a4f48c8bc1a19fe1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/83/b6/67548e4fd7a4f48c8bc1a19fe1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 11. מ' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/58/a5/de138a43cb84e18c646b723b3c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/58/a5/de138a43cb84e18c646b723b3c.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 10. ל"ב - ל"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/26/b0/5a/6db246461aa3b388666fd338f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/26/b0/5a/6db246461aa3b388666fd338f0.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 8. כ"ג - כ"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/75/cd/ef/66dcb84be087e36f6cf19e0a57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/75/cd/ef/66dcb84be087e36f6cf19e0a57.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 7. כ' - כ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/5b/04/3ce09641959c79ee325f532f61.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/5b/04/3ce09641959c79ee325f532f61.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 6. ט"ו - י"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/14/1d/259e384a39ad39580a6a9dde45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/14/1d/259e384a39ad39580a6a9dde45.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 5. י' - י"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/99/74/578ef944129a0b42ef81a1dbc5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/99/74/578ef944129a0b42ef81a1dbc5.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 4. ו' - י' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bf/5e/29/699cb4431da3e302e4fe7a3c47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bf/5e/29/699cb4431da3e302e4fe7a3c47.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 3. ג' - ה' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b6/88/54/4774af45858b894182f5e56103.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b6/88/54/4774af45858b894182f5e56103.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 2. א' - ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a6/68/2d/dea7f9426dbf9b483273bed6f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a6/68/2d/dea7f9426dbf9b483273bed6f3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקווה ישראל ה' | 3. בין שמים לקרקע - משמעות איסור מים שאובים במקווה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/85/2c/1d/62572f4e32bfa8aa4d959e5de1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/85/2c/1d/62572f4e32bfa8aa4d959e5de1.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקווה ישראל ה' | 2. אדם או מקום - משמעות שיעור ארבעים סאה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/3f/6c/a414f64fe1958582250c1e2af8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/3f/6c/a414f64fe1958582250c1e2af8.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקווה ישראל ה' | 1. מראשית ועד אחרית - המים בתנ״ך והיחס שבין מעיין ומקווה | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/eb/59/ff/33824e41da89e2f8b8465610dd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/eb/59/ff/33824e41da89e2f8b8465610dd.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 8. תורה של 'לעתיד לבוא' והאם מצוות בטילות | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/6a/e8/c2f2d842c28a6925959edca2c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/6a/e8/c2f2d842c28a6925959edca2c6.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 7. 'חלק האם שבי' – גבריות ונשיות אצל הרב קוק לאור אגרת ששלח לבתו | הרב מתניה שטרנברג</title>
+   <description>רבני הישיבה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b4/e5/e7/1215ae4c64b06c4e898788e014.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b4/e5/e7/1215ae4c64b06c4e898788e014.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 6. להוריד שכינה לתחתונים – הדור השביעי והמהפכה הנשית | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/46/e3/1f/97b356487e967ae8db6c581c23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/46/e3/1f/97b356487e967ae8db6c581c23.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 5. בת וביטול – נשיות בדור הגאולה אצל הרבי מלובביץ' | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/30/fe/a9/028b834e2b8acf57acaffd4ddc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/30/fe/a9/028b834e2b8acf57acaffd4ddc.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 4. אשת חיל ומים חיים - תיקון הנשיות באדמו"ר הזקן | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/6d/6f/3bafe44417a04245f76940f518.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/6d/6f/3bafe44417a04245f76940f518.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 3. קול חתן וקול כלה - השוויון בין האיש לאשה באדמו"ר הזקן | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f1/d4/59/b000e74c20ba44cab8246f6db7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f1/d4/59/b000e74c20ba44cab8246f6db7.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 2. קול באישה - היבטי דיבור שונים והתיקון העתידי | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/23/5b/68/12b822478595906bc262717715.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/23/5b/68/12b822478595906bc262717715.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 1. בין קול לדיבור - על נפילת הקול הנשי בזוהר | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a9/dc/5b/f2068943d8b976c964e0353eb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a9/dc/5b/f2068943d8b976c964e0353eb3.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 8. אמונה וחכמה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/30/6a/88/e2b2a64f6492245d22c5db68e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/30/6a/88/e2b2a64f6492245d22c5db68e2.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 7. אמונה ולימוד תורה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1f/10/02/179aa249819c4bc5c74adbf334.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1f/10/02/179aa249819c4bc5c74adbf334.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 6. האמונה כקבלה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/9d/0c/cd640e4649887a7863f923da45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/9d/0c/cd640e4649887a7863f923da45.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 5. חינוך ויצירת שייכות לאמונה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/61/6c/9e/d96e7b403195f47a4e818470fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/61/6c/9e/d96e7b403195f47a4e818470fd.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהיו ידיו אמונה| 4. תפילה וזכות אבות | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/94/c7/d65af64b6a9f1dc737ab6833c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/94/c7/d65af64b6a9f1dc737ab6833c9.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 3. התפילה כפרשנות | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/ff/53/84bd3a49d180f80552c04814be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/ff/53/84bd3a49d180f80552c04814be.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 2. "תהום אל תהום קורא" - התפילה כמעשה האמונה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dd/7a/1b/e2c7e8493d945a9a7dc8145e26.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dd/7a/1b/e2c7e8493d945a9a7dc8145e26.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 1. אמונה ואריכות אפיים | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/df/82/45cc2c486b9edf08de7c98e359.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/df/82/45cc2c486b9edf08de7c98e359.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה | 5. מ"ז חלק ב. תיקון האכילה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/bf/79/5057504524b65ca955293b6bac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/bf/79/5057504524b65ca955293b6bac.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה | 4. מ"ז חלק א. תיקון האמת דרך תיקון האכילה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/60/c3/2f/fe4c5e494b8023c8562768a496.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/60/c3/2f/fe4c5e494b8023c8562768a496.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה_ 3. מתודעת בחירה למציאות של השגחה _ הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/06/e7/95/4ed0864da4baddd359f70b7262.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/06/e7/95/4ed0864da4baddd359f70b7262.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה_ 2. תורה נ_א - איך שקר נולד_ _ הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2f/c2/e6/cee8484b69bba163bf4485176d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2f/c2/e6/cee8484b69bba163bf4485176d.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת ואמונה | 1. נ"א - השקר מזיק לעיניים | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cb/47/bd/37c71341c4b3654007a65e5ca2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cb/47/bd/37c71341c4b3654007a65e5ca2.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוועדות לפרשת השבוע | פרשת ויחי - מתי ואיך לשקר | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/91/98/5606ed4117b6d2f111366e96b5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/91/98/5606ed4117b6d2f111366e96b5.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי מסכת בבא קמא | 11. מחלוקת רבי ישמעאל ורבי עקיבא בזיקה שבין שור המועד לבעליו | הרב רא"ם הכהן</title>
+   <description>הרב רא"ם הכהן · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב רא"ם הכהן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ec/30/b5/f76b6b4f688aff13ecf434cadc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ec/30/b5/f76b6b4f688aff13ecf434cadc.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 21. מצוות עשה בשבת - הבדלה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a5/ac/09/21c8914b9abd60d24e9f4e1873.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a5/ac/09/21c8914b9abd60d24e9f4e1873.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 20. מצוות עשה בשבת - הדלקת נרות שבת וברכת הילדים | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/22/a6/70d877416997248dd9d591a68e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/22/a6/70d877416997248dd9d591a68e.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 19. מצוות עשה בשבת - עונג שבת | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b8/b1/88/0b000d4c08bd474a62dc11bf5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b8/b1/88/0b000d4c08bd474a62dc11bf5a.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 18. מצוות עשה בשבת - קידוש | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f8/0d/5a/f9ed6a4bb08a8259d008b6965b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f8/0d/5a/f9ed6a4bb08a8259d008b6965b.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 17. ספירת העומר חלק ב' - מנהגי אבלות | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a4/b4/db/425d1b4a3a8783961c6e999d8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a4/b4/db/425d1b4a3a8783961c6e999d8a.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 16. ספירת העומר חלק א' - מצוות הספירה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ad/6a/bf/9971634999aaf93ffd3c3feae7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ad/6a/bf/9971634999aaf93ffd3c3feae7.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 15. פורים - מצוות מתנות לאביונים ומשלוח מנות | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/77/a6/d3f9a045b281a51c3f30f9f5ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/77/a6/d3f9a045b281a51c3f30f9f5ef.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 14. פורים - דיני ארבע הפרשיות | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/53/02/90/08c9ab456fb4225e8e88c20694.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/53/02/90/08c9ab456fb4225e8e88c20694.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 13. שיטות הקשירה והכריכות בציצית התכלת | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/12/e8/d8/9275734133b10724734bf5cdf2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/12/e8/d8/9275734133b10724734bf5cdf2.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 12. זיהוי התכלת וחובת הטלתו בציצית | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/37/18/5c/49baa04114b5cd3c8229e1ba23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/37/18/5c/49baa04114b5cd3c8229e1ba23.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 11. מצוות הציצית - בגד הציצית ודרך לבושו | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/63/4b/6b/2e247a44a18a53687a72b5031e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/63/4b/6b/2e247a44a18a53687a72b5031e.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 10. מצוות ציצית | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a4/93/6d/486f2048c196aadb194398c473.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a4/93/6d/486f2048c196aadb194398c473.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 9. עשרה בטבת - דיניו ועניינו | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · הלכה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/97/80/86ab134287b525f635e1cc9028.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/97/80/86ab134287b525f635e1cc9028.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 8. מהות ימי חנוכה וזמן הדלקת נרות | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/df/7f/cb/bcbca3415c973525da9cad8fd7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/df/7f/cb/bcbca3415c973525da9cad8fd7.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 7. מצוות נר חנוכה ומקום ההדלקה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3c/7d/8b/e24e07488eb48ba3b250137652.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3c/7d/8b/e24e07488eb48ba3b250137652.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 6. חובת התפילה - תשלומין ונדבה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7a/93/51/68d3e34dc586bd91065dab74c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7a/93/51/68d3e34dc586bd91065dab74c2.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 5. ברכת התורה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c5/86/4f/d65b6540ffb459dfce705ad732.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c5/86/4f/d65b6540ffb459dfce705ad732.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 4. נטילת ידיים קודם אכילה | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/18/a6/7feb724849a3da0eefc572eaf7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/18/a6/7feb724849a3da0eefc572eaf7.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 3. נטילת ידיים של שחרית | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b2/c5/0e/540f32477aa3122a78016c3cc4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b2/c5/0e/540f32477aa3122a78016c3cc4.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 2. חמשת עינויי יום הכיפורים | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9b/fe/ea/50ba674559a25b2f5ebbccd4bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9b/fe/ea/50ba674559a25b2f5ebbccd4bc.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיבות חיים | 1. מנהגי חודש אלול | הרב נריה טייץ</title>
+   <description>הרב נריה טייץ · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב נריה טייץ</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a4/17/33/a36d574e2796ea182d07413cc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a4/17/33/a36d574e2796ea182d07413cc3.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | כיצד מתקנים את החורבן | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/a3/65/85852c4c0bb7dd52637f075009.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/a3/65/85852c4c0bb7dd52637f075009.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | הגורמים לכשלון הברית בין ישראל לה' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/cb/55/5fdb1140658f71f61fe250296f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/cb/55/5fdb1140658f71f61fe250296f.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | לשם מה נשלח יחזקאל | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2f/72/da/8972ac4849b6c63f7e32ac06d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2f/72/da/8972ac4849b6c63f7e32ac06d2.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | ירמיהו כנציג העם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/eb/97/41/19052143c88eaec27199875f54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/eb/97/41/19052143c88eaec27199875f54.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | ירמיהו נחשב כבוגד | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/11/a9/51/c59e7c4f3aafcb4a24ba6c36d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/11/a9/51/c59e7c4f3aafcb4a24ba6c36d2.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | האם אפשר לקבל החלטה פוליטית מנבואה | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/aa/ed/1a/8d1904402a8bd2b7c1fa08b701.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/aa/ed/1a/8d1904402a8bd2b7c1fa08b701.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | מקומה של הקשר לבית עלי בנבואת ירמיהו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/df/c0/3ec66a4175a357afd3d3c05b4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/df/c0/3ec66a4175a357afd3d3c05b4a.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | האם ירמיהו מבין את נבואתו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9b/8d/dc/4581594d45bdd0d064b78a67ba.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9b/8d/dc/4581594d45bdd0d064b78a67ba.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | האם הנביא יכול להבחין בנביאי שקר | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/19/33/fa/3cc03c407c94932705f93211cb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/19/33/fa/3cc03c407c94932705f93211cb.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | האם נביא שקר בהכרח שקרן | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e2/1f/7f/af25b140e895060cd3401ba437.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e2/1f/7f/af25b140e895060cd3401ba437.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | איך מזהים נביא שקר | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f7/f6/97/fa31e846a0938d4eacda6121fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f7/f6/97/fa31e846a0938d4eacda6121fb.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | אליהו - חלק ג' - אליהו עולה להר סיני | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2e/f7/eb/72544b4eb9829171839ede6bb2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2e/f7/eb/72544b4eb9829171839ede6bb2.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | אליהו - חלק ב' - אליהו בהר הכרמל | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/92/9d/cb/c89a7b456e80c61328cdc24a2b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/92/9d/cb/c89a7b456e80c61328cdc24a2b.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | אליהו - חלק א' - חזרה לסיפורי אליהו | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/6f/d2/4babcb4ffab48616596b1336db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/6f/d2/4babcb4ffab48616596b1336db.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם - אלישע - חלק ד' - המצור על שומרון | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5b/dd/d6/0f852d4d1e946cf1bdbeb70e2c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5b/dd/d6/0f852d4d1e946cf1bdbeb70e2c.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם - אלישע - חלק ג' - אלישע והגדוד הארמי | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cf/24/32/a1fec341fe82fc31ee58d26e65.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cf/24/32/a1fec341fe82fc31ee58d26e65.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם - אלישע - חלק ב' - אלישע מרפא את נעמן | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/49/d3/50/6da28f450eb3ee7289d0a638c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/49/d3/50/6da28f450eb3ee7289d0a638c0.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | אלישע - חלק א' - סיפורי אלישע וסיפורים חסידים | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/18/2e/d087d54ad6a19b93bd624ce8f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/18/2e/d087d54ad6a19b93bd624ce8f6.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | שמואל - חלק ד' - קשיי שמואל בהחלפת שאול | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/76/c9/d4/85dc5948669a28835d4111ead0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/76/c9/d4/85dc5948669a28835d4111ead0.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | שמואל - חלק ג' - שמואל והדחת שאול | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d6/a1/86/4bc1484ff1aef4872d89ac5a12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d6/a1/86/4bc1484ff1aef4872d89ac5a12.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | שמואל - חלק ב - יחס שמואל למלוכה | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0c/1d/48/7386a4435680914a8204c28251.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0c/1d/48/7386a4435680914a8204c28251.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | שמואל - חלק א' - מעמד שמואל כנביא | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/97/54/12/6c0d8c437fa24389d29d677e81.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/97/54/12/6c0d8c437fa24389d29d677e81.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | נבואת אבות בספר בראשית - חלק ג' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d9/56/cf/77a3414260b0b5ffd3daa6c55c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d9/56/cf/77a3414260b0b5ffd3daa6c55c.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | נבואת האבות בספר בראשית - חלק ב' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/63/da/5d92a941899a670d0ddd795ad8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/63/da/5d92a941899a670d0ddd795ad8.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | הנבואה בספר בראשית - חלק א' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d0/4a/f3/bdd3eb40889c0d43e758bb96a3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d0/4a/f3/bdd3eb40889c0d43e758bb96a3.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | לאן נעלמה משפחתו של משה - חלק א' | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0c/db/6b/841e8c439abefe4bc145a66321.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0c/db/6b/841e8c439abefe4bc145a66321.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | יונה - חלק ד' - יונה מנסה להיכשל ונכשל | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e9/fd/12/6ac57240538886e400409ef805.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e9/fd/12/6ac57240538886e400409ef805.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>5760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | יונה - חלק ג' - יונה במעי הדג | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/53/82/3d48184d478baff8f8806f19f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/53/82/3d48184d478baff8f8806f19f1.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הנבא בן אדם | יונה - חלק ב' - הנביא הבורח | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cf/68/52/4856864366a4d57ebc4c6d5d04.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cf/68/52/4856864366a4d57ebc4c6d5d04.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יונים בספר בראשית | 17. מעשה אבות סימן לבנים - גישת הרמב"ן לסיפורי המקרא | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/84/42/cc/7128b443b1b005b2e5e53bb732.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/84/42/cc/7128b443b1b005b2e5e53bb732.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 16. סיפורי אברהם - הבחירה באברהם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e5/98/c4/4bb6374f1eb53adea7ed1758c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e5/98/c4/4bb6374f1eb53adea7ed1758c9.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 15. סיפורי אברהם - תרח אבי אברהם | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/16/a3/66e439432096664958382ab39f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/16/a3/66e439432096664958382ab39f.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 14. האדם לאחר המבול | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/47/ee/10/5a858d42a093cb5a724209596e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/47/ee/10/5a858d42a093cb5a724209596e.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 13. מבטים שונים על סיפור המבול | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/83/71/fe/02f4fb490a96ed4497b112ed0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/83/71/fe/02f4fb490a96ed4497b112ed0f.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיונים בספר בראשית | 12. סיפור המבול במזרח הקדום | ד"ר יושי פרג'ון</title>
+   <description>הרב יושי פרג'ון · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב יושי פרג'ון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/02/ad/710a6345418a266380044a4b39.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/02/ad/710a6345418a266380044a4b39.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

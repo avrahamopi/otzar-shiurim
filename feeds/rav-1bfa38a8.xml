@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב זקס · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-1bfa38a8.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב זקס.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>וישלח: קח נא את ברכתי | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/130070541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437577330-44100-2-effacd97e0f758.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/130070541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437577330-44100-2-effacd97e0f758.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא: עולים ויורדים | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/129666257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437030678-44100-2-7ccf7d4906f7d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/129666257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437030678-44100-2-7ccf7d4906f7d8.mp3</guid>
+   <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות: אהבה אינה משחק סכום אפס | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/129195207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436405725-44100-2-da85e2b5ddf2d8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/129195207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436405725-44100-2-da85e2b5ddf2d8.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה: גיבורים מסוג אחר | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/128714364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435796409-44100-2-eaaee9777d7fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/128714364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435796409-44100-2-eaaee9777d7fb.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא: לפגוש את הקב"ה באדם ואת האדם בקב"ה | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/128135252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435057060-44100-2-7e497b89c99b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/128135252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435057060-44100-2-7e497b89c99b1.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך: אמונה של מחאה | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/127818591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434636315-44100-2-743fa02897ed3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/127818591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434636315-44100-2-743fa02897ed3.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח: יהדות נבדלת או חיבור לאומות | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/127443734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434127722-44100-2-68a48a4de728d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/127443734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434127722-44100-2-68a48a4de728d.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חדש! | בראשית: יש משמעות לבריאה | תורה פוגשת עולם – עיון בתורת הרב זקס – הרב שי גניזי</title>
+   <description>הרב זקס · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב זקס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/126930570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433470795-44100-2-c658b11dbe9f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/126930570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433470795-44100-2-c658b11dbe9f6.mp3</guid>
+   <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

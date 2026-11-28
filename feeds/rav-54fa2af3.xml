@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אריאל רקובר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-54fa2af3.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אריאל רקובר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>נעשה ונשמע | שיעור לשבועות | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/990fe072/926df5e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/990fe072/926df5e0.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נעשה ונשמע | שיעור לשבועות | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/41ca452f/e01133c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/41ca452f/e01133c4.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הענג והשמחה | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bc024840/cd988c37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bc024840/cd988c37.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גבורת ר' עקיבא ותלמידיו | ל"ג בעומר | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6d83680e/dd2c9a18.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6d83680e/dd2c9a18.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גבורת ר' עקיבא ותלמידיו | ל"ג בעומר | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b3050b20/c39ede36.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b3050b20/c39ede36.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יח ואחרון | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ae23262d/85f962dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ae23262d/85f962dc.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/dc3fe6a3/89148584.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dc3fe6a3/89148584.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יח ואחרון | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e89bc0a2/38591ad2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e89bc0a2/38591ad2.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1e94cc28/965e4b08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1e94cc28/965e4b08.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק טז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8a307f69/28dcdd32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8a307f69/28dcdd32.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק טז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d1cfdfbc/dffc5f3f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d1cfdfbc/dffc5f3f.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ט"ו | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cadc526b/f5027fd9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cadc526b/f5027fd9.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ט"ו | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9525679d/bfe0576d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9525679d/bfe0576d.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק י"ד | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3052d228/e05ab806.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3052d228/e05ab806.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק י"ד | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d605ede9/12205fc8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d605ede9/12205fc8.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יג | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/75f398ce/768d8e12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75f398ce/768d8e12.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יג | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/60299d95/66cf6a63.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/60299d95/66cf6a63.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יב | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7eac1b77/d08f7b7b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7eac1b77/d08f7b7b.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יב | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/55a00127/b2c63728.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/55a00127/b2c63728.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יא | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e731eab2/e94753e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e731eab2/e94753e5.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יא | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4988035a/076bd0d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4988035a/076bd0d9.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק י | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e2b49122/1ddb2989.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e2b49122/1ddb2989.mp3</guid>
+   <pubDate>Tue, 20 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>100 שנה לפטירת השם משמואל | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/eb39c07b/ba4c381c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eb39c07b/ba4c381c.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ט | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/05840d20/1e658a62.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/05840d20/1e658a62.mp3</guid>
+   <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ט | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/24fc9e97/9e28503d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/24fc9e97/9e28503d.mp3</guid>
+   <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ח | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e7cd2f4b/e3e0e445.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e7cd2f4b/e3e0e445.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ח | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/76c6c536/8c4a1f2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/76c6c536/8c4a1f2f.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ז + אורות ישראל ותחייתו פסקה י"ז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/5f0fd9c7/9829abe4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5f0fd9c7/9829abe4.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ז + אורות ישראל ותחייתו פסקה י"ז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bcb83eb7/710761ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bcb83eb7/710761ab.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור חלק ו + עין איה שבת א פרק שני פסקה ק"ו | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/13a533b4/ac4b3a4d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/13a533b4/ac4b3a4d.mp3</guid>
+   <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור חלק ו + עין איה שבת א פרק שני פסקה ק"ו | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/51c48b1b/f15c9ce4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/51c48b1b/f15c9ce4.mp3</guid>
+   <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ה | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8add25cb/139b7d5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8add25cb/139b7d5f.mp3</guid>
+   <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ה | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0db1546b/2ae41c34.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0db1546b/2ae41c34.mp3</guid>
+   <pubDate>Tue, 25 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל רקובר | מאמר הדור | חלק ד</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7bf66b58/d0194d6f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7bf66b58/d0194d6f.mp3</guid>
+   <pubDate>Tue, 18 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל רקובר | מאמר הדור | חלק ד</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6491f199/908698a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6491f199/908698a9.mp3</guid>
+   <pubDate>Tue, 18 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ג | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/79147cbf/fb4c9983.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/79147cbf/fb4c9983.mp3</guid>
+   <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ג | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9d3619f2/f9b0a626.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9d3619f2/f9b0a626.mp3</guid>
+   <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ב | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/575d8122/29427dc7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/575d8122/29427dc7.mp3</guid>
+   <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק א | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/02b8673a/fd3ed200.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/02b8673a/fd3ed200.mp3</guid>
+   <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ב | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/49147a23/07f16742.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/49147a23/07f16742.mp3</guid>
+   <pubDate>Tue, 04 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק א | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/841658a1/3998e4f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/841658a1/3998e4f3.mp3</guid>
+   <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענין השחלת ועניין הפר | שיעור הכנה ליום הכיפורים | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cab7a626/b2d046b9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cab7a626/b2d046b9.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת יום הכיפורים | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4ffb53df/6656391b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4ffb53df/6656391b.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענין השחלת ועניין הפר | שיעור הכנה ליום הכיפורים | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/62a277e9/e52d7456.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/62a277e9/e52d7456.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת יום הכיפורים | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0572d783/1a722afe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0572d783/1a722afe.mp3</guid>
+   <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת התורה מתוך אהבה לה' | הכנה לראש השנה | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/91a0a214/3779ecab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/91a0a214/3779ecab.mp3</guid>
+   <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת התורה מתוך אהבה לה' | הקדמה לתפארת ישראל מהרל | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/70097137/0ea1aa48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/70097137/0ea1aa48.mp3</guid>
+   <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טביעות עין מול סימנים בסוגיות אמוניות | הרב אריאל רקובר | מאמר הדור</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2819edb9/caf2c3b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2819edb9/caf2c3b2.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימנים וטביעות עין | הרב אריאל רקובר | מאמר הדור</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/072c16fb/a5721ccb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/072c16fb/a5721ccb.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה היא המחלה של הדור | הרב אריאל רקובר | מאמר הדור</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/474dbf15/970821f1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/474dbf15/970821f1.mp3</guid>
+   <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תיקון חצות ניצחון במלחמות | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/039e376d/097a064b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/039e376d/097a064b.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה למאמר הדור | הרב אריאל רקובר | מאמר הדור | שיעור 1</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e90120d1/316c20a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e90120d1/316c20a4.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדדים הלאומיים המתגלים במלחמה | הרב אריאל רקובר | אורות המלחמה ה</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/79d51db0/e2e6b8bc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/79d51db0/e2e6b8bc.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה הגלות בנתה בעם ישראל | הרב אריאל רקובר | אורות המלחמה פרק ג | שיעור שני</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a1740375/f54ade41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a1740375/f54ade41.mp3</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל רקובר | אורות המלחמה פרק א | אורות המלחמה שיעור ראשון</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a2c6736d/b5eaa9a4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a2c6736d/b5eaa9a4.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פירוש תורת ה' תמימה , הרב אריאל רקובר, תפארת ישראל, הקדמה</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d1fa3ca5/f54eac97.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d1fa3ca5/f54eac97.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל רקובר, אורות א''י ד, השוני בעולם הפנימי בארץ ובגלות</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/58f8e226/a69f0cf1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/58f8e226/a69f0cf1.mp3</guid>
+   <pubDate>Fri, 30 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל רקובר, אורות א''י ג, שיעור שני, הציבוריות הישראלית והגלות</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/5f482cc1/4474cfd6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5f482cc1/4474cfd6.mp3</guid>
+   <pubDate>Wed, 21 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל רקובר, אורות א''י, פסקה ג, היצירה הישראלית בא''י ובגלות</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/224473f0/e30e5dec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/224473f0/e30e5dec.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל רקובר, אורות א''י, פסקה ב, תורת הנסתר וארץ ישראל</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e394ab8b/5786dde8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e394ab8b/5786dde8.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אריאל רקובר, אורות א''י, פסקה א, הקשר החי שבין עמ''י לא''י</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d74a4e84/8ec31d1f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d74a4e84/8ec31d1f.mp3</guid>
+   <pubDate>Fri, 16 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

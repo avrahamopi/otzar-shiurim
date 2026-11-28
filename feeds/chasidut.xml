@@ -1,0 +1,2622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>חסידות וקבלה · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/chasidut.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי חסידות וקבלה מכל ישיבות ההסדר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ט - חלק ד׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/965866df-1e29-4022-ae21-1ca5cd86c86b:6efdfb08-7d5e-47b4-a19f-82a39c67fbd2.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/965866df-1e29-4022-ae21-1ca5cd86c86b:6efdfb08-7d5e-47b4-a19f-82a39c67fbd2.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ט - חלק ג׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1e75217c-4931-457e-abb3-fd6f04af93a5:de4a3d99-ea52-4cc6-9b28-dfd9c8ab393b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1e75217c-4931-457e-abb3-fd6f04af93a5:de4a3d99-ea52-4cc6-9b28-dfd9c8ab393b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ט - חלק ב׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/61f2272b-720a-4c6f-a767-7a9df3f75bff:e037fdf8-ad1c-4fa3-aa7c-3899968f7ce8.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/61f2272b-720a-4c6f-a767-7a9df3f75bff:e037fdf8-ad1c-4fa3-aa7c-3899968f7ce8.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י״ט - חלק א׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a18c9e77-fca9-47ce-a2c3-32d38bcdf845:99e1287f-4677-4996-86ed-5dccd32ed625.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a18c9e77-fca9-47ce-a2c3-32d38bcdf845:99e1287f-4677-4996-86ed-5dccd32ed625.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח - חלק ה׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/f54f93b9-b2bb-4c61-9b13-979bb174adf2:be0f4d90-ed9b-4db9-83a0-f94a4d290fe0.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/f54f93b9-b2bb-4c61-9b13-979bb174adf2:be0f4d90-ed9b-4db9-83a0-f94a4d290fe0.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח - חלק ד׳</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a0d0c7d4-d3c8-4d68-9bfe-e236d6429263:7d942c43-1ffb-4e7f-baf1-315516024364.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a0d0c7d4-d3c8-4d68-9bfe-e236d6429263:7d942c43-1ffb-4e7f-baf1-315516024364.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מגיעים לאהבת ישראל? | הרב יצחק שפירא | שיעור מיוחד בחסידות</title>
+   <description>הרב יצחק שפירא · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב יצחק שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76282640/utf_8_b_16gg15dxmdem15nxpydxnteq15nxpneuia_utf_8_b_15dxl9et15xxqidxntes15nxoteulm1wmw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76282640/utf_8_b_16gg15dxmdem15nxpydxnteq15nxpneuia_utf_8_b_15dxl9et15xxqidxntes15nxoteulm1wmw.mp3</guid>
+   <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק סיכום: החתיכה החסרה בלימוד תורה | צדקת הצדיק לשמחת תורה | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/126023451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432283800-44100-2-63b6b9990f44d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/126023451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432283800-44100-2-63b6b9990f44d.mp3</guid>
+   <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות - להסיר את הפוזות | הרב שי גניזי | צדקת הצדיק לסוכות</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/125876676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432089368-44100-2-10b1b8455f09f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/125876676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432089368-44100-2-10b1b8455f09f.mp3</guid>
+   <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בַּכֵּסֶה לְיוֹם חַגֵּנוּ- הכוח שבהסתרה | שפת אמת לראש השנה | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75047682/utf_8_b_16nxpneqineq157xqidxqneq16kg15txqdeg15qubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75047682/utf_8_b_16nxpneqineq157xqidxqneq16kg15txqdeg15qubxaz.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההזדמנות שבחטא | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/125377787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431418237-44100-2-6d348ab6e9831.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/125377787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431418237-44100-2-6d348ab6e9831.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לצמוח מכישלון | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/124964722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430860239-44100-2-d3bc5696e5654.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/124964722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430860239-44100-2-d3bc5696e5654.mp3</guid>
+   <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלול: משהו חדש מתחיל | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/124693974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430483989-44100-2-9ec59d66b3dd3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/124693974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430483989-44100-2-9ec59d66b3dd3.mp3</guid>
+   <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למען יאריכון ימיך | שפת אמת - כי תצא | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/215e2162/7cc5d347.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/215e2162/7cc5d347.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למען יאריכון ימיך | שפת אמת - כי תצא | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2ab986c2/7ac46987.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2ab986c2/7ac46987.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה צ"ב: לצאת מעמדת התייר הרוחני | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/123413430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428742038-44100-2-d705ea3e23fcd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/123413430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428742038-44100-2-d705ea3e23fcd.mp3</guid>
+   <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה צ': לימוד תורה מחובר לנפש ולעולם | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/123413419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F429182921-44100-2-00574e9099549.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/123413419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F429182921-44100-2-00574e9099549.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/129bb4c3-78ce-4103-9f24-fd516683c3d7.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/129bb4c3-78ce-4103-9f24-fd516683c3d7.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"ט: ספיישל לחופש הגדול - לדבר בעולם | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/123413402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428742056-44100-2-f6785040dd04b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/123413402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428742056-44100-2-f6785040dd04b.mp3</guid>
+   <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/87a63075-8ed9-471f-a2c6-dc2d92222dba.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/87a63075-8ed9-471f-a2c6-dc2d92222dba.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"ז: כף זכות במעשים הקטנים | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/123030502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428224194-44100-2-38ab20ca61059.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/123030502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428224194-44100-2-38ab20ca61059.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ח - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/72756df5-e48b-455e-a094-9cc11981d648.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/72756df5-e48b-455e-a094-9cc11981d648.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"ה: הכל רוח וצלצולים | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/122808543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427922158-44100-2-8070dcf0db9ab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/122808543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427922158-44100-2-8070dcf0db9ab.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ח'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/5194511c-6c06-40a4-9391-5edbbb9214c1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/5194511c-6c06-40a4-9391-5edbbb9214c1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"ג: טלפון מאראלה ממפעל הפיס | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/122489049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F427494184-44100-2-ce6c32f111123.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/122489049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F427494184-44100-2-ce6c32f111123.mp3</guid>
+   <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/112cf78b-fec2-41b0-b688-7f0f78e4a9e2.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/112cf78b-fec2-41b0-b688-7f0f78e4a9e2.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה פ"א: לצפות על העניינים מן המרפסת | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/122192165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F427095378-44100-2-288296f65780f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/122192165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F427095378-44100-2-288296f65780f.mp3</guid>
+   <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשר הספירות #10: ספירת הבינה - מדעי המוח, חכמת הקבלה וחזרה בתשובה | הרב איתמר אלדר ומתן חסידים</title>
+   <description>הרב איתמר אלדר · ישיבת אורות שאול · חסידות וקבלה</description>
+   <itunes:author>הרב איתמר אלדר</itunes:author>
+   <enclosure url="https://anchor.fm/s/111b999cc/podcast/play/122091712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426964402-44100-2-b6b038e57e418.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/111b999cc/podcast/play/122091712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426964402-44100-2-b6b038e57e418.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ו'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/dd30d212-0441-477f-b734-cfe5468a7ac6.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/dd30d212-0441-477f-b734-cfe5468a7ac6.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ע"ג: לחיות בתוך סיפור | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/121875932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F426671375-44100-2-9cd539ee5430e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/121875932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F426671375-44100-2-9cd539ee5430e.mp3</guid>
+   <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/420e58e5-dd62-4f45-88c3-941bb4a9cea1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/420e58e5-dd62-4f45-88c3-941bb4a9cea1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ע"ב: לצאת מהקונספציה | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/121551026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426238180-44100-2-1f10b5363d7db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/121551026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426238180-44100-2-1f10b5363d7db.mp3</guid>
+   <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ad55612c-07d6-4b54-b08f-4e7f5467ef5c.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ad55612c-07d6-4b54-b08f-4e7f5467ef5c.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ע': לעבוד את ה' דרך החסרונות | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/121217385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-9%2F425792255-44100-2-e9ce2dc64bfd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/121217385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-9%2F425792255-44100-2-e9ce2dc64bfd.mp3</guid>
+   <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/39d0a6e0-8dc0-4ff4-a1c1-0e99a3c53e9a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/39d0a6e0-8dc0-4ff4-a1c1-0e99a3c53e9a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ס"ח: להיות דתי בלב | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/120891498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425356545-44100-2-933d9dd42b8fb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/120891498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425356545-44100-2-933d9dd42b8fb.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/714794d3-e7db-4950-ab85-1ff25b9740f3.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/714794d3-e7db-4950-ab85-1ff25b9740f3.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ס"ז: לחזור בתשובה בכל עלייה | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/120545728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424894366-44100-2-89bfff5f204f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/120545728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424894366-44100-2-89bfff5f204f5.mp3</guid>
+   <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ס"ו: תפילה על כוס קפה | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/120207014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424443036-44100-2-b2ba38ea5eb7a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/120207014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424443036-44100-2-b2ba38ea5eb7a.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה ס"ה: זאת האמת שלי | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/119858348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F423976735-44100-2-ff772cc3f477d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/119858348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F423976735-44100-2-ff772cc3f477d.mp3</guid>
+   <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ז - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7f2921af-f081-42e7-b786-e9ed3872967e.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7f2921af-f081-42e7-b786-e9ed3872967e.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה נ"ו: מפגש כפוי עם הקב"ה | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/119515472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F423509120-44100-2-a8d21ed0e5fbe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/119515472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2F423509120-44100-2-a8d21ed0e5fbe.mp3</guid>
+   <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסקה נ"ד: מי חלק מעם ישראל? | צדקת הצדיק | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/119161829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F423024970-44100-2-9e82597e15bc9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/119161829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F423024970-44100-2-9e82597e15bc9.mp3</guid>
+   <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תנינא תורה י"ב - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/788d6e0b-5abd-4d2c-bc2b-9c7e2612bb0c.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/788d6e0b-5abd-4d2c-bc2b-9c7e2612bb0c.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה ס"ד | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/117352035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420597086-44100-2-678b28a1230eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/117352035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F420597086-44100-2-678b28a1230eb.mp3</guid>
+   <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תנינא תורה י"ב - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e670df96-f574-4afc-8a16-16dac3ee60ff:46476177-9332-4bbc-a281-6aa667727bfb.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e670df96-f574-4afc-8a16-16dac3ee60ff:46476177-9332-4bbc-a281-6aa667727bfb.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ט"ז - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ed779672-cd4e-4734-90ca-21b67400abe1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ed779672-cd4e-4734-90ca-21b67400abe1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ט"ז - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d9510611-8a82-4dbe-ae01-52b9c7b532a1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d9510611-8a82-4dbe-ae01-52b9c7b532a1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ט | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/117065869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-17%2F420207984-44100-2-4081540b6f816.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/117065869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-17%2F420207984-44100-2-4081540b6f816.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת</title>
+   <description>הרב שמואל גלייזר · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שמואל גלייזר</itunes:author>
+   <enclosure url="https://anchor.fm/s/fe07f540/podcast/play/116640885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F4d9c99b9-f003-d86f-4f97-85585d123166.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fe07f540/podcast/play/116640885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F4d9c99b9-f003-d86f-4f97-85585d123166.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת | ויקהל פקודי | המשכן כתיקון לחטא העגל | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/75a4989e/8436cd7b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75a4989e/8436cd7b.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת | ויקהל פקודי | המשכן כתיקון לחטא העגל | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3eae7cb6/986ce62e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3eae7cb6/986ce62e.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ח | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/116704253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F419718116-44100-2-13fc833b743a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/116704253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F419718116-44100-2-13fc833b743a5.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ז | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/115957899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2F418707518-44100-2-b723c0ee63087.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/115957899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2F418707518-44100-2-b723c0ee63087.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ט"ו - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c9ca5a36-a734-4982-9da4-754f731af81b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c9ca5a36-a734-4982-9da4-754f731af81b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ה | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/115634462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418275444-44100-2-2c276f251e0a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/115634462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418275444-44100-2-2c276f251e0a1.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אפלטון וחכמת הקבלה | 16</title>
+   <description>רבני הישיבה · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3044772a-8ecf-4c7c-9b19-66ece3aadf69/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3044772a-8ecf-4c7c-9b19-66ece3aadf69/stream.mp3</guid>
+   <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ט"ו - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6b3051bf-073f-4673-b9c5-1bc6d07413a4.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6b3051bf-073f-4673-b9c5-1bc6d07413a4.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"ג | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/115284599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-10%2F417808368-44100-2-56e43fc09098b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/115284599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-10%2F417808368-44100-2-56e43fc09098b.mp3</guid>
+   <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ"א | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/115003725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-4%2F417433983-44100-2-22a3a44bf7566.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/115003725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-4%2F417433983-44100-2-22a3a44bf7566.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ד - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/77189a6e-50ca-42d6-b18e-6a3c91ca4db3.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/77189a6e-50ca-42d6-b18e-6a3c91ca4db3.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ד - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/7036e3df-5644-41ad-9c32-c5b64c81a170.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/7036e3df-5644-41ad-9c32-c5b64c81a170.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ד - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d4d747be-bc34-4c23-99bb-b541f7863ce5.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d4d747be-bc34-4c23-99bb-b541f7863ce5.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההתלהבות שבחסידות | מאמרי הראיה | מאמר ראשון | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9e4176ef/249c5762.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9e4176ef/249c5762.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההתלהבות שבחסידות | מאמרי הראיה | מאמר ראשון | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/171995f2/a6ae06e6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/171995f2/a6ae06e6.mp3</guid>
+   <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ג - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/23350a75-d6a3-4382-b3bd-83d33758a15a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/23350a75-d6a3-4382-b3bd-83d33758a15a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה נ' | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/113633121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-7%2F415655576-44100-2-a30efb9fdb832.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/113633121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-7%2F415655576-44100-2-a30efb9fdb832.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה מ"ט | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/113319237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-31%2F415260023-44100-2-dd560e31cb0ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/113319237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-31%2F415260023-44100-2-dd560e31cb0ce.mp3</guid>
+   <pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החזרת החיות הא-לוקית ליהדות; שורשיה ומקורותיה התוכניים של הקבלה | 8</title>
+   <description>רבני הישיבה · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/61904d32-e087-44ab-acb4-56a27e28c6e0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/61904d32-e087-44ab-acb4-56a27e28c6e0/stream.mp3</guid>
+   <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ג - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4a4d325e-09ea-4d78-b7e8-2b4e58163fa3.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4a4d325e-09ea-4d78-b7e8-2b4e58163fa3.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 09 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה מ"ז | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/112061103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-3%2F413647691-44100-2-22af8969ac736.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/112061103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-3%2F413647691-44100-2-22af8969ac736.mp3</guid>
+   <pubDate>Mon, 08 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ג - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/ec70039e-9335-4867-99ae-d9c8f9908976.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/ec70039e-9335-4867-99ae-d9c8f9908976.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה מ"ו | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/111733774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-26%2F413203051-44100-2-ad4c9e3815c7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/111733774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-26%2F413203051-44100-2-ad4c9e3815c7e.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ב - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/c1bef8c0-64c6-408f-ad14-414a34e99cb9.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/c1bef8c0-64c6-408f-ad14-414a34e99cb9.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 18 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבנה חוכמת הקבלה: מקורותיה וגילוי אליהו | 5</title>
+   <description>רבני הישיבה · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a64a9b8f-414c-4833-8fd9-d602f8c91d9a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a64a9b8f-414c-4833-8fd9-d602f8c91d9a/stream.mp3</guid>
+   <pubDate>Sat, 15 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ב - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/05b620db-6075-4afa-95ab-ebbd0cfe44b1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/05b620db-6075-4afa-95ab-ebbd0cfe44b1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 11 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"ב - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/15c94223-6df1-479e-b91b-8661d520b49a:c1482cd5-c20c-4d45-99d4-c0a587da84da.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/15c94223-6df1-479e-b91b-8661d520b49a:c1482cd5-c20c-4d45-99d4-c0a587da84da.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 04 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה מ''ב | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/110629129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-3%2F410515553-44100-2-27ef080074e53.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/110629129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-3%2F410515553-44100-2-27ef080074e53.mp3</guid>
+   <pubDate>Mon, 03 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"א - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/df8a26e4-8cc7-4754-b76b-035c7594fd2b.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/df8a26e4-8cc7-4754-b76b-035c7594fd2b.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 28 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקאות י"ג י"ד | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/109007677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408395529-44100-2-8a6208720c31c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/109007677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-30%2F408395529-44100-2-8a6208720c31c.mp3</guid>
+   <pubDate>Sat, 18 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"א - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/176cf127-0ba3-4309-aa60-c9e4870e8f1e.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/176cf127-0ba3-4309-aa60-c9e4870e8f1e.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Fri, 12 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י"א - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4380ba49-12b5-47d0-b1c8-6f31c98412fd.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4380ba49-12b5-47d0-b1c8-6f31c98412fd.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 02 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ל"ב</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6cd94d27-3438-491d-b52c-d6851f67b880.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6cd94d27-3438-491d-b52c-d6851f67b880.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י' - חלק ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4f6eb49d-7fe9-439b-8868-96bfcb3115b3.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4f6eb49d-7fe9-439b-8868-96bfcb3115b3.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 12 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר''ן • תורה י' - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/a97fb044-ff09-4b03-b2c8-b545cc071da3.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/a97fb044-ff09-4b03-b2c8-b545cc071da3.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 05 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה כ''ה | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/106298739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2F404934465-44100-2-8fc18a3e9df45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/106298739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2F404934465-44100-2-8fc18a3e9df45.mp3</guid>
+   <pubDate>Mon, 04 Aug 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר''ן • תורה י' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/db87715c-cef4-4f06-9642-a60bb1d05e3d.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/db87715c-cef4-4f06-9642-a60bb1d05e3d.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה י' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/21bf5919-5f5f-47bc-9869-562877977019.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/21bf5919-5f5f-47bc-9869-562877977019.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 22 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'צדקת הצדיק| פסקה ח</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/105442979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2F403840000-44100-2-f79042beb595f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/105442979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2F403840000-44100-2-f79042beb595f.mp3</guid>
+   <pubDate>Mon, 21 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ט' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/742eff07-2c04-43a2-be89-eb406a89d0c1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/742eff07-2c04-43a2-be89-eb406a89d0c1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 15 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה ג'</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/105431333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2F403822693-44100-2-94d14283f7ed5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/105431333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-13%2F403822693-44100-2-94d14283f7ed5.mp3</guid>
+   <pubDate>Mon, 14 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ט' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0feeeeaf-5081-41c7-abfb-78b3aa4897be.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0feeeeaf-5081-41c7-abfb-78b3aa4897be.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 08 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פסקה ב' | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/105133768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403441209-44100-2-af185c87bf246.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/105133768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403441209-44100-2-af185c87bf246.mp3</guid>
+   <pubDate>Mon, 07 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חסידות חב"ד (א, כא) | 20</title>
+   <description>רבני הישיבה · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4765d897-6575-44c1-a8aa-31cc7f202008/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4765d897-6575-44c1-a8aa-31cc7f202008/stream.mp3</guid>
+   <pubDate>Sun, 06 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ח' - חלק ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/b6b162b6-b737-402c-b7d0-659733622ba6.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/b6b162b6-b737-402c-b7d0-659733622ba6.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 01 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | פתיחה ופסקה א' | הרב שי גניזי</title>
+   <description>הרב שי גניזי · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב שי גניזי</itunes:author>
+   <enclosure url="https://anchor.fm/s/106c1aed8/podcast/play/104829287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-30%2F403052124-44100-2-4c34a80e187ff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/106c1aed8/podcast/play/104829287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-30%2F403052124-44100-2-4c34a80e187ff.mp3</guid>
+   <pubDate>Mon, 30 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ח' - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/432943ff-de4c-439d-ab94-5ced99d67d43.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/432943ff-de4c-439d-ab94-5ced99d67d43.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ח' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/26ed566d-e82a-46b9-a586-05f1f3e5dbf3.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/26ed566d-e82a-46b9-a586-05f1f3e5dbf3.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר''ן • תורה ח' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/40a8c5f2-1f1e-4da8-9e02-5a66e1d18d8e.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/40a8c5f2-1f1e-4da8-9e02-5a66e1d18d8e.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר''ן • תורה ז' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/4c0355ef-30d2-4eda-bf49-c9fe07ee9213.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/4c0355ef-30d2-4eda-bf49-c9fe07ee9213.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ז' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0b140f8f-2564-4c55-92f7-865b471387ff.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0b140f8f-2564-4c55-92f7-865b471387ff.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לליקוטי מוהר"ן • תורה ו' - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/661300ec-6ac9-4967-bffd-3c5ea72e74b9.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/661300ec-6ac9-4967-bffd-3c5ea72e74b9.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ו' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/1fce2696-cf81-404c-ae3c-cc02ca9e1cea.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/1fce2696-cf81-404c-ae3c-cc02ca9e1cea.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ו' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/14bd3757-f0bb-4029-83e5-9de0bcbc1c68:696b5de4-c71c-4f71-ad1b-0d1ba079d26e.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/14bd3757-f0bb-4029-83e5-9de0bcbc1c68:696b5de4-c71c-4f71-ad1b-0d1ba079d26e.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ה' - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d4564f92-0cab-40d8-8e7d-100bb235a24e.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d4564f92-0cab-40d8-8e7d-100bb235a24e.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 01 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ה' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/97ee8db6-ce84-4d42-a654-21ca01594b80.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/97ee8db6-ce84-4d42-a654-21ca01594b80.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 25 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ה' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/6e5275de-cc48-443c-bbe7-8e3e23c14cfd:b2233282-b007-40f7-a19f-6cc3fa729974.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/6e5275de-cc48-443c-bbe7-8e3e23c14cfd:b2233282-b007-40f7-a19f-6cc3fa729974.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ד' - חלק ה'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d1a81074-9d5b-4e47-975f-61df81209155.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d1a81074-9d5b-4e47-975f-61df81209155.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ד' - חלק ד'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9d120d30-1b44-4810-849d-b6bce5f7ae07.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9d120d30-1b44-4810-849d-b6bce5f7ae07.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ד' - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/0468d94d-0bab-4a5c-9dfa-e581dc2db74a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/0468d94d-0bab-4a5c-9dfa-e581dc2db74a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 06 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ד' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/8104cffd-50cc-42ac-9efd-eef15f2a4b7f.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/8104cffd-50cc-42ac-9efd-eef15f2a4b7f.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 04 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ד' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/62185ad9-5de8-41a3-93c2-562b7fa5c29a.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/62185ad9-5de8-41a3-93c2-562b7fa5c29a.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Sun, 02 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9ccfa470-74de-45e6-943e-8bf986ec5b57.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9ccfa470-74de-45e6-943e-8bf986ec5b57.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ב' - חלק ג'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/2d8c3443-be06-4737-907c-94211c7dc944.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/2d8c3443-be06-4737-907c-94211c7dc944.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 25 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ב' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d99903bf-5c62-4097-97af-c2d75fefe8d5.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d99903bf-5c62-4097-97af-c2d75fefe8d5.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Sun, 23 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה ב' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/e9774db7-415d-47a2-abdb-3cbd4cbf7d9f.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/e9774db7-415d-47a2-abdb-3cbd4cbf7d9f.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה א' - חלק ב'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/9e4e9728-3d48-4f32-8d78-f5c553bfa3c1.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/9e4e9728-3d48-4f32-8d78-f5c553bfa3c1.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליקוטי מוהר"ן • תורה א' - חלק א'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/bb5736c6-0d12-465a-9387-97b17a9b499f.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/bb5736c6-0d12-465a-9387-97b17a9b499f.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לחשוף את ה'נקודה הפנימית' | הרב שלמה ברין ופרופ' דניאל רייזר | 120 שנה לפטירתו של ה'שפת אמת'</title>
+   <description>הרב שלמה ברין · ישיבת הר עציון · חסידות וקבלה</description>
+   <itunes:author>הרב שלמה ברין</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/98123383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394409943-44100-2-b07b43a8f8f6b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/98123383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394409943-44100-2-b07b43a8f8f6b.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ה'שפת אמת' ואנחנו | הרב בני להמן והרב יעקב מדן | 120 שנה לפטירתו של ה'שפת אמת'</title>
+   <description>הרב בני להמן · ישיבת הר עציון · חסידות וקבלה</description>
+   <itunes:author>הרב בני להמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/98123247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394409817-44100-2-0da9a9e82d4b2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/98123247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2F394409817-44100-2-0da9a9e82d4b2.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרכי החסידות | מאמרי הראיה א | דרך התחיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a6d20a17/f2ef4a2e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a6d20a17/f2ef4a2e.mp3</guid>
+   <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרכי החסידות | מאמרי הראיה | דרך התחיה | חלק ח | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7fd6619a/2ebbe26c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7fd6619a/2ebbe26c.mp3</guid>
+   <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ד - נטילת ידיים של בוקר הזוהר</title>
+   <description>הרב ישי יסלזון · ישיבת הר עציון · חסידות וקבלה</description>
+   <itunes:author>הרב ישי יסלזון</itunes:author>
+   <enclosure url="https://anchor.fm/s/f7d09704/podcast/play/96178718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-23%2F391994466-44100-2-293908fc03d7.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/f7d09704/podcast/play/96178718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-23%2F391994466-44100-2-293908fc03d7.m4a</guid>
+   <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וזאת הברכה - יסודות מתורתו של השפת אמת</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e77fb4e7-e162-446f-96a4-ff12ca11c1fd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e77fb4e7-e162-446f-96a4-ff12ca11c1fd/stream.mp3</guid>
+   <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום הכיפורים: שימני כחותם על לבך | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349288-48000-2-bf9496b6ffaea13a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349288-48000-2-bf9496b6ffaea13a.mp3</guid>
+   <pubDate>Tue, 08 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניצבים־וילך וראש השנה: לעורר את הברית | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349362-48000-2-6501f366b573272d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349362-48000-2-6501f366b573272d.mp3</guid>
+   <pubDate>Wed, 25 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא: דלת לפנים מדלת | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349308-48000-2-095dbe017815e03f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349308-48000-2-095dbe017815e03f.mp3</guid>
+   <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא: להצילך ולתת אויביך לפניך | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349304-48000-2-268733dc9aff7f75.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349304-48000-2-268733dc9aff7f75.mp3</guid>
+   <pubDate>Wed, 11 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עקב: ברכת המזון – ברכת הארץ | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349282-48000-2-ff85a9eac5ccda56.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349282-48000-2-ff85a9eac5ccda56.mp3</guid>
+   <pubDate>Wed, 21 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואתחנן: התפילה כמפגש | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349302-48000-2-95b0b38ca8b89679.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349302-48000-2-95b0b38ca8b89679.mp3</guid>
+   <pubDate>Wed, 14 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים: אבות על בנים | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349311-48000-2-00e31fe7ea60d493.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349311-48000-2-00e31fe7ea60d493.mp3</guid>
+   <pubDate>Wed, 07 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר העצמי בין העם והארץ | שפת אמת מטעות מסעי | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7e1c6df4/8589a7a8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7e1c6df4/8589a7a8.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר העצמי בין העם והארץ | שפת אמת מטעות מסעי | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/416d560d/ffd12d4c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/416d560d/ffd12d4c.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסעי – ללכת אל, ללכת מ... | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349306-48000-2-5bbd9697c60a5372.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349306-48000-2-5bbd9697c60a5372.mp3</guid>
+   <pubDate>Wed, 31 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פינחס: צווה בני עליי | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349339-48000-2-b9fc2df650cffeff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349339-48000-2-b9fc2df650cffeff.mp3</guid>
+   <pubDate>Wed, 24 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק: אפס קצהו תראה – זהות והתערבות | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349421-48000-2-1316a59a3289bfcb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349421-48000-2-1316a59a3289bfcb.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוקת: מי יתן טהור מטמא | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349434-48000-2-d7ffd72ab81202f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349434-48000-2-d7ffd72ab81202f6.mp3</guid>
+   <pubDate>Wed, 10 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח: על פרפקציוניזם וענווה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349325-48000-2-73ef0730896301aa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349325-48000-2-73ef0730896301aa.mp3</guid>
+   <pubDate>Wed, 03 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח: התבגרות ובחירה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349283-48000-2-b3e62e6a6012c795.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349283-48000-2-b3e62e6a6012c795.mp3</guid>
+   <pubDate>Thu, 27 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביטחון וסיכום החסידות - 47</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/53ca70da-0355-449d-b45d-f0438a224151/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/53ca70da-0355-449d-b45d-f0438a224151/stream.mp3</guid>
+   <pubDate>Sun, 23 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קניין החסידות (כא) - 46</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8d7143ac-d0f4-4d20-8366-332b8bc749c7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8d7143ac-d0f4-4d20-8366-332b8bc749c7/stream.mp3</guid>
+   <pubDate>Sun, 23 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך: התאוו תאווה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349427-48000-2-2f887d7d0be27d0e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349427-48000-2-2f887d7d0be27d0e.mp3</guid>
+   <pubDate>Wed, 19 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במשקל החסידות - חלק ב (כ) - 45</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/43c73395-f4da-4ae7-ba4e-6d27b85db4f4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/43c73395-f4da-4ae7-ba4e-6d27b85db4f4/stream.mp3</guid>
+   <pubDate>Mon, 17 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במשקל החסידות - חלק א (כ) - 44</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c8997337-7892-4029-a3e6-53c70a933081/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c8997337-7892-4029-a3e6-53c70a933081/stream.mp3</guid>
+   <pubDate>Sun, 16 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשא: ושמו את שמי על בני ישראל | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349309-48000-2-1cf84c8191f3c399.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349309-48000-2-1cf84c8191f3c399.mp3</guid>
+   <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר ויום ירושלים: נתאוו ישראל לדגלים | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349347-48000-2-b7499ed88ffb9f9e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349347-48000-2-b7499ed88ffb9f9e.mp3</guid>
+   <pubDate>Wed, 05 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בחוקותי: התורה הטבעית | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349287-48000-2-7b5ac9ee17acfbda.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349287-48000-2-7b5ac9ee17acfbda.mp3</guid>
+   <pubDate>Thu, 30 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרכים שונות לחסידות (יט) - 36</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/69f183e7-7be7-42b1-bcc8-d835dd401af1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/69f183e7-7be7-42b1-bcc8-d835dd401af1/stream.mp3</guid>
+   <pubDate>Sun, 19 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמור: קידוש השם | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349378-48000-2-2511d0b9459ab505.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349378-48000-2-2511d0b9459ab505.mp3</guid>
+   <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חסידות במעשים (יט) - 35</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ce4c647b-1f2d-4465-b77c-7460296448ac/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ce4c647b-1f2d-4465-b77c-7460296448ac/stream.mp3</guid>
+   <pubDate>Mon, 13 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עקרונות החסידות והסכנות שבה - 34</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/96d1a674-29c7-4809-9d60-84e7cbb81c7d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/96d1a674-29c7-4809-9d60-84e7cbb81c7d/stream.mp3</guid>
+   <pubDate>Sun, 12 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושים ויום העצמאות: כולם – קדושה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349300-48000-2-23b89c4a3a1da4f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349300-48000-2-23b89c4a3a1da4f9.mp3</guid>
+   <pubDate>Wed, 08 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קנית הטהרה ומבוא לחסידות (יז-יח) - 33</title>
+   <description>הרב חיים סבתו · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב חיים סבתו</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/eb2f5b55-573b-4d87-8f0a-aeaf72b22fde/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/eb2f5b55-573b-4d87-8f0a-aeaf72b22fde/stream.mp3</guid>
+   <pubDate>Mon, 06 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות - כשושנה בין החוחים | חסידים שותים מזה – נגיעות חסידיות | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349446-44100-2-b031c5810525de2a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349446-44100-2-b031c5810525de2a.mp3</guid>
+   <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח ושביעי של פסח: להסתכל למרור בעיניים | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349297-44100-2-c6fa727ac2321f72.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349297-44100-2-c6fa727ac2321f72.mp3</guid>
+   <pubDate>Sun, 21 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצורע שבת הגדול - הוציאה ממסגר נפשי | חסידים שותים מזה – נגיעות חסידיות | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349307-44100-2-3f9af0b5c8d550a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349307-44100-2-3f9af0b5c8d550a1.mp3</guid>
+   <pubDate>Wed, 17 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארבעה בנים בשפת אמת | תשפ"ד | הרב אלישע אבינר - 7</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/c7ea2edc-61c7-48aa-a91a-42f476ed3b96/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/c7ea2edc-61c7-48aa-a91a-42f476ed3b96/stream.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע: חוץ ופנים | חסידים שותים מזה – נגיעות חסידיות | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349375-44100-2-edbf74e285883f7c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349375-44100-2-edbf74e285883f7c.mp3</guid>
+   <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משה ותחיית המתים | הרב אברהם שילר | שפת אמת על פסח | שנת תרמב דיבור המתחיל אז ישיר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b1a46ee9/201a7b22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b1a46ee9/201a7b22.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני: בקרוביי אקדש | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349370-44100-2-579a1c80295c0e33.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349370-44100-2-579a1c80295c0e33.mp3</guid>
+   <pubDate>Wed, 03 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו ופרה: תורת העולה - בירור והעלאה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349295-44100-2-ceae4f43e321e99c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349295-44100-2-ceae4f43e321e99c.mp3</guid>
+   <pubDate>Wed, 27 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא, זכור ופורים: ידיים למעלה על הראש! | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349314-44100-2-2fb5364e50bf1a3e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349314-44100-2-2fb5364e50bf1a3e.mp3</guid>
+   <pubDate>Wed, 27 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פקודי: כי יש ה' בקרבנו | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349438-44100-2-10e2bf4ec751a6c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349438-44100-2-10e2bf4ec751a6c3.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משנכנס אדר משמיעים על השקלים | הרב אריאל שרשבסקי | שפת אמת</title>
+   <description>הרב אריאל שרשבסקי · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אריאל שרשבסקי</itunes:author>
+   <enclosure url="https://media.transistor.fm/6f044c1e/7c967588.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6f044c1e/7c967588.mp3</guid>
+   <pubDate>Mon, 11 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל - ראש חודש אדר: אהבה מתוקנת | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349310-44100-2-df77b15ff38230fc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349310-44100-2-df77b15ff38230fc.mp3</guid>
+   <pubDate>Wed, 06 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא: אין לך יפה מן הצניעות | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349319-44100-2-0e944434a2b3496a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349319-44100-2-0e944434a2b3496a.mp3</guid>
+   <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצוה: מעלתן של ישראל | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047092/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349332-44100-2-1b916279dbadd369.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047092/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349332-44100-2-1b916279dbadd369.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה: נתקשה משה במנורה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349327-44100-2-7de5ce1cbed3d7c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349327-44100-2-7de5ce1cbed3d7c7.mp3</guid>
+   <pubDate>Thu, 15 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים: שימו לב אל הנשמה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349335-44100-2-85922f54048ac709.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349335-44100-2-85922f54048ac709.mp3</guid>
+   <pubDate>Wed, 07 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו: לץ תכה ופתי יערים | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349305-44100-2-ed7e8118deb10726.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349305-44100-2-ed7e8118deb10726.mp3</guid>
+   <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח: מה תצעק אלי | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349343-44100-2-5ebb9e65a66787ce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349343-44100-2-5ebb9e65a66787ce.mp3</guid>
+   <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא: כי אני הכבדתי את ליבו | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349322-44100-2-7ff3bfb3fc76dfb2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349322-44100-2-7ff3bfb3fc76dfb2.mp3</guid>
+   <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא: ואני ערל שפתיים | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349334-44100-2-51e27e556d76c374.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349334-44100-2-51e27e556d76c374.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות: אני ישנה וליבי ער | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349316-44100-2-97a266d97b1d9829.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349316-44100-2-97a266d97b1d9829.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי: גלות לשון גילוי | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349367-44100-2-1dab391af38fa437.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349367-44100-2-1dab391af38fa437.mp3</guid>
+   <pubDate>Thu, 28 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההתנגדות לחסידות | הרב אברהם שילר | מאמרי הראיה | דרך התחיה 8</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/625cf1fe/3cb17d5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/625cf1fe/3cb17d5f.mp3</guid>
+   <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש: ולא יכול יוסף להתאפק | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047060/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349326-44100-2-109746169a2f5a1d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047060/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349326-44100-2-109746169a2f5a1d.mp3</guid>
+   <pubDate>Wed, 20 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קבלה- הקבלה שוווה ושונה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58057333/imported_1702984646135452_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58057333/imported_1702984646135452_audio.mp3</guid>
+   <pubDate>Tue, 19 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ: קץ שם לחושך | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349356-44100-2-e3ef06354a9f0aea.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349356-44100-2-e3ef06354a9f0aea.mp3</guid>
+   <pubDate>Wed, 13 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב-חנוכה: כי דליתני | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349377-44100-2-0738644e92e9c65b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349377-44100-2-0738644e92e9c65b.mp3</guid>
+   <pubDate>Wed, 06 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת כללי | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/09eeda00/abb50e12.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/09eeda00/abb50e12.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח: ויקרא שמו בישראל - קטונתי | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349382-44100-2-fe5524a08ce0e7e9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349382-44100-2-fe5524a08ce0e7e9.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא: תפילה מתוך החושך | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349405-44100-2-6d420658520ddae6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349405-44100-2-6d420658520ddae6.mp3</guid>
+   <pubDate>Thu, 23 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב נועם והרב עמית קדם – חסידות ברסלב</title>
+   <description>הרב נועם עמית · ישיבת מעלות יעקב הרצוג · חסידות וקבלה</description>
+   <itunes:author>הרב נועם עמית</itunes:author>
+   <enclosure url="https://anchor.fm/s/eca2a660/podcast/play/78710585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fc438cb9a-4a59-ecd7-e6ee-11d4daaacad5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/eca2a660/podcast/play/78710585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fc438cb9a-4a59-ecd7-e6ee-11d4daaacad5.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>7200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות: טעות בקונספציה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349386-44100-2-b42db0e710fd5bcf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349386-44100-2-b42db0e710fd5bcf.mp3</guid>
+   <pubDate>Wed, 15 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התפתחות תנועת החסידות | הרב אברהם שילר | מאמרי ראיה תשפד | דרך התחיה</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3b31124a/69b11305.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3b31124a/69b11305.mp3</guid>
+   <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה: קרוב רחוק קרוב | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349379-44100-2-d9d61511a6d458a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349379-44100-2-d9d61511a6d458a5.mp3</guid>
+   <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך: למה לא גילה לו? | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349389-44100-2-ed0e1f978c2eef98.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349389-44100-2-ed0e1f978c2eef98.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח: דור המבול ודור הפלגה | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349337-44100-2-5e583fa2d47436c7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349337-44100-2-5e583fa2d47436c7.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - מלחמת 'חרבות ברזל': אורות מאופל | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349353-44100-2-47187809cd9c810e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349353-44100-2-47187809cd9c810e.mp3</guid>
+   <pubDate>Wed, 11 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי אתה בעל השפת אמת? | שפת אמת</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349289-44100-2-dae1348861cff6c8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349289-44100-2-dae1348861cff6c8.mp3</guid>
+   <pubDate>Wed, 11 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק ב | מבט היסטורי על חסידות רוז'ין - עם אהרל'ה אדמנית</title>
+   <description>הרב שמעון ישראלי · ישיבת אהבת ישראל נתיבות · חסידות וקבלה</description>
+   <itunes:author>הרב שמעון ישראלי</itunes:author>
+   <enclosure url="https://anchor.fm/s/e3c95674/podcast/play/72030233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334735902-48000-2-1a7073cc725162dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/e3c95674/podcast/play/72030233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334735902-48000-2-1a7073cc725162dc.mp3</guid>
+   <pubDate>Mon, 12 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק א | מה חידשה החסידות? - עם ראש הישיבה הרב דוד אסולין</title>
+   <description>הרב שמעון ישראלי · ישיבת אהבת ישראל נתיבות · חסידות וקבלה</description>
+   <itunes:author>הרב שמעון ישראלי</itunes:author>
+   <enclosure url="https://anchor.fm/s/e3c95674/podcast/play/72030228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-16%2Fff5287d1-8751-7b1e-0c74-b60885153acf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/e3c95674/podcast/play/72030228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-16%2Fff5287d1-8751-7b1e-0c74-b60885153acf.mp3</guid>
+   <pubDate>Mon, 12 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | “על כוס יין מלא” - ברכה ומלאות בחז”ל ובזוהר | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3f/4e/65/d8e9e44bcc94112b0b6c85bd08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3f/4e/65/d8e9e44bcc94112b0b6c85bd08.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 15. הכשרת האברכים פרקים ה' - ו' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e6/87/c8/9447074b909c2b7dcdbc54c295.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e6/87/c8/9447074b909c2b7dcdbc54c295.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 14. הכשרת האברכים - פרקים ג'-ד' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8e/29/13/d884e44bd4889ee52e62a107ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8e/29/13/d884e44bd4889ee52e62a107ac.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 13. הכשרת האברכים - הקדמה ופרקים א'-ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/16/c1/dc/ba8f6b4aefa028759e0fa62236.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/16/c1/dc/ba8f6b4aefa028759e0fa62236.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 12. חובת התלמידים - מאמר שלישי | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/a6/c4/64fe914d62830faa15365384a9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/a6/c4/64fe914d62830faa15365384a9.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 11. חובת התלמידים - מאמר שני | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e3/8d/ea/0cd0c44dc59b437d84c16ea4fa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e3/8d/ea/0cd0c44dc59b437d84c16ea4fa.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 10. חובת התלמידים - מאמר ראשון | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/17/0c/0c/e5edc646eeba41fd5d5aa3c61c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/17/0c/0c/e5edc646eeba41fd5d5aa3c61c.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 9. חובת התלמידים פרק י"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b4/94/26/6f15264b21ab052a3ff10f8fe1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b4/94/26/6f15264b21ab052a3ff10f8fe1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 8. חובת התלמידים פרקים י"א - י"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/06/fb/3ea2a245e284c758e730777d0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/06/fb/3ea2a245e284c758e730777d0d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 7. חובת התלמידים פרקים ט' - י' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1c/51/51/1fa4b84fc99c29182b491bac4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1c/51/51/1fa4b84fc99c29182b491bac4a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 6. חובת התלמידים פרקים ז' - ח' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1f/a5/e3/0ce6ef4d3998a6437532d8cfc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1f/a5/e3/0ce6ef4d3998a6437532d8cfc3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 5. חובת התלמידים ה' - ו' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f6/f9/eb/88abec42a2a05480e3fc763c25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f6/f9/eb/88abec42a2a05480e3fc763c25.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 4. חובת התלמידים ג' - ד' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dd/80/de/1dd78e4f068046a9c888e9cabe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dd/80/de/1dd78e4f068046a9c888e9cabe.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 3. חובת התלמידים א' - ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/29/19/6d/325e1d47d79062c14f262074be.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/29/19/6d/325e1d47d79062c14f262074be.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 2. הקדמת החובת התלמידים | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f8/2d/98/020d484db28db9bf1f3b51aee8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f8/2d/98/020d484db28db9bf1f3b51aee8.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שערים לחסידות פיאסצנה | 1. מבוא לחובת התלמידים | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/6c/ad/bd966b4155beabc27dcfd1c90d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/6c/ad/bd966b4155beabc27dcfd1c90d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 42. אותיות קי"ד - קט"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/62/31/81/458b98425eae4931910882ea48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/62/31/81/458b98425eae4931910882ea48.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 41. אותיות קי"ב - קי"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/68/ff/cb/831d89450a84bd91536c3e7100.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/68/ff/cb/831d89450a84bd91536c3e7100.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 40. אותיות ק"ט - קי"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/e2/01/26b5fd4dab8d8d17a583d01ed6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/e2/01/26b5fd4dab8d8d17a583d01ed6.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 39. אותיות ק"ז - ק"ח | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e6/c6/93/5a7ced4c50b5dd38cd3ef2fc0a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e6/c6/93/5a7ced4c50b5dd38cd3ef2fc0a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 38. אותיות ק"ה - ק"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8a/44/da/5e68c94ed7af167a9e66315042.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8a/44/da/5e68c94ed7af167a9e66315042.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 37. אות ק"ד - שיעור הרחבה והעמקה בנושא ערבוב טוב ורע | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/b4/62/98045d439b95949b5d024945f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/b4/62/98045d439b95949b5d024945f3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 36. אות ק"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/aa/24/1b376c4492acd0dd809a7e2e6b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/aa/24/1b376c4492acd0dd809a7e2e6b.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 35. אותיות ק"א - ק"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/21/da/30355f42d2942c1b301342d4e1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/21/da/30355f42d2942c1b301342d4e1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 34. אותיות צ״ז - ק׳ | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/ca/fc/efb7514ccf83053bf2ec32b5e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/ca/fc/efb7514ccf83053bf2ec32b5e4.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 33. אות צ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/99/9a/c6edf843ab8221f349f6ff873a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/99/9a/c6edf843ab8221f349f6ff873a.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 32. צ"ה - צ"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/52/07/91/19476b4376a27382f071eb2d52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/52/07/91/19476b4376a27382f071eb2d52.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 31. צ"ג - צ"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3a/43/97/53696048858f60a1d3cbd2ce42.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3a/43/97/53696048858f60a1d3cbd2ce42.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 30. פ"ט - צ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fe/bf/00/9716ec4dbdbf65881f37f78b27.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fe/bf/00/9716ec4dbdbf65881f37f78b27.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 29. פ"ה - פ"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c3/2c/96/7acba04a2895765347814fcc6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c3/2c/96/7acba04a2895765347814fcc6e.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 28. אות פ"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/de/80/72/7076dc4ce697c267af8f5da387.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/de/80/72/7076dc4ce697c267af8f5da387.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 27. פ"ב - פ"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ab/0b/db/e23add4d8d83377660d3ecea37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ab/0b/db/e23add4d8d83377660d3ecea37.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 26. ע"ט - פ"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/ef/1e/2abeec470c8a6aba291d4166d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/ef/1e/2abeec470c8a6aba291d4166d3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 25. ע"ז - ע"ח | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2b/f4/15/5fa1e7438f8cc6c43f85432539.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2b/f4/15/5fa1e7438f8cc6c43f85432539.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 24. ע"ד - ע"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7c/b1/66/336a86468bba442887d1afcc9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7c/b1/66/336a86468bba442887d1afcc9d.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 23. ע"ב - ע"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c7/29/53/272cc24bff9a33538db51062fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c7/29/53/272cc24bff9a33538db51062fe.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 22. ס"ח - ע"א | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8f/77/a3/d92e2f4dd283b307ae4bfeb9bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8f/77/a3/d92e2f4dd283b307ae4bfeb9bd.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 21. אות ס"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/68/5c/5b/6d655f405fb7ffa47fdec3e152.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/68/5c/5b/6d655f405fb7ffa47fdec3e152.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 20. ס"ג - ס"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/44/c7/b69b3644959bb5aff910ada6eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/44/c7/b69b3644959bb5aff910ada6eb.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 19. ס' - ס"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6b/c7/12/ec6c5c43f78f827861dee9b9bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6b/c7/12/ec6c5c43f78f827861dee9b9bb.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 18. נ"ח - נ"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bd/20/15/fc4428430cbe14e2cf5edd733f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bd/20/15/fc4428430cbe14e2cf5edd733f.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 17. נ"ד - נ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/c7/01/433a8f45729aa9719161e51263.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/c7/01/433a8f45729aa9719161e51263.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 16. נ"א - נ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/4a/be/8b0ae34c328f4d58c0063d60e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/4a/be/8b0ae34c328f4d58c0063d60e2.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 15. מ"ח - נ' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/06/eb/4c/2c8b6d4eb3b0f635bb5c1d3087.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/06/eb/4c/2c8b6d4eb3b0f635bb5c1d3087.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 14. מ"ו - מ"ז | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5e/68/80/11e1464211a57ab90bf0f7ed67.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5e/68/80/11e1464211a57ab90bf0f7ed67.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 13. מ"ד - מ"ה | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8b/eb/87/85ed8e445c9a96cf155d52e2da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8b/eb/87/85ed8e445c9a96cf155d52e2da.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 12. מ"א - מ"ג | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/83/b6/67548e4fd7a4f48c8bc1a19fe1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/83/b6/67548e4fd7a4f48c8bc1a19fe1.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 11. מ' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/58/a5/de138a43cb84e18c646b723b3c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/58/a5/de138a43cb84e18c646b723b3c.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 10. ל"ב - ל"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/26/b0/5a/6db246461aa3b388666fd338f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/26/b0/5a/6db246461aa3b388666fd338f0.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 8. כ"ג - כ"ו | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/75/cd/ef/66dcb84be087e36f6cf19e0a57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/75/cd/ef/66dcb84be087e36f6cf19e0a57.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 7. כ' - כ"ב | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/5b/04/3ce09641959c79ee325f532f61.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/5b/04/3ce09641959c79ee325f532f61.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 6. ט"ו - י"ט | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/14/1d/259e384a39ad39580a6a9dde45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/14/1d/259e384a39ad39580a6a9dde45.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 5. י' - י"ד | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/99/74/578ef944129a0b42ef81a1dbc5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/99/74/578ef944129a0b42ef81a1dbc5.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 4. ו' - י' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bf/5e/29/699cb4431da3e302e4fe7a3c47.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bf/5e/29/699cb4431da3e302e4fe7a3c47.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 3. ג' - ה' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b6/88/54/4774af45858b894182f5e56103.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b6/88/54/4774af45858b894182f5e56103.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק | 2. א' - ב' | הרב חסדאי וינר</title>
+   <description>הרב חסדאי וינר · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב חסדאי וינר</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a6/68/2d/dea7f9426dbf9b483273bed6f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a6/68/2d/dea7f9426dbf9b483273bed6f3.mp3</guid>
+   <pubDate>Sat, 07 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה נשית | 1. בין קול לדיבור - על נפילת הקול הנשי בזוהר | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/a9/dc/5b/f2068943d8b976c964e0353eb3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/a9/dc/5b/f2068943d8b976c964e0353eb3.mp3</guid>
+   <pubDate>Fri, 06 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויהיו ידיו אמונה | 6. האמונה כקבלה | הרב תומר בוקובזה</title>
+   <description>הרב תומר בוקובזה · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב תומר בוקובזה</itunes:author>
+   <enclosure url="https://s3.castbox.fm/44/9d/0c/cd640e4649887a7863f923da45.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/44/9d/0c/cd640e4649887a7863f923da45.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילה ז,ג ח,א - מנהג חסידות בלבישת הבגדים ונעילת הנעליים, נטילת ידיים של שחרית | הפנינה היומית</title>
+   <description>רבני הישיבה · ישיבת הר ברכה · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://anchor.fm/s/85f786b0/podcast/play/62885962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-30%2F2be7f693-cdfb-6510-3848-da6366968d16.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/85f786b0/podcast/play/62885962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-30%2F2be7f693-cdfb-6510-3848-da6366968d16.mp3</guid>
+   <pubDate>Fri, 30 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החסידות והדור | קוים לדמותו של הרב צבי יהודה | הרב דוד דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007425/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007425/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>'אחד לה' ואחד לעזאזל | 3. עבודת השעירים בתורת החסידות | הרב מתניה שטרנברג</title>
+   <description>הרב מתניה שטרנברג · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב מתניה שטרנברג</itunes:author>
+   <enclosure url="https://s3.castbox.fm/17/d4/f1/d62a9740d09ccfe3ee180e0917.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/17/d4/f1/d62a9740d09ccfe3ee180e0917.mp3</guid>
+   <pubDate>Sun, 02 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות התשובה ד - השיבה לפנימיות התורה</title>
+   <description>הרב יצחק שילת · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב יצחק שילת</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/86abdaa6-b005-4db8-b7fe-39511b842482/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/86abdaa6-b005-4db8-b7fe-39511b842482/stream.mp3</guid>
+   <pubDate>Fri, 30 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת על עקידת יצחק | זכור ברית | הרב אפרים ולץ</title>
+   <description>הרב אפרים ולץ · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב אפרים ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7639b875-fa62-40e8-95cd-759191030233/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7639b875-fa62-40e8-95cd-759191030233/stream.mp3</guid>
+   <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיטת כספים בזמן הזה - דאורייתא או מידת חסידות?</title>
+   <description>הרב אלישע אבינר · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב אלישע אבינר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/f05e6bb0-1fb7-4dbd-958d-933b2634b79c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/f05e6bb0-1fb7-4dbd-958d-933b2634b79c/stream.mp3</guid>
+   <pubDate>Thu, 15 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק - פרק 1: פסקה א - כניסה לעבודת ה</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349345-48000-2-40919868c8836c73.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349345-48000-2-40919868c8836c73.mp3</guid>
+   <pubDate>Mon, 22 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק - פרק 2: פסקה ב - להכיר בנוכחות</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349432-48000-2-399fbb4da2bcf109.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349432-48000-2-399fbb4da2bcf109.mp3</guid>
+   <pubDate>Mon, 22 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדקת הצדיק - פרק 3: פסקה ג - לקבל עול מלכות שמיים מחדש</title>
+   <description>הרב חיים וולפסון · ישיבת ירוחם · חסידות וקבלה</description>
+   <itunes:author>הרב חיים וולפסון</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd3ea0a0/podcast/play/94047163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349440-48000-2-bcc05619ca9c808b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd3ea0a0/podcast/play/94047163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389349440-48000-2-bcc05619ca9c808b.mp3</guid>
+   <pubDate>Mon, 22 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גיל לימוד הקבלה | צורבא מרבנן סבב חדש- לה | ל"ג בעומר | הרב בן ציון אלגאזי</title>
+   <description>הרב בן ציון · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב בן ציון</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/49950499/btclod_com_128k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/49950499/btclod_com_128k.mp3</guid>
+   <pubDate>Thu, 26 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת הרב אהרון בק – חנוכה</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=aX5aSZwhFrE</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/aX5aSZwhFrE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/aX5aSZwhFrE.mp3</guid>
+   <pubDate>Mon, 14 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>י"ט כסליו - הרב מאיר קליין ומני רוטרמן - מה בין ניצחון במשפט לראש השנה לחסידות?</title>
+   <description>הרב מאיר קליין · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>הרב מאיר קליין</itunes:author>
+   <enclosure url="https://pinecast.com/listen/d8217cb4-a211-42fc-8aa4-e41ed31486eb.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/d8217cb4-a211-42fc-8aa4-e41ed31486eb.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Tue, 01 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – תולדות</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=M1nW9WQ9SWA</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/M1nW9WQ9SWA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/M1nW9WQ9SWA.mp3</guid>
+   <pubDate>Thu, 19 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – שמחת תורה</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=XX7u2KHcSMo</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XX7u2KHcSMo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XX7u2KHcSMo.mp3</guid>
+   <pubDate>Thu, 08 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – חג הסוכות</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=02-TGnGEtIA</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/02-TGnGEtIA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/02-TGnGEtIA.mp3</guid>
+   <pubDate>Thu, 01 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – יום הכיפורים</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=LWOJ99MmxEM</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/LWOJ99MmxEM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/LWOJ99MmxEM.mp3</guid>
+   <pubDate>Sun, 27 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – ראש השנה</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=9vrXvY3GCnc</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9vrXvY3GCnc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9vrXvY3GCnc.mp3</guid>
+   <pubDate>Thu, 17 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ערן טמיר – ברכת 'המלך הקדוש' בראש השנה (הכתב והקבלה)</title>
+   <description>הרב ערן טמיר · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=CcOnJQiVdw4</description>
+   <itunes:author>הרב ערן טמיר</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/CcOnJQiVdw4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/CcOnJQiVdw4.mp3</guid>
+   <pubDate>Thu, 27 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – יום ט' באב</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=5e4xERjOZ9U</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/5e4xERjOZ9U.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/5e4xERjOZ9U.mp3</guid>
+   <pubDate>Wed, 29 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – חג השבועות</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=ucCfKhaB__k</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ucCfKhaB__k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ucCfKhaB__k.mp3</guid>
+   <pubDate>Wed, 27 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – יום העצמאות ויום ירושלים</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=w4OfyffQWMk</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/w4OfyffQWMk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/w4OfyffQWMk.mp3</guid>
+   <pubDate>Thu, 21 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – יום הזיכרון</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=JDge4Yeq5uI</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/JDge4Yeq5uI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/JDge4Yeq5uI.mp3</guid>
+   <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – שביעי של פסח</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=68BUHfAB9Ak</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/68BUHfAB9Ak.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/68BUHfAB9Ak.mp3</guid>
+   <pubDate>Tue, 14 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – שבת חול המועד פסח</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=bhcL3VAEjJs</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/bhcL3VAEjJs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/bhcL3VAEjJs.mp3</guid>
+   <pubDate>Fri, 10 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רגע של שפת אמת | הרב אהרון בק – ערב חג החירות</title>
+   <description>הרב אהרון בק · ישיבת שדרות – אפיקי דעת · חסידות וקבלה
+וידאו: https://www.youtube.com/watch?v=55mfrSIeMYk</description>
+   <itunes:author>הרב אהרון בק</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/55mfrSIeMYk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/55mfrSIeMYk.mp3</guid>
+   <pubDate>Tue, 07 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי נר מצווה ותורה אור': האדם והאור בחסידות'</title>
+   <description>רבני הישיבה · ישיבת תקוע · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://pinecast.com/listen/15a5164f-446e-46ae-9276-cfbc5b08b8e5.mp3?source=rss&amp;ext=asset.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://pinecast.com/listen/15a5164f-446e-46ae-9276-cfbc5b08b8e5.mp3?source=rss&amp;ext=asset.mp3</guid>
+   <pubDate>Mon, 23 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 20 - ביקורת נפש החיים על החסידים והחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/54/0a/ad/ba41f644b2a1f8744ad8b66459.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/54/0a/ad/ba41f644b2a1f8744ad8b66459.mp3</guid>
+   <pubDate>Thu, 28 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 19 - עיקרון עת לעשות לה הפרו תורתך בחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2c/b2/ea/40d1e4478e8429cbb2aea46e54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2c/b2/ea/40d1e4478e8429cbb2aea46e54.mp3</guid>
+   <pubDate>Mon, 18 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 - הרקע להתפתחות הניאו-חסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5f/77/2c/1612374ad689db3fd79e65dbc3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5f/77/2c/1612374ad689db3fd79e65dbc3.mp3</guid>
+   <pubDate>Wed, 13 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 - אמונה חיה לאחר המקרא - מחזל עד פנימיות התורה</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/a4/59/96/9721554e929fb219c42c5daa2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/a4/59/96/9721554e929fb219c42c5daa2f.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 11 - תפיסת האלוקות בחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8a/a7/cf/6deb294d1b96fdd2a32cd434bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8a/a7/cf/6deb294d1b96fdd2a32cd434bb.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 - הרקע הקבלי לתורת החסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fa/44/f6/6f31b3414c8070cbd2c5ed79ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fa/44/f6/6f31b3414c8070cbd2c5ed79ef.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 - סיכום הרקע ההסטורי לחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f5/1d/e5/bd3df04fd38b32a712c271f029.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f5/1d/e5/bd3df04fd38b32a712c271f029.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - הרקע ההסטורי לחסידות</title>
+   <description>הרב בני קלמנזון · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב בני קלמנזון</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d9/a2/c3/1e88814e4c8da1043d73d0db2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d9/a2/c3/1e88814e4c8da1043d73d0db2f.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חשיבות הקבלה</title>
+   <description>רבני הישיבה · ישיבת אבינועם · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/5424.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/5424.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לימוד קבלה</title>
+   <description>רבני הישיבה · ישיבת אבינועם · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/7058.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/7058.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורת הגר"א מול החסידות, עין אי"ה על מחלוקת ר"י ורבנן במתן תורה</title>
+   <description>רבני הישיבה · ישיבת אבינועם · חסידות וקבלה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://yelonmore.s3.eu-west-1.amazonaws.com/6935.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://yelonmore.s3.eu-west-1.amazonaws.com/6935.mp3</guid>
+   <pubDate>Wed, 01 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

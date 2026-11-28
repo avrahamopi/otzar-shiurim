@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אמנון דוקוב · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bf877ea4.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אמנון דוקוב.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מבט של שפע | סוכות | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/22/6a/92/a7974e49e0b0b9501042b40b17.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/22/6a/92/a7974e49e0b0b9501042b40b17.mp3</guid>
+   <pubDate>Wed, 27 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחת תורה קווית ומעגלית | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/91/db/b7/e32ca94b038f17cb9291a6c465.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/91/db/b7/e32ca94b038f17cb9291a6c465.mp3</guid>
+   <pubDate>Tue, 26 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת האזינו | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4b/e1/f7/374674435aa1218988526f5da6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4b/e1/f7/374674435aa1218988526f5da6.mp3</guid>
+   <pubDate>Wed, 20 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת ניצבים - וילך | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b3/2a/dc/05460c47d8b92d7bada659b384.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b3/2a/dc/05460c47d8b92d7bada659b384.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת כי תבוא | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/31/e6/b1/cfc5b840d595828cdd7ed2e1ef.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/31/e6/b1/cfc5b840d595828cdd7ed2e1ef.mp3</guid>
+   <pubDate>Wed, 30 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת כי תצא | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cd/a4/af/0f8498468382e9d731b4d47d90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cd/a4/af/0f8498468382e9d731b4d47d90.mp3</guid>
+   <pubDate>Wed, 23 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת שפטים | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f7/84/8b/ddc6b947a785979b692f9e62d1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f7/84/8b/ddc6b947a785979b692f9e62d1.mp3</guid>
+   <pubDate>Wed, 16 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת ראה | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/60/19/59/cf62c34ce38458afc37870a93e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/60/19/59/cf62c34ce38458afc37870a93e.mp3</guid>
+   <pubDate>Wed, 09 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת עקב | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e4/f1/fe/5b2eda44ec84b0eb4fb34478c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e4/f1/fe/5b2eda44ec84b0eb4fb34478c6.mp3</guid>
+   <pubDate>Wed, 02 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת ואתחנן | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/97/1f/12/7b3dd64e2aa79fc6166375bd7f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/97/1f/12/7b3dd64e2aa79fc6166375bd7f.mp3</guid>
+   <pubDate>Tue, 25 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבט של שפע | פרשת דברים | הרב אמנון דוקוב והרב הלל נגן</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0a/b4/8b/5cf74d45eeacb6319c66f6ce60.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0a/b4/8b/5cf74d45eeacb6319c66f6ce60.mp3</guid>
+   <pubDate>Thu, 20 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | סודן של הברכות באריז"ל ובגוריו | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/88/c7/25f9c7468fb4e19fd968493707.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/88/c7/25f9c7468fb4e19fd968493707.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיכום מסכת | שיעור חזרה וסיכום למסכת נזיר | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d4/eb/ed/2a6df04fdc9ccc1a3ad93aeb1b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d4/eb/ed/2a6df04fdc9ccc1a3ad93aeb1b.mp3</guid>
+   <pubDate>Sat, 01 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיכום מסכת - הדף היומי | מסכת נדרים | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/78/1a/680c1843e89e10c97b1084c2ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/78/1a/680c1843e89e10c97b1084c2ca.mp3</guid>
+   <pubDate>Wed, 25 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | מסכת נדרים - שיר כאב על הופעת הקדושה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/34/e2/37/f8c9f54e568322dea5ea8fab65.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/34/e2/37/f8c9f54e568322dea5ea8fab65.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קפיצה למקווה | 4. השיבה אל הטבע - זריעה והשקה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/38/30/7d/0d39da4b96b6e2afd50fb30f82.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/38/30/7d/0d39da4b96b6e2afd50fb30f82.mp3</guid>
+   <pubDate>Sun, 08 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קפיצה למקווה | 3. הניתוק מן הטבע - מים שאובים | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c8/c0/d4/89805a4d15b4a3f897156c9008.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c8/c0/d4/89805a4d15b4a3f897156c9008.mp3</guid>
+   <pubDate>Sun, 08 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קפיצה למקווה | 2. מצב הטבע - המעיין הבור והמקווה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/dd/b6/2dc81043c0b54a6246f7babddc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/dd/b6/2dc81043c0b54a6246f7babddc.mp3</guid>
+   <pubDate>Sun, 08 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קפיצה למקווה | 1. טבע ואדם - מקורות היסוד | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/74/b7/459b4e416fafdcc98949b8e0bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/74/b7/459b4e416fafdcc98949b8e0bb.mp3</guid>
+   <pubDate>Sun, 08 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיכום מסכת | שיחת חזרה וסיכום למסכת כתובות | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c2/13/ff/43f54d4ca9a1dd97028b099a68.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c2/13/ff/43f54d4ca9a1dd97028b099a68.mp3</guid>
+   <pubDate>Fri, 28 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לרקוד עם לולבים | 5. ארבעת המינים - פעולה או הוויה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/15/7a/cd9b3442db83c2d4965c5bb716.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/15/7a/cd9b3442db83c2d4965c5bb716.mp3</guid>
+   <pubDate>Wed, 05 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לרקוד עם לולבים | 4. טעם הנענועים | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1c/cb/a3/9df6ad4dbdb435d5de337e9619.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1c/cb/a3/9df6ad4dbdb435d5de337e9619.mp3</guid>
+   <pubDate>Wed, 05 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לרקוד עם לולבים | 3. לקיחה ושמחה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/16/08/fa/d9f26e467b8d06ad226d684eb1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/16/08/fa/d9f26e467b8d06ad226d684eb1.mp3</guid>
+   <pubDate>Wed, 05 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לרקוד עם לולבים | 2. מצווה מקדשית שמתפשטת לגבולין | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5c/a3/6d/41546742ef8d918242112768db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5c/a3/6d/41546742ef8d918242112768db.mp3</guid>
+   <pubDate>Wed, 05 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לרקוד עם לולבים | 1. ממצווה חקלאית למצווה טבעית | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cf/16/81/f16ebb498eb2307e0e5dce3b65.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cf/16/81/f16ebb498eb2307e0e5dce3b65.mp3</guid>
+   <pubDate>Wed, 05 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | היכן נמצא האני האמיתי | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/03/92/54/b6fa08430d881acd43ab1db84d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/03/92/54/b6fa08430d881acd43ab1db84d.mp3</guid>
+   <pubDate>Thu, 22 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיכום מסכת - הדף היומי | מסכת יבמות | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c2/7b/ad/5c95604d04a869fc0e0e7c80bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c2/7b/ad/5c95604d04a869fc0e0e7c80bf.mp3</guid>
+   <pubDate>Thu, 07 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | בין יוזמה להשגחה, ווריאנטים של מחשבות קורונה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/08/36/24/0254544a0189937f74018bb841.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/08/36/24/0254544a0189937f74018bb841.mp3</guid>
+   <pubDate>Thu, 20 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | בין תפילה להתפלה | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/ba/27/90533c49488e6f88575762d82c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/ba/27/90533c49488e6f88575762d82c.mp3</guid>
+   <pubDate>Wed, 01 Dec 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית אלול | עורו ישנים משנתכם | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/43/34/c48c3e4e84a33678e240fd5d40.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/43/34/c48c3e4e84a33678e240fd5d40.mp3</guid>
+   <pubDate>Wed, 01 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | פרשת בלק | הרב אמנון דוקוב</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://s3.castbox.fm/cd/1e/2d/26c895450eaa51759fc8ebdb69.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/cd/1e/2d/26c895450eaa51759fc8ebdb69.mp3</guid>
+   <pubDate>Mon, 28 Jun 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כנס 'חיים בריאים בדור המדיה' | הרב אמנון דוקוב // A conference on “A healthy life in the media age “</title>
+   <description>הרב אמנון דוקוב · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=44vXhRJmId4</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/44vXhRJmId4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/44vXhRJmId4.mp3</guid>
+   <pubDate>Wed, 05 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 17 - סיכום</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/71/a3/ea/df216f4186a72c3a14f3356caf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/71/a3/ea/df216f4186a72c3a14f3356caf.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 16 - געגועים למקדש</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/ca/c7/0f/cc7c4d4378b88dfa2abe0af36c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/ca/c7/0f/cc7c4d4378b88dfa2abe0af36c.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 15 - מוסריות של משפחה ומוסריות של גרות</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · מוסר</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/7f/64/b7/f0f6384122a4af23707f4b1b13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/7f/64/b7/f0f6384122a4af23707f4b1b13.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 - אמונה חיה לאחר המקרא - מחזל עד פנימיות התורה</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/a4/59/96/9721554e929fb219c42c5daa2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/a4/59/96/9721554e929fb219c42c5daa2f.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 13 - דעת אלוקים והמונותאיזם החי</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/61/5d/1f/ef46ce482996504291b8620d52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/61/5d/1f/ef46ce482996504291b8620d52.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 12 - כח הדמיון וטעמי המצוות</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/c0/d9/b6/641f2945d1bfb84fbb9fae0de2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/c0/d9/b6/641f2945d1bfb84fbb9fae0de2.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 11 - מבט חדש על חוקים ומשפטים</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/f5/c1/38/a81275406fa6668424f833da03.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/f5/c1/38/a81275406fa6668424f833da03.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 10 - חירות וחידוש מול צמיחה והמשכיות</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/80/b2/ff/b4a8004d2ba12681b1e915037c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/80/b2/ff/b4a8004d2ba12681b1e915037c.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 - מוסר של יחודיות ומוסר של שיתוף</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · מוסר</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/01/e2/56/90468144ee941e215317949973.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/01/e2/56/90468144ee941e215317949973.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 - בין אלילות לכפירה</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/ff/9e/b4/c0a7dc43bda0ade514129d8315.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/ff/9e/b4/c0a7dc43bda0ade514129d8315.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 - הבנת פעולת המחשבה הדמיונית ויתרונותיה</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/25/1e/22/56e84d478f9b1c3a3f6cf7ab8b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/25/1e/22/56e84d478f9b1c3a3f6cf7ab8b.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 - הביקורת על השכל</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/29/c3/65/29c2394614ab6ec6631793cac8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/29/c3/65/29c2394614ab6ec6631793cac8.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - כלי השכל וכלי הדמיון</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/21/14/2d/e516ec41feaf85cc40c54dd449.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/21/14/2d/e516ec41feaf85cc40c54dd449.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - השניות שבהפשטה</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/ce/d0/e2/2580f34532b691bb48fa913373.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/ce/d0/e2/2580f34532b691bb48fa913373.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - שכל מול דמיון</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/80/5a/1e/1931c84ef183d003fe4176827d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/80/5a/1e/1931c84ef183d003fe4176827d.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - לפרוץ את מגבלות התרבות</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/4f/15/7e/cf8ede41a0a1eaa0232f481517.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/4f/15/7e/cf8ede41a0a1eaa0232f481517.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - התודעה האחרת של אנשי המקרא</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/d4/2c/0b/a6518145f491c9c80af0ee6fe0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/d4/2c/0b/a6518145f491c9c80af0ee6fe0.mp3</guid>
+   <pubDate>Mon, 11 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 - אני אתה והוא שלושה סולמות משלימים</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/d3/fc/aa/ffc76f4c40a74e703af6c4c194.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/d3/fc/aa/ffc76f4c40a74e703af6c4c194.mp3</guid>
+   <pubDate>Wed, 06 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - אני - סולם האדם של הראי"ה קוק</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/71/e5/e8/0cc0f747e1803bcecd726a2b78.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/71/e5/e8/0cc0f747e1803bcecd726a2b78.mp3</guid>
+   <pubDate>Tue, 05 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - אני - סולם האדם של הרב סולובייצ'יק</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/40/07/3a/f2c3d44b63b7e7f9cae563759d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/40/07/3a/f2c3d44b63b7e7f9cae563759d.mp3</guid>
+   <pubDate>Mon, 04 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - אתה - סולם ההתגלות של ריה"ל</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/0d/90/28/c186564ff39ef750516f6a5b09.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/0d/90/28/c186564ff39ef750516f6a5b09.mp3</guid>
+   <pubDate>Sun, 03 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - הוא - סולם השכל של הרמב"ם</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/49/fe/34/17a84048b68031584f026cb20c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/49/fe/34/17a84048b68031584f026cb20c.mp3</guid>
+   <pubDate>Sat, 02 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - אני אתה והוא</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/b2/b4/2f/5075b044519c4eaecc3d2f44e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/b2/b4/2f/5075b044519c4eaecc3d2f44e8.mp3</guid>
+   <pubDate>Fri, 01 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - הפמיניזם כגאולת השכינה</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/1b/ae/69/d813c1499e824fcbd864b13467.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/1b/ae/69/d813c1499e824fcbd864b13467.mp3</guid>
+   <pubDate>Wed, 23 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - קוווים לדמותו של מפגש אפשרי</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/43/dc/e7/e68032496b8a4d0c3c9005332d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/43/dc/e7/e68032496b8a4d0c3c9005332d.mp3</guid>
+   <pubDate>Wed, 23 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - אפשרויות הקצה</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/99/cb/24/8792c64bfcb7f27e189c6ae6f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/99/cb/24/8792c64bfcb7f27e189c6ae6f2.mp3</guid>
+   <pubDate>Tue, 22 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>4440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - נקודות החיכוך</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/bb/0c/1f/8e23db4dc58cb2a8ec75219281.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/bb/0c/1f/8e23db4dc58cb2a8ec75219281.mp3</guid>
+   <pubDate>Tue, 22 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - סקירה של הפמיניזם</title>
+   <description>הרב אמנון דוקוב · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אמנון דוקוב</itunes:author>
+   <enclosure url="https://chrt.fm/track/D8DG99/https://s3.castbox.fm/a0/91/ba/e4d22a40e28c937db1dcbd35db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://chrt.fm/track/D8DG99/https://s3.castbox.fm/a0/91/ba/e4d22a40e28c937db1dcbd35db.mp3</guid>
+   <pubDate>Tue, 22 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

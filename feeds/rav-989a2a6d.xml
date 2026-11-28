@@ -1,0 +1,2554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב שלומי שפירא · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-989a2a6d.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב שלומי שפירא.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>והערב נא | הרב שלומי שפירא | למי עוללת כה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/73083842/utf_8_b_15txqnerinep15zxldee15kubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/73083842/utf_8_b_15txqnerinep15zxldee15kubxaz.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשאדם מגדיר את האלוקים | כוזרי - שיעור כג | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72856162/episode_72856162.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72856162/episode_72856162.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשעם סגולה נופל | כוזרי - שיעור כב | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72686084/episode_72686084.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72686084/episode_72686084.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האמונה שנבראה בסיני | כוזרי - שיעור כא | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72614484/episode_72614484.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72614484/episode_72614484.mp3</guid>
+   <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דת של התגלות | כוזרי - שיעור כ | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72329565/episode_72329565.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72329565/episode_72329565.mp3</guid>
+   <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שורש האמונה | כוזרי - שיעור יט | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72208765/episode_72208765.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72208765/episode_72208765.mp3</guid>
+   <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשהאין־סוף נוגע בסוף | כוזרי - שיעור יח | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72140893/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72140893/1.mp3</guid>
+   <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכל מול מסורת | כוזרי - שיעור יז | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72003517/episode_72003517.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72003517/episode_72003517.mp3</guid>
+   <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האמונה שמעל ההוכחות | כוזרי - שיעור טז | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71945731/episode_71945731.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71945731/episode_71945731.mp3</guid>
+   <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין ראייה להוכחה | כוזרי - שיעור טו | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71851974/aac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71851974/aac.mp3</guid>
+   <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השכל שבתוך האמונה | כוזרי - שיעור יד | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71653136/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71653136/mp4.mp3</guid>
+   <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסוד האמונה בישראל | כוזרי - שיעור יג | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70067294/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70067294/mp3.mp3</guid>
+   <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כיסופים של גאולה | כוזרי - שיעור יב | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69875565/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69875565/mp4.mp3</guid>
+   <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המדרגה האלוקית באדם | כוזרי - שיעור יא | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69722713/episode_69722713.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69722713/episode_69722713.mp3</guid>
+   <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה: קשר והתגלות | כוזרי - שיעור י | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69510147/episode_69510147.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69510147/episode_69510147.mp3</guid>
+   <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה שלא מתחילה מהוכחות | כוזרי - שיעור ט | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69496742/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69496742/2.mp3</guid>
+   <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה זה קשר | כוזרי - שיעור ח | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69391834/episode_69391834.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69391834/episode_69391834.mp3</guid>
+   <pubDate>Sun, 11 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תאוות האסלאם | כוזרי - שיעור ז | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69297486/episode_69297486.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69297486/episode_69297486.mp3</guid>
+   <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עומק השבר הנוצרי | כוזרי - שיעור 6 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68993883/6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68993883/6.mp3</guid>
+   <pubDate>Sun, 14 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליצנותא דעבודה זרה | כוזרי - שיעור 5 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68927751/5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68927751/5.mp3</guid>
+   <pubDate>Sun, 07 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מן ההיגיון אל הסוד | כוזרי - שיעור 4 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68744749/4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68744749/4.mp3</guid>
+   <pubDate>Sun, 30 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפועל והנפעל | כוזרי - שיעור 3 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68554661/3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68554661/3.mp3</guid>
+   <pubDate>Sun, 23 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפילוסוף והאל הנעלם | כוזרי - שיעור 2 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68554548/2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68554548/2.mp3</guid>
+   <pubDate>Sun, 16 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור פתיחה סקירה של ספר הכוזרי | כוזרי - שיעור 1 | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67723011/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67723011/1.mp3</guid>
+   <pubDate>Sun, 14 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר הכוזרי | מאמר ראשון - ע"ז | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67177751/episode_67177751.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67177751/episode_67177751.mp3</guid>
+   <pubDate>Wed, 30 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר הכוזרי | מאמר ראשון - ע"ב | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67075805/episode_67075805.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67075805/episode_67075805.mp3</guid>
+   <pubDate>Wed, 23 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ספר הכוזרי | מאמר ראשון - ס"ב | הרב שלומי שפירא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66852763/episode_66852763.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66852763/episode_66852763.mp3</guid>
+   <pubDate>Mon, 07 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותתן לנו באהבה מועדים לשמחה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59499264/imported_171335168338679_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59499264/imported_171335168338679_audio.mp3</guid>
+   <pubDate>Wed, 17 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והרי זה כאילו נתן לנו את עצמו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59485347/imported_1713260075331912_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59485347/imported_1713260075331912_audio.mp3</guid>
+   <pubDate>Tue, 16 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אשר קידשנו במצוותיו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59467403/imported_171316991948893_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59467403/imported_171316991948893_audio.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי גבר עלינו חסדו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59457206/imported_1713089913830426_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59457206/imported_1713089913830426_audio.mp3</guid>
+   <pubDate>Sun, 14 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ישקני מנשיקות פיהו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59413786/imported_1712821249764335_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59413786/imported_1712821249764335_audio.mp3</guid>
+   <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותרבי ותגדלי ותבואי בעדי עדיים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59361452/imported_1712649604280159_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59361452/imported_1712649604280159_audio.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והנה ה ניצב עליו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59339650/imported_1712559158607464_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59339650/imported_1712559158607464_audio.mp3</guid>
+   <pubDate>Mon, 08 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבה ללא תנאי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59274750/imported_1712141013353316_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59274750/imported_1712141013353316_audio.mp3</guid>
+   <pubDate>Wed, 03 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כמים הפנים לפנים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59259315/imported_1712052957852319_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59259315/imported_1712052957852319_audio.mp3</guid>
+   <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חייב אדם לראות את עצמו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59237976/imported_171188096886239_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59237976/imported_171188096886239_audio.mp3</guid>
+   <pubDate>Sun, 31 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למי יחפוץ המלך לעשות יקר יותר ממני</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59193488/imported_1711531977269408_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59193488/imported_1711531977269408_audio.mp3</guid>
+   <pubDate>Wed, 27 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יחידה ליחדך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59177478/imported_1711440597558167_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59177478/imported_1711440597558167_audio.mp3</guid>
+   <pubDate>Tue, 26 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחה כפולה ומכופלת</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59124549/imported_1711018673946633_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59124549/imported_1711018673946633_audio.mp3</guid>
+   <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ישמח ישראל בעושיו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59109504/imported_1710917740847317_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59109504/imported_1710917740847317_audio.mp3</guid>
+   <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשמה אחת בגופים מחולקים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59078171/imported_1710687626277764_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59078171/imported_1710687626277764_audio.mp3</guid>
+   <pubDate>Sun, 17 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחת הנחמה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59029627/imported_1710317305837715_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59029627/imported_1710317305837715_audio.mp3</guid>
+   <pubDate>Wed, 13 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מייצרים שמחה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59012994/imported_1710234027376081_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59012994/imported_1710234027376081_audio.mp3</guid>
+   <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להפוך מר למתוק</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58988193/imported_1710067133897387_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58988193/imported_1710067133897387_audio.mp3</guid>
+   <pubDate>Sun, 10 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עין במר בוכה ואז לב שמח</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58956694/imported_17098125569846_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58956694/imported_17098125569846_audio.mp3</guid>
+   <pubDate>Thu, 07 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוכרת התפוחים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58915567/imported_1709542023421146_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58915567/imported_1709542023421146_audio.mp3</guid>
+   <pubDate>Mon, 04 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרחב סטרילי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58905622/imported_1709457667827258_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58905622/imported_1709457667827258_audio.mp3</guid>
+   <pubDate>Sun, 03 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעט מעט אגרשנו מפניך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58874182/imported_1709198912488508_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58874182/imported_1709198912488508_audio.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לצאת מהאקזיט</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58860604/imported_1709109543572833_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58860604/imported_1709109543572833_audio.mp3</guid>
+   <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחת הלוחם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58822023/imported_1708938450478147_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58822023/imported_1708938450478147_audio.mp3</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לברוח מן העצבות</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58774765/imported_1708598510823821_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58774765/imported_1708598510823821_audio.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אני עשיתי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58762122/imported_1708509363539678_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58762122/imported_1708509363539678_audio.mp3</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ששון ישעך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58748346/imported_1708418459524026_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58748346/imported_1708418459524026_audio.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוציא אסירים בכושרות</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58692050/imported_1707982021955368_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58692050/imported_1707982021955368_audio.mp3</guid>
+   <pubDate>Thu, 15 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחה כי אין ברירה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58681463/imported_1707900637509728_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58681463/imported_1707900637509728_audio.mp3</guid>
+   <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קונטרס השמחה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58644892/imported_1707638854513605_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58644892/imported_1707638854513605_audio.mp3</guid>
+   <pubDate>Sun, 11 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזון ומעש</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58594951/imported_1707290939697597_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58594951/imported_1707290939697597_audio.mp3</guid>
+   <pubDate>Wed, 07 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדול ולא קטן?!</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58571747/imported_1707118817991347_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58571747/imported_1707118817991347_audio.mp3</guid>
+   <pubDate>Mon, 05 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורת ה תמימה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58533446/imported_1706799013621769_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58533446/imported_1706799013621769_audio.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חולת אהבה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58500076/imported_1706620430779963_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58500076/imported_1706620430779963_audio.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי השביע נפש שוקקה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58486428/imported_1706520339901378_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58486428/imported_1706520339901378_audio.mp3</guid>
+   <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש תוקד על המזבח</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58479534/imported_1706457081137937_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58479534/imported_1706457081137937_audio.mp3</guid>
+   <pubDate>Sun, 28 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מיטתו של אלקנה ויזל הי''ד</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58418916/imported_1706027445754646_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58418916/imported_1706027445754646_audio.mp3</guid>
+   <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אתה צריך איזון</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58400867/imported_1705914884225208_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58400867/imported_1705914884225208_audio.mp3</guid>
+   <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התבוננות של חיזוק</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58327349/imported_1705481268368329_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58327349/imported_1705481268368329_audio.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דמיון של קדושה ואומנויות לחימה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58303167/imported_1705307693607252_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58303167/imported_1705307693607252_audio.mp3</guid>
+   <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודה לשמה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58296079/imported_1705235332444479_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58296079/imported_1705235332444479_audio.mp3</guid>
+   <pubDate>Sun, 14 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמי ה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58261609/imported_1704959023386933_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58261609/imported_1704959023386933_audio.mp3</guid>
+   <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדדיות בקשר עם ה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58237528/imported_1704785446153232_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58237528/imported_1704785446153232_audio.mp3</guid>
+   <pubDate>Tue, 09 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ההלכה אומרת</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58222315/imported_1704619033645338_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58222315/imported_1704619033645338_audio.mp3</guid>
+   <pubDate>Sun, 07 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנה בוער</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58197049/imported_1704373678837744_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58197049/imported_1704373678837744_audio.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חזק מתנים ואמץ כח</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58181855/imported_1704269296544192_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58181855/imported_1704269296544192_audio.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבד נאמן קראת לו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58164962/imported_1704106122296522_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58164962/imported_1704106122296522_audio.mp3</guid>
+   <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואני קרבת אלוקים לי טוב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58159630/imported_1704018159478942_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58159630/imported_1704018159478942_audio.mp3</guid>
+   <pubDate>Sun, 31 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עם זו יצרתי לי תהילתי יספרו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58129334/imported_1703673000481670_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58129334/imported_1703673000481670_audio.mp3</guid>
+   <pubDate>Wed, 27 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי יעלה לנו השמימה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58129332/imported_1703583670814128_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58129332/imported_1703583670814128_audio.mp3</guid>
+   <pubDate>Wed, 27 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבד ה הוא לבדו חופשי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58108724/imported_1703407634742450_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58108724/imported_1703407634742450_audio.mp3</guid>
+   <pubDate>Sun, 24 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נויו של עולם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58083678/imported_1703163455578998_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58083678/imported_1703163455578998_audio.mp3</guid>
+   <pubDate>Thu, 21 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיבור רוחני וערבות הדדית</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58069354/imported_1703064483934202_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58069354/imported_1703064483934202_audio.mp3</guid>
+   <pubDate>Wed, 20 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קבלה- הקבלה שוווה ושונה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58057333/imported_1702984646135452_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58057333/imported_1702984646135452_audio.mp3</guid>
+   <pubDate>Tue, 19 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרך הקודש</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58044357/imported_1702892220142628_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58044357/imported_1702892220142628_audio.mp3</guid>
+   <pubDate>Mon, 18 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרסומי ניסא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57982440/imported_1702373671310936_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57982440/imported_1702373671310936_audio.mp3</guid>
+   <pubDate>Tue, 12 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעט מן האור</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57890463/imported_170159287556213_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57890463/imported_170159287556213_audio.mp3</guid>
+   <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרחוק ה נראה לי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57862538/imported_1701343159679786_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57862538/imported_1701343159679786_audio.mp3</guid>
+   <pubDate>Thu, 30 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אור ושפע ענייני חנוכה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57843679/imported_1701257039977647_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57843679/imported_1701257039977647_audio.mp3</guid>
+   <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלך עוזר ומושיע ומגן</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57828992/imported_1701170201606251_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57828992/imported_1701170201606251_audio.mp3</guid>
+   <pubDate>Tue, 28 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אשרי איש שלא ישכחך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57809481/imported_170099528489237_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57809481/imported_170099528489237_audio.mp3</guid>
+   <pubDate>Sun, 26 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא יעקב מבאר שבע</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57709391/imported_1700390747652312_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57709391/imported_1700390747652312_audio.mp3</guid>
+   <pubDate>Sun, 19 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי הרחיב ה לנו ופרינו בארץ</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57665775/imported_1700145565613384_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57665775/imported_1700145565613384_audio.mp3</guid>
+   <pubDate>Thu, 16 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אליך ה נפשי אשא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57641554/imported_1700040632198843_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57641554/imported_1700040632198843_audio.mp3</guid>
+   <pubDate>Wed, 15 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בידך אפקיד רוחי פדית אותי ה אל אמת</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57629134/imported_1699964630814383_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57629134/imported_1699964630814383_audio.mp3</guid>
+   <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהו העולם הממשי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57613762/imported_1699864496449073_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57613762/imported_1699864496449073_audio.mp3</guid>
+   <pubDate>Mon, 13 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרחשוון פה מרחש תפילה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57603300/imported_1699777986121414_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57603300/imported_1699777986121414_audio.mp3</guid>
+   <pubDate>Sun, 12 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה לעומת תפילה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57541823/imported_1699353869677565_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57541823/imported_1699353869677565_audio.mp3</guid>
+   <pubDate>Tue, 07 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יחוד עליון</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57518881/imported_1699176172124528_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57518881/imported_1699176172124528_audio.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל תירא אברם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57377378/imported_1698216895903287_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57377378/imported_1698216895903287_audio.mp3</guid>
+   <pubDate>Wed, 25 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמע ישראל אתם קריבים למלחמה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57362798/imported_1698130797851478_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57362798/imported_1698130797851478_audio.mp3</guid>
+   <pubDate>Tue, 24 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נצח ישראל מצרותינו גאלנו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57350981/imported_1698044748533922_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57350981/imported_1698044748533922_audio.mp3</guid>
+   <pubDate>Mon, 23 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התקוה בת שנות אלפיים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57340423/imported_1697957962381000_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57340423/imported_1697957962381000_audio.mp3</guid>
+   <pubDate>Sun, 22 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ישא ה פניו אליך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57268658/imported_1697538941410984_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57268658/imported_1697538941410984_audio.mp3</guid>
+   <pubDate>Tue, 17 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להבדיל בין אוהב לאויב בין רעים לטובים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57210221/imported_1697112394612692_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57210221/imported_1697112394612692_audio.mp3</guid>
+   <pubDate>Thu, 12 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואנוכי בא אליך בשם ה צבאות אלוקי ישראל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57190792/imported_1697007335216306_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57190792/imported_1697007335216306_audio.mp3</guid>
+   <pubDate>Wed, 11 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעשות מהתורות תפילות</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/57151615/imported_1696750399266160_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/57151615/imported_1696750399266160_audio.mp3</guid>
+   <pubDate>Sun, 08 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קמטים וארבעת המינים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56972492/imported_1695883980447907_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56972492/imported_1695883980447907_audio.mp3</guid>
+   <pubDate>Thu, 28 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חטא הארץ</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56878224/imported_1695278191103345_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56878224/imported_1695278191103345_audio.mp3</guid>
+   <pubDate>Thu, 21 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זדונות נהפכים לזכויות</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56865330/imported_1695196690525096_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56865330/imported_1695196690525096_audio.mp3</guid>
+   <pubDate>Wed, 20 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כליותי כשני רבנים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56850553/imported_1695107271775284_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56850553/imported_1695107271775284_audio.mp3</guid>
+   <pubDate>Tue, 19 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה שרויה תמיד בלב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56786052/imported_1694598065373686_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56786052/imported_1694598065373686_audio.mp3</guid>
+   <pubDate>Wed, 13 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובת העולם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56773252/imported_1694504194644884_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56773252/imported_1694504194644884_audio.mp3</guid>
+   <pubDate>Tue, 12 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חטא על הנפש</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56759473/imported_1694415954579502_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56759473/imported_1694415954579502_audio.mp3</guid>
+   <pubDate>Mon, 11 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמרתי אלוקים אתם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56750600/imported_1694328556869555_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56750600/imported_1694328556869555_audio.mp3</guid>
+   <pubDate>Sun, 10 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדע ותשובה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56722619/imported_1694075289222539_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56722619/imported_1694075289222539_audio.mp3</guid>
+   <pubDate>Thu, 07 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קלותה של תשובה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56709472/imported_1693991128756263_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56709472/imported_1693991128756263_audio.mp3</guid>
+   <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האדם עולם קטן</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56695473/imported_1693896070961258_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56695473/imported_1693896070961258_audio.mp3</guid>
+   <pubDate>Tue, 05 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חופש הקודש שבנשמה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56683141/imported_169381041585257_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56683141/imported_169381041585257_audio.mp3</guid>
+   <pubDate>Mon, 04 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במה אתה יהודי?</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56645209/imported_1693465974606103_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56645209/imported_1693465974606103_audio.mp3</guid>
+   <pubDate>Thu, 31 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תנועת התשובה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56623719/imported_1693299423774613_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56623719/imported_1693299423774613_audio.mp3</guid>
+   <pubDate>Tue, 29 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמש התשובה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56611405/imported_1693206586667189_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56611405/imported_1693206586667189_audio.mp3</guid>
+   <pubDate>Mon, 28 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגואל משחת חייכי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56603071/imported_1693124396474435_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56603071/imported_1693124396474435_audio.mp3</guid>
+   <pubDate>Sun, 27 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טוב לשוב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56567080/imported_1692796557969515_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56567080/imported_1692796557969515_audio.mp3</guid>
+   <pubDate>Wed, 23 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סור מרע ועשה טוב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56552149/imported_1692687800714187_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56552149/imported_1692687800714187_audio.mp3</guid>
+   <pubDate>Tue, 22 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדבר על דבר התשובה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56541445/imported_1692611656965391_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56541445/imported_1692611656965391_audio.mp3</guid>
+   <pubDate>Mon, 21 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אור גאולה מעולפת במטמוני מסתרים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56525094/imported_1692513925262790_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56525094/imported_1692513925262790_audio.mp3</guid>
+   <pubDate>Sun, 20 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך אמר ליבי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56498897/imported_1692262399230212_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56498897/imported_1692262399230212_audio.mp3</guid>
+   <pubDate>Thu, 17 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והקבה בורא אורו של משיח</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56207273/imported_1690268911576985_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56207273/imported_1690268911576985_audio.mp3</guid>
+   <pubDate>Tue, 25 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שניות והיררכיה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56135690/imported_1689664485215035_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56135690/imported_1689664485215035_audio.mp3</guid>
+   <pubDate>Tue, 18 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נפש אלוקית ונפש בהמית</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56124388/imported_1689579206501094_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56124388/imported_1689579206501094_audio.mp3</guid>
+   <pubDate>Mon, 17 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תוהו ותיקון</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56124369/imported_1689065011602631_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56124369/imported_1689065011602631_audio.mp3</guid>
+   <pubDate>Mon, 17 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כל רודפי יה מצאוה בין המצרים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56010625/imported_1688625931504850_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56010625/imported_1688625931504850_audio.mp3</guid>
+   <pubDate>Thu, 06 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלמלא הקב_ה עוזרו 2</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/55866018/imported_1688369883214844_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/55866018/imported_1688369883214844_audio.mp3</guid>
+   <pubDate>Mon, 03 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>60</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אלמלא הקב_ה עוזרו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/55865975/imported_1688369879298749_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/55865975/imported_1688369879298749_audio.mp3</guid>
+   <pubDate>Mon, 03 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צלם אלוקים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/55756845/imported_1688285714655968_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/55756845/imported_1688285714655968_audio.mp3</guid>
+   <pubDate>Sun, 02 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קול ה מחולל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/55282726/imported_1687877633523078_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/55282726/imported_1687877633523078_audio.mp3</guid>
+   <pubDate>Tue, 27 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחד וריבוי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/55044961/imported_1687762316204325_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/55044961/imported_1687762316204325_audio.mp3</guid>
+   <pubDate>Mon, 26 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יש ואין</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54985213/imported_1687700753113371_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54985213/imported_1687700753113371_audio.mp3</guid>
+   <pubDate>Sun, 25 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אף על פי שמיצר ומימר לי דודי לי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54560807/imported_1687327704203640_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54560807/imported_1687327704203640_audio.mp3</guid>
+   <pubDate>Wed, 21 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אתה אחד ושמך אחד</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54503688/imported_1687154015283719_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54503688/imported_1687154015283719_audio.mp3</guid>
+   <pubDate>Mon, 19 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משה ואהרון בכהניו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54429442/imported_1686811731622147_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54429442/imported_1686811731622147_audio.mp3</guid>
+   <pubDate>Thu, 15 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרך ארץ קדמה לתורה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54324648/imported_16866391517408_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54324648/imported_16866391517408_audio.mp3</guid>
+   <pubDate>Tue, 13 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>טובה הארץ מאוד מאוד</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54231904/imported_1686467549983990_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54231904/imported_1686467549983990_audio.mp3</guid>
+   <pubDate>Sun, 11 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סיפור המאבק בין החול לקודש</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54125575/imported_16861334356543_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54125575/imported_16861334356543_audio.mp3</guid>
+   <pubDate>Wed, 07 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איזון</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54110688/imported_1686037719371479_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54110688/imported_1686037719371479_audio.mp3</guid>
+   <pubDate>Tue, 06 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסוד של הלב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54097277/imported_1685950058948584_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54097277/imported_1685950058948584_audio.mp3</guid>
+   <pubDate>Mon, 05 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המבט של אשת חיל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54063124/imported_1685608304544875_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54063124/imported_1685608304544875_audio.mp3</guid>
+   <pubDate>Thu, 01 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחדות בתהליכי גדילה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54049903/imported_1685517917895150_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54049903/imported_1685517917895150_audio.mp3</guid>
+   <pubDate>Wed, 31 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יהיו לרצון אמרי פי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53967795/imported_1684827767751594_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53967795/imported_1684827767751594_audio.mp3</guid>
+   <pubDate>Tue, 23 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יותר משהעגל רוצה לינק הפרה רוצה להיניק</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53956027/imported_1684746089759439_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53956027/imported_1684746089759439_audio.mp3</guid>
+   <pubDate>Mon, 22 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגיון ליבי לפניך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53947144/imported_1684653541565357_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53947144/imported_1684653541565357_audio.mp3</guid>
+   <pubDate>Sun, 21 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יושפע שפע רב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53904148/imported_1684319765610395_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53904148/imported_1684319765610395_audio.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>העבודה צורך גבוה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53884792/imported_1684218833194744_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53884792/imported_1684218833194744_audio.mp3</guid>
+   <pubDate>Tue, 16 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דידן נוצח</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53867462/imported_1684134608595701_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53867462/imported_1684134608595701_audio.mp3</guid>
+   <pubDate>Mon, 15 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נודע בשערים בעלה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53857205/imported_1684074130641304_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53857205/imported_1684074130641304_audio.mp3</guid>
+   <pubDate>Sun, 14 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והריקותי לכם ברכה עד בלי די</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53803272/imported_1683706637312297_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53803272/imported_1683706637312297_audio.mp3</guid>
+   <pubDate>Wed, 10 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הושיעה את עמך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53787886/imported_1683617923963022_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53787886/imported_1683617923963022_audio.mp3</guid>
+   <pubDate>Tue, 09 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בטחון הישועה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53738319/imported_1683195766310738_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53738319/imported_1683195766310738_audio.mp3</guid>
+   <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כלי לניצחון</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53727612/imported_1683115576320419_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53727612/imported_1683115576320419_audio.mp3</guid>
+   <pubDate>Wed, 03 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לנצח כשמפסידים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53714464/imported_1683015419190641_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53714464/imported_1683015419190641_audio.mp3</guid>
+   <pubDate>Tue, 02 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והיא שעמדה לאבותינו ולנו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53702876/imported_1682925656658056_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53702876/imported_1682925656658056_audio.mp3</guid>
+   <pubDate>Mon, 01 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בְּלֵב טוֹב | מ"טמוני הספירה- ארבעה ועשרים יום לעומר | הרב שלומי שפירא | ר"מ בישיבה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53602509/23.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53602509/23.mp3</guid>
+   <pubDate>Sat, 29 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי מרחמם ינהגם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53664260/imported_1682597024611338_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53664260/imported_1682597024611338_audio.mp3</guid>
+   <pubDate>Thu, 27 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל מלא רחמים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53638584/imported_16824065913924_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53638584/imported_16824065913924_audio.mp3</guid>
+   <pubDate>Tue, 25 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עצה עמוקה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53625695/imported_1682315533889720_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53625695/imported_1682315533889720_audio.mp3</guid>
+   <pubDate>Mon, 24 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רצית ה' ארצך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53619092/imported_1682234284243498_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53619092/imported_1682234284243498_audio.mp3</guid>
+   <pubDate>Sun, 23 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נכספה וגם כלתה נפשי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53591624/imported_1681978363300735_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53591624/imported_1681978363300735_audio.mp3</guid>
+   <pubDate>Thu, 20 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מציץ מן החרכים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53579415/imported_1681893013776868_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53579415/imported_1681893013776868_audio.mp3</guid>
+   <pubDate>Wed, 19 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גם כי אלך בגיא צלמוות</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53567305/imported_1681797560861455_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53567305/imported_1681797560861455_audio.mp3</guid>
+   <pubDate>Tue, 18 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי לא אדם הוא להינחם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53558391/imported_1681735099639175_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53558391/imported_1681735099639175_audio.mp3</guid>
+   <pubDate>Mon, 17 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עמד ושיתף מידת הרחמים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53548928/imported_1681624258664565_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53548928/imported_1681624258664565_audio.mp3</guid>
+   <pubDate>Sun, 16 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וגאלתי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53437007/imported_1680592470379314_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53437007/imported_1680592470379314_audio.mp3</guid>
+   <pubDate>Tue, 04 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והוצאתי והצלתי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53426591/imported_1680519565822235_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53426591/imported_1680519565822235_audio.mp3</guid>
+   <pubDate>Mon, 03 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חייב אדם לראות את עצמו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53387356/imported_171188096886239_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53387356/imported_171188096886239_audio.mp3</guid>
+   <pubDate>Thu, 30 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולה וחרות</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53387350/imported_168008864961855_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53387350/imported_168008864961855_audio.mp3</guid>
+   <pubDate>Thu, 30 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משכו וקחו לכם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53364362/imported_1679907473628302_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53364362/imported_1679907473628302_audio.mp3</guid>
+   <pubDate>Tue, 28 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אכילת מצה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53364347/imported_1679999513145527_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53364347/imported_1679999513145527_audio.mp3</guid>
+   <pubDate>Tue, 28 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאל אשאל .. קושיות</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53339727/imported_1679812580557792_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53339727/imported_1679812580557792_audio.mp3</guid>
+   <pubDate>Sun, 26 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנים וחוץ</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53295282/imported_167948616671349_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53295282/imported_167948616671349_audio.mp3</guid>
+   <pubDate>Wed, 22 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זה העסק שלנו לעסוק בדברי תורה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53260510/imported_1679301932497720_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53260510/imported_1679301932497720_audio.mp3</guid>
+   <pubDate>Mon, 20 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנים לתורה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53252895/imported_1679216255296512_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53252895/imported_1679216255296512_audio.mp3</guid>
+   <pubDate>Sun, 19 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעין עולם הבא יום שבת מנוחה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53221325/imported_1678959124829814_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53221325/imported_1678959124829814_audio.mp3</guid>
+   <pubDate>Thu, 16 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אשר קרך בדרך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53209243/imported_1678875247622887_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53209243/imported_1678875247622887_audio.mp3</guid>
+   <pubDate>Wed, 15 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חוקי חיים - יהודית ודמוקרטית</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53191949/imported_1678782158790826_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53191949/imported_1678782158790826_audio.mp3</guid>
+   <pubDate>Tue, 14 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלושה העולם נברא בספר בסיפור ובמספר</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53178872/imported_1678689644534030_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53178872/imported_1678689644534030_audio.mp3</guid>
+   <pubDate>Mon, 13 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ככלותו לדבר איתו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53146279/imported_167836228624034_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53146279/imported_167836228624034_audio.mp3</guid>
+   <pubDate>Thu, 09 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתיקות טוב התורה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53100599/imported_1678029176263778_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53100599/imported_1678029176263778_audio.mp3</guid>
+   <pubDate>Sun, 05 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי עולם נטע בתוכנו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52874624/imported_1677575054277304_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52874624/imported_1677575054277304_audio.mp3</guid>
+   <pubDate>Tue, 28 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בתוכו לא נאמר אלא בתוכם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52874619/imported_1677144743587252_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52874619/imported_1677144743587252_audio.mp3</guid>
+   <pubDate>Tue, 28 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליהודים הייתה אורה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52864241/imported_1677499575459886_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52864241/imported_1677499575459886_audio.mp3</guid>
+   <pubDate>Mon, 27 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עד שלא ידע</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52811591/imported_1677065913228016_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52811591/imported_1677065913228016_audio.mp3</guid>
+   <pubDate>Wed, 22 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וגם וגם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52799207/imported_1676974290962610_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52799207/imported_1676974290962610_audio.mp3</guid>
+   <pubDate>Tue, 21 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בריתי אשר עליך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52779422/imported_1676793688571428_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52779422/imported_1676793688571428_audio.mp3</guid>
+   <pubDate>Sun, 19 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה שלי הכי מתוקה בעולם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52739240/imported_1676450625552802_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52739240/imported_1676450625552802_audio.mp3</guid>
+   <pubDate>Wed, 15 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שולחן ערוך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52714271/imported_1676277053349478_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52714271/imported_1676277053349478_audio.mp3</guid>
+   <pubDate>Mon, 13 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צמאה לך נפשי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52707109/imported_1676191725354708_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52707109/imported_1676191725354708_audio.mp3</guid>
+   <pubDate>Sun, 12 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ומשה עלה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52679488/imported_167593412738789_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52679488/imported_167593412738789_audio.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוחה של צמיחה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52668543/imported_1675849119980673_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52668543/imported_1675849119980673_audio.mp3</guid>
+   <pubDate>Wed, 08 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתיקות התורה וטו בשבט</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52647311/imported_1675670860977951_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52647311/imported_1675670860977951_audio.mp3</guid>
+   <pubDate>Mon, 06 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין מרה לסיני</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52640322/imported_1675584087377151_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52640322/imported_1675584087377151_audio.mp3</guid>
+   <pubDate>Sun, 05 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזל כטל אמרתי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52603074/imported_1675242155118084_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52603074/imported_1675242155118084_audio.mp3</guid>
+   <pubDate>Wed, 01 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלא כה דברי כאש נאום ה'</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52591347/imported_167514876431748_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52591347/imported_167514876431748_audio.mp3</guid>
+   <pubDate>Tue, 31 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחו בה' וגילו צדיקים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52591346/imported_1675148731525249_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52591346/imported_1675148731525249_audio.mp3</guid>
+   <pubDate>Tue, 31 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוצאתי את צבאותי את עמי ישראל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52548953/imported_1674726186874945_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52548953/imported_1674726186874945_audio.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה כוללת כל הטובות שבעולם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52537252/imported_1674634775163549_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52537252/imported_1674634775163549_audio.mp3</guid>
+   <pubDate>Wed, 25 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמת באמת</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52508417/imported_1674386774736550_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52508417/imported_1674386774736550_audio.mp3</guid>
+   <pubDate>Sun, 22 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עומס וסדר של הלב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52470685/imported_1674029626645632_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52470685/imported_1674029626645632_audio.mp3</guid>
+   <pubDate>Wed, 18 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לאהוב מה שהאהוב אוהב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52459926/imported_1673940234158294_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52459926/imported_1673940234158294_audio.mp3</guid>
+   <pubDate>Tue, 17 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והסנה איננו אוכל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52421642/imported_1673529220290548_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52421642/imported_1673529220290548_audio.mp3</guid>
+   <pubDate>Thu, 12 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להאיר את החיים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52398897/imported_1673339936909210_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52398897/imported_1673339936909210_audio.mp3</guid>
+   <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיתוף פעולה רוחני</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52398894/imported_1673339909158804_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52398894/imported_1673339909158804_audio.mp3</guid>
+   <pubDate>Tue, 10 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין בליבנו אלא אחד</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52360090/imported_1672918567200020_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52360090/imported_1672918567200020_audio.mp3</guid>
+   <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה אמצעי או מטרה?</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52350214/imported_1672830343991144_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52350214/imported_1672830343991144_audio.mp3</guid>
+   <pubDate>Wed, 04 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נסתמו עיניהם וליבן של ישראל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52340060/imported_1672737559419719_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52340060/imported_1672737559419719_audio.mp3</guid>
+   <pubDate>Tue, 03 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה שלי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52331236/imported_1672647771735399_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52331236/imported_1672647771735399_audio.mp3</guid>
+   <pubDate>Mon, 02 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יוסף ויהודה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52325651/imported_1672560725747269_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52325651/imported_1672560725747269_audio.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורה חדשה מאיתי תצא</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52325649/imported_1672307636373372_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52325649/imported_1672307636373372_audio.mp3</guid>
+   <pubDate>Sun, 01 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חביבין ישראל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52295891/imported_167221310355040_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52295891/imported_167221310355040_audio.mp3</guid>
+   <pubDate>Wed, 28 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמים וארץ נושקים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52287414/imported_1672128183912823_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52287414/imported_1672128183912823_audio.mp3</guid>
+   <pubDate>Tue, 27 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אור זרוע לצדיק</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52277039/imported_1671960346744088_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52277039/imported_1671960346744088_audio.mp3</guid>
+   <pubDate>Sun, 25 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נר ה נשמת אדם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52244359/imported_1671616618287972_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52244359/imported_1671616618287972_audio.mp3</guid>
+   <pubDate>Wed, 21 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוונת ההדלקה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52240012/imported_1671564715941089_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52240012/imported_1671564715941089_audio.mp3</guid>
+   <pubDate>Tue, 20 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פוחת והולך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52192009/imported_1671092455786398_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52192009/imported_1671092455786398_audio.mp3</guid>
+   <pubDate>Thu, 15 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איש וביתו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52182557/imported_1671005390362166_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52182557/imported_1671005390362166_audio.mp3</guid>
+   <pubDate>Wed, 14 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנים וחוץ</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52177699/imported_1670960468729962_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52177699/imported_1670960468729962_audio.mp3</guid>
+   <pubDate>Tue, 13 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבתה אין זקוק לה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52159327/imported_1670831784100007_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52159327/imported_1670831784100007_audio.mp3</guid>
+   <pubDate>Mon, 12 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וענוותך תרבני</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52127944/imported_1670488711394433_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52127944/imported_1670488711394433_audio.mp3</guid>
+   <pubDate>Thu, 08 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים על הרב מרדכי שטרנברג זצל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52117949/imported_1670400232827669_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52117949/imported_1670400232827669_audio.mp3</guid>
+   <pubDate>Wed, 07 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איש חי ל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52097925/imported_167023959041539_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52097925/imported_167023959041539_audio.mp3</guid>
+   <pubDate>Mon, 05 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולת הבחירה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52090416/imported_1670140704581994_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52090416/imported_1670140704581994_audio.mp3</guid>
+   <pubDate>Sun, 04 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקול קול יעקב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52064565/imported_1669888063402437_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52064565/imported_1669888063402437_audio.mp3</guid>
+   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לנצח את עצמי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52053546/imported_1669801873425660_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52053546/imported_1669801873425660_audio.mp3</guid>
+   <pubDate>Wed, 30 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיים של נאמנות</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52041955/imported_1669712388126379_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52041955/imported_1669712388126379_audio.mp3</guid>
+   <pubDate>Tue, 29 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיים בריאים וניסים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52030409/imported_1669622212850815_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52030409/imported_1669622212850815_audio.mp3</guid>
+   <pubDate>Mon, 28 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניסיך שבכל יום עמנו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51987412/imported_1669189825868744_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51987412/imported_1669189825868744_audio.mp3</guid>
+   <pubDate>Wed, 23 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לנשום בתוך העומס</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51977536/imported_1669108156769214_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51977536/imported_1669108156769214_audio.mp3</guid>
+   <pubDate>Tue, 22 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אמונה ומוסר</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · מוסר</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51962455/imported_1669013741977583_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51962455/imported_1669013741977583_audio.mp3</guid>
+   <pubDate>Mon, 21 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ירא שלם- ירושלים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51925032/imported_1668674753539580_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51925032/imported_1668674753539580_audio.mp3</guid>
+   <pubDate>Thu, 17 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחשבות על פרשית הרב טאו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51908399/imported_1668584043871850_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51908399/imported_1668584043871850_audio.mp3</guid>
+   <pubDate>Wed, 16 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדבר אל הסלע</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51895681/imported_1668495990176968_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51895681/imported_1668495990176968_audio.mp3</guid>
+   <pubDate>Tue, 15 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ביטחו בה' עדי עד</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51876126/imported_1668330816747274_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51876126/imported_1668330816747274_audio.mp3</guid>
+   <pubDate>Sun, 13 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלוך ואור</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51847839/imported_1668066733950301_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51847839/imported_1668066733950301_audio.mp3</guid>
+   <pubDate>Thu, 10 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חסד ואמת</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51836555/imported_1667999824209952_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51836555/imported_1667999824209952_audio.mp3</guid>
+   <pubDate>Wed, 09 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תיקון הקנאה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51822265/imported_1667896567883664_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51822265/imported_1667896567883664_audio.mp3</guid>
+   <pubDate>Tue, 08 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תחית המתים שלנו</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51808642/imported_1667804115383606_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51808642/imported_1667804115383606_audio.mp3</guid>
+   <pubDate>Mon, 07 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויזנחו את פסיליהם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51772600/imported_1667463063583302_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51772600/imported_1667463063583302_audio.mp3</guid>
+   <pubDate>Thu, 03 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ליוצא ולבא אין שלום</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51761668/imported_166737324959731_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51761668/imported_166737324959731_audio.mp3</guid>
+   <pubDate>Wed, 02 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והיה ברכה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51735984/imported_166720050742625_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51735984/imported_166720050742625_audio.mp3</guid>
+   <pubDate>Mon, 31 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראו באורי שזורח</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51701422/imported_1666851368384550_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51701422/imported_1666851368384550_audio.mp3</guid>
+   <pubDate>Thu, 27 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחד ויחד</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51697355/imported_1666769501492064_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51697355/imported_1666769501492064_audio.mp3</guid>
+   <pubDate>Wed, 26 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עת כנוס אבנים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51679864/imported_1666679740140298_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51679864/imported_1666679740140298_audio.mp3</guid>
+   <pubDate>Tue, 25 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והייתם כאלוקים יודעי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51667209/imported_1666592638464870_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51667209/imported_1666592638464870_audio.mp3</guid>
+   <pubDate>Mon, 24 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להישאר עם יום כיפר</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51630853/imported_1665041630760986_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51630853/imported_1665041630760986_audio.mp3</guid>
+   <pubDate>Thu, 20 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתחיל מבראשית</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51630847/imported_1666253899774522_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51630847/imported_1666253899774522_audio.mp3</guid>
+   <pubDate>Thu, 20 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פדית אותי ה אל אמת</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51449501/imported_1664779295127310_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51449501/imported_1664779295127310_audio.mp3</guid>
+   <pubDate>Mon, 03 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדלותו של בעל תשובה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51441962/imported_1664699268947644_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51441962/imported_1664699268947644_audio.mp3</guid>
+   <pubDate>Sun, 02 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעלות ולרדת</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51415690/imported_166445351468008_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51415690/imported_166445351468008_audio.mp3</guid>
+   <pubDate>Thu, 29 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צבת בצבת עשויה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51341963/imported_1663832952359752_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51341963/imported_1663832952359752_audio.mp3</guid>
+   <pubDate>Thu, 22 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה וחוסר אונים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51330105/imported_1663740025981396_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51330105/imported_1663740025981396_audio.mp3</guid>
+   <pubDate>Wed, 21 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך ה הצדקה ולנו בושת הפנים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51317042/imported_1663657676663795_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51317042/imported_1663657676663795_audio.mp3</guid>
+   <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תאמין שאפשר לתקן</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51305944/imported_1663569403125174_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51305944/imported_1663569403125174_audio.mp3</guid>
+   <pubDate>Mon, 19 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ונשובה אליך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51296415/imported_1663484010710829_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51296415/imported_1663484010710829_audio.mp3</guid>
+   <pubDate>Sun, 18 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תיקון מערכות יחסים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51251974/imported_166313878388720_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51251974/imported_166313878388720_audio.mp3</guid>
+   <pubDate>Wed, 14 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התשובה של הגוף</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51238933/imported_1663050255894822_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51238933/imported_1663050255894822_audio.mp3</guid>
+   <pubDate>Tue, 13 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם צריך לתקן אונס?</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51225435/imported_1662963446833931_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51225435/imported_1662963446833931_audio.mp3</guid>
+   <pubDate>Mon, 12 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אקומה ואבואה אל בית אלוקי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51217582/imported_1662893422191585_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51217582/imported_1662893422191585_audio.mp3</guid>
+   <pubDate>Sun, 11 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה הורית וזוגית</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51196284/imported_1662706587320629_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51196284/imported_1662706587320629_audio.mp3</guid>
+   <pubDate>Fri, 09 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל תנועה שם נמצא אלופו של עולם</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51156906/imported_1662442174532358_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51156906/imported_1662442174532358_audio.mp3</guid>
+   <pubDate>Tue, 06 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לב טהור ברא לי אלוקים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51145472/imported_1662361661463542_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51145472/imported_1662361661463542_audio.mp3</guid>
+   <pubDate>Mon, 05 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כל תנועה ותנועה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51136111/imported_1662269699426272_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51136111/imported_1662269699426272_audio.mp3</guid>
+   <pubDate>Sun, 04 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חודש הרחמים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51101515/imported_1662013324710665_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51101515/imported_1662013324710665_audio.mp3</guid>
+   <pubDate>Thu, 01 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעל תשובה וצדיק גמור</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51087898/imported_1661926869295770_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51087898/imported_1661926869295770_audio.mp3</guid>
+   <pubDate>Wed, 31 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הילולת הרב זצל</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51075917/imported_1661844670463096_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51075917/imported_1661844670463096_audio.mp3</guid>
+   <pubDate>Tue, 30 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתחיל מהתחלה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51062021/imported_1661748796847248_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51062021/imported_1661748796847248_audio.mp3</guid>
+   <pubDate>Mon, 29 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תמים תהיה עם ה אלוקיך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51024720/imported_1661410760616837_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51024720/imported_1661410760616837_audio.mp3</guid>
+   <pubDate>Thu, 25 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי בשביל מי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/51003488/imported_166123812214267_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/51003488/imported_166123812214267_audio.mp3</guid>
+   <pubDate>Tue, 23 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילה מעומק הלב</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50992486/imported_16611521687992_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50992486/imported_16611521687992_audio.mp3</guid>
+   <pubDate>Mon, 22 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התיקון שלי</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50937415/imported_166072569637146_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50937415/imported_166072569637146_audio.mp3</guid>
+   <pubDate>Wed, 17 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשך - טובים טובים טובים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50926832/imported_1660635049609856_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50926832/imported_1660635049609856_audio.mp3</guid>
+   <pubDate>Tue, 16 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואני ישראל אומר ישראל טובים טובים טובים</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50916691/imported_1660550759532535_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50916691/imported_1660550759532535_audio.mp3</guid>
+   <pubDate>Mon, 15 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צוותא עם ה יתברך</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50910241/imported_1660465146360734_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50910241/imported_1660465146360734_audio.mp3</guid>
+   <pubDate>Sun, 14 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לא לשכוח את ה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50883862/imported_1660206631584620_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50883862/imported_1660206631584620_audio.mp3</guid>
+   <pubDate>Thu, 11 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תכלית העליה ירידה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50872219/imported_1660115912860185_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50872219/imported_1660115912860185_audio.mp3</guid>
+   <pubDate>Wed, 10 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסתרה שבתוך ההסתרה</title>
+   <description>הרב שלומי שפירא · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב שלומי שפירא</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/50861243/imported_1660040852586644_audio.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/50861243/imported_1660040852586644_audio.mp3</guid>
+   <pubDate>Tue, 09 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

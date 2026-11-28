@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב דודי דודקביץ · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7eae45c5.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב דודי דודקביץ.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>האם האמת תמיד צודקת? | שיעור לפרשת ויצא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/76448459/lesson.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/76448459/lesson.mp3</guid>
+   <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעזרת ה' בגיבורים | שיעור לקראת הבחירות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/75920636/utf_8_b_15txqnerinet15xxk9eziner15fxmdeo15xxqi5tcdm.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/75920636/utf_8_b_15txqnerinet15xxk9eziner15fxmdeo15xxqi5tcdm.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה אמורים להרגיש בראש השנה? | שיעור לראש השנה | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/74703309/utf_8_b_15txqnerinet15xxk9ezineb15kg16rxkdev15aubxaz.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/74703309/utf_8_b_15txqnerinet15xxk9ezineb15kg16rxkdev15aubxaz.mp3</guid>
+   <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למען שמו באהבה | שיעור לפרשת מטות מסעי | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72869355/episode_72869355.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72869355/episode_72869355.mp3</guid>
+   <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש של אמת | שיעור לפרשת פנחס | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72776913/episode_72776913.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72776913/episode_72776913.mp3</guid>
+   <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>''בלי עין הרע'' | שיעור לפרשת בלק | הרב דודי דודקביץ''</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72678510/episode_72678510.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72678510/episode_72678510.mp3</guid>
+   <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התורה כוחה של האומה | שיעור לפרשת חוקת | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72580955/episode_72580955.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72580955/episode_72580955.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כשמאמינים- עולים | שיעור לפרשת קרח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72462229/episode_72462229.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72462229/episode_72462229.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בין נס למעשה | שיעור לפרשת שלח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72328279/episode_72328279.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72328279/episode_72328279.mp3</guid>
+   <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גואלי העולם | שיעור לפרשת בהעלותך| הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72175085/episode_72175085.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72175085/episode_72175085.mp3</guid>
+   <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שושביני התורה | שיעור לשבועות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/72086406/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/72086406/1.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נס שלא נגמר | שיעור ליום ירושלים - פרשת במדבר | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71990545/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71990545/1.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחירות לדבקות | שיעור לפרשת אמר | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/71734377/episode_71734377.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/71734377/episode_71734377.mp3</guid>
+   <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסירות הנפש של אסתר | שיעור לפרשת תצוה | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70266567/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70266567/mp3.mp3</guid>
+   <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחת חודש אדר - סוד הנתינה | שיעור לפרשת תרומה | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/70131494/mp3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/70131494/mp3.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני ממונות בראייה רוחנית | שיעור לפרשת משפטים | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · הלכה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69971475/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69971475/mp4.mp3</guid>
+   <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כוח השמיעה הפנימית | שיעור לפרשת יתרו | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69783609/mp4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69783609/mp4.mp3</guid>
+   <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מלכות מתוך אמונה | שיעור לפרשת בשלח | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69647987/episode_69647987.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69647987/episode_69647987.mp3</guid>
+   <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבוד מלך ישראל | שיעור לפרשת בא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69533159/episode_69533159.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69533159/episode_69533159.mp3</guid>
+   <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כבוד מלכות – כבוד שמים | שיעור לפרשת וארא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69439719/episode_69439719.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69439719/episode_69439719.mp3</guid>
+   <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גלות וגאולה בנפש | שיעור לפרשת שמות | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/69342903/episode_69342903.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/69342903/episode_69342903.mp3</guid>
+   <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להודות ולהלל | שיעור לפרשת וישב | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68980068/episode_68980068.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68980068/episode_68980068.mp3</guid>
+   <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיני ארץ ישראל | שיעור לפרשת וישלח | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68850081/episode_68850081.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68850081/episode_68850081.mp3</guid>
+   <pubDate>Wed, 03 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לילה כיום יאיר | שיעור לפרשת ויצא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68759317/episode_68759317.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68759317/episode_68759317.mp3</guid>
+   <pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עומק תפילתו של יצחק | שיעור לפרשת תולדות | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68643014/episode_68643014.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68643014/episode_68643014.mp3</guid>
+   <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוד ההתבודדות של יצחק אבינו | שיעור לפרשת חיי שרה | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68540042/episode_68540042.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68540042/episode_68540042.mp3</guid>
+   <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתוהו לתיקון | שיעור לפרשת לך לך | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/68352712/episode_68352712.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/68352712/episode_68352712.mp3</guid>
+   <pubDate>Thu, 30 Oct 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת ה' לישראל | שיעור לפרשת ניצבים | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67796709/episode_67796709.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67796709/episode_67796709.mp3</guid>
+   <pubDate>Wed, 17 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופרות הגאולה | שיעור לפרשת כי תצא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67620204/episode_67620204.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67620204/episode_67620204.mp3</guid>
+   <pubDate>Thu, 04 Sep 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והורשתם - וגרשתם | שיעור לפרשת מטות-מסעי | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67102180/episode_67102180.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67102180/episode_67102180.mp3</guid>
+   <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסירות הנפש של פינחס | שיעור לפרשת פינחס | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/67015647/episode_67015647.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/67015647/episode_67015647.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שירת החוק - זאת חוקת התורה | שיעור לפרשת חקת | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66852259/episode_66852259.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66852259/episode_66852259.mp3</guid>
+   <pubDate>Thu, 03 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויתבוננו חסדי השם | שיעור לפרשת קרח | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66760731/episode_66760731.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66760731/episode_66760731.mp3</guid>
+   <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתלהב בלי לשבור את המנורה | שיעור לפרשת בהעלותך | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66534233/episode_66534233.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66534233/episode_66534233.mp3</guid>
+   <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בך אברך ישראל | שיעור לפרשת נשא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66409823/episode_66409823.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66409823/episode_66409823.mp3</guid>
+   <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מי הוא חסיד? | שיעור לפרשת במדבר | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66329153/episode_66329153.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66329153/episode_66329153.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אם למקרא או אם למסורת | שיעור לפרשת בהר בחוקתי | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66201258/episode_66201258.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66201258/episode_66201258.mp3</guid>
+   <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשביל מה אתה עולה למירון? | שיעור לל"ג בעומר | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/66002047/episode_66002047.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/66002047/episode_66002047.mp3</guid>
+   <pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עם מי המצה רבה? | שיעור לפסח | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/65165098/episode_65165098.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/65165098/episode_65165098.mp3</guid>
+   <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי קולך ערב | שיעור לפרשת ויקהל | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64998780/episode_64998780.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64998780/episode_64998780.mp3</guid>
+   <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ובכן אבוא אל המלך | שיעור לשבת זכור | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64732158/episode_64732158.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64732158/episode_64732158.mp3</guid>
+   <pubDate>Thu, 06 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אסתר מן התורה מנין? | שיעור לראש חודש אדר | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64608482/episode_64608482.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64608482/episode_64608482.mp3</guid>
+   <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לפעול עם א-ל | שיעור לפרשת משפטים | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64477074/episode_64477074.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64477074/episode_64477074.mp3</guid>
+   <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קְרַמְבּוֹלָה (זה סוג של פרי) | שיעור לט"ו בשבט | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64361190/episode_64361190.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64361190/episode_64361190.mp3</guid>
+   <pubDate>Thu, 13 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למי קראת ערב רב? | שיעור לפרשת בשלח | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64233339/episode_64233339.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64233339/episode_64233339.mp3</guid>
+   <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אין טבע - הכל נס | שיעור לפרשת בא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/64045724/episode_64045724.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/64045724/episode_64045724.mp3</guid>
+   <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ושמתי פדות - מה זה אומר? | שיעור לפרשת וארא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63856160/episode_63856160.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63856160/episode_63856160.mp3</guid>
+   <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תלונות כלפי שמיא? | שיעור לפרשת שמות | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63715882/episode_63715882.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63715882/episode_63715882.mp3</guid>
+   <pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לגלות את הקץ או להקדים את הקץ? | שיעור לפרשת ויחי | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63626658/episode_63626658.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63626658/episode_63626658.mp3</guid>
+   <pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להפוך חומר לאלוקות! | שיעור לפרשת וישב | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63397154/episode_63397154.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63397154/episode_63397154.mp3</guid>
+   <pubDate>Thu, 19 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כח הדיבור! | שיעור לפרשת וישלח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63284910/episode_63284910.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63284910/episode_63284910.mp3</guid>
+   <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עם של רועי צאן לעומת עם של ציידים | שיעור לפרשת ויצא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63170220/episode_63170220.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63170220/episode_63170220.mp3</guid>
+   <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השליחות האלוקית של עם ישראל | שיעור לפרשת תולדות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/63048181/episode_63048181.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/63048181/episode_63048181.mp3</guid>
+   <pubDate>Thu, 28 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדרת הנצחון מול הרע! | יצחק מול ישמעאל - חלק ב | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62740232/episode_62740232.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62740232/episode_62740232.mp3</guid>
+   <pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפקיד עם ישראל- להאיר העולם! | שיעור לפרשת לך לך | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62662485/episode_62662485.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62662485/episode_62662485.mp3</guid>
+   <pubDate>Fri, 08 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה בוכים בכל נדרי? | שיעור הכנה ליום הכיפורים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/62313941/episode_62313941.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/62313941/episode_62313941.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לעורר רחמי אם על הבנים | שיעור לפרשת כי תצא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/61381716/episode_61381716.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/61381716/episode_61381716.mp3</guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשים שומר בשער! | שיעור לפרשת שופטים ולפתיחת זמן אלול | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/61275486/episode_61275486.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/61275486/episode_61275486.mp3</guid>
+   <pubDate>Thu, 05 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואהבת לרעך כמוך ודיבוק חברים | שיעור לפרשת דברים ולהילולת האר"י | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60964020/episode_60964020.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60964020/episode_60964020.mp3</guid>
+   <pubDate>Fri, 09 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך מורישים את הארץ? | שיעור לפרשת מטות- מסעי | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60898211/episode_60898211.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60898211/episode_60898211.mp3</guid>
+   <pubDate>Fri, 02 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קנאותו של פנחס- חסד או גבורה | שיעור לפרשת פנחס | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60803171/episode_60803171.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60803171/episode_60803171.mp3</guid>
+   <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולה של עם ישראל או של ה'? | שיעור לפרשת בלק | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60731103/episode_60731103.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60731103/episode_60731103.mp3</guid>
+   <pubDate>Thu, 18 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גזירות שמד על התורה- דא גזירת דאורייתא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60664903/episode_60664903.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60664903/episode_60664903.mp3</guid>
+   <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חטא המרגלים- פספוס תיקון חטא האדמה | שיעור לפרשת שלח- לך | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60529082/episode_60529082.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60529082/episode_60529082.mp3</guid>
+   <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לגלות את האמת של הקב"ה | שיעור לפרשת בהעלותך | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60452750/episode_60452750.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60452750/episode_60452750.mp3</guid>
+   <pubDate>Thu, 20 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות בקיאים בשוב | איך אוספים איתנו רשמים מהחג | שיעור לאסרו חג השבועות | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60375319/episode_60375319.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60375319/episode_60375319.mp3</guid>
+   <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תיקון ליל שבועות- לתקן או להתקין? | שיעור לחג השבועות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60301336/episode_60301336.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60301336/episode_60301336.mp3</guid>
+   <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצווה ורוצה ולא מצווה ועושה | שיעור לפרשת בחוקותי | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60222831/episode_60222831.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60222831/episode_60222831.mp3</guid>
+   <pubDate>Thu, 30 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ל"ג בעומר- להבין את מירון! | שיעור לל"ג בעומר | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60152379/episode_60152379.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60152379/episode_60152379.mp3</guid>
+   <pubDate>Thu, 23 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהותם של רבי עקיבא ותלמידיו | שיעור לפרשת אמור ולימי ספירת העומר | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/60062384/episode_60062384.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/60062384/episode_60062384.mp3</guid>
+   <pubDate>Thu, 16 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהותו של חודש אייר וגאולתו | שיעור לראש חודש אייר | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59949106/episode_59949106.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59949106/episode_59949106.mp3</guid>
+   <pubDate>Thu, 09 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אש תמיד- איך שומרים על הבערה בעבודת ה' | שיעור לפרשת צו | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59215719/episode_59215719.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59215719/episode_59215719.mp3</guid>
+   <pubDate>Fri, 29 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה המסקנה של פורים? | שיעור מיוחד לפורים | מגילת אסתר | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/59047501/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/59047501/1.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למהותה של הסנגוריה על עם ישראל | שיעור לפרשת כי תשא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58879666/episode_58879666.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58879666/episode_58879666.mp3</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה להעביר שיעור על פורים קטן? | שיעור לפורים קטן | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58786061/episode_58786061.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58786061/episode_58786061.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לשבת עם הבעל שם טוב- חלק ג | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58785844/episode_58785844.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58785844/episode_58785844.mp3</guid>
+   <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לשבת עם הבעל שם טוב- חלק ב | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58697210/episode_58697210.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58697210/episode_58697210.mp3</guid>
+   <pubDate>Thu, 15 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה לשבת עם הבעל שם טוב- חלק א | פרשת יתרו | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58533578/episode_58533578.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58533578/episode_58533578.mp3</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בונים גאולה שלמה | פרשת בא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58362676/episode_58362676.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58362676/episode_58362676.mp3</guid>
+   <pubDate>Fri, 19 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תיקון התודעה של ספר שמות | פרשת שמות | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/58205560/episode_58205560.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/58205560/episode_58205560.mp3</guid>
+   <pubDate>Fri, 05 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחה במלכות ה' של ארץ ישראל | שיעור לראש השנה | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56799918/episode_56799918.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56799918/episode_56799918.mp3</guid>
+   <pubDate>Thu, 14 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות שותפים ביישום מלכות ה' | שיעור לראש השנה | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56725588/1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56725588/1.mp3</guid>
+   <pubDate>Thu, 07 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיפוט ושימור | שיעור לחודש אלול | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56649315/episode_56649315.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56649315/episode_56649315.mp3</guid>
+   <pubDate>Thu, 31 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תהיה שיפוטי! | שיעור לפרשת כי תצא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56579515/episode_56579515.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56579515/episode_56579515.mp3</guid>
+   <pubDate>Thu, 24 Aug 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהותן של הנחלות | שיעור לפרשת מטות- מסעי | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/56090093/episode_56090093.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/56090093/episode_56090093.mp3</guid>
+   <pubDate>Thu, 13 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתי ענווה היא פסולה? | שיעור לפרשת קורח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54446711/episode_54446711.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54446711/episode_54446711.mp3</guid>
+   <pubDate>Thu, 15 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לקיים את הציווי של ה' יתברך | שיעור לפרשת בהעלותך | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/54064914/episode_54064914.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/54064914/episode_54064914.mp3</guid>
+   <pubDate>Thu, 01 Jun 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ריח טוב בעולם- סוד תורתו של רשב"י | שיעור למוצאי ל"ג בעומר | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53822262/episode_53822262.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53822262/episode_53822262.mp3</guid>
+   <pubDate>Thu, 11 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזדמנות שנייה? | שיעור לפסח שני | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53822257/episode_53822257.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53822257/episode_53822257.mp3</guid>
+   <pubDate>Thu, 11 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בֶּאֱמוּנַת חֲכָמִים | מ"טמוני הספירה- חמישה ועשרים יום לעומר | הרב דודי דודקביץ' | ראש ישיבת רועה ישראל ורב היישוב יצהר</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53602513/24.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53602513/24.mp3</guid>
+   <pubDate>Sun, 30 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מפורים- לבניין המקדש | שיעור למוצאי פורים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53147994/episode_53147994.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53147994/episode_53147994.mp3</guid>
+   <pubDate>Thu, 09 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניינו של פורים- להשתכר או לשמוח? | שיעור לפורים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/53074320/episode_53074320.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/53074320/episode_53074320.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך לשמוח בפורים? | שיעור לפורים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52826702/episode_52826702.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52826702/episode_52826702.mp3</guid>
+   <pubDate>Thu, 23 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתוך איזה מבט אתה פועל? | שיעור לפרשת משפטים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52757520/episode_52757520.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52757520/episode_52757520.mp3</guid>
+   <pubDate>Thu, 16 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנה למתן תורה | שיעור לפרשת יתרו | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52682616/episode_52682616.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52682616/episode_52682616.mp3</guid>
+   <pubDate>Thu, 09 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השתרשות בארץ ישראל- ע"י פירות ארצנו | שיעור לטו בשבט | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52615243/episode_52615243.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52615243/episode_52615243.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולתה של ארץ ישראל | שיעור לפרשת בא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52550750/episode_52550750.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52550750/episode_52550750.mp3</guid>
+   <pubDate>Thu, 26 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גאולת הנפש וגאולת הגוף | שיעור לפרשת וארא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52485129/episode_52485129.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52485129/episode_52485129.mp3</guid>
+   <pubDate>Thu, 19 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרבה אל נפשי גאלה | שיעור לפרשת שמות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52424512/episode_52424512.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52424512/episode_52424512.mp3</guid>
+   <pubDate>Thu, 12 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדלותו של מורנו ורבנו הרב חיים דרוקמן זצ"ל | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52307172/episode_52307172.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52307172/episode_52307172.mp3</guid>
+   <pubDate>Thu, 29 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שכם- שליטה בחומריות | שיעור לפרשת וישלח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52128087/episode_52128087.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52128087/episode_52128087.mp3</guid>
+   <pubDate>Thu, 08 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סולם מוצב ארצה- בארץ ישראל! וראש מגיע השמימה- לה' יתברך! | שיעור לפרשת ויצא | הרב דודי דודקביץ'</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52067966/episode_52067966.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52067966/episode_52067966.mp3</guid>
+   <pubDate>Thu, 01 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חודש הגבורה וההתגברות | שיעור לראש חודש כסליו | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007450/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007450/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבד אברהם אנוכי | שיעור לפרשת חיי שרה | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007448/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007448/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אברהם אבינו- ראש למאמינים | שיעור לפרשת וירא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007446/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007446/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה בין ראש השנה ליום כיפור? | שיעור לפרשת וילך- שובה | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007445/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007445/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות הוידוי | שיעור לפרשת כי תבא | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007443/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007443/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשעה באב דחוי הוא בכלל תשעה באב? | שיעור לפרשת דברים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007442/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007442/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושת יוסף הצדיק | שיעור לראש חודש תמוז | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007440/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007440/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוי מתלמידיו של אהרון | שיעור לפרשת מסעי | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007438/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007438/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דרך החסידות האמיתית | שיעור לפרשת קרח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007437/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007437/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להודיע בעמים את יפיה | שיעור לפרשת שלח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007436/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007436/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מעלית הלויים | שיעור לפרשת בהעלותך | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007435/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007435/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היחס ללימוד תורה | שיעור לשבועות | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007434/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007434/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה בין יום ירושלים לשמואל הנביא | שיעור ליום ירושלים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · תנ"ך</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007431/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007431/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אז מה קרה כשהרב דודי התחיל לדבר על פסח? | שיעור לפסח | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007430/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007430/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסרת המחיצות מול המלך | שיעור הכנה לפורים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · מועדים</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007428/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007428/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל- המכנה המשותף הגבוה של עדת ישראל | שיעור לפרשת ויקהל | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007427/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007427/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החסידות והדור | קוים לדמותו של הרב צבי יהודה | הרב דוד דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · חסידות וקבלה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007425/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007425/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לבושי כהן גדול ולבושי פורים | שיעור לפרשת תצוה | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007424/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007424/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לחשוב מחשבות- ולעשות! | שיעור לפרשת פקודי | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007423/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007423/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחה באדר ראשון | שיעור לראש חודש אדר א | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · אמונה ומחשבה</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007422/snapsave_io_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007422/snapsave_io_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאגרא רמא לבירא עמיקתא | שיעור לפרשת משפטים | הרב דודי דודקביץ</title>
+   <description>הרב דודי דודקביץ · ישיבת רמת גן · פרשת השבוע</description>
+   <itunes:author>הרב דודי דודקביץ</itunes:author>
+   <enclosure url="https://api.spreaker.com/download/episode/52007421/x2download_app_128_kbps.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://api.spreaker.com/download/episode/52007421/x2download_app_128_kbps.mp3</guid>
+   <pubDate>Fri, 25 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

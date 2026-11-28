@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>ישיבת נצר מטעי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/y-netzer-mattai.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי ישיבת נצר מטעי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שפת אמת | פרשת וישלח | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/910cfb52/642f1422.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/910cfb52/642f1422.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחן את פני העיר | פרשת וישלח | הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/082fc3c6/4b0295ec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/082fc3c6/4b0295ec.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחן את פני העיר | פרשת וישלח | הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/b6ac422c/fbae3268.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b6ac422c/fbae3268.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת | פרשת וישלח | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/287ae0ca/bac2007a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/287ae0ca/bac2007a.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עברית לשון הקודש | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6e8fb3c0/3c76da09.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6e8fb3c0/3c76da09.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצורך בהעמקת הדעות | מאמר הדור - פרק ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0315ac15/140b14d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0315ac15/140b14d0.mp3</guid>
+   <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפליטיקה הישראלית האמיתית | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ef759818/d417b643.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ef759818/d417b643.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | שער הבחינה - פרק ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d36f8591/37d000c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d36f8591/37d000c4.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחדות השינוי | אורות ישראל | פרק ה פיסקה ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/df78e467/9d6a129d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/df78e467/9d6a129d.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחדות השינוי | אורות ישראל | פרק ה פיסקה ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2322f6c1/28a95bfe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2322f6c1/28a95bfe.mp3</guid>
+   <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | שער הבחינה - פרק ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d7153756/f7f1a43b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d7153756/f7f1a43b.mp3</guid>
+   <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק א | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/227657fe/d84ece1a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/227657fe/d84ece1a.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך | סיום פרק ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/24a73183/2dbcabaf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/24a73183/2dbcabaf.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך | סיום פרק ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d711bd0a/f30eaa0a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d711bd0a/f30eaa0a.mp3</guid>
+   <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעקבות הצאן | פרשת ויצא | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4cc2ba0c/0cd09664.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4cc2ba0c/0cd09664.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בעקבות הצאן | פרשת ויצא | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/888c4f09/df44c5b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/888c4f09/df44c5b4.mp3</guid>
+   <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה היא פוליטיקה ישראלית | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/eeccb157/d5b987bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eeccb157/d5b987bb.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | שער הבחינה - פרק א | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f30cb028/07253330.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f30cb028/07253330.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | שער הבחינה - פרק א | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/821ee50c/9500dffe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/821ee50c/9500dffe.mp3</guid>
+   <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אידאל ומציאות | מוסר אביך פרק ד פסקאות ג-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/630ad23e/a721ba52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/630ad23e/a721ba52.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אידאל ומציאות | מוסר אביך פרק ד פסקאות ג-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/c97e0c32/c68dc0b3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c97e0c32/c68dc0b3.mp3</guid>
+   <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנסת אורחים | פרשת תולדות | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8b39265c/9e1cef18.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8b39265c/9e1cef18.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת על הפרשה | פרשת תולדות | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bb26d20e/fd87e3fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bb26d20e/fd87e3fd.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכנסת אורחים | פרשת תולדות | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/35d7dbf2/417480aa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/35d7dbf2/417480aa.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת על הפרשה | פרשת תולדות | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b0d4e880/2c8a5500.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b0d4e880/2c8a5500.mp3</guid>
+   <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אב המון גויים | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/021ba1cd/d716b2a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/021ba1cd/d716b2a1.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | הקדמה לשער הבחינה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b49b6bb1/ba551ee0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b49b6bb1/ba551ee0.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חובות הלבבות | הקדמה לשער הבחינה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0bb41b5a/ea06eb5b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0bb41b5a/ea06eb5b.mp3</guid>
+   <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת על פרשת חיי שרה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3cf4feb3/6cc7b23d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3cf4feb3/6cc7b23d.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת על פרשת חיי שרה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1707225f/aec15f0d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1707225f/aec15f0d.mp3</guid>
+   <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עמידה שיחה פגיעה | פרשת חיי שרה | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/ce6929db/3c718f95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ce6929db/3c718f95.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עמידה שיחה פגיעה | פרשת חיי שרה | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/45b004b4/5c5b8666.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/45b004b4/5c5b8666.mp3</guid>
+   <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבדלת ישראל מהעמים | אורות ישראל | פרקה ה פסקה א | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/07bf62fd/635823fe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/07bf62fd/635823fe.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הבדלת ישראל מהעמים | אורות ישראל | פרקה ה פסקה א | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a65ea334/b5b47d0f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a65ea334/b5b47d0f.mp3</guid>
+   <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך | פרק ד פסקאות א-ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b62cfee3/cfcfd70a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b62cfee3/cfcfd70a.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפוליטיקה שלנו | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/aa7e0382/15aa9a22.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aa7e0382/15aa9a22.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | חלק ח ואחרון | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/62af6785/ee594931.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/62af6785/ee594931.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מוסר אביך | פרק ד פסקאות א-ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/de3d8927/a786f7d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/de3d8927/a786f7d4.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | חלק ח ואחרון | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/733e9184/9af068a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/733e9184/9af068a0.mp3</guid>
+   <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לאומיות ישראלית מקורית מול מיובאת | לנתיבות ישראל מאמר על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/022ca7d8/152df09b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/022ca7d8/152df09b.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | חלק ז | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/aff55d23/e84e5780.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aff55d23/e84e5780.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | חלק ז | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/112d2072/dfd50b13.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/112d2072/dfd50b13.mp3</guid>
+   <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדרגת הטוב והישר | פרשת לך לך | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/3c51888b/0324fa5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3c51888b/0324fa5f.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארץ ישראל של מעלה | פרשת לך לך | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1d4bae09/867ebac8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1d4bae09/867ebac8.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידת הגאווה הראויה | מוסר אביך ג ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0fa8e4e5/aa084c87.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0fa8e4e5/aa084c87.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדרגת הטוב והישר | פרשת לך לך | מור הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/9caf425a/c9a3f5a3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9caf425a/c9a3f5a3.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ארץ ישראל של מעלה | פרשת לך לך | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/aeaded5d/7a52b805.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aeaded5d/7a52b805.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מידת הגאווה הראויה | מוסר אביך ג ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d0930ff3/e842bffe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d0930ff3/e842bffe.mp3</guid>
+   <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לפגוש את החיצוניות מתוך הפנימיות | לנתיבות ישראל על הפרק שיעור שני | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/09ccf27e/5e20238d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/09ccf27e/5e20238d.mp3</guid>
+   <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | פרק ו | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/87eb6a72/1bf836bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/87eb6a72/1bf836bf.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | פרק ו | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b9f06803/a249977a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b9f06803/a249977a.mp3</guid>
+   <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לפרשת נח | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9bbd06b3/348fcb29.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9bbd06b3/348fcb29.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>את האלוקים התהלך נח | שיעור פרשת שבוע | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/745e56ab/b5dcec1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/745e56ab/b5dcec1c.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>את האלוקים התהלך נח | שיעור פרשת שבוע | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/a3e0cd7c/076a2280.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a3e0cd7c/076a2280.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לפרשת נח | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/324d7ef2/f5c9f248.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/324d7ef2/f5c9f248.mp3</guid>
+   <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודת השיגרה | שיעור תחילת זמן חורף | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/8d6dc42c/2bd9a5e4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8d6dc42c/2bd9a5e4.mp3</guid>
+   <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צימאון לא-ל חי | זרעונים - אורות | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ffab0b1d/93d2495b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ffab0b1d/93d2495b.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צימאון לא-ל חי | זרעונים - אורות | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cacbc069/779fae55.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cacbc069/779fae55.mp3</guid>
+   <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובת הלבבות | חלק ה | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3a292cdb/37de3d43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3a292cdb/37de3d43.mp3</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובת הלבבות | חלק ה | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1d010492/dbdb7715.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1d010492/dbdb7715.mp3</guid>
+   <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אוהד תירוש | שיעור להושענא רבה</title>
+   <description>הרב אוהד תירוש · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אוהד תירוש</itunes:author>
+   <enclosure url="https://media.transistor.fm/79212aff/77407cfd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/79212aff/77407cfd.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב איתמר אורבך | שיעור להושענא רבה</title>
+   <description>הרב איתמר אורבך · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב איתמר אורבך</itunes:author>
+   <enclosure url="https://media.transistor.fm/bd1e33f3/22f66fed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bd1e33f3/22f66fed.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אליעזר קשתיאל | שיעור להושענא רבה</title>
+   <description>הרב אליעזר קשתיאל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/628f5f3a/93354b57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/628f5f3a/93354b57.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב בועז כהנא | שיעור להושענא רבה</title>
+   <description>הרב בועז כהנא · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב בועז כהנא</itunes:author>
+   <enclosure url="https://media.transistor.fm/ddec8057/3a22d63f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ddec8057/3a22d63f.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב חגי לונדין | שיעור להושענא רבה</title>
+   <description>הרב חגי לונדין · ישיבת נצר מטעי · הלכה</description>
+   <itunes:author>הרב חגי לונדין</itunes:author>
+   <enclosure url="https://media.transistor.fm/cb7da07b/7575984f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cb7da07b/7575984f.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יהושוע ון-דייק | שיעור להושענא רבה</title>
+   <description>הרב יהושוע ון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושוע ון</itunes:author>
+   <enclosure url="https://media.transistor.fm/e4d6dea9/e69cfe08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e4d6dea9/e69cfe08.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יצחק בזק | שיעור להושענא רבה</title>
+   <description>הרב יצחק בזק · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יצחק בזק</itunes:author>
+   <enclosure url="https://media.transistor.fm/1f5e0756/c0127611.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1f5e0756/c0127611.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מו"ר הרב ציון טוויל | שיעור להושענא רבה</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/3b16fbc3/0279b01b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3b16fbc3/0279b01b.mp3</guid>
+   <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיצומו של יום | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/194b457c/b6ea0a21.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/194b457c/b6ea0a21.mp3</guid>
+   <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובה של גדלות | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/36a49ff9/8aace163.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/36a49ff9/8aace163.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתחבר לשורשים | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ec20c3ee/d4c1cb95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ec20c3ee/d4c1cb95.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתחבר לשורשים | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/5c66e795/812b91da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/5c66e795/812b91da.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לצאת מהבינוניות | עשרת ימי תשובה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/738d918b/a6084c41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/738d918b/a6084c41.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיב התשובה למהרל א | חלק ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6db75f63/9277514e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6db75f63/9277514e.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיב התשובה למהרל א | חלק ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f984ba3e/5a6ee434.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f984ba3e/5a6ee434.mp3</guid>
+   <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צדיק ורע לו | הלכות תשובה לרמב"ם | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · הלכה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/46eecfa3/de601d5e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/46eecfa3/de601d5e.mp3</guid>
+   <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לידה מחדש | שיעור לראש השנה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/47f4c6e9/9a0ae6b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/47f4c6e9/9a0ae6b4.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | פרק ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/fb28696e/d820f694.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/fb28696e/d820f694.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זיהוי התקופות וההתחדשות הבאה בעקבותם | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7d92364d/10cd7f86.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7d92364d/10cd7f86.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זיהוי התקופות וההתחדשות הבאה בעקבותם | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e5a01c09/5823d285.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e5a01c09/5823d285.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובות הלבבות | פרק ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6c19bc1a/d852ebdd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6c19bc1a/d852ebdd.mp3</guid>
+   <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור הכנה לימים הנוראים | הרב אליעזר קשתיאל</title>
+   <description>הרב אליעזר קשתיאל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אליעזר קשתיאל</itunes:author>
+   <enclosure url="https://media.transistor.fm/280f9227/41a0bccb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/280f9227/41a0bccb.mp3</guid>
+   <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדוד ה' אורי וישעי | מדבר שור - הדרוש השמונה עשר | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/a8b1f253/a940019c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a8b1f253/a940019c.mp3</guid>
+   <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תקופת השנה | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/eb81e4ab/a41163c3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eb81e4ab/a41163c3.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיב התשובה למהר"ל | חלק א | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/053d23ec/5908878d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/053d23ec/5908878d.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפילות ראש השנה | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/bbcf351b/ce7be05b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bbcf351b/ce7be05b.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תקופת השנה | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0edef3a0/6e64543e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0edef3a0/6e64543e.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נתיב התשובה למהר"ל | חלק א | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2cb05952/0ed2fa97.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2cb05952/0ed2fa97.mp3</guid>
+   <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובת הלבבות | חלק ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1c68ce5c/ebf34870.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1c68ce5c/ebf34870.mp3</guid>
+   <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובת האמונה השלמה חלק ג | לנתיבות ישראל | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/540d8745/e7d97934.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/540d8745/e7d97934.mp3</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובת הלבבות | חלק ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/74ad6b8d/59729fe2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/74ad6b8d/59729fe2.mp3</guid>
+   <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המבט על מקומו האמיתי ודיני הגאווה | מוסר אביך | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · הלכה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/666dfe2a/d642eeff.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/666dfe2a/d642eeff.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשינו מה שגזרת עלינו | פרשת כי תבוא | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/0a946db5/1bb5d85a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0a946db5/1bb5d85a.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עשינו מה שגזרת עלינו | פרשת כי תבוא | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/05840315/9da12cb7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/05840315/9da12cb7.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המבט על מקומו האמיתי ודיני הגאווה | מוסר אביך | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · הלכה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/69ede5b3/e77470bf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/69ede5b3/e77470bf.mp3</guid>
+   <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובת הלבבות | חלק א+ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/235e86a7/8fa90269.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/235e86a7/8fa90269.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובת האמונה השלמה חלק ב | לנתיבות ישראל | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1bbfbc6b/1da0e6e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1bbfbc6b/1da0e6e0.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקדמת חובת הלבבות | חלק א+ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/538b3c0e/1b08351d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/538b3c0e/1b08351d.mp3</guid>
+   <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למען יאריכון ימיך | שפת אמת - כי תצא | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/215e2162/7cc5d347.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/215e2162/7cc5d347.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא למלחמה | פרשת כי תצא | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/d8d389cf/f0179b54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d8d389cf/f0179b54.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא למלחמה | פרשת כי תצא | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/0f0bc30a/22db103a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0f0bc30a/22db103a.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למען יאריכון ימיך | שפת אמת - כי תצא | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2ab986c2/7ac46987.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2ab986c2/7ac46987.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשובת האמונה השלמה | לנתיבות ישראל | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6efd3b4f/89956250.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6efd3b4f/89956250.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרכיבי ושורשי הגאווה | מוסר אביך ג ב-ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4085ed17/108eaca5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4085ed17/108eaca5.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחת פתיחת זמן אלול | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/e23bcef0/ab48ba28.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e23bcef0/ab48ba28.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/93281e3b/78ab0a95.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/93281e3b/78ab0a95.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/fcca9434/ce58cf1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/fcca9434/ce58cf1c.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/993d00f7/aad7c156.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/993d00f7/aad7c156.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/92322b7a/1c3e3bf0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/92322b7a/1c3e3bf0.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/08bc981c/04994171.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/08bc981c/04994171.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e4b48ded/db6025ed.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e4b48ded/db6025ed.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ז</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/51a390cd/b18f15d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/51a390cd/b18f15d5.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ח</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f01b70e3/79eed976.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f01b70e3/79eed976.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ט א-ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/6cd70c68/fdc50bf7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/6cd70c68/fdc50bf7.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק ט ה-יב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8bebcdca/61bb80d9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8bebcdca/61bb80d9.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא קמא | פרק י</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e62bb7f3/80c381b8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e62bb7f3/80c381b8.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/269d7f1f/d05bfffc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/269d7f1f/d05bfffc.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ב א- ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/66b9252f/f05261a5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/66b9252f/f05261a5.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ב ז- יא</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/ad51a8f4/2a5d71a2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/ad51a8f4/2a5d71a2.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ג.</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8302343f/f30824f6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8302343f/f30824f6.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ד א-ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/03774501/32237d8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/03774501/32237d8a.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ד ו-יב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/21826469/2b52e799.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/21826469/2b52e799.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ה א-ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/5ad4c9f2/f9fd1dd2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/5ad4c9f2/f9fd1dd2.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ה ו-יא</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/26f15d90/ea956f85.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/26f15d90/ea956f85.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/99cfe1c7/9966fd4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/99cfe1c7/9966fd4a.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ז</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/b61244df/d59bf6b1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/b61244df/d59bf6b1.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ח</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8aee736f/9e84d5cf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/8aee736f/9e84d5cf.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק ט</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/4adb59c8/ba54829e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/4adb59c8/ba54829e.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא מציעא | פרק י</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/b17d233c/0cf30819.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/b17d233c/0cf30819.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/bf611667/c7d078a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/bf611667/c7d078a1.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ב א-ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/a6528971/f5a16de8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/a6528971/f5a16de8.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוריות | פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/998fa741/cff4cbdc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/998fa741/cff4cbdc.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוריות | פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/86057b5f/c255ce9d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/86057b5f/c255ce9d.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הוריות | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/eede080c/8b79e132.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/eede080c/8b79e132.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודה זרה | פרק ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/1361dc1a/1d22f724.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/1361dc1a/1d22f724.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודה זרה | פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/3dc776f4/5a8d6a21.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/3dc776f4/5a8d6a21.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודה זרה | פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/35a82cd9/b3a1d8a3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/35a82cd9/b3a1d8a3.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודה זרה | פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/33c35df3/e4d7f7eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/33c35df3/e4d7f7eb.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עבודה זרה | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/62e33c6d/02a62b42.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/62e33c6d/02a62b42.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועןת | פרק ח</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/3063f9df/da427084.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/3063f9df/da427084.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ז</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0f153ab3/a1692b87.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0f153ab3/a1692b87.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק י</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/817a9ac4/f0ead223.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/817a9ac4/f0ead223.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק ט</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0af0af74/94576b76.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0af0af74/94576b76.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק ח</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/db640d4f/a65d5d08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/db640d4f/a65d5d08.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק ז</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/d2d52562/a50492cd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/d2d52562/a50492cd.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/4befde62/09caa877.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/4befde62/09caa877.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/efac7d62/7c26d636.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/efac7d62/7c26d636.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/7b6ea317/b378fa19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/7b6ea317/b378fa19.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/27882f7e/7fd80b3b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/27882f7e/7fd80b3b.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/159393fd/3972a22e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/159393fd/3972a22e.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/9eb44def/4de525da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/9eb44def/4de525da.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/32018fdf/63e6f02e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/32018fdf/63e6f02e.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0f4ec46f/2f7193f7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/0f4ec46f/2f7193f7.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f9f4cb7a/a0371a41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f9f4cb7a/a0371a41.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/310a9dc8/c576d4ca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/310a9dc8/c576d4ca.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/73575b6f/e04a85fc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/73575b6f/e04a85fc.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/aa3b5675/b14af104.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/aa3b5675/b14af104.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מכות | פרק ג</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/bd189834/f5cac68a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/bd189834/f5cac68a.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מכות | פרק ב</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/c7e0c282/e7d6ba7a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/c7e0c282/e7d6ba7a.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מכות | פרק א</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/00aaf750/5c479578.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/00aaf750/5c479578.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סנהדרין | פרק יא</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/320c6e03/f551ae96.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/320c6e03/f551ae96.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק י</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/09b0abad/38a65175.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/09b0abad/38a65175.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ט</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/a07c0997/35855416.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/a07c0997/35855416.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ח</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/c7b03c01/30a5b7c9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/c7b03c01/30a5b7c9.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ז</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/130bb466/af7c9eb8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/130bb466/af7c9eb8.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ו</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/18b6279e/45188d6e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/18b6279e/45188d6e.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ה</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e303219d/8fe8dc06.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/e303219d/8fe8dc06.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/956eaf29/624d1060.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/956eaf29/624d1060.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ג ז-ח</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/12526258/e7d10135.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/12526258/e7d10135.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בבא בתרא | פרק ב ז- יד</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/119d3a35/596969f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://claritaspod.com/measure/2.gum.fm/op3.dev/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/119d3a35/596969f5.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מרכיבי ושורשי הגאווה | מוסר אביך ג ב-ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9e477e92/eee54933.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9e477e92/eee54933.mp3</guid>
+   <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על אלה אנו בוכים | ט באב | הרב שמואל טלר</title>
+   <description>הרב שמואל טלר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב שמואל טלר</itunes:author>
+   <enclosure url="https://media.transistor.fm/880e08eb/f24fa2f3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/880e08eb/f24fa2f3.mp3</guid>
+   <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אגדות החורבן | מהר"ל | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/e5e05920/c28ee1db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e5e05920/c28ee1db.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאיפה באמת מגיע הרצון לציונות | לנתיבות ישראל מאמר שני | על הפרק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/dbbf5e5f/13b581bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dbbf5e5f/13b581bb.mp3</guid>
+   <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הארת החיים הכללית | הרב מאיר נאמן</title>
+   <description>הרב מאיר נאמן · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב מאיר נאמן</itunes:author>
+   <enclosure url="https://media.transistor.fm/c7ddf46d/30f877da.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c7ddf46d/30f877da.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אהבת ישראל | אורות ישראל ד, י | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/65db5271/ebf69049.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/65db5271/ebf69049.mp3</guid>
+   <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכרת טובה עליונה | מוסר אביך, פרק ב' ה' | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ad1c5e16/0cf1afec.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ad1c5e16/0cf1afec.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הכרת טובה עליונה | מוסר אביך, פרק ב' ה' | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d1694bf2/7bda4084.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d1694bf2/7bda4084.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>,הרב אברהם שילר | ב,ד</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8143a709/16820501.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8143a709/16820501.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | ב, ד, | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/899511ef/9febb6d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/899511ef/9febb6d6.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | ב, ד, | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1ed8e365/ba39f759.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1ed8e365/ba39f759.mp3</guid>
+   <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור לימי בין המצרים | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/43d2f669/7c43d82c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/43d2f669/7c43d82c.mp3</guid>
+   <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המיוחדות שבתרבות הישראלית | לנתיבות ישראל מאמר א התרבות הישראלית | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/459cb248/5a7ac0d3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/459cb248/5a7ac0d3.mp3</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל נפש האדם | פרשת פנחס | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a75d0dbc/48458aae.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a75d0dbc/48458aae.mp3</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אל נפש האדם | פרשת פנחס | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f0c41f48/4b361605.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f0c41f48/4b361605.mp3</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בציפיה לישועה | צום יז בתמוז | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/6511c413/716a4d2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6511c413/716a4d2f.mp3</guid>
+   <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עץ חיים היא למחזיקים בה | שפת אמת פרשת בלק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cc74b51e/1cf533c2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cc74b51e/1cf533c2.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת בלעם את ישראל | פרשת בלק | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/45d9e579/3e968baa.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/45d9e579/3e968baa.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היסוד בתרבויות השונות | לנתיבות ישראל | מאמר התרבות הישראלית | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/97c9a0c0/f0864c80.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/97c9a0c0/f0864c80.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות כלי לרצון האלוקי | מוסר אביך תשפו , ב ה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3a3ae61c/b17f43ac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3a3ae61c/b17f43ac.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ברכת בלעם את ישראל | פרשת בלק | מו"ר הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/54b70c6a/84d1fc90.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/54b70c6a/84d1fc90.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עץ חיים היא למחזיקים בה | שפת אמת פרשת בלק | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/aa2196d8/b7dfbe52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aa2196d8/b7dfbe52.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להיות כלי לרצון האלוקי | מוסר אביך תשפו , ב ה | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b960af4d/f88f1de4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b960af4d/f88f1de4.mp3</guid>
+   <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדעת שורש הרגש והצורך בעולם ההתפתחותי | מוסר אביך | השלמות לפרק ב-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/84ab7460/1669316f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/84ab7460/1669316f.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדעת שורש הרגש והצורך בעולם ההתפתחותי | מוסר אביך | השלמות לפרק ב-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bd8de219/cf3e8699.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bd8de219/cf3e8699.mp3</guid>
+   <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | ב, ג2 , | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/30346628/42b1776f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/30346628/42b1776f.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | ב, ג2 , | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f0ff42d5/9d3f5f1c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f0ff42d5/9d3f5f1c.mp3</guid>
+   <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזכות לעשות את רצון ה' | מוסר אביך | ב-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/c41ea994/4c53fe5a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c41ea994/4c53fe5a.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה האדמה פתחה את פיה | פרשת קרח | מו"ר הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/b1b41316/d6fa8fb6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b1b41316/d6fa8fb6.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה האדמה פתחה את פיה | פרשת קרח | מו"ר הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/aeaf9b0a/73feaefc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/aeaf9b0a/73feaefc.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הזכות לעשות את רצון ה' | מוסר אביך | ב-ד | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/291beded/696d40de.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/291beded/696d40de.mp3</guid>
+   <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שנאה ופירודים | אורות ישראל ד | ו | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7d25ae89/81bee697.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7d25ae89/81bee697.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | ב | ב ג1 | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a0a0e511/05973dca.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a0a0e511/05973dca.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשך המאמר על התרבות | לנתיבות ישראל | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/375e5146/9b0d3299.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/375e5146/9b0d3299.mp3</guid>
+   <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת | פרשת שלח לך | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4c1b091b/02e9c0f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4c1b091b/02e9c0f0.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קשיי קליטה בארץ | שיעור לפרשת שלח לך | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/9c0baa83/21c2049d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9c0baa83/21c2049d.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות | פרשת שלח לך | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f401a400/9cbc0574.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f401a400/9cbc0574.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קשיי קליטה בארץ | שיעור לפרשת שלח לך | מור הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/b9cd2188/11755ae7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b9cd2188/11755ae7.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות | פרשת שלח לך | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6ec38719/ca623fd4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6ec38719/ca623fd4.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת | פרשת שלח לך | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2d519c58/84a1e22b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2d519c58/84a1e22b.mp3</guid>
+   <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בחירת שמות לילדי ישראל | שיעור כללי הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/75b12a12/369df3f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75b12a12/369df3f0.mp3</guid>
+   <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א, טו, חלק ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f49e3622/454fb85a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f49e3622/454fb85a.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א, טו חלק ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/daf744f9/1605566b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/daf744f9/1605566b.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתעלות מעל הטבע | אורות ישראל א' יא' | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7b30f0ef/2c9e8c6f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7b30f0ef/2c9e8c6f.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נעשה ונשמע | שיעור לשבועות | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/990fe072/926df5e0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/990fe072/926df5e0.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור הכנה לשבועות | מגילת רות | הרב צבי קוסטינר</title>
+   <description>הרב צבי קוסטינר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב צבי קוסטינר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2245f42a/75e76f58.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2245f42a/75e76f58.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתעלות מעל הטבע | אורות ישראל א' יא' | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/30e5b864/1fccc5e5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/30e5b864/1fccc5e5.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נעשה ונשמע | שיעור לשבועות | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/41ca452f/e01133c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/41ca452f/e01133c4.mp3</guid>
+   <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2940</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א, טו, | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ac7ea59b/60d6d4d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ac7ea59b/60d6d4d5.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניסיון בשביל אהבה | אורות</title>
+   <description>רבני הישיבה · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>רבני הישיבה</itunes:author>
+   <enclosure url="https://media.transistor.fm/e6d3a07b/a6d87c14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e6d3a07b/a6d87c14.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א, טו, | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cc462d8a/4ddcdf43.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cc462d8a/4ddcdf43.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניסיון בשביל אהבה | אורות</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7fa99566/1cbce37f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7fa99566/1cbce37f.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הענג והשמחה | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bc024840/cd988c37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bc024840/cd988c37.mp3</guid>
+   <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2640</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיבור מהנפש | אורות | אהבת ישראל ד | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/13522eba/81fce36a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/13522eba/81fce36a.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א יד - חלק ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/41b99b7b/e5680273.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/41b99b7b/e5680273.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לנתיבות ישראל | התרבות הישראלית | חלק א | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9ccbabcf/d99be68d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9ccbabcf/d99be68d.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גבורת ר' עקיבא ותלמידיו | ל"ג בעומר | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6d83680e/dd2c9a18.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6d83680e/dd2c9a18.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיבור מהנפש | אורות | אהבת ישראל ד | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a21e6d5e/327d52f9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a21e6d5e/327d52f9.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א יד - חלק ב | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2dd38867/10453956.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2dd38867/10453956.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גבורת ר' עקיבא ותלמידיו | ל"ג בעומר | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b3050b20/c39ede36.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b3050b20/c39ede36.mp3</guid>
+   <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להטהר באומר האלוקי | פרשת אמור | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/92a86123/5530551b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/92a86123/5530551b.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להטהר באומר האלוקי | פרשת אמור | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1f6ab5a1/b0340eaf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1f6ab5a1/b0340eaf.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפקיד הכהונה | פרשת אמור | הרב ציון טויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/513b4a23/8cbaaed7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/513b4a23/8cbaaed7.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שנאת הרשעה | פרשת אמור | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7d39dd89/bd59632d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7d39dd89/bd59632d.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכיך דעהו והכרת הטוב | מוסר אביך פרק א פסקה ב , ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bad9c154/8a34a813.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bad9c154/8a34a813.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תפקיד הכהונה | פרשת אמור | הרב ציון טויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/f0cf5eeb/9f338d7e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f0cf5eeb/9f338d7e.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שנאת הרשעה | פרשת אמור | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/dd168d09/c62db568.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dd168d09/c62db568.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת | פרשת אחרי מות-קדושים | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/64bc71f4/95ba771b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/64bc71f4/95ba771b.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכיך דעהו והכרת הטוב | מוסר אביך פרק א פסקה ב ג | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/615396a8/97a8f80a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/615396a8/97a8f80a.mp3</guid>
+   <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א יד | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/c8933b75/813bf58f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/c8933b75/813bf58f.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הווה את כל האדם לכף זכות | אורות ישראל,פרק ד | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/51158a37/d97409b0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/51158a37/d97409b0.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א יד | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d6f44ca7/81f90d5f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d6f44ca7/81f90d5f.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הווה את כל האדם לכף זכות | אורות ישראל,פרק ד | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/0dcb893e/3c20554d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/0dcb893e/3c20554d.mp3</guid>
+   <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפלג בעם | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4fd6417a/468d3f8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4fd6417a/468d3f8a.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדלותו של חודש אייר | שיעור לחודש אייר | עין איה שבת ב פרק תשיעי פסקה נה | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/75366427/1e7edbbb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75366427/1e7edbbb.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדלותו של חודש אייר | שיעור לחודש אייר | עין איה שבת ב פרק תשיעי פסקה נה | מור הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/d7076079/54695f8c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d7076079/54695f8c.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2760</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפלג בעם | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/2c08b9bd/63a013a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2c08b9bd/63a013a1.mp3</guid>
+   <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור על גבורת יום הזיכרון | עין איה ברכות ב, פרק תשיעי פסקה רכז | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/d7df6353/fd33ce34.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d7df6353/fd33ce34.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניינו של יום העצמאות | שיעור בענייני דיומא | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · גמרא</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/df584b08/69f56580.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/df584b08/69f56580.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסירות נפש וקידוש השם | שיעור ליום הזיכרון | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e1d46e75/d194202f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e1d46e75/d194202f.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התוקף ההלכתי ליום העצמאות | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b931a0d9/23774e6f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b931a0d9/23774e6f.mp3</guid>
+   <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסודות סיפור יציאת מצרים | שיעור לליל הסדר | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/d7333a9a/ecbdeae3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d7333a9a/ecbdeae3.mp3</guid>
+   <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור בהלכות פסח | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · הלכה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/af54a9bb/c4ea4803.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/af54a9bb/c4ea4803.mp3</guid>
+   <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יח ואחרון | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ae23262d/85f962dc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ae23262d/85f962dc.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/dc3fe6a3/89148584.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dc3fe6a3/89148584.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יח ואחרון | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e89bc0a2/38591ad2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e89bc0a2/38591ad2.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק יז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1e94cc28/965e4b08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1e94cc28/965e4b08.mp3</guid>
+   <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמרי הראיה | ההשפעה הכריזמתית | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a8f3210c/57d16a4a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a8f3210c/57d16a4a.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א , יג , | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f527fef3/a434c18e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f527fef3/a434c18e.mp3</guid>
+   <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת | ויקהל פקודי | המשכן כתיקון לחטא העגל | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/75a4989e/8436cd7b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/75a4989e/8436cd7b.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכך דעהו | מוסר אביך | פרק ב - ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3b6936fe/186e852a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3b6936fe/186e852a.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התחדשות בעולמנו | שיעור לפרשת החודש | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f1784f07/200c7298.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f1784f07/200c7298.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חירות עמ"י בקביעותו במציאות | מאמרי הראיה | מאמר הלילה הזה כולנו מסובין | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/eb35a90b/bde92cfe.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/eb35a90b/bde92cfe.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חירות עמ"י בקביעותו במציאות | מאמרי הראיה | מאמר הלילה הזה כולנו מסובין | מו"ר הרב ציון טוויל</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/b596d3bd/cc765ff4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b596d3bd/cc765ff4.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התחדשות בעולמנו | שיעור לפרשת החודש | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a5421eee/9c21ecd9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a5421eee/9c21ecd9.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שפת אמת | ויקהל פקודי | המשכן כתיקון לחטא העגל | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · חסידות וקבלה</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3eae7cb6/986ce62e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3eae7cb6/986ce62e.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בכל דרכך דעהו | מוסר אביך | פרק ב - ב | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e7f0eb94/62cc095a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e7f0eb94/62cc095a.mp3</guid>
+   <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחדות ההפכים | פרשת כי תשא | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/95f38e1e/b0029834.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/95f38e1e/b0029834.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תיקון בעזרת השכל והרצון | מוסר אביך ב, א, | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/af887fd3/8b3cee37.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/af887fd3/8b3cee37.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחדות ההפכים | פרשת כי תשא | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3e826cec/75be9877.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3e826cec/75be9877.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א , יג , | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/83e78309/125ce912.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/83e78309/125ce912.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמרי הראיה | ההשפעה הכריזמתית | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/1ceddedd/e4056620.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/1ceddedd/e4056620.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תיקון בעזרת השכל והרצון | מוסר אביך ב, א, |הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bf37bdf1/6f75cdd4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bf37bdf1/6f75cdd4.mp3</guid>
+   <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק טז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/8a307f69/28dcdd32.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/8a307f69/28dcdd32.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק טז | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d1cfdfbc/dffc5f3f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d1cfdfbc/dffc5f3f.mp3</guid>
+   <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשבת זכור ופורים | תשפ"ו | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9aee2b52/4139a510.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9aee2b52/4139a510.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהות השמחה | שיעור לחודש אדר ולפורים | עין איה שבת א פרק שני פסקה צח | מור הרב ציון</title>
+   <description>הרב ציון · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון</itunes:author>
+   <enclosure url="https://media.transistor.fm/94ca1f85/5901486c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/94ca1f85/5901486c.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפיל פור הוא הגורל | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b4813df0/0054c2e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b4813df0/0054c2e8.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים- קדושת הטבע | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f5e7e294/e49c4e6c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f5e7e294/e49c4e6c.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מהות השמחה | שיעור לחודש אדר ולפורים | עין איה שבת א פרק שני פסקה צח | מור הרב ציון</title>
+   <description>הרב ציון טוויל · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב ציון טוויל</itunes:author>
+   <enclosure url="https://media.transistor.fm/74e65f31/00ed2d4e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/74e65f31/00ed2d4e.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפיל פור הוא הגורל | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9970157b/3ac91c15.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9970157b/3ac91c15.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לשבת זכור ופורים | תשפ"ו | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4d159f45/9a34ef73.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4d159f45/9a34ef73.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים- קדושת הטבע | פרשת תצוה | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/b7a13520/295486c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/b7a13520/295486c0.mp3</guid>
+   <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדבר שנותן כוחות לחיים | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/79e1461a/e0c06921.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/79e1461a/e0c06921.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א, יב, | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a4d2b9d7/57dc0a19.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a4d2b9d7/57dc0a19.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א, יב, | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a29df1c0/ff94857b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a29df1c0/ff94857b.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הדבר שנותן כוחות לחיים | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f130e9a6/b8f1bec6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f130e9a6/b8f1bec6.mp3</guid>
+   <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ט"ו | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/cadc526b/f5027fd9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/cadc526b/f5027fd9.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק ט"ו | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9525679d/bfe0576d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9525679d/bfe0576d.mp3</guid>
+   <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחיית עמלק להפוך את הקור לחום | פרשת תרומה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4dd01f7b/a0f71d6c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4dd01f7b/a0f71d6c.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התנאי לקבל מרירות הסם | מוסר אביך | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/887bba7f/a51ac5bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/887bba7f/a51ac5bb.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מחיית עמלק להפוך את הקור לחום | פרשת תרומה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · פרשת השבוע</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/a9bf172d/740bda64.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/a9bf172d/740bda64.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התנאי לקבל מרירות הסם | מוסר אביך | הרב יהושע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · תנ"ך</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/18aeaf87/649b373b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/18aeaf87/649b373b.mp3</guid>
+   <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א, יב . | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/4f3aec2d/f57d7f65.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/4f3aec2d/f57d7f65.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפסיכיקה הלאומית | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/7027c451/fa57ad2b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/7027c451/fa57ad2b.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אורות ישראל | א, יב . | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/e72ff0fa/b5f3015d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/e72ff0fa/b5f3015d.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפסיכיקה הלאומית | מאמרי הראיה | הרב אברהם שילר</title>
+   <description>הרב אברהם שילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אברהם שילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/86386a39/c6e6fabd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/86386a39/c6e6fabd.mp3</guid>
+   <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק י"ד | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/3052d228/e05ab806.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/3052d228/e05ab806.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מאמר הדור | חלק י"ד | הרב אריאל רקובר</title>
+   <description>הרב אריאל רקובר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב אריאל רקובר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d605ede9/12205fc8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d605ede9/12205fc8.mp3</guid>
+   <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השמחה | למוסר אביך א, ח | הרב יהושוע וידר</title>
+   <description>הרב יהושע וידר · ישיבת נצר מטעי · מוסר</description>
+   <itunes:author>הרב יהושע וידר</itunes:author>
+   <enclosure url="https://media.transistor.fm/bdc90bf0/a1aa874f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/bdc90bf0/a1aa874f.mp3</guid>
+   <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

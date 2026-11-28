@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יוני קירש · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-c75cec92.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יוני קירש.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>חטא הארץ ושינוי פני העולם | הרב יוני קירש על פרשת לך לך</title>
+   <description>הרב יוני קירש · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=EULfs0Ws-0E</description>
+   <itunes:author>הרב יוני קירש</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/EULfs0Ws-0E.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/EULfs0Ws-0E.mp3</guid>
+   <pubDate>Tue, 27 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"אז מה איבדנו בט' באב?" | הרב יוני קירש על תשיעי באב</title>
+   <description>הרב יוני קירש · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=66U6YBhAFNM</description>
+   <itunes:author>הרב יוני קירש</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/66U6YBhAFNM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/66U6YBhAFNM.mp3</guid>
+   <pubDate>Wed, 29 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח שני – יותר מהזדמנות שניה | הרב יוני קירש</title>
+   <description>הרב יוני קירש · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=1_TUEIid3ko</description>
+   <itunes:author>הרב יוני קירש</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1_TUEIid3ko.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1_TUEIid3ko.mp3</guid>
+   <pubDate>Fri, 08 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משמעות המקווה – פרשת שמיני | הרב יוני קירש</title>
+   <description>הרב יוני קירש · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=vDYKgWKGBNU</description>
+   <itunes:author>הרב יוני קירש</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/vDYKgWKGBNU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/vDYKgWKGBNU.mp3</guid>
+   <pubDate>Thu, 16 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"בהתחלה רעבים בסוף טעים" | הרב יוני קירש – ליל הסדר</title>
+   <description>הרב יוני קירש · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=6HgbIvzX9kE</description>
+   <itunes:author>הרב יוני קירש</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/6HgbIvzX9kE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/6HgbIvzX9kE.mp3</guid>
+   <pubDate>Mon, 06 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יוני קירש | פרשת צו</title>
+   <description>הרב יוני קירש · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=L_8lOyI6e8Q</description>
+   <itunes:author>הרב יוני קירש</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/L_8lOyI6e8Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/L_8lOyI6e8Q.mp3</guid>
+   <pubDate>Wed, 01 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יוני קירש – כשבית המקדש מגיע הביתה – קרבן פסח וליל הסדר</title>
+   <description>הרב יוני קירש · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=Oi9S_YF-DRY</description>
+   <itunes:author>הרב יוני קירש</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Oi9S_YF-DRY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Oi9S_YF-DRY.mp3</guid>
+   <pubDate>Wed, 25 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יוני קירש – פרשת שבוע | פרשת ויקהל – פקודי</title>
+   <description>הרב יוני קירש · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=oPAYRptAaFg</description>
+   <itunes:author>הרב יוני קירש</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oPAYRptAaFg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oPAYRptAaFg.mp3</guid>
+   <pubDate>Wed, 18 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

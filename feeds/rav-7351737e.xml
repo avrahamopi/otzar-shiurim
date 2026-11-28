@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אפי ולץ · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-7351737e.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אפי ולץ.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>חג הפנימיות וגילוי א-לוהים בפורים - ניגון פורים | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2c9f5ae8-e2a7-4ca1-ad76-45a3c15d4c92/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2c9f5ae8-e2a7-4ca1-ad76-45a3c15d4c92/stream.mp3</guid>
+   <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נס מלחמת האדם הפשוט | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/55b72a57-626d-4b22-9748-d363b340fb96/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/55b72a57-626d-4b22-9748-d363b340fb96/stream.mp3</guid>
+   <pubDate>Mon, 15 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וזאת הברכה - יסודות מתורתו של השפת אמת</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · חסידות וקבלה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e77fb4e7-e162-446f-96a4-ff12ca11c1fd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e77fb4e7-e162-446f-96a4-ff12ca11c1fd/stream.mp3</guid>
+   <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האזינו - תכין לבם תקשיב אוזנך</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5908d263-cdf6-42a9-b32c-4724b467d5ae/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5908d263-cdf6-42a9-b32c-4724b467d5ae/stream.mp3</guid>
+   <pubDate>Wed, 02 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וילך - והשיב לב אבות על בנים</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/117622e7-27c9-40b7-94a2-ecac0e58e84f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/117622e7-27c9-40b7-94a2-ecac0e58e84f/stream.mp3</guid>
+   <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נצבים - כי קרוב אליך הדבר מאד</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e4de20df-a1a3-4dbf-afa0-afbe31ba7d35/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e4de20df-a1a3-4dbf-afa0-afbe31ba7d35/stream.mp3</guid>
+   <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תבוא - "הכל תלוי בהראשית"</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a2401e68-f7cb-4482-9c94-3946cb175af3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a2401e68-f7cb-4482-9c94-3946cb175af3/stream.mp3</guid>
+   <pubDate>Thu, 19 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תצא - "לווית חן הם לראשך"</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/648d7adb-6817-4c09-8868-67bbf8d4cee9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/648d7adb-6817-4c09-8868-67bbf8d4cee9/stream.mp3</guid>
+   <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שופטים - ממלכת נפשו של האדם</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · תנ"ך</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ceb52a48-5a8d-4479-b8f6-3939f9111b88/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ceb52a48-5a8d-4479-b8f6-3939f9111b88/stream.mp3</guid>
+   <pubDate>Thu, 05 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראה - ובחרת בחיים</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3f074af5-bebf-4729-a606-488f40289056/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3f074af5-bebf-4729-a606-488f40289056/stream.mp3</guid>
+   <pubDate>Tue, 27 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עקב - "בשמרם עקב רב"</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b2d600a8-6925-415d-a3ae-83d670b54b28/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b2d600a8-6925-415d-a3ae-83d670b54b28/stream.mp3</guid>
+   <pubDate>Tue, 20 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ואתחנן - תכין לבם תקשיב אזנך</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ed8997ff-14f4-4cb0-b9e3-1edb7d60f072/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ed8997ff-14f4-4cb0-b9e3-1edb7d60f072/stream.mp3</guid>
+   <pubDate>Wed, 14 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברים - עץ חיים מרפא לשון</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c1338521-652f-4a69-ba23-549d145a6f62/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c1338521-652f-4a69-ba23-549d145a6f62/stream.mp3</guid>
+   <pubDate>Tue, 06 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסעי - המסע הפנימי ממצרים לארץ ישראל</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/940f22d9-3da4-40fc-9ff4-f5cef99b5b28/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/940f22d9-3da4-40fc-9ff4-f5cef99b5b28/stream.mp3</guid>
+   <pubDate>Wed, 31 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מטות - נשבעתי ואקיימה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f7afb559-1bf6-433f-b2aa-449084360f44/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f7afb559-1bf6-433f-b2aa-449084360f44/stream.mp3</guid>
+   <pubDate>Mon, 29 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פנחס - הנהגת המדבר והכניסה לארץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/648a0642-6163-459b-b4a9-bc7195c9b6aa/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/648a0642-6163-459b-b4a9-bc7195c9b6aa/stream.mp3</guid>
+   <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בלק - תלמידיו של אברהם אבינו</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/6f702879-39fb-4612-95ee-0ddce87bfae3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/6f702879-39fb-4612-95ee-0ddce87bfae3/stream.mp3</guid>
+   <pubDate>Tue, 16 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חקת - טועמיה חיים זכו</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/608254bf-ae83-4add-8c33-83807af3bcc2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/608254bf-ae83-4add-8c33-83807af3bcc2/stream.mp3</guid>
+   <pubDate>Tue, 09 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרח - 'אשר יבחר ה' הוא הקדוש'</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4205c9ed-c52c-41e0-b234-df80a492f79d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4205c9ed-c52c-41e0-b234-df80a492f79d/stream.mp3</guid>
+   <pubDate>Tue, 02 Jul 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלח - חיים של שליחות</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5666a2fd-aa09-49cf-83c2-1bdaa72656f9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5666a2fd-aa09-49cf-83c2-1bdaa72656f9/stream.mp3</guid>
+   <pubDate>Tue, 25 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהעלותך - להגיד שבחו - שלא שינה ולא השתנה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c74db196-9fcd-4bcc-b8be-7d03e11f9247/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c74db196-9fcd-4bcc-b8be-7d03e11f9247/stream.mp3</guid>
+   <pubDate>Wed, 19 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נשא - הנזיר, הכהן וכלל ישראל</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/70bfdf49-9d97-4f12-be25-f53c0082f219/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/70bfdf49-9d97-4f12-be25-f53c0082f219/stream.mp3</guid>
+   <pubDate>Tue, 11 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>במדבר – לפקודיהם ולמשפחותם</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/89f96e6d-b36d-4fae-8858-5afe33a1d3f7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/89f96e6d-b36d-4fae-8858-5afe33a1d3f7/stream.mp3</guid>
+   <pubDate>Wed, 05 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בחוקותי - לאשתדלא באורייתא</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f2409344-f96b-49ef-974e-4110607b2ed8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f2409344-f96b-49ef-974e-4110607b2ed8/stream.mp3</guid>
+   <pubDate>Mon, 27 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בהר - השביתה והברכה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/10176ed1-0588-474c-bfde-92ab82b49324/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/10176ed1-0588-474c-bfde-92ab82b49324/stream.mp3</guid>
+   <pubDate>Mon, 20 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"אמור - "והיית רק למעלה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1854facb-a257-451a-a1a0-44fe1f8aebbd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1854facb-a257-451a-a1a0-44fe1f8aebbd/stream.mp3</guid>
+   <pubDate>Thu, 16 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קדושים - נתת קדושה לישראל לעולם</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3ee3e3c5-bf2f-4436-99ec-ce3826e9962b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3ee3e3c5-bf2f-4436-99ec-ce3826e9962b/stream.mp3</guid>
+   <pubDate>Fri, 10 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>אחרי מות - אשר יעשה אותם האדם וחי בהם</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/42445905-a8bf-4934-8338-6e8bb5362b55/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/42445905-a8bf-4934-8338-6e8bb5362b55/stream.mp3</guid>
+   <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מצורע - בין החוץ לפנים</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7ec8af1d-9426-428f-8300-def0a4a5b566/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7ec8af1d-9426-428f-8300-def0a4a5b566/stream.mp3</guid>
+   <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תזריע - שני העולמות שבבריאה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e156803c-b437-4101-8521-c1d0679b4de7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e156803c-b437-4101-8521-c1d0679b4de7/stream.mp3</guid>
+   <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמיני - כאשר ציווה את משה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c7805c3f-de2d-4d78-b479-60ac6c918dbc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c7805c3f-de2d-4d78-b479-60ac6c918dbc/stream.mp3</guid>
+   <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צו - אש תמיד - לא תכבה!</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/22ef86ae-4111-47ce-8961-dbbf5fcffae7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/22ef86ae-4111-47ce-8961-dbbf5fcffae7/stream.mp3</guid>
+   <pubDate>Tue, 26 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקרא - תכונותיו של מנהיג</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/387dcdea-2f7a-46d9-808a-b4c4b09c96a6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/387dcdea-2f7a-46d9-808a-b4c4b09c96a6/stream.mp3</guid>
+   <pubDate>Tue, 19 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פקודי - מקור הברכה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · פרשת השבוע</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a3be84a7-a2a5-48d8-b5eb-cc781d835295/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a3be84a7-a2a5-48d8-b5eb-cc781d835295/stream.mp3</guid>
+   <pubDate>Tue, 12 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויקהל - אחד המרבה ואחד הממעיט לבם לשמים</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d2e7c62f-ee90-4d5f-8112-54437b12f7de/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d2e7c62f-ee90-4d5f-8112-54437b12f7de/stream.mp3</guid>
+   <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כי תשא - כתבם על לוח לבך</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/44644058-f4a0-463e-91e3-bed7e4a795ac/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/44644058-f4a0-463e-91e3-bed7e4a795ac/stream.mp3</guid>
+   <pubDate>Tue, 27 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תצווה - קידשנו במצוות וציוונו</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/fe9312e0-5081-455e-ba25-dcedfaf2300d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/fe9312e0-5081-455e-ba25-dcedfaf2300d/stream.mp3</guid>
+   <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תרומה - העיקר הכוונה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e2ff1372-d753-45f8-9929-d7c8c2dec280/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e2ff1372-d753-45f8-9929-d7c8c2dec280/stream.mp3</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משפטים - משפטי קודש ואנשי קודש</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/de0c7047-04a7-417d-b094-a88a0bfe69c9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/de0c7047-04a7-417d-b094-a88a0bfe69c9/stream.mp3</guid>
+   <pubDate>Sun, 04 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יתרו - נעשה ונשמע</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a4b34fc3-3b35-40f4-9f7e-b0d2d6b35301/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a4b34fc3-3b35-40f4-9f7e-b0d2d6b35301/stream.mp3</guid>
+   <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בשלח - תפילה, צעקה ושירה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0359d14a-943d-4b1e-aabf-be173ff91aa4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0359d14a-943d-4b1e-aabf-be173ff91aa4/stream.mp3</guid>
+   <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בא - נס בטבע</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b5b2f985-c6a8-4acd-a284-e33502019da6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b5b2f985-c6a8-4acd-a284-e33502019da6/stream.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וארא - גלות וגילוי</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/99a412be-5861-4f7c-97bc-784f8b759ddd/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/99a412be-5861-4f7c-97bc-784f8b759ddd/stream.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמות - לכל איש יש שם</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b99af938-095a-4389-9635-0362ef3deaa3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b99af938-095a-4389-9635-0362ef3deaa3/stream.mp3</guid>
+   <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויחי - גלות הגוף וחירות הנפש</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a7754d2d-3e6d-4244-be9c-480e93eddf67/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a7754d2d-3e6d-4244-be9c-480e93eddf67/stream.mp3</guid>
+   <pubDate>Tue, 26 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויגש - מביטול עצמי למלוכה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9540bc25-c456-447f-819c-16f7ab7a4dc4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9540bc25-c456-447f-819c-16f7ab7a4dc4/stream.mp3</guid>
+   <pubDate>Mon, 18 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מקץ - חיצוניות אל מול הפנימיות</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/030a0399-b48d-407d-9956-d3aec93ccbe2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/030a0399-b48d-407d-9956-d3aec93ccbe2/stream.mp3</guid>
+   <pubDate>Thu, 14 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישב - צמיחה מתוך אתגר</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/faa5120f-facc-4abd-b210-2e067363a0c4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/faa5120f-facc-4abd-b210-2e067363a0c4/stream.mp3</guid>
+   <pubDate>Tue, 05 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וישלח - יש לי כל - סוד התשוקה לקדושה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9c82a482-4732-4231-89ec-d9c759c613e8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9c82a482-4732-4231-89ec-d9c759c613e8/stream.mp3</guid>
+   <pubDate>Thu, 30 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ויצא - מציאת האור בעומק החשכה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5fe6f402-6e0e-4a74-b8e1-52428e44e2b6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5fe6f402-6e0e-4a74-b8e1-52428e44e2b6/stream.mp3</guid>
+   <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תולדות - עלמא דשיקרא ועולם האמת</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/37aeaee2-b9fa-4c3e-a6cc-a142114a8904/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/37aeaee2-b9fa-4c3e-a6cc-a142114a8904/stream.mp3</guid>
+   <pubDate>Wed, 15 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (37) - לא תשחית את עצה | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3fe06255-cc9d-432e-ae07-5db98e1ad149/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3fe06255-cc9d-432e-ae07-5db98e1ad149/stream.mp3</guid>
+   <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (36) - וצרת עליה - המצור בהלכה | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a17c8d05-20d4-43a4-81d6-31d064b50603/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a17c8d05-20d4-43a4-81d6-31d064b50603/stream.mp3</guid>
+   <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חיי שרה - חיים של התחדשות</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d2b6885f-55dd-4043-aa79-9a658793a92a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d2b6885f-55dd-4043-aa79-9a658793a92a/stream.mp3</guid>
+   <pubDate>Mon, 06 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>וירא - נסיונות וניסים</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/38d065a3-7186-4a8b-b0df-6ee8802ff772/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/38d065a3-7186-4a8b-b0df-6ee8802ff772/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (26) - קריאת לשלום בשבעת עממין | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/feb1de6c-e11f-4ad4-bbe0-10ef4245bc73/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/feb1de6c-e11f-4ad4-bbe0-10ef4245bc73/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (25) - איך התורה מגנא ומצלא | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5e09217e-1cb0-479c-8b8d-10c48ef611fc/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5e09217e-1cb0-479c-8b8d-10c48ef611fc/stream.mp3</guid>
+   <pubDate>Thu, 02 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לך לך - לשמוע האמת</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/aa1304c7-2399-44a8-8668-de7d758126eb/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/aa1304c7-2399-44a8-8668-de7d758126eb/stream.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (21) - 'מלחמה ושלום' בתורה | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/3fd95a2f-65b4-419b-9fff-337359baffc2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/3fd95a2f-65b4-419b-9fff-337359baffc2/stream.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (20) - איך גיבורי 'חרבות ברזל' לא פחדו | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c34140c7-4be1-4c84-8a82-33c59ce4c679/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c34140c7-4be1-4c84-8a82-33c59ce4c679/stream.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (11) - נקי יהיה לביתו | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/29579c2e-9322-449c-9e01-62ef624eb19c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/29579c2e-9322-449c-9e01-62ef624eb19c/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (10) - חזרה מעורכי המלחמה | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/4f1b1c16-7416-455b-8407-4ac342f1a4af/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/4f1b1c16-7416-455b-8407-4ac342f1a4af/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נח - כוחה של אחדות</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1c6b7828-5ec1-4e6d-8ee5-b966692f89d0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1c6b7828-5ec1-4e6d-8ee5-b966692f89d0/stream.mp3</guid>
+   <pubDate>Wed, 18 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>בראשית - השבת והאדם בבריאת העולם</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5ace8692-56d5-43ab-86bd-2fd98fda806b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5ace8692-56d5-43ab-86bd-2fd98fda806b/stream.mp3</guid>
+   <pubDate>Wed, 11 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (2) - כהן משוח מלחמה | הרב אפי ולץ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/7b21e358-c7ba-4537-bf8b-e4b3f3fb4f03/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/7b21e358-c7ba-4537-bf8b-e4b3f3fb4f03/stream.mp3</guid>
+   <pubDate>Tue, 10 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמחת תורה - מעלתה של תורה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/f277d23f-8219-447b-8209-e4cd3b4b3db9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/f277d23f-8219-447b-8209-e4cd3b4b3db9/stream.mp3</guid>
+   <pubDate>Mon, 02 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוכות - ארעי שהוא קבע</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/70711401-fa7a-4cbd-a8bd-c0661a296132/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/70711401-fa7a-4cbd-a8bd-c0661a296132/stream.mp3</guid>
+   <pubDate>Tue, 26 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום כיפור - חיבור, אחדות, ועבודת היום</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/acf14e97-c3bb-4d81-891c-31f6fa0c797b/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/acf14e97-c3bb-4d81-891c-31f6fa0c797b/stream.mp3</guid>
+   <pubDate>Wed, 20 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ראש השנה - שלושה נתיבים בעבודת היום</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5a5ffc83-a1af-4ce1-8c4a-1c744a5ebb9a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5a5ffc83-a1af-4ce1-8c4a-1c744a5ebb9a/stream.mp3</guid>
+   <pubDate>Tue, 12 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תשעה באב - מסע ארוך של תיקון</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e57135da-ef29-487d-a160-01bcb5e35776/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e57135da-ef29-487d-a160-01bcb5e35776/stream.mp3</guid>
+   <pubDate>Sun, 16 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שבועות - חיי עולם נטע בתוכנו</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/374127b4-7fda-4cd9-929c-df503fb4d16a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/374127b4-7fda-4cd9-929c-df503fb4d16a/stream.mp3</guid>
+   <pubDate>Tue, 23 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום העצמאות - לפעול עם א-ל</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/01c5e8eb-e4ba-41d7-b8e1-8fdcce4e467d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/01c5e8eb-e4ba-41d7-b8e1-8fdcce4e467d/stream.mp3</guid>
+   <pubDate>Mon, 24 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח - משכני אחריך נרוצה</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/77c5f739-666d-4981-97d7-cbb3ac68762e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/77c5f739-666d-4981-97d7-cbb3ac68762e/stream.mp3</guid>
+   <pubDate>Wed, 29 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פורים - ליהודים היתה אורה - זו תורה שבע"פ</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/56ccf530-9459-4234-b563-cff34c53ada7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/56ccf530-9459-4234-b563-cff34c53ada7/stream.mp3</guid>
+   <pubDate>Thu, 02 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ט"ו בשבט - חשיבות הצומח</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/a26155e5-1123-4c83-8b4d-902211ba920a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/a26155e5-1123-4c83-8b4d-902211ba920a/stream.mp3</guid>
+   <pubDate>Thu, 02 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה ב - הנס שבטבע</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/775fb185-1fff-4fad-ad6b-5b93e44e9a6e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/775fb185-1fff-4fad-ad6b-5b93e44e9a6e/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חנוכה א - הרגיל בנר</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/d95b159d-e11e-44b2-9da6-539923b2b1e5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/d95b159d-e11e-44b2-9da6-539923b2b1e5/stream.mp3</guid>
+   <pubDate>Fri, 16 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אפי ולץ - ברכת זכרונות</title>
+   <description>הרב אפי ולץ · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אפי ולץ</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/6884c057-12bb-43d5-a6c3-5c476222ea04/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/6884c057-12bb-43d5-a6c3-5c476222ea04/stream.mp3</guid>
+   <pubDate>Wed, 01 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

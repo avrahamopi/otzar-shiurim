@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אשר וייס · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bfb73364.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אשר וייס.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>יום כיפור: מה אתה רחום אף הוא רחום | הרב אשר וייס | ימים נוראים תשפ"ז</title>
+   <description>הרב אשר וייס · ישיבת ירוחם · מועדים</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/125805649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F431988973-44100-2-482168c83ca82.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/125805649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F431988973-44100-2-482168c83ca82.mp3</guid>
+   <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וייס | סוגיית שומרים – שמירה בבעלים</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · גמרא</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Mfu_w9rXOg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Mfu_w9rXOg.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"שאו את ראש כל עדת בני ישראל" – כי כל אחד יקר מפז ומפנינים | הרב אשר וייס בענין הקורונה בישראל</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/a1lREDBsbY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/a1lREDBsbY.mp3</guid>
+   <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ענייני הצומות | הרב אשר וויס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=cX_q1t8qxEo</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cX_q1t8qxEo.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cX_q1t8qxEo.mp3</guid>
+   <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג השבועות | מצוות לימוד תורה – בהרהור או בדיבור? | הרב אשר וויס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=Ro3ZiFGEM5k</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Ro3ZiFGEM5k.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Ro3ZiFGEM5k.mp3</guid>
+   <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היזק ראיה – הרב אשר וייס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=TXYPgSs9JY8</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/TXYPgSs9JY8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/TXYPgSs9JY8.mp3</guid>
+   <pubDate>Tue, 19 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התפילה והברכות של מלכויות זכרונות ושופרות – הרב אשר וויס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=mGGmlvZRR_I</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/mGGmlvZRR_I.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/mGGmlvZRR_I.mp3</guid>
+   <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>גדר התענית בתשעה באב – הרב אשר וייס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=7b1jLquzLhk</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/7b1jLquzLhk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/7b1jLquzLhk.mp3</guid>
+   <pubDate>Sun, 11 Aug 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוגיית שומרים | הרב אשר וויס | סוגיות בעיון</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=ti80uqrCr7Q</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ti80uqrCr7Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ti80uqrCr7Q.mp3</guid>
+   <pubDate>Thu, 13 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יסוד היתר 'מתוך' | הרב אשר וייס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=foqnPTt5M8E</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/foqnPTt5M8E.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/foqnPTt5M8E.mp3</guid>
+   <pubDate>Wed, 13 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דברי התעוררות לחודש אלול | הרב אשר וייס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=eVqhOmjoXMk</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/eVqhOmjoXMk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/eVqhOmjoXMk.mp3</guid>
+   <pubDate>Mon, 11 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סוגיית אונס באדם המזיק | בבא קמא | הרב אשר וייס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=oRCB1vbP7mM</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oRCB1vbP7mM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oRCB1vbP7mM.mp3</guid>
+   <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וייס | מסכת בבא קמא | סוגיית עבד ואמה שהזיקו</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=Rg5tTYGlNuQ</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Rg5tTYGlNuQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Rg5tTYGlNuQ.mp3</guid>
+   <pubDate>Sun, 22 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וייס | אבות ותולדות בנזיקין</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=cT7Ajh1ql54</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/cT7Ajh1ql54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/cT7Ajh1ql54.mp3</guid>
+   <pubDate>Mon, 28 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וייס – סוגיית מכה בפטיש</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=uSeUjcuRQe8</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/uSeUjcuRQe8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/uSeUjcuRQe8.mp3</guid>
+   <pubDate>Wed, 11 May 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הסיפור ביציאת מצרים לעומת זכירתה | תקראו אותם - פסח | הרב אשר וייס</title>
+   <description>הרב אשר וייס · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9000b457-50bd-4dd6-a72b-3c03ddb6dfc7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9000b457-50bd-4dd6-a72b-3c03ddb6dfc7/stream.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וויס – הספד להגר"ח קנייבסקי זצ"ל ודרוש לפסח</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=XUxh9B8NNrk</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/XUxh9B8NNrk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/XUxh9B8NNrk.mp3</guid>
+   <pubDate>Sun, 27 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לחנוכה מאת הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=wVhOxuReYDk</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/wVhOxuReYDk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/wVhOxuReYDk.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר ליום הכיפורים מאת הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=hm-T6BiKw2w</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/hm-T6BiKw2w.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/hm-T6BiKw2w.mp3</guid>
+   <pubDate>Thu, 16 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וויס – ענייני תשובה</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=ZDpLfNvj2_E</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ZDpLfNvj2_E.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ZDpLfNvj2_E.mp3</guid>
+   <pubDate>Thu, 02 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וויס – שביתת הארץ בשביעית</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=2i8K-iAryDI</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/2i8K-iAryDI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/2i8K-iAryDI.mp3</guid>
+   <pubDate>Thu, 26 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לל"ג בעומר | מאת הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Nknagm1jFtE</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Nknagm1jFtE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Nknagm1jFtE.mp3</guid>
+   <pubDate>Thu, 29 Apr 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לליל הסדר מאת הרב אשר וייס שליט"א | ליל הסדר ה'תשפ"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=n4vHGBGQuRk</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/n4vHGBGQuRk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/n4vHGBGQuRk.mp3</guid>
+   <pubDate>Fri, 26 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וויס – 'שוויא אנפשיה חתיכה דאיסורא' | מסכת כתובות ה'תשפ"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=TWx72T-JXKU</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/TWx72T-JXKU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/TWx72T-JXKU.mp3</guid>
+   <pubDate>Mon, 15 Feb 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וייס שליט"א – טוענים רבניים | מבית כולל הדיינות 'אפיקי – דעת'</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=AJMzeQXHcUI</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AJMzeQXHcUI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AJMzeQXHcUI.mp3</guid>
+   <pubDate>Wed, 27 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת ויחי</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=72O7T7D1k0Q</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/72O7T7D1k0Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/72O7T7D1k0Q.mp3</guid>
+   <pubDate>Fri, 01 Jan 2021 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת ויגש</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=0YTbbsxdXiU</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/0YTbbsxdXiU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/0YTbbsxdXiU.mp3</guid>
+   <pubDate>Fri, 25 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת מקץ</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=V9n6cyNOWq0</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/V9n6cyNOWq0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/V9n6cyNOWq0.mp3</guid>
+   <pubDate>Fri, 18 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מדברי קודשו של הרה"ג הרב אשר וייס שליט"א על החיסון למגיפת הקורונה</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=pEtw2Bcr0qI</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/pEtw2Bcr0qI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/pEtw2Bcr0qI.mp3</guid>
+   <pubDate>Thu, 17 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת וישלח</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=RHMA5zceC7E</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/RHMA5zceC7E.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/RHMA5zceC7E.mp3</guid>
+   <pubDate>Sun, 06 Dec 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת ויצא</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=BYnvIwxz3e8</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/BYnvIwxz3e8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/BYnvIwxz3e8.mp3</guid>
+   <pubDate>Fri, 27 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת תולדות</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=WD-OLY_qqzE</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/WD-OLY_qqzE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/WD-OLY_qqzE.mp3</guid>
+   <pubDate>Fri, 20 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת חיי שרה</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=517aTMygDDc</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/517aTMygDDc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/517aTMygDDc.mp3</guid>
+   <pubDate>Fri, 13 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת וירא</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=e2j1RxKjCAA</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/e2j1RxKjCAA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/e2j1RxKjCAA.mp3</guid>
+   <pubDate>Fri, 06 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת לך לך</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=AMU5zVeIpzc</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AMU5zVeIpzc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AMU5zVeIpzc.mp3</guid>
+   <pubDate>Fri, 30 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת נח</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=NcyiXf48Dvw</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/NcyiXf48Dvw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/NcyiXf48Dvw.mp3</guid>
+   <pubDate>Fri, 23 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגאב"ד הרב אשר וייס שליט"א בשיחה מיוחדת לתלמידי הישיבה לקראת זמן חורף והלימוד במסכת כתובות</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=rVR7L5cNUo0</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/rVR7L5cNUo0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/rVR7L5cNUo0.mp3</guid>
+   <pubDate>Thu, 22 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת בראשית</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=kYLGuYgOfpY</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/kYLGuYgOfpY.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/kYLGuYgOfpY.mp3</guid>
+   <pubDate>Fri, 16 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסר מיוחד לשמחת תורה | מאת הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=UiT4R9JV5YU</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/UiT4R9JV5YU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/UiT4R9JV5YU.mp3</guid>
+   <pubDate>Wed, 07 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסר מיוחד לחג הסוכות | מאת הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=1jMrzrMEHL0</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1jMrzrMEHL0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1jMrzrMEHL0.mp3</guid>
+   <pubDate>Fri, 02 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת האזינו – שובה</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=RVNn6vNVblA</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/RVNn6vNVblA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/RVNn6vNVblA.mp3</guid>
+   <pubDate>Fri, 25 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסר מיוחד לראש השנה | הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=H2si7Br6Vtk</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/H2si7Br6Vtk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/H2si7Br6Vtk.mp3</guid>
+   <pubDate>Fri, 18 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת ניצבים – וילך</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=QfrZDWASrxQ</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/QfrZDWASrxQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/QfrZDWASrxQ.mp3</guid>
+   <pubDate>Fri, 11 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קרוב ה' לנשברי לב | לקראת תחילת אמירת סליחות – הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=J7knV9TV0xw</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/J7knV9TV0xw.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/J7knV9TV0xw.mp3</guid>
+   <pubDate>Fri, 11 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת כי תבוא</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=rrzIa6cPlkU</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/rrzIa6cPlkU.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/rrzIa6cPlkU.mp3</guid>
+   <pubDate>Fri, 04 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תקיעת שופר בעידן הקורונה | שיעור מאת הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=VDPm1i0ugOE</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/VDPm1i0ugOE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/VDPm1i0ugOE.mp3</guid>
+   <pubDate>Fri, 04 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת כי תצא</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=1t1uFHnlx_A</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/1t1uFHnlx_A.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/1t1uFHnlx_A.mp3</guid>
+   <pubDate>Fri, 28 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת שופטים</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=4oAzxPl683c</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/4oAzxPl683c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/4oAzxPl683c.mp3</guid>
+   <pubDate>Fri, 21 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת ראה</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=xieqykG9fhQ</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xieqykG9fhQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xieqykG9fhQ.mp3</guid>
+   <pubDate>Fri, 14 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת עקב</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=Qb6IKFLfNxQ</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Qb6IKFLfNxQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Qb6IKFLfNxQ.mp3</guid>
+   <pubDate>Fri, 07 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שמירת הגוף והנפש בבין הזמנים – הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=9vdwB1_dqoI</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/9vdwB1_dqoI.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/9vdwB1_dqoI.mp3</guid>
+   <pubDate>Thu, 06 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת ואתחנן – נחמו</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=qr-vJxSaiCE</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/qr-vJxSaiCE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/qr-vJxSaiCE.mp3</guid>
+   <pubDate>Fri, 31 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"לא קשה להתאבל על ירושלים" | הרב אשר וייס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=N9sUiUZ6zcQ</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/N9sUiUZ6zcQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/N9sUiUZ6zcQ.mp3</guid>
+   <pubDate>Sun, 26 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | בין שבת חזון למגיפת הקורונה</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=zfhYLWuMnC4</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/zfhYLWuMnC4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/zfhYLWuMnC4.mp3</guid>
+   <pubDate>Thu, 23 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וייס שליט"א באירוע סגור לרבני הקהילות בשכונת רמות, יחד עם אנשי פיקוד העורף</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=k3Lt259v4-o</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/k3Lt259v4-o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/k3Lt259v4-o.mp3</guid>
+   <pubDate>Wed, 22 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וייס שליט"א בפניה אישית נרגשת – שמרו על הכללים!</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=Y-Blok5Kg7U</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/Y-Blok5Kg7U.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/Y-Blok5Kg7U.mp3</guid>
+   <pubDate>Mon, 20 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת מטות – מסעי</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=oNOhaUsmGsk</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/oNOhaUsmGsk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/oNOhaUsmGsk.mp3</guid>
+   <pubDate>Fri, 17 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כל דור שלא נבנה בניין בימיו | מדברי קדשו של הרב אשר וייס שליט"א לימי בין המצרים</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=6vnE3YZg5Jg</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/6vnE3YZg5Jg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/6vnE3YZg5Jg.mp3</guid>
+   <pubDate>Fri, 17 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת פנחס</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=xiVGSZiFFro</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xiVGSZiFFro.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xiVGSZiFFro.mp3</guid>
+   <pubDate>Fri, 10 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת בלק</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=EI_SZiCZuRM</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/EI_SZiCZuRM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/EI_SZiCZuRM.mp3</guid>
+   <pubDate>Fri, 03 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"ורחמיו על כל מעשיו – מה הוא רחום, אף אתה היה רחום" | רעיון קצר לפרשת בלק מאת הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=buUzeTBIEYs</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/buUzeTBIEYs.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/buUzeTBIEYs.mp3</guid>
+   <pubDate>Thu, 02 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>דיני תשלום לאירועים שבוטלו מחמת הקורונה – שיעור מאת הרב אשר וייס שליט'א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=aviw8TQYxY0</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/aviw8TQYxY0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/aviw8TQYxY0.mp3</guid>
+   <pubDate>Fri, 26 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האם מותר להתפלל כאשר פניו מכוסים במסכה | הרב אשר וויס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=AMG1hKnKQqQ</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/AMG1hKnKQqQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/AMG1hKnKQqQ.mp3</guid>
+   <pubDate>Thu, 25 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"ואוהביו כצאת השמש בגבורתו" | מסר מהרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=lKfKOqWHfIk</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/lKfKOqWHfIk.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/lKfKOqWHfIk.mp3</guid>
+   <pubDate>Fri, 19 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"אדם צרך להתבונן בטבע, וללמוד מהטבע" | הרב אשר וייס שליט"א במסר מיוחד לפרשת שלח – לך</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=ZrE4U2dHCiM</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ZrE4U2dHCiM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ZrE4U2dHCiM.mp3</guid>
+   <pubDate>Fri, 12 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת שלח</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=xFp7yo5Ni7Y</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xFp7yo5Ni7Y.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xFp7yo5Ni7Y.mp3</guid>
+   <pubDate>Thu, 11 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>"אנשים יותר מדי אוהבים קיצורי דרך" | הרב אשר וייס שליט"א על לימוד הלכה דרך קיצורים</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · הלכה
+וידאו: https://www.youtube.com/watch?v=ppFBxy8u6WA</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/ppFBxy8u6WA.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/ppFBxy8u6WA.mp3</guid>
+   <pubDate>Mon, 08 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>למה התורה נמשלה לנרות? | הרב אשר וייס על פרשת בהעלותך ה'תשפ'</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=4SOjH-2zeVE</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/4SOjH-2zeVE.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/4SOjH-2zeVE.mp3</guid>
+   <pubDate>Fri, 05 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לפרשת השבוע מאת הרב אשר וייס שליט"א | פרשת בהעלותך</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=b-uVYuwEGkg</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/b-uVYuwEGkg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/b-uVYuwEGkg.mp3</guid>
+   <pubDate>Fri, 05 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עירוב תבשילין בתקופת הקורונה | שיעור מאת הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=o_lNc1axXrc</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/o_lNc1axXrc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/o_lNc1axXrc.mp3</guid>
+   <pubDate>Wed, 27 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>רעיון קצר לחג השבועות | הרב אשר וייס שליט"א</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · מועדים
+וידאו: https://www.youtube.com/watch?v=YFvmzQ8u70o</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/YFvmzQ8u70o.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/YFvmzQ8u70o.mp3</guid>
+   <pubDate>Wed, 27 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וייס שליט"א – איך אפשר לשמוח לכבודו של רבי שמעון בר יוחאי, ולזלזל בחיי אדם?!</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=v4dcZwTytEg</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/v4dcZwTytEg.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/v4dcZwTytEg.mp3</guid>
+   <pubDate>Wed, 13 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרה"ג הרב אשר וויס | פרשת אמור // Rav Asher Weiss – Parshat Shavua</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · פרשת השבוע
+וידאו: https://www.youtube.com/watch?v=LamGGokn03Y</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/LamGGokn03Y.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/LamGGokn03Y.mp3</guid>
+   <pubDate>Fri, 08 May 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וויס – אמירה לנוכרי | סוגיות במסכת גיטין</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · גמרא
+וידאו: https://www.youtube.com/watch?v=xHwPQUIykAQ</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/xHwPQUIykAQ.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/xHwPQUIykAQ.mp3</guid>
+   <pubDate>Thu, 30 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אשר וויס – סוגי שופרות, אין קטגור נעשה סנגור // HaRav Asher Waiss – Rosh HaShana</title>
+   <description>הרב אשר וייס · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=i1p8zxinVII</description>
+   <itunes:author>הרב אשר וייס</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/i1p8zxinVII.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/i1p8zxinVII.mp3</guid>
+   <pubDate>Thu, 26 Sep 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

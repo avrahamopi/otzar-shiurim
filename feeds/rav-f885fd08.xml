@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב מוטי גוטמן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-f885fd08.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב מוטי גוטמן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב מוטי גוטמן: ערכם של רגשות אנושיים - ליום ג' בכסלו</title>
+   <description>הרב מוטי גוטמן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מוטי גוטמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/95359547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-4%2F390973129-44100-2-1705ff6c18b6b.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/95359547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-4%2F390973129-44100-2-1705ff6c18b6b.m4a</guid>
+   <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מוטי גוטמן: תפילה בשדה - מעלה או חוצפה?</title>
+   <description>הרב מוטי גוטמן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מוטי גוטמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94757587/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-21%2F390226979-44100-2-71d11a9e09d.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94757587/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-21%2F390226979-44100-2-71d11a9e09d.m4a</guid>
+   <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב מוטי גוטמן - בין הר אברהם להר ה'</title>
+   <description>הרב מוטי גוטמן · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב מוטי גוטמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fd761c88/podcast/play/94305943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2F389671402-44100-2-3a82f63981fae.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fd761c88/podcast/play/94305943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-12%2F389671402-44100-2-3a82f63981fae.m4a</guid>
+   <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ותאזרני חיל למלחמה | חיזוק לחיילי הסדיר ומשרתי המילואים לקראת יוה"כ | הרב מוטי גוטמן</title>
+   <description>הרב מוטי גוטמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב מוטי גוטמן</itunes:author>
+   <enclosure url="https://anchor.fm/s/fbb05044/podcast/play/92828874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387843237-44100-2-c138593fe1c8a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/fbb05044/podcast/play/92828874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F387843237-44100-2-c138593fe1c8a.mp3</guid>
+   <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הצעה לסדר | הלל | הרב מוטי גוטמן | פסח תשפ"ב</title>
+   <description>הרב מוטי גוטמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב מוטי גוטמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c8/f5/57/3caada465ab49dfc5266e2161f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c8/f5/57/3caada465ab49dfc5266e2161f.mp3</guid>
+   <pubDate>Tue, 05 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פסח מצה ומרור | הרב מוטי גוטמן</title>
+   <description>הרב מוטי גוטמן · ישיבת הר עציון · מועדים</description>
+   <itunes:author>הרב מוטי גוטמן</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e2/67/8f/1b79c74af3b1f01c3559c1c207.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e2/67/8f/1b79c74af3b1f01c3559c1c207.mp3</guid>
+   <pubDate>Thu, 18 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

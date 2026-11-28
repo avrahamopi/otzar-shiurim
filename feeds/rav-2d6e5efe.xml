@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב צמח הלפרין · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-2d6e5efe.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב צמח הלפרין.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>מקור החיות העולמית | 9</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ec02ed54-f11c-4329-b742-69e7fde6b96c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ec02ed54-f11c-4329-b742-69e7fde6b96c/stream.mp3</guid>
+   <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החיות העולמית | 8</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/d2641d0b-81e7-4443-b7c7-a06e5ef64080/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/d2641d0b-81e7-4443-b7c7-a06e5ef64080/stream.mp3</guid>
+   <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החיות האלוקית במשנת הרב קוק | 7</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/911a42fa-0f14-40b9-a22f-85b6e0de808f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/911a42fa-0f14-40b9-a22f-85b6e0de808f/stream.mp3</guid>
+   <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חכמת הקודש הפועלת | 6</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b75af208-62fb-42de-b29e-498253991233/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b75af208-62fb-42de-b29e-498253991233/stream.mp3</guid>
+   <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המערכה הראשונה | 5</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b773f2ca-48c0-45dd-ad29-bc2c0ce59c8c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b773f2ca-48c0-45dd-ad29-bc2c0ce59c8c/stream.mp3</guid>
+   <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מערכת אורות הקודש | 4</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9be1f7d7-455d-4744-a794-df9e2db1893c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9be1f7d7-455d-4744-a794-df9e2db1893c/stream.mp3</guid>
+   <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>איך ערכו את אורות הקודש? | 3</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/21f896df-9c11-4e38-abbb-57df1b24e763/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/21f896df-9c11-4e38-abbb-57df1b24e763/stream.mp3</guid>
+   <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מבנה אורות הקודש | 2</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/08f94037-3b00-4030-b7a8-f8a933c7b14f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/08f94037-3b00-4030-b7a8-f8a933c7b14f/stream.mp3</guid>
+   <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה - מה חיפש הרב הנזיר? | 1</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/abc96f2e-0821-47e8-bcd3-68654ba19e6e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/abc96f2e-0821-47e8-bcd3-68654ba19e6e/stream.mp3</guid>
+   <pubDate>Sun, 03 May 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה נשתנה בין פורים לפסח | הרב צמח הלפרין</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/504f9c10-1a7d-4fad-9f2a-72dd003cbae3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/504f9c10-1a7d-4fad-9f2a-72dd003cbae3/stream.mp3</guid>
+   <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עליית העולמות בפסח | הרב צמח הלפרין</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/bfe67fb8-557d-491d-bb3b-9514c9263236/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/bfe67fb8-557d-491d-bb3b-9514c9263236/stream.mp3</guid>
+   <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיטת הרב הנזיר (ד, לח-מ) | 20</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/a0d65d9d-7d05-44fa-840d-cb6ef745a444/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/a0d65d9d-7d05-44fa-840d-cb6ef745a444/stream.mp3</guid>
+   <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב הנזיר ושפינוזה (ד, מא-מג) | 19</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/49b32090-1775-438d-a906-24a952c2e957/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/49b32090-1775-438d-a906-24a952c2e957/stream.mp3</guid>
+   <pubDate>Sun, 09 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הפילוסופיה המערבית ופגמיה (ד, לג-לז) | 18</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/9f792737-22e3-45d1-9505-7ee04ea3d3a1/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/9f792737-22e3-45d1-9505-7ee04ea3d3a1/stream.mp3</guid>
+   <pubDate>Sat, 01 Feb 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האנלוגיות של הרב הנזיר [ב] (ד, ל-לג) | 17</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/84278551-9cb4-4107-b16a-2a2f82d90785/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/84278551-9cb4-4107-b16a-2a2f82d90785/stream.mp3</guid>
+   <pubDate>Sat, 25 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>האנלוגיות של הרב הנזיר [א] (ד, כח-כט) | 16</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c5fbc1fb-bdca-44be-a63e-703bb7eecc63/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c5fbc1fb-bdca-44be-a63e-703bb7eecc63/stream.mp3</guid>
+   <pubDate>Sat, 18 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרצון כמחבר לה' [ב] (ד, כו-כט) | 15</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b6c0e7b4-a36c-489e-b3a0-d1ea53ff3894/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b6c0e7b4-a36c-489e-b3a0-d1ea53ff3894/stream.mp3</guid>
+   <pubDate>Sat, 11 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרצון כמחבר לה' [א] (ד, כו-כז) | 14</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/8e96bb85-39d7-4e81-9237-5fc8396ca9e6/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/8e96bb85-39d7-4e81-9237-5fc8396ca9e6/stream.mp3</guid>
+   <pubDate>Sun, 05 Jan 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה למאמר רביעי (ד, א-כה) | 13</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/d63c2ba4-7648-4f01-9f05-cf07504079c7/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/d63c2ba4-7648-4f01-9f05-cf07504079c7/stream.mp3</guid>
+   <pubDate>Sun, 29 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הראייה בתורה העברית (ג, יד-טו) | 12</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/1a086278-a8cb-40ff-bdea-c91204d07123/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/1a086278-a8cb-40ff-bdea-c91204d07123/stream.mp3</guid>
+   <pubDate>Sun, 22 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המוזיקה בפיתגורס והיופי בפלוטינוס (ג, יב-יג) | 11</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b3f57c87-568f-44a3-bdb2-f6f8fef415e9/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b3f57c87-568f-44a3-bdb2-f6f8fef415e9/stream.mp3</guid>
+   <pubDate>Sun, 15 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב הנזיר ופילון (ג, ט-י) | 10</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/079015db-b463-4fc2-8d71-2344fb46f016/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/079015db-b463-4fc2-8d71-2344fb46f016/stream.mp3</guid>
+   <pubDate>Sun, 08 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הראייה בפילוסופים הקדומים (ג, ז-ח) | 9</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0b6664f2-3423-4157-83b1-b790091f4ae0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0b6664f2-3423-4157-83b1-b790091f4ae0/stream.mp3</guid>
+   <pubDate>Sun, 01 Dec 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התעלות לעולמות עליונים (ג, ו) | 8</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0bddd3e1-66e3-4de8-8086-d1694f783600/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0bddd3e1-66e3-4de8-8086-d1694f783600/stream.mp3</guid>
+   <pubDate>Sun, 24 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>תורת האמצעי (ג, ה-ו) | 7</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5d679ebb-240b-46f6-a305-39bd117fb2d4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5d679ebb-240b-46f6-a305-39bd117fb2d4/stream.mp3</guid>
+   <pubDate>Sun, 17 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>משל ודמיון (ג, ג-ד) | 6</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/e063f540-e5cb-40bc-9607-6767213d533e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/e063f540-e5cb-40bc-9607-6767213d533e/stream.mp3</guid>
+   <pubDate>Sun, 10 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פתיחה למאמר שלישי (ג, א-ב) - 5</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/23cce67e-ecc5-4b79-b0e3-5347224f6bab/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/23cce67e-ecc5-4b79-b0e3-5347224f6bab/stream.mp3</guid>
+   <pubDate>Sat, 02 Nov 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - החוק שמאחורי האסתטיקה (ב, ט' - י"ד)</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/b0f2a956-27d8-49ff-ab3c-ecbdbcecb022/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/b0f2a956-27d8-49ff-ab3c-ecbdbcecb022/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - הגיון עברי והגיון יווני והיחס ליופי (ב, ה-ח)</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/458de6d0-9554-4802-8677-93bb56611868/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/458de6d0-9554-4802-8677-93bb56611868/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - הנבואה וההגיון השמעי (ב, ב-ד)</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/ad3814a3-431c-4e2f-a4cd-6218da0ec5ec/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/ad3814a3-431c-4e2f-a4cd-6218da0ec5ec/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - פתיחה למאמר שני</title>
+   <description>הרב צמח הלפרין · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צמח הלפרין</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/2473e086-8f48-4b23-898a-1e565d218a04/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/2473e086-8f48-4b23-898a-1e565d218a04/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

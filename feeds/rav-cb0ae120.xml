@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אזרד · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-cb0ae120.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אזרד.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>לקראת שבועות - הלכות ומנהגי החג</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/87854180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-10%2F98e0a0a0-b0ce-1e2f-a737-73f2576d6e73.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/87854180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-10%2F98e0a0a0-b0ce-1e2f-a737-73f2576d6e73.mp3</guid>
+   <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן צ"ד - סימן צ"ו אופן העמידה בתפילה</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/84340449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2Fd0d8f742-6276-c36f-2cc2-004d9039e51e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/84340449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2Fd0d8f742-6276-c36f-2cc2-004d9039e51e.mp3</guid>
+   <pubDate>Thu, 21 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עיון בהלכות פורים</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/84202212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-18%2F14138eaa-884d-96b8-da0b-2a56618945a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/84202212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-18%2F14138eaa-884d-96b8-da0b-2a56618945a0.mp3</guid>
+   <pubDate>Mon, 18 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נושאים שונים לחיילים המשרתים בעורף</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/84042812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F370926082-44100-2-1796021bb41bc.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/84042812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F370926082-44100-2-1796021bb41bc.m4a</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3180</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן צד סעיף ה עד סימן צה סעיף א - דיני העמידה בתפילה</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/84028173/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F3e8c2360-cdc9-8c22-7e47-a22631cdb4f4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/84028173/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F3e8c2360-cdc9-8c22-7e47-a22631cdb4f4.mp3</guid>
+   <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סעיף צב סימן ד-י (סוף הסימן) נקיות לפני התפילה | הלכה | הרב מיכאל אזרד</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/83658280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-6%2Fd1a2a32a-5f5a-0e11-e797-fe6c0a0bf40d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/83658280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-6%2Fd1a2a32a-5f5a-0e11-e797-fe6c0a0bf40d.mp3</guid>
+   <pubDate>Wed, 06 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן צא - מהו הביגוד הראוי לתפילה?</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/83594923/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-5%2Fdfdac040-bb09-ac35-ff8e-3d3a435da1f0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/83594923/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-5%2Fdfdac040-bb09-ac35-ff8e-3d3a435da1f0.mp3</guid>
+   <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה סימן צ סעיף כא</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/83352930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369191509-44100-2-f57d116961195.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/83352930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369191509-44100-2-f57d116961195.m4a</guid>
+   <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן צ סעיף טז-יח דיני תפילה במניין</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/83213448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F368832696-44100-2-18ac1bf7672cb.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/83213448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F368832696-44100-2-18ac1bf7672cb.m4a</guid>
+   <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>המשך הלכות תפילה סימן צ</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/83009050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-21%2F368294320-44100-2-45c52036d218a.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/83009050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-21%2F368294320-44100-2-45c52036d218a.m4a</guid>
+   <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן פט - הלכות תפילה וזמנה</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/82585753/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367223022-44100-2-4ee510f039f79.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/82585753/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-12%2F367223022-44100-2-4ee510f039f79.m4a</guid>
+   <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן פט - דיני שעות התפילה</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/82089531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365829430-44100-2-b2995af088c08.m4a" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/82089531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365829430-44100-2-b2995af088c08.m4a</guid>
+   <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן עט - נקיות בזמן קריאת שמע</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/81964102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-29%2F8b98beaa-5778-a98f-43ca-32db8ab539d2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/81964102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-29%2F8b98beaa-5778-a98f-43ca-32db8ab539d2.mp3</guid>
+   <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן ע"ו - נקיות בעת קריאת שמע</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/81394540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-17%2F15d46c96-c6b7-8448-582e-d58b9c02bdbf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/81394540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-17%2F15d46c96-c6b7-8448-582e-d58b9c02bdbf.mp3</guid>
+   <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה במצבי הסחת דעת</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/81095178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F7e081689-5cf3-fe78-7329-dd2543e41022.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/81095178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F7e081689-5cf3-fe78-7329-dd2543e41022.mp3</guid>
+   <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הלכות תפילה וכיפה</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/80791801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F9c2120d3-26e7-795e-47f8-866a5b777597.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/80791801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F9c2120d3-26e7-795e-47f8-866a5b777597.mp3</guid>
+   <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2820</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן ע - מי הם הפטורים מקריאת שמע</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/80704524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2F9034463c-2d11-aac7-5698-92bfed877957.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/80704524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-2%2F9034463c-2d11-aac7-5698-92bfed877957.mp3</guid>
+   <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן ע - חיוב נשים וקטנים במצוות</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/80580874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-29%2F78d47ca8-fdec-baca-ea91-274a51612c79.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/80580874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-29%2F78d47ca8-fdec-baca-ea91-274a51612c79.mp3</guid>
+   <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2880</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן סט - דין הפורס על שמע</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · הלכה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/80475318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-26%2F44ff3565-40ee-07e5-31f7-2b5eb368cc72.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/80475318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-26%2F44ff3565-40ee-07e5-31f7-2b5eb368cc72.mp3</guid>
+   <pubDate>Tue, 26 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>סימן סח - הפסקה בתפילה</title>
+   <description>הרב אזרד · ישיבת מעלות יעקב הרצוג · אמונה ומחשבה</description>
+   <itunes:author>הרב אזרד</itunes:author>
+   <enclosure url="https://anchor.fm/s/ef8398f8/podcast/play/80342446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-22%2F6c90176e-d0c3-cb0c-99c9-e896a0d3c049.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/ef8398f8/podcast/play/80342446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-22%2F6c90176e-d0c3-cb0c-99c9-e896a0d3c049.mp3</guid>
+   <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2580</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

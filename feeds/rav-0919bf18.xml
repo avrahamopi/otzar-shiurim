@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב ישי אנגלמן · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-0919bf18.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב ישי אנגלמן.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>בקרב מחניך - קדושת המחנה הישראלי (שיעור ליום הזיכרון) | הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/677a6cf9-9ffe-446c-b5c7-7e0786c3db44/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/677a6cf9-9ffe-446c-b5c7-7e0786c3db44/stream.mp3</guid>
+   <pubDate>Mon, 05 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>השגחה וחירות - הילכו יחדיו? | והגדת לבנך תשפ"ה | הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9f542707-6d76-4d54-997a-cc8e7b7cdd27/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9f542707-6d76-4d54-997a-cc8e7b7cdd27/stream.mp3</guid>
+   <pubDate>Wed, 02 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>קולותיו השונים של השופר - הלכה, עיון ומחשבה | 3</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/b60b5980-cbb1-4cde-897b-10b35949ecd2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/b60b5980-cbb1-4cde-897b-10b35949ecd2/stream.mp3</guid>
+   <pubDate>Tue, 01 Oct 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>צורה ותוכן במבנה מסכת ראש השנה | 2</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · גמרא</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/2099887b-a9c4-430d-a3ca-bad8fed1492d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/2099887b-a9c4-430d-a3ca-bad8fed1492d/stream.mp3</guid>
+   <pubDate>Sun, 29 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>החג שבראש החודש השביעי - מפשט התורה לראש השנה | 1</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/ce0fb36c-a81b-49ac-8d22-385917edd36f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/ce0fb36c-a81b-49ac-8d22-385917edd36f/stream.mp3</guid>
+   <pubDate>Sun, 29 Sep 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (29) - כיצד נטלטל בשטח בשבת? עקרונות הלכתיים מעשיים | הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/c81e516c-6334-43ff-a91a-4ff7dc4db028/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/c81e516c-6334-43ff-a91a-4ff7dc4db028/stream.mp3</guid>
+   <pubDate>Sun, 05 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעורים קצרים לחיילים (17) - קידוש השם וקדושת החיים במלחמה | הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/0224b817-c70e-43fe-a657-63bcba9b69e8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/0224b817-c70e-43fe-a657-63bcba9b69e8/stream.mp3</guid>
+   <pubDate>Thu, 19 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>זוכרנו לחיים | פתח לנו שער | הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/022b3db6-d7f9-457b-a07f-6b5be449eea2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/022b3db6-d7f9-457b-a07f-6b5be449eea2/stream.mp3</guid>
+   <pubDate>Wed, 28 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג השבועות ויום הביכורים (2) - הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/5765780c-afd7-4890-b12d-11740e1d5441/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/5765780c-afd7-4890-b12d-11740e1d5441/stream.mp3</guid>
+   <pubDate>Mon, 30 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>חג השבועות ויום הביכורים (1) - הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/91238518-d190-4678-8c3f-7f834ff4a945/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/91238518-d190-4678-8c3f-7f834ff4a945/stream.mp3</guid>
+   <pubDate>Mon, 30 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2400</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פניני יד פשוטה | ספר זמנים - הלכות שבת | הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/e79eaec2-07f1-4787-9d1a-dec10c3e728d/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/e79eaec2-07f1-4787-9d1a-dec10c3e728d/stream.mp3</guid>
+   <pubDate>Sat, 14 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשע"ח | ההלל כשירה - הרב ישי אנגלמן</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/703d6f2d-ccf2-4759-9d95-18e7283edfb2/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/703d6f2d-ccf2-4759-9d95-18e7283edfb2/stream.mp3</guid>
+   <pubDate>Wed, 30 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>9 - קדושת עצי סוכה</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/83b30d08-b15b-4422-b427-007f5fd2b9d5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/83b30d08-b15b-4422-b427-007f5fd2b9d5/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>8 - סוכה ישנה וסוכה שאינה ראויה לדירה</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/6560eb27-ac8f-490b-922e-fd9034868d71/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/6560eb27-ac8f-490b-922e-fd9034868d71/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>7 - האם יש מצווה לבנות סוכה?</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/beedc24f-94f3-41bc-8ac6-80b8910302f0/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/beedc24f-94f3-41bc-8ac6-80b8910302f0/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>6 - אופיו של חיוב האכילה בליל יו"ט הראשון של חג</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/5ee9a903-616d-47dd-96d5-c2045a38ed50/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/5ee9a903-616d-47dd-96d5-c2045a38ed50/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>5 - לגדרה של מצוות הישיבה בסוכה</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a1f6f097-603e-44b0-b2da-67f259f2a451/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a1f6f097-603e-44b0-b2da-67f259f2a451/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>4 - שיעורה המינימלי של הסוכה: סוכה ללא שולחן?</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/134f409d-d0e4-42f7-959a-44a06307d61f/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/134f409d-d0e4-42f7-959a-44a06307d61f/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>3 - סוכה דירת קבע: על שום מה?</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/a41b0c03-0116-4830-9eb9-d466fbf3e6f5/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/a41b0c03-0116-4830-9eb9-d466fbf3e6f5/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>2 - סוכה דירת ארעי: על שום מה?</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/d558699f-e3b5-4213-be61-98c349f6e900/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/d558699f-e3b5-4213-be61-98c349f6e900/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>1 - סוכה: מה היא?</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio1.redcircle.com/episodes/ab5a5c38-1330-4a2e-ab61-1a1ec4e9fb48/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio1.redcircle.com/episodes/ab5a5c38-1330-4a2e-ab61-1a1ec4e9fb48/stream.mp3</guid>
+   <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב ישי אנגלמן - לאל עורך דין</title>
+   <description>הרב ישי אנגלמן · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב ישי אנגלמן</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/fdd5db82-0e18-4297-a92f-26ddd7601bf4/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/fdd5db82-0e18-4297-a92f-26ddd7601bf4/stream.mp3</guid>
+   <pubDate>Mon, 30 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

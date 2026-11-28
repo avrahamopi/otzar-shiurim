@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אליאב פלהיימר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-59a7a575.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אליאב פלהיימר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>אברהם אבינו - מעבר רוחני מקבע לארעי | הרב אליאב פלהיימר</title>
+   <description>הרב אליאב פלהיימר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליאב פלהיימר</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/5e1bb574-c6cd-4719-8f77-b96384341e83/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/5e1bb574-c6cd-4719-8f77-b96384341e83/stream.mp3</guid>
+   <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>להתפלל עם העבריינים | פתח לנו שער | הרב אליאב פלהיימר</title>
+   <description>הרב אליאב פלהיימר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליאב פלהיימר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/7b566308-9489-4bfa-b9b4-e56fcc128219/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/7b566308-9489-4bfa-b9b4-e56fcc128219/stream.mp3</guid>
+   <pubDate>Wed, 28 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשפ"ב | כמה מעלות למקום עלינו - האמנם דיינו? | הרב אליאב פלהיימר</title>
+   <description>הרב אליאב פלהיימר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליאב פלהיימר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/03ec2faf-6dab-461f-90e2-f550b2dd054e/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/03ec2faf-6dab-461f-90e2-f550b2dd054e/stream.mp3</guid>
+   <pubDate>Mon, 04 Apr 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשע"ח | מה נשתנה - הרב אליאב פלהיימר</title>
+   <description>הרב אליאב פלהיימר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליאב פלהיימר</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/5919c203-0846-4eb2-94ba-94a457caf58a/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/5919c203-0846-4eb2-94ba-94a457caf58a/stream.mp3</guid>
+   <pubDate>Wed, 30 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אליאב פלהיימר - קריאת התורה: פקידת שרה</title>
+   <description>הרב אליאב פלהיימר · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב אליאב פלהיימר</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/14cd7fd7-331c-49cb-a264-d600e2129c5c/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/14cd7fd7-331c-49cb-a264-d600e2129c5c/stream.mp3</guid>
+   <pubDate>Sun, 05 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

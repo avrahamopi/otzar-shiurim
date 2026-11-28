@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אלקנה שרלו · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-9c6b3e12.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אלקנה שרלו.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיעור 22 - מזמור קלט - ההגדה של תהלים ~ פסח</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e1/4e/9a/b5b8c242388f9bc02c1268cb61.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e1/4e/9a/b5b8c242388f9bc02c1268cb61.mp3</guid>
+   <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 21 - אברח ממך אליך - עמידת האדם מול אלוקיו</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d1/c4/8a/7d7aa948639ef40881fd06a691.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d1/c4/8a/7d7aa948639ef40881fd06a691.mp3</guid>
+   <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 20 - מזמור כב - אסתר כוכב השחר ~ פורים</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7c/e3/fa/adeee04959967c6438c8953faf.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7c/e3/fa/adeee04959967c6438c8953faf.mp3</guid>
+   <pubDate>Mon, 18 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 19 - מזמור מד - פורים חג הנצח ~ תענית אסתר</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e5/b5/58/7682314b118ae960b6fe746519.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e5/b5/58/7682314b118ae960b6fe746519.mp3</guid>
+   <pubDate>Mon, 11 Mar 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 18 - תהילה לדוד - המזמור שעל שמו נקרא ספר תהלים</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f2/24/88/a916734aa79a82b10ef5df9da2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f2/24/88/a916734aa79a82b10ef5df9da2.mp3</guid>
+   <pubDate>Thu, 28 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 17 - תפילה למשה - מעשה ידינו כוננה עלינו</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/32/fc/f3/d2319f4d50a8f8599fc5f2ca75.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/32/fc/f3/d2319f4d50a8f8599fc5f2ca75.mp3</guid>
+   <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 16 - הרקע למזמור לתודה - על השמחה</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f0/83/b5/396cab4c6fa2e377bdacfd0c2e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f0/83/b5/396cab4c6fa2e377bdacfd0c2e.mp3</guid>
+   <pubDate>Wed, 13 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 15 - צמאה לך נפשי - על רצוא ושוב</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/62/69/1e/0395c049ed83789db1680ccdc7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/62/69/1e/0395c049ed83789db1680ccdc7.mp3</guid>
+   <pubDate>Wed, 13 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 10 - בין משלי לאיוב</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/57/b4/34/cadbc641069c32468b6d5f150f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/57/b4/34/cadbc641069c32468b6d5f150f.mp3</guid>
+   <pubDate>Wed, 13 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2460</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 - פרדס בדמותה של אשת חיל</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6d/cb/6c/357c7b4f8d9944deacd1a3a1f5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6d/cb/6c/357c7b4f8d9944deacd1a3a1f5.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 - הפשט האנושי</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/02/db/09/410c264483b404bc1f3b276bdc.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/02/db/09/410c264483b404bc1f3b276bdc.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 - לשוחח עם כל נפש בשפה שלה</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/93/c5/6b/0601714f86a05c6e9540b6a98d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/93/c5/6b/0601714f86a05c6e9540b6a98d.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 - מפגש שלמה עם חכמי העולם</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5a/e4/3b/78939c47c4a1a11171712097a7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5a/e4/3b/78939c47c4a1a11171712097a7.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - ההיבט ההלכתי של ספר משלי</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0a/4a/57/470f86417991cb6bd446655cce.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0a/4a/57/470f86417991cb6bd446655cce.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - עיון בפתגמי משלי</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/36/21/a1/5906af4db38f507c9d82654826.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/36/21/a1/5906af4db38f507c9d82654826.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - בין משל לנמשל</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f3/f9/76/e67ca94bae83df144ac7f2c3bb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f3/f9/76/e67ca94bae83df144ac7f2c3bb.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3000</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - בין מוסר לחכמה</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · מוסר</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c0/44/58/7360b54f019efc9ef3e7049fc0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c0/44/58/7360b54f019efc9ef3e7049fc0.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - מבוא למשלי שלמה</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ee/a9/f3/beef4e46cab0a3216e75d1923a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ee/a9/f3/beef4e46cab0a3216e75d1923a.mp3</guid>
+   <pubDate>Tue, 12 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>3060</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 14 - איך יצר דוד את ספר תהלים</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/60/cb/10/d71bd2450ea8a956a0dd88c82f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/60/cb/10/d71bd2450ea8a956a0dd88c82f.mp3</guid>
+   <pubDate>Sun, 03 Feb 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 13 - אזכרה נגינתי בלילה - מזמור שירת הים</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f2/76/b4/da6b8e42c0a8d4bd5cc7da5308.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f2/76/b4/da6b8e42c0a8d4bd5cc7da5308.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 12 - יפתח ה' לך - מזמור לחורף</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fb/f2/da/57efc5440e8aed2caebac5d3d4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fb/f2/da/57efc5440e8aed2caebac5d3d4.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>720</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 11 - בשנתו את טעמו - על השגעון</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7d/2a/96/2b3af841e5af07cecc51349a8f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7d/2a/96/2b3af841e5af07cecc51349a8f.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 10 - מזמור שיר ליום השבת</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f2/c4/df/72a9cc42679965172cf74063fd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f2/c4/df/72a9cc42679965172cf74063fd.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 9 - יום הקדיש הכללי</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9e/2f/79/85aada41b9a3199c2a01b0ad94.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9e/2f/79/85aada41b9a3199c2a01b0ad94.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 8 - להאיר את הלילה, חנוכה</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/64/b7/a5/e32a7d434ea7e1d5a28eec1558.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/64/b7/a5/e32a7d434ea7e1d5a28eec1558.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 7 - מזמור צא - מזמור לנפגעי חרדה</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/98/f9/03/57f98544beb0335943b3c52cc9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/98/f9/03/57f98544beb0335943b3c52cc9.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 6 - מזמור למלחמה ושלום</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d2/9f/1d/d4c31b4bdc80619a75e84dd165.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d2/9f/1d/d4c31b4bdc80619a75e84dd165.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 5 - נדחי ישראל יכנס, לכבוד חג הסיגד</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/12/1a/e97c2f4840bad2b1de062a4368.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/12/1a/e97c2f4840bad2b1de062a4368.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 4 - מזמור למנהיגות, לרגל הבחירות המקומיות</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ac/c6/25/356d414f51b9e1dbd05145e16c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ac/c6/25/356d414f51b9e1dbd05145e16c.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 3 - מפגש אדם ואלוקים</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c0/f2/22/1830d8438f8e4e1efb534f203a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c0/f2/22/1830d8438f8e4e1efb534f203a.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 2 - עלה אלוקים בתרועה, ראש השנה</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d8/15/dc/f8c5bc46cfb40cd47f7105adc6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d8/15/dc/f8c5bc46cfb40cd47f7105adc6.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>840</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור 1 - מבוא לספר תהילים</title>
+   <description>הרב אלקנה שרלו · ישיבת בית ועד הר חברון – עתניאל · תנ"ך</description>
+   <itunes:author>הרב אלקנה שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fb/22/bd/008f974b2fb4ecbb44f48c4ed0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fb/22/bd/008f974b2fb4ecbb44f48c4ed0.mp3</guid>
+   <pubDate>Thu, 31 Jan 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1020</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

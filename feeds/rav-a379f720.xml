@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אלחנן שרלו · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-a379f720.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אלחנן שרלו.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #4 עקירה והנחה מעל גבי מקום ד על ד | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/14/80/58/a116e4437fa4df31bac85c200a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/14/80/58/a116e4437fa4df31bac85c200a.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת שבת | #2 מלאכת הוצאה - מלאכה גרועה או עיקר השבת | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/65/63/8b/b4bc3741a9b5e3a727a86116b4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/65/63/8b/b4bc3741a9b5e3a727a86116b4.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוכה | #4 מספר הדפנות | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/58/e0/39/a01a1e4bc887ab587224eb8e76.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/58/e0/39/a01a1e4bc887ab587224eb8e76.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוכה | #2 מימדי הסוכה ומשמעותם | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0e/4b/b2/772f50420e9629fb39fc23d9d0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0e/4b/b2/772f50420e9629fb39fc23d9d0.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #13 הכהן והברכה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fc/e2/38/f3e9924b98b135b08994ac8a09.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fc/e2/38/f3e9924b98b135b08994ac8a09.mp3</guid>
+   <pubDate>Tue, 23 Dec 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #10 כתיבת המגילה ומחיקתה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6e/32/04/0b29b54fb2b193a12177aeb973.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6e/32/04/0b29b54fb2b193a12177aeb973.mp3</guid>
+   <pubDate>Sun, 13 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #6 מבוא להשקיה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d7/5a/f3/970cc84aa78ced5f4cdeeb129b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d7/5a/f3/970cc84aa78ced5f4cdeeb129b.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>5100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #4 הסתירה מטומאה לטהרה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fd/4f/70/5b8dc04e58ab7bba3802f78a48.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fd/4f/70/5b8dc04e58ab7bba3802f78a48.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת סוטה | #2 הקינוי | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/f7/30/a53cc34a80a6f31e92315f2779.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/f7/30/a53cc34a80a6f31e92315f2779.mp3</guid>
+   <pubDate>Wed, 02 Jul 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מסכת ברכות | 6. תהליכי עיבוד והשפעתם על ברכת הפירות | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/82/18/4c/926f3a41bd9bc2c5862bbef091.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/82/18/4c/926f3a41bd9bc2c5862bbef091.mp3</guid>
+   <pubDate>Mon, 03 Jul 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4080</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>יום עיון - סודן של ברכות הנהנין | “על כוס יין מלא” - ברכה ומלאות בחז”ל ובזוהר | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · חסידות וקבלה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3f/4e/65/d8e9e44bcc94112b0b6c85bd08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3f/4e/65/d8e9e44bcc94112b0b6c85bd08.mp3</guid>
+   <pubDate>Wed, 17 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת ברכות | 2. ברכה לפני המזון - מקור ומשמעות | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b4/3b/c2/82fa5042c59f9f32f85d843ae6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b4/3b/c2/82fa5042c59f9f32f85d843ae6.mp3</guid>
+   <pubDate>Wed, 10 May 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3900</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לדבר את השואה | שיחה ליום השואה תשפ"ג | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/72/e5/73/43ce8c4ce69d08565fb69885e2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/72/e5/73/43ce8c4ce69d08565fb69885e2.mp3</guid>
+   <pubDate>Mon, 17 Apr 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים יום קודם החג | ההגדה - כוחו של סיפור | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/a9/8a/2a45f5421d9eed3bd04e606be6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/a9/8a/2a45f5421d9eed3bd04e606be6.mp3</guid>
+   <pubDate>Mon, 20 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | "מיטב" - תשלום הנזיקין ומשמעותו | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7e/c6/5c/c0d1ae4947829d03348ea14fe9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7e/c6/5c/c0d1ae4947829d03348ea14fe9.mp3</guid>
+   <pubDate>Fri, 10 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מתכוננים לפורים | מתנות לאביונים - בגלוי ובנסתר | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · מועדים</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/bb/35/cd/50dda54bc7bebc130b0b90686f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/bb/35/cd/50dda54bc7bebc130b0b90686f.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שלושים יום קודם החג | המצה כלחם מרפא | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/59/42/f6/8064b84a83af84b9362c078cb7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/59/42/f6/8064b84a83af84b9362c078cb7.mp3</guid>
+   <pubDate>Fri, 03 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 16. בור - בין בעלות לתקלה | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/26/da/4c2c644e3296eb953ee4d2a9a6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/26/da/4c2c644e3296eb953ee4d2a9a6.mp3</guid>
+   <pubDate>Wed, 08 Feb 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3960</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי - מסכת בבא קמא | 14. תשלומי שור תם | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/e4/47/5d/982c5a4ed58f10e0c326ca4950.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/e4/47/5d/982c5a4ed58f10e0c326ca4950.mp3</guid>
+   <pubDate>Mon, 23 Jan 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>4320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי מסכת בבא קמא | 10. חתימת יחידת נזקי קרן, שן ורגל | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ba/70/80/55198f4c768fdc47cfbfe9da1f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ba/70/80/55198f4c768fdc47cfbfe9da1f.mp3</guid>
+   <pubDate>Wed, 28 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי מסכת בבא קמא | 6. גדרי אב הנזיקין שן | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/53/cc/d6/851c014f7c81c533cb2caf07bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/53/cc/d6/851c014f7c81c533cb2caf07bd.mp3</guid>
+   <pubDate>Tue, 29 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי מסכת בבא קמא | 3. אבות נזיקין ותולדותיהם | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/24/12/52/87a0164f86af7a9c033d98795b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/24/12/52/87a0164f86af7a9c033d98795b.mp3</guid>
+   <pubDate>Wed, 16 Nov 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי מסכת בבא קמא | מחשבת העיון - הישועות שבסדר נזיקין | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f8/6b/a6/579ea64343acb3b75e3479d7b9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f8/6b/a6/579ea64343acb3b75e3479d7b9.mp3</guid>
+   <pubDate>Tue, 25 Oct 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיעור כללי מסכת סוכה | 3. העוסק במצווה פטור מן המצווה ודין הולכי דרכים | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · גמרא</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/d6/bd/a6/ef96f44ace8cc1ef93fd822af3.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/d6/bd/a6/ef96f44ace8cc1ef93fd822af3.mp3</guid>
+   <pubDate>Wed, 21 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק פתיחה | מדוע מציינים יארצייט? | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4b/a7/7d/b8270245f888e3b53193e13a40.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4b/a7/7d/b8270245f888e3b53193e13a40.mp3</guid>
+   <pubDate>Sat, 27 Aug 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | פרשת פנחס - הכעס | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · פרשת השבוע</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0b/d2/8f/15aaf9412884edfd5d0a81c2f2.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0b/d2/8f/15aaf9412884edfd5d0a81c2f2.mp3</guid>
+   <pubDate>Thu, 14 Jul 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 5 | והיתה שבת הארץ לכם לאכלה</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/9e/fe/7d08ac490d9808057f6b257d57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/9e/fe/7d08ac490d9808057f6b257d57.mp3</guid>
+   <pubDate>Tue, 15 Feb 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 4 | הטבע - חומר גלם או גן עדן מושלם</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/58/7e/3b/ccab9149a684d239b1018fec99.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/58/7e/3b/ccab9149a684d239b1018fec99.mp3</guid>
+   <pubDate>Thu, 06 Jan 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 3 | משפחת השביתה והמנוחה ממלאכה</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c1/cc/15/57ef8d44c1987a0de0caecdeb5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c1/cc/15/57ef8d44c1987a0de0caecdeb5.mp3</guid>
+   <pubDate>Fri, 10 Dec 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 2 | שבת הארץ, מנוחת האדמה</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/92/90/ac/f450f643e4b9e26ced1d3659c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/92/90/ac/f450f643e4b9e26ced1d3659c0.mp3</guid>
+   <pubDate>Fri, 26 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרק 1 | שמיטה בשנות ה-2000 והאדמור מאיזביצה</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/00/12/7c/8ab743476ba69fd9a455abaaa4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/00/12/7c/8ab743476ba69fd9a455abaaa4.mp3</guid>
+   <pubDate>Sun, 14 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחה שבועית | תשובה וחופש | הרב אלחנן שרלו</title>
+   <description>הרב אלחנן שרלו · ישיבת בית ועד הר חברון – עתניאל · אמונה ומחשבה</description>
+   <itunes:author>הרב אלחנן שרלו</itunes:author>
+   <enclosure url="https://s3.castbox.fm/36/48/e2/c95a6147fb99b88a09a0dd6d54.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/36/48/e2/c95a6147fb99b88a09a0dd6d54.mp3</guid>
+   <pubDate>Mon, 23 Aug 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

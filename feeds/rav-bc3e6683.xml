@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב אחיה בן פזי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-bc3e6683.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב אחיה בן פזי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>הרב אחיה בן פזי: עולם הפוך ראיתי | נהפוך הוא</title>
+   <description>הרב אחיה בן פזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אחיה בן פזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f5/b7/41/42f44e4450af5ebd0eb9c7b6db.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f5/b7/41/42f44e4450af5ebd0eb9c7b6db.mp3</guid>
+   <pubDate>Mon, 06 Mar 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>התחדשות מתמדת - הרב אחיה בן פזי</title>
+   <description>הרב אחיה בן פזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אחיה בן פזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/01/1e/d0/9b0c5449a1a85d581fe562d8d5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/01/1e/d0/9b0c5449a1a85d581fe562d8d5.mp3</guid>
+   <pubDate>Thu, 22 Dec 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגיבור המסתורי - הרב אחיה בן פזי</title>
+   <description>הרב אחיה בן פזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אחיה בן פזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/48/45/24/7e2e004860bf43a05b336c3c2f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/48/45/24/7e2e004860bf43a05b336c3c2f.mp3</guid>
+   <pubDate>Mon, 14 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ניסים ונפלאות - מה ההבדל? הרב אחיה בן-פזי</title>
+   <description>הרב אחיה בן פזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אחיה בן פזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/03/bd/c3e4da4abfae621a143a8ceca4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/03/bd/c3e4da4abfae621a143a8ceca4.mp3</guid>
+   <pubDate>Sun, 28 Nov 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אחיה בן פזי - קדש</title>
+   <description>הרב אחיה בן פזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אחיה בן פזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6c/67/7f/abc7cc420290e6152c5b450a4e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6c/67/7f/abc7cc420290e6152c5b450a4e.mp3</guid>
+   <pubDate>Mon, 15 Mar 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב אחיה בן פזי - אוהב את המישרים</title>
+   <description>הרב אחיה בן פזי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב אחיה בן פזי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c9/5b/c8/3690bc404ba239ab10eaa5236f.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c9/5b/c8/3690bc404ba239ab10eaa5236f.mp3</guid>
+   <pubDate>Thu, 26 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

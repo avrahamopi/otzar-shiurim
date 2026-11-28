@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב איתיאל גולד · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-44b816bc.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב איתיאל גולד.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>פרשת וזאת הברכה | האם משה ימשיך ללוות אותנו?</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/10/60/0a/38a38e45859d8b15cc8da0db66.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/10/60/0a/38a38e45859d8b15cc8da0db66.mp3</guid>
+   <pubDate>Mon, 05 Oct 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1200</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת האזינו | הקשר הראשוני</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5c/e2/60/bd2f8d42cd8119ef7f66fc0349.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5c/e2/60/bd2f8d42cd8119ef7f66fc0349.mp3</guid>
+   <pubDate>Wed, 23 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ניצבים וילך | כגודל הנפילה כך גודל העליה</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f0/d9/bb/7f23d54b2e9230cab088e33aa8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f0/d9/bb/7f23d54b2e9230cab088e33aa8.mp3</guid>
+   <pubDate>Wed, 09 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תבוא | דינאמיות בתוך היציבות</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/98/86/92/ef36b046ca970934e1b5296034.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/98/86/92/ef36b046ca970934e1b5296034.mp3</guid>
+   <pubDate>Wed, 02 Sep 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1860</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תצא | המצוות ממבט בוגר</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5d/3d/ae/cd17a44e0b8f40839c85549be9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5d/3d/ae/cd17a44e0b8f40839c85549be9.mp3</guid>
+   <pubDate>Wed, 26 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1500</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שפטים | עצמאות מאוזנת</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b9/bb/f9/d747fd4824adf1ac82669948a0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b9/bb/f9/d747fd4824adf1ac82669948a0.mp3</guid>
+   <pubDate>Wed, 19 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ראה | התרחקות בוגרת</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/2e/57/83/6eb2b64e098fe023443a279120.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/2e/57/83/6eb2b64e098fe023443a279120.mp3</guid>
+   <pubDate>Wed, 12 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת עקב | לספר מחדש</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/96/ea/48/17a67443f9a800151341e664c6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/96/ea/48/17a67443f9a800151341e664c6.mp3</guid>
+   <pubDate>Thu, 06 Aug 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ואתחנן | כיצד מחיים את ההיסטוריה</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/14/7b/35/9354b948f3a73c700266bb6845.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/14/7b/35/9354b948f3a73c700266bb6845.mp3</guid>
+   <pubDate>Thu, 30 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת דברים | משה: מ"לא איש דברים" לנואם ספר דברים</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/80/13/d8/5090684773817d8073d7397035.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/80/13/d8/5090684773817d8073d7397035.mp3</guid>
+   <pubDate>Wed, 22 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מטות מסעי | התמודדות תרבותית</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/52/fb/9e/6ab3f942279f5e843a001ce291.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/52/fb/9e/6ab3f942279f5e843a001ce291.mp3</guid>
+   <pubDate>Wed, 15 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת פנחס | מעבר בין דורות</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/02/63/1b/ff772c4e538bf1040b23c73a3a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/02/63/1b/ff772c4e538bf1040b23c73a3a.mp3</guid>
+   <pubDate>Thu, 09 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1440</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בלק | לוחמה רוחנית</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b7/6f/d5/87a34346ea80bf78f7f32e83c5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b7/6f/d5/87a34346ea80bf78f7f32e83c5.mp3</guid>
+   <pubDate>Wed, 01 Jul 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חקת | מנהיג או אומנת?</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c1/b0/7e/ef0a3044589969b6ad8f016a0e.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c1/b0/7e/ef0a3044589969b6ad8f016a0e.mp3</guid>
+   <pubDate>Thu, 25 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת קרח | בין התנשאות לנשיאה</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ea/07/78/8e8e4147cdbdac2c04cd387753.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ea/07/78/8e8e4147cdbdac2c04cd387753.mp3</guid>
+   <pubDate>Thu, 18 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1320</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שלח לך | הפחד מהעתיד</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/7b/29/8b/529db84e4094e007264b20e263.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/7b/29/8b/529db84e4094e007264b20e263.mp3</guid>
+   <pubDate>Thu, 11 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בהעלותך | המשיכה לאחור</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ed/f1/dc/22ba0245d88d609c3701320efb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ed/f1/dc/22ba0245d88d609c3701320efb.mp3</guid>
+   <pubDate>Thu, 04 Jun 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נשא | הדרך האישית</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/99/e3/96/805e524eaa88ae94828bdfe002.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/99/e3/96/805e524eaa88ae94828bdfe002.mp3</guid>
+   <pubDate>Thu, 28 May 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1620</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת במדבר | מבט אל המהות האישית</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ef/b8/a4/2908184f53a123336aa0682ffd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ef/b8/a4/2908184f53a123336aa0682ffd.mp3</guid>
+   <pubDate>Thu, 21 May 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשות בהר בחוקותי | בתנועה מתמדת</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b6/bd/94/05a26947f584ddafd2d6e8fcf5.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b6/bd/94/05a26947f584ddafd2d6e8fcf5.mp3</guid>
+   <pubDate>Thu, 14 May 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת אמור | מעגלים מתחברים</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f0/8a/15/85b7d7452499f53cd314d4bda9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f0/8a/15/85b7d7452499f53cd314d4bda9.mp3</guid>
+   <pubDate>Thu, 07 May 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשות אחרי מות קדושים | המפגש המעורפל</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/69/12/da/474af04d6695d22a726b710927.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/69/12/da/474af04d6695d22a726b710927.mp3</guid>
+   <pubDate>Thu, 30 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1560</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשות תזריע מצורע | בין חיים למוות</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/50/26/ad/936d6348958003b337964f3f14.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/50/26/ad/936d6348958003b337964f3f14.mp3</guid>
+   <pubDate>Thu, 23 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמיני | כשהדברים לא עובדים כמתוכנן</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/5f/1a/a4e8394a4bb55915033160860c.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/5f/1a/a4e8394a4bb55915033160860c.mp3</guid>
+   <pubDate>Thu, 16 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת צו | רצון אישי או מסגרת מחייבת</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/ff/43/62/02bfe34c3e868dc7593946d64a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/ff/43/62/02bfe34c3e868dc7593946d64a.mp3</guid>
+   <pubDate>Thu, 02 Apr 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1680</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקרא | קרבן כהתקרבות</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4d/b8/b0/f765f9408791729ec9ca54fe05.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4d/b8/b0/f765f9408791729ec9ca54fe05.mp3</guid>
+   <pubDate>Thu, 26 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויקהל פקודי | משכן התיקון והתשובה</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/8b/07/4e/fcf8194278ba06c97343b91e57.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/8b/07/4e/fcf8194278ba06c97343b91e57.mp3</guid>
+   <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת כי תשא | הפסיכולוגיה של חטא העגל</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/dc/87/c2/c6a5af434baeb0a40c81121fac.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/dc/87/c2/c6a5af434baeb0a40c81121fac.mp3</guid>
+   <pubDate>Thu, 12 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תצווה | דממה מול עשייה</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/40/18/55/20b69f442189a3a77d766cde41.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/40/18/55/20b69f442189a3a77d766cde41.mp3</guid>
+   <pubDate>Thu, 05 Mar 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1920</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תרומה | פנים אל מול פנים</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b1/ae/8e/d27cd14fcc8bdfd2ce515bb43b.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b1/ae/8e/d27cd14fcc8bdfd2ce515bb43b.mp3</guid>
+   <pubDate>Thu, 27 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת משפטים | מחרדה לברית</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/c8/92/49/2774bc4858aaae19019abfc342.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/c8/92/49/2774bc4858aaae19019abfc342.mp3</guid>
+   <pubDate>Thu, 20 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת יתרו | מי אתה משה רבנו?</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/f9/09/29/1798e649108148db422c0dbc72.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/f9/09/29/1798e649108148db422c0dbc72.mp3</guid>
+   <pubDate>Thu, 13 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בשלח | תהליך ההתבגרות של עם ישראל</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/0d/31/ce/cb934341a293eab96a9ac0a486.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/0d/31/ce/cb934341a293eab96a9ac0a486.mp3</guid>
+   <pubDate>Thu, 06 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בא | יציאה או גירוש ממצרים?</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/66/0c/8c/a0717049c8ae521c6e43f3392d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/66/0c/8c/a0717049c8ae521c6e43f3392d.mp3</guid>
+   <pubDate>Thu, 30 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וארא | מקומם של עם ישראל ביציאת מצרים</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/3e/68/0e/aa338f47e0a061fb5f575f8478.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/3e/68/0e/aa338f47e0a061fb5f575f8478.mp3</guid>
+   <pubDate>Thu, 23 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת שמות | משיעבוד לעצירה</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fc/17/a1/9f0a2b4797aeb1041e1f9325c0.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fc/17/a1/9f0a2b4797aeb1041e1f9325c0.mp3</guid>
+   <pubDate>Thu, 16 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויחי | כיצד נשארה המשפחה שלמה?</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/70/18/26/9721ff456eb4ae9470ba281349.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/70/18/26/9721ff456eb4ae9470ba281349.mp3</guid>
+   <pubDate>Thu, 09 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויגש | חיבורי עבר ועתיד בזהות ישראל</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/13/ba/d9/9fc8c4476890b379dc045399d6.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/13/ba/d9/9fc8c4476890b379dc045399d6.mp3</guid>
+   <pubDate>Thu, 02 Jan 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת מקץ | אשמה ותיקון</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/9a/b9/9f/600167430aae4748d95f55fb08.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/9a/b9/9f/600167430aae4748d95f55fb08.mp3</guid>
+   <pubDate>Thu, 26 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2040</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישב | נפילתו של יוסף</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/98/36/2f/5001b34f8e95e0441795a5cf62.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/98/36/2f/5001b34f8e95e0441795a5cf62.mp3</guid>
+   <pubDate>Thu, 19 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וישלח | יעקב ועשו - בין מאבק לחיבוק</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/6e/f2/f7/45f213447f99e49adc8410bfd9.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/6e/f2/f7/45f213447f99e49adc8410bfd9.mp3</guid>
+   <pubDate>Thu, 12 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2100</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת ויצא | התבגרותו של יעקב</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/fc/a2/9e/bd70974b59855268546a4acea8.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/fc/a2/9e/bd70974b59855268546a4acea8.mp3</guid>
+   <pubDate>Thu, 05 Dec 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2340</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת תולדות | מחירן של בעיות תקשורת</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/4f/d3/54/a7ede54e06b8fa96f102e40e52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/4f/d3/54/a7ede54e06b8fa96f102e40e52.mp3</guid>
+   <pubDate>Thu, 28 Nov 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת חיי שרה | שרה מול אברהם – מפגש בין ניגודים</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/79/0f/38/ff80ea43edb4168840b3ea7b52.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/79/0f/38/ff80ea43edb4168840b3ea7b52.mp3</guid>
+   <pubDate>Thu, 21 Nov 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2280</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת וירא | כוחות הנפש השונים בסיפור העקדה</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/5e/34/52/bd1d264dff941b369b5ec03df4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/5e/34/52/bd1d264dff941b369b5ec03df4.mp3</guid>
+   <pubDate>Thu, 14 Nov 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>2220</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת לך לך | שחרור ועוצמה בחיי אברהם</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/46/c8/1e/b5bf964ce49db5879e23f0d041.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/46/c8/1e/b5bf964ce49db5879e23f0d041.mp3</guid>
+   <pubDate>Thu, 07 Nov 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1980</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת נח | נחת רוח אל מול הרוע</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/1a/86/72/1bccd74946b1ac88679367dac7.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/1a/86/72/1bccd74946b1ac88679367dac7.mp3</guid>
+   <pubDate>Thu, 31 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1800</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פרשת בראשית | קנאה, שנאה ורצח</title>
+   <description>הרב איתיאל גולד · ישיבת הר עציון · פרשת השבוע</description>
+   <itunes:author>הרב איתיאל גולד</itunes:author>
+   <enclosure url="https://s3.castbox.fm/b0/01/ae/f8ad024c2c89c749ab4913d215.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/b0/01/ae/f8ad024c2c89c749ab4913d215.mp3</guid>
+   <pubDate>Thu, 24 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:duration>1740</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

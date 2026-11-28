@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יוסף צבי · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-39312192.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יוסף צבי.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>שופר ולולב בשבת וערבות הדדית | הרב יוסף צבי רימון | ימים נוראים תשפ"ז</title>
+   <description>הרב יוסף צבי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://anchor.fm/s/10f7a9774/podcast/play/125266886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2F431269101-44100-2-a791a20d5a7c4.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10f7a9774/podcast/play/125266886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2F431269101-44100-2-a791a20d5a7c4.mp3</guid>
+   <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>420</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שאלות ותשובות משדה הקרב | הרב יוסף צבי רימון</title>
+   <description>הרב יוסף צבי · ישיבת כרם ביבנה · אמונה ומחשבה</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://media.transistor.fm/2838d380/a1dc88eb.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/2838d380/a1dc88eb.mp3</guid>
+   <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+   <itunes:duration>4260</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>שיחת 'קדושת אביב' | קדושת שמיטה ויובל | הרב יוסף צבי רימון</title>
+   <description>הרב יוסף צבי · ישיבת הר עציון · אמונה ומחשבה</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://anchor.fm/s/10117a064/podcast/play/103006652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400747798-44100-2-2462af63077bd.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://anchor.fm/s/10117a064/podcast/play/103006652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400747798-44100-2-2462af63077bd.mp3</guid>
+   <pubDate>Wed, 21 May 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב פסח שחל בשבת | הרב יוסף צבי רימון</title>
+   <description>הרב יוסף צבי · ישיבת ברכת משה מעלה אדומים · מועדים</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://audio2.redcircle.com/episodes/f27c3072-902c-4724-8705-087908de12c3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio2.redcircle.com/episodes/f27c3072-902c-4724-8705-087908de12c3/stream.mp3</guid>
+   <pubDate>Sun, 06 Apr 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>ערב פסח שחל בשבת | הרב יוסף צבי רימון | פסח תשפ"ה</title>
+   <description>הרב יוסף צבי · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://media.transistor.fm/f6380e44/d87bdb25.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f6380e44/d87bdb25.mp3</guid>
+   <pubDate>Mon, 24 Mar 2025 12:00:00 +0000</pubDate>
+   <itunes:duration>4380</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יוסף צבי רימון - קניין תורה כבניין האדם</title>
+   <description>הרב יוסף צבי · ישיבת ירוחם · אמונה ומחשבה</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://s3.castbox.fm/14/ab/b4/90c53f457b847810121421b759.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://s3.castbox.fm/14/ab/b4/90c53f457b847810121421b759.mp3</guid>
+   <pubDate>Tue, 24 Nov 2020 12:00:00 +0000</pubDate>
+   <itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יוסף צבי רימון – גדרי מצוות הצדקה, וברכת הצלחה לקמפיין ההתרמה</title>
+   <description>הרב יוסף צבי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=6lFrTGU5guM</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/6lFrTGU5guM.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/6lFrTGU5guM.mp3</guid>
+   <pubDate>Wed, 26 Feb 2020 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב יוסף צבי רימון – איך בודקים ארבעת המינים? // Rabbi Yosef Tzvi Rimon</title>
+   <description>הרב יוסף צבי · ישיבת שדרות – אפיקי דעת · אמונה ומחשבה
+וידאו: https://www.youtube.com/watch?v=WsUbUR5MW-Q</description>
+   <itunes:author>הרב יוסף צבי</itunes:author>
+   <enclosure url="https://sderot.org/wp-content/uploads/2026/08/WsUbUR5MW-Q.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://sderot.org/wp-content/uploads/2026/08/WsUbUR5MW-Q.mp3</guid>
+   <pubDate>Mon, 07 Oct 2019 12:00:00 +0000</pubDate>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

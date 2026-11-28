@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב צבי שמשוני · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-37c9b6a9.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב צבי שמשוני.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>ארבע דרגות של גאולה | תשפ"ד | הרב צבי שמשוני - 3</title>
+   <description>הרב צבי שמשוני · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי שמשוני</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/31a4a902-d6dc-4983-9679-022d443035f3/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/31a4a902-d6dc-4983-9679-022d443035f3/stream.mp3</guid>
+   <pubDate>Mon, 15 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>כדי שתמליכוני עליכם | אורי וישעי תשפ"ב | הרב צבי שמשוני</title>
+   <description>הרב צבי שמשוני · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי שמשוני</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/632c1b7d-f9a0-4665-9cbb-392df336da89/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/632c1b7d-f9a0-4665-9cbb-392df336da89/stream.mp3</guid>
+   <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>2160</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>פניני יד פשוטה | ספר אהבה - הלכות קריאת שמע | הרב צבי שמשוני</title>
+   <description>הרב צבי שמשוני · ישיבת ברכת משה מעלה אדומים · הלכה</description>
+   <itunes:author>הרב צבי שמשוני</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/1b3bb0e5-84eb-4f42-b416-4d08e26d7bb8/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/1b3bb0e5-84eb-4f42-b416-4d08e26d7bb8/stream.mp3</guid>
+   <pubDate>Thu, 12 May 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>1140</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>והגדת לבנך - תשע"ח | משמעותם של החמץ והמצה - הרב צבי שמשוני</title>
+   <description>הרב צבי שמשוני · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי שמשוני</itunes:author>
+   <enclosure url="https://audio3.redcircle.com/episodes/9e6a0d62-f1a2-474d-a1cb-258384602f64/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio3.redcircle.com/episodes/9e6a0d62-f1a2-474d-a1cb-258384602f64/stream.mp3</guid>
+   <pubDate>Wed, 30 Mar 2022 12:00:00 +0000</pubDate>
+   <itunes:duration>360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הרב צבי שמשוני - הקדושה</title>
+   <description>הרב צבי שמשוני · ישיבת ברכת משה מעלה אדומים · אמונה ומחשבה</description>
+   <itunes:author>הרב צבי שמשוני</itunes:author>
+   <enclosure url="https://audio4.redcircle.com/episodes/270da75f-3aee-4d12-8c30-78078f603658/stream.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://audio4.redcircle.com/episodes/270da75f-3aee-4d12-8c30-78078f603658/stream.mp3</guid>
+   <pubDate>Thu, 02 Sep 2021 12:00:00 +0000</pubDate>
+   <itunes:duration>780</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>

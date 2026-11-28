@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>הרב יאיר הילר · אוצר שיעורי הישיבות</title>
+  <link>https://avrahamopi.github.io/otzar-shiurim/</link>
+  <atom:link href="https://avrahamopi.github.io/otzar-shiurim/feeds/rav-918eea61.xml" rel="self" type="application/rss+xml"/>
+  <language>he</language>
+  <description>שיעורי הרב יאיר הילר.</description>
+  <itunes:author>אוצר שיעורי הישיבות</itunes:author>
+  <itunes:owner><itunes:name>YOUR NAME</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+  <itunes:image href="https://avrahamopi.github.io/otzar-shiurim/feeds/cover.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>אגרת תקנה חלק ב | הרב יאיר הילר</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/dc67dfe9/afcf06a1.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/dc67dfe9/afcf06a1.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3300</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>לידתו של עם ישראל | הרב יאיר הילר</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/d460a51b/1506820d.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/d460a51b/1506820d.mp3</guid>
+   <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>3360</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>נקודות ומסרים מחג פורים | הרב יאיר הילר | צידה לדרך לכל השנה</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/658b3c42/c6163377.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/658b3c42/c6163377.mp3</guid>
+   <pubDate>Sun, 31 Mar 2024 12:00:00 +0000</pubDate>
+   <itunes:duration>2520</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הקשר היהודי לחבל עזה | הרב יאיר הילר</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/ec298175/1a41d26a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/ec298175/1a41d26a.mp3</guid>
+   <pubDate>Tue, 21 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3480</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>על מעלתה של רבקה אמנו | הרב יאיר הילר</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f420e8b2/8bab6eab.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f420e8b2/8bab6eab.mp3</guid>
+   <pubDate>Tue, 14 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3240</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>היהלום שבאדם |הרב יאיר הילר | איגרות תקנה</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/487124ec/4c398d27.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/487124ec/4c398d27.mp3</guid>
+   <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>2700</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>הגדרת הציונות | הרב יאיר הילר | איגרת תקנה</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/9c37bbff/53853019.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/9c37bbff/53853019.mp3</guid>
+   <pubDate>Thu, 09 Nov 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>מה אנחנו יכולים לעשות בזמן מלחמה בעורף | הרב יאיר הילר</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · אמונה ומחשבה</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/f5b173a8/ac16954a.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/f5b173a8/ac16954a.mp3</guid>
+   <pubDate>Thu, 26 Oct 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3120</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>עניין התשובה והשופר בחודש אלול | הרב יאיר הילר</title>
+   <description>הרב יאיר הילר · ישיבת נצר מטעי · מועדים</description>
+   <itunes:author>הרב יאיר הילר</itunes:author>
+   <enclosure url="https://media.transistor.fm/6af9101e/863bbd92.mp3" length="0" type="audio/mpeg"/>
+   <guid isPermaLink="false">https://media.transistor.fm/6af9101e/863bbd92.mp3</guid>
+   <pubDate>Wed, 13 Sep 2023 12:00:00 +0000</pubDate>
+   <itunes:duration>3540</itunes:duration><itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>
